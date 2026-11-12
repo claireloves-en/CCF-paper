@@ -1,0 +1,2 @@
+model,aucpr_untuned,aucpr_tuned,gain,auc_tuned,kept,chosen_params
+CatBoost,0.938983137286248,0.9448046173370722,0.005821480050824168,0.9982564090251856,tuned,"{""iterations"": 1000, ""depth"": 8, ""learning_rate"": 0.02376362784255082, ""l2_leaf_reg"": 1.0, ""bagging_temperature"": 0.8132572916585687}"

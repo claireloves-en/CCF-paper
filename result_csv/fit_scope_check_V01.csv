@@ -1,0 +1,6 @@
+step,units_changed,units_total,rows_changed_after_training,note
+loc_cluster_issue: grid bounds from training split instead of all rows,5614,1296675,2095,"bounds all {'lat0': 19.027785, 'lat1': 67.510267, 'lon0': -166.671242, 'lon1': -66.950902} vs train {'lat0': 19.027785, 'lat1': 67.510267, 'lon0': -166.671242, 'lon1': -66.95654}"
+loc_cluster_transac: grid bounds from training split instead of all rows,1749,1296675,630,"bounds all {'lat0': 19.027785, 'lat1': 67.510267, 'lon0': -166.671242, 'lon1': -66.950902} vs train {'lat0': 19.027785, 'lat1': 67.510267, 'lon0': -166.671242, 'lon1': -66.95654}"
+job_1: income quartiles over the training split's job titles instead of all titles,0,494,0,490 of 494 titles occur in training; 0 transactions in all carry a changed title
+city_ordinal: levels first seen after the training split,22,928,211,211 of those rows are fraudulent
+job_ordinal: levels first seen after the training split,4,494,41,41 of those rows are fraudulent

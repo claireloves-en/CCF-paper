@@ -1,0 +1,929 @@
+State,City,County
+AK,Wales,Nome Census Area
+AK,Kaktovik,North Slope Borough
+AK,Huslia,Yukon-Koyukuk Census Area
+AL,Jones,Autauga
+AL,Bay Minette,Baldwin
+AL,Fairhope,Baldwin
+AL,Cleveland,Blount
+AL,Brantley,Crenshaw
+AL,Plantersville,Dallas
+AL,Sardis,Dallas
+AL,Gadsden,Etowah
+AL,Eldridge,Fayette
+AL,Phil Campbell,Franklin
+AL,Hartford,Geneva
+AL,Paint Rock,Jackson
+AL,Woodville,Jackson
+AL,Bessemer,Jefferson
+AL,Birmingham,Jefferson
+AL,Mount Hope,Lawrence
+AL,Phenix City,Lee
+AL,Huntsville,Madison
+AL,Grant,Marshall
+AL,Grand Bay,Mobile
+AL,Mobile,Mobile
+AL,Montgomery,Montgomery
+AL,Ragland,St. Clair
+AL,Dadeville,Tallapoosa
+AR,De Witt,Arkansas
+AR,Pea Ridge,Benton
+AR,Enola,Faulkner
+AR,Cherokee Village,Fulton
+AR,Viola,Fulton
+AR,Cord,Independence
+AR,Thida,Independence
+AR,Walnut Ridge,Lawrence
+AR,Haynes,Lee
+AR,Texarkana,Miller
+AR,Norman,Montgomery
+AR,Lepanto,Poinsett
+AR,Roland,Pulaski
+AR,Bauxite,Saline
+AR,De Queen,Sevier
+AR,Ash Flat,Sharp
+AR,Smackover,Union
+AR,Winslow,Washington
+AR,Gregory,Woodruff
+AZ,Parks,Coconino
+AZ,Mesa,Maricopa
+AZ,Paradise Valley,Maricopa
+AZ,Phoenix,Maricopa
+AZ,Superior,Pinal
+AZ,Humboldt,Yavapai
+CA,Oakland,Alameda
+CA,Fiddletown,Amador
+CA,Port Costa,Contra Costa
+CA,Smith River,Del Norte
+CA,Helm,Fresno
+CA,Carlotta,Humboldt
+CA,Fields Landing,Humboldt
+CA,Lakeport,Lake
+CA,Wendel,Lassen
+CA,Azusa,Los Angeles
+CA,Claremont,Los Angeles
+CA,Downey,Los Angeles
+CA,Glendale,Los Angeles
+CA,Hawthorne,Los Angeles
+CA,Los Angeles,Los Angeles
+CA,Newhall,Los Angeles
+CA,Norwalk,Los Angeles
+CA,Palmdale,Los Angeles
+CA,Santa Monica,Los Angeles
+CA,Tomales,Marin
+CA,June Lake,Mono
+CA,Angwin,Napa
+CA,Napa,Napa
+CA,Huntington Beach,Orange
+CA,Laguna Hills,Orange
+CA,Blairsden-Graeagle,Plumas
+CA,Vinton,Plumas
+CA,Corona,Riverside
+CA,Indian Wells,Riverside
+CA,Mountain Center,Riverside
+CA,Sun City,Riverside
+CA,Sacramento,Sacramento
+CA,Parker Dam,San Bernardino
+CA,San Diego,San Diego
+CA,Daly City,San Mateo
+CA,Buellton,Santa Barbara
+CA,San Jose,Santa Clara
+CA,Greenview,Siskiyou
+CA,Grenada,Siskiyou
+CA,Vacaville,Solano
+CO,Aurora,Adams
+CO,Littleton,Arapahoe
+CO,Broomfield,Broomfield
+CO,Dumont,Clear Creek
+CO,Parker,Douglas
+CO,Red Cliff,Eagle
+CO,Colorado Springs,El Paso
+CO,Arvada,Jefferson
+CO,Iliff,Logan
+CO,Meredith,Pitkin
+CO,Pueblo,Pueblo
+CO,Kirk,Yuma
+CT,Marion,Hartford
+CT,East Canaan,Litchfield
+CT,Plymouth,Litchfield
+CT,Higganum,Middlesex
+CT,Preston,New London
+DC,Washington,District of Columbia
+DE,Georgetown,Sussex
+FL,Hampton,Bradford
+FL,Melbourne,Brevard
+FL,Titusville,Brevard
+FL,Port Charlotte,Charlotte
+FL,Orange Park,Clay
+FL,Naples,Collier
+FL,Lanark Village,Franklin
+FL,Wauchula,Hardee
+FL,Sebring,Highlands
+FL,Brandon,Hillsborough
+FL,Tampa,Hillsborough
+FL,Vero Beach,Indian River
+FL,Grand Ridge,Jackson
+FL,Umatilla,Lake
+FL,Bonita Springs,Lee
+FL,Cape Coral,Lee
+FL,Fort Myers,Lee
+FL,Saint James City,Lee
+FL,Key West,Monroe
+FL,Loxahatchee,Palm Beach
+FL,West Palm Beach,Palm Beach
+FL,Port Richey,Pasco
+FL,Clearwater,Pinellas
+FL,Saint Petersburg,Pinellas
+FL,Haines City,Polk
+FL,Lakeland,Polk
+FL,Jay,Santa Rosa
+FL,Port Saint Lucie,St. Lucie
+FL,Deltona,Volusia
+GA,Surrency,Appling
+GA,Girard,Burke
+GA,Kings Bay,Camden
+GA,Du Pont,Clinch
+GA,West Green,Coffee
+GA,Norman Park,Colquitt
+GA,Brinson,Decatur
+GA,Vienna,Dooly
+GA,Springfield,Effingham
+GA,Alpharetta,Fulton
+GA,Sea Island,Glynn
+GA,Whigham,Grady
+GA,Avera,Jefferson
+GA,Milner,Lamar
+GA,Hahira,Lowndes
+GA,Valdosta,Lowndes
+GA,Darien,McIntosh
+GA,Juliette,Monroe
+GA,Cuthbert,Randolph
+GA,Varnell,Whitfield
+GA,Allentown,Wilkinson
+GA,Irwinton,Wilkinson
+HI,Honokaa,Hawaii
+HI,Paauilo,Hawaii
+IA,Moulton,Appanoose
+IA,Lohrville,Calhoun
+IA,Rockwell,Cerro Gordo
+IA,Oran,Fayette
+IA,Webster City,Hamilton
+IA,Battle Creek,Ida
+IA,Hedrick,Keokuk
+IA,Ollie,Keokuk
+IA,Whittemore,Kossuth
+IA,Moscow,Muscatine
+IA,Clarinda,Page
+IA,Curlew,Palo Alto
+IA,Des Moines,Polk
+IA,Elkhart,Polk
+IA,Avoca,Pottawattamie
+IA,Early,Sac
+IA,Princeton,Scott
+IA,Alton,Sioux
+IA,Clutier,Tama
+IA,Birmingham,Van Buren
+IA,Belmond,Wright
+ID,Meridian,Ada
+ID,Mesa,Adams
+ID,Spirit Lake,Kootenai
+ID,Malad City,Oneida
+IL,Payson,Adams
+IL,Mulberry Grove,Bond
+IL,New Memphis,Clinton
+IL,Schaumburg,Cook
+IL,Wilmette,Cook
+IL,Dieterich,Effingham
+IL,Logan,Franklin
+IL,West Frankfort,Franklin
+IL,Smithfield,Fulton
+IL,Lomax,Henderson
+IL,Goreville,Johnson
+IL,Bonfield,Kankakee
+IL,Pembroke Township,Kankakee
+IL,Streator,LaSalle
+IL,Eagarville,Macoupin
+IL,Moro,Madison
+IL,Ringwood,McHenry
+IL,Oakford,Menard
+IL,New Boston,Mercer
+IL,Nokomis,Montgomery
+IL,Murrayville,Morgan
+IL,Tamaroa,Perry
+IL,Cisco,Piatt
+IL,Olmsted,Pulaski
+IL,Mc Nabb,Putnam
+IL,Putnam,Putnam
+IL,Galatia,Saline
+IL,Loami,Sangamon
+IL,Tower Hill,Shelby
+IL,Dongola,Union
+IL,Rossville,Vermilion
+IL,Joliet,Will
+IL,Eureka,Woodford
+IN,Leo,Allen
+IN,Moores Hill,Dearborn
+IN,Veedersburg,Fountain
+IN,Indianapolis,Hamilton
+IN,Noblesville,Hamilton
+IN,Central,Harrison
+IN,Andrews,Huntington
+IN,Greenwood,Johnson
+IN,Claypool,Kosciusko
+IN,Kingsford Heights,LaPorte
+IN,Highland,Lake
+IN,Oolitic,Lawrence
+IN,Williams,Lawrence
+IN,Harrodsburg,Monroe
+IN,Bristow,Perry
+IN,North Judson,Starke
+IN,Carlisle,Sullivan
+IN,Clinton,Vermillion
+IN,New Goshen,Vigo
+IN,Prairie Creek,Vigo
+IN,Liberty Mills,Wabash
+IN,Churubusco,Whitley
+KS,Dexter,Cowley
+KS,Dresden,Decatur
+KS,Grenola,Elk
+KS,Holcomb,Finney
+KS,Burrton,Harvey
+KS,Ozawkie,Jefferson
+KS,Esbon,Jewell
+KS,De Soto,Johnson
+KS,Easton,Leavenworth
+KS,Utica,Ness
+KS,Garfield,Pawnee
+KS,Mc Cracken,Rush
+KS,Wichita,Sedgwick
+KS,Topeka,Shawnee
+KS,Hudson,Stafford
+KY,Ashland,Boyd
+KY,Stephensport,Breckinridge
+KY,Rochester,Butler
+KY,Hazel,Calloway
+KY,Big Creek,Clay
+KY,Dubre,Cumberland
+KY,Irvine,Estill
+KY,Elizabethtown,Hardin
+KY,Cranks,Harlan
+KY,Louisville,Jefferson
+KY,River,Johnson
+KY,Mallie,Knott
+KY,Cromona,Letcher
+KY,Deane,Letcher
+KY,Saint Francis,Marion
+KY,Maysville,Mason
+KY,Parkers Lake,McCreary
+KY,Pewee Valley,Oldham
+KY,Westport,Oldham
+KY,Cadiz,Trigg
+KY,Smiths Grove,Warren
+LA,Egan,Acadia Parish
+LA,Saint Amant,Ascension Parish
+LA,Baton Rouge,East Baton Rouge Parish
+LA,Gretna,Jefferson Parish
+LA,Kenner,Jefferson Parish
+LA,Metairie,Jefferson Parish
+LA,Denham Springs,Livingston Parish
+LA,West Monroe,Ouachita Parish
+LA,Fordoche,Pointe Coupee Parish
+LA,Delhi,Richland Parish
+LA,Madisonville,St. Tammany Parish
+LA,Tickfaw,Tangipahoa Parish
+LA,Spearsville,Union Parish
+MA,Barnstable,Barnstable
+MA,Sheffield,Berkshire
+MA,Lawrence,Essex
+MA,Methuen,Essex
+MA,Ashfield,Franklin
+MA,Stoneham,Middlesex
+MA,North Brookfield,Worcester
+MA,Paxton,Worcester
+MA,Shrewsbury,Worcester
+MD,Corriganville,Allegany
+MD,Annapolis,Anne Arundel
+MD,Harwood,Anne Arundel
+MD,Linthicum Heights,Anne Arundel
+MD,Kingsville,Baltimore
+MD,Pikesville,Baltimore
+MD,Manchester,Carroll
+MD,Cecilton,Cecil
+MD,Tuscarora,Frederick
+MD,Gaithersburg,Montgomery
+MD,Kensington,Montgomery
+MD,Chester,Queen Anne's
+MD,Queen Anne,Queen Anne's
+MD,Queenstown,Queen Anne's
+MD,Great Mills,St. Mary's
+MD,Scotland,St. Mary's
+MD,Hancock,Washington
+MD,Tyaskin,Wicomico
+MD,Whaleyville,Worcester
+ME,Auburn,Androscoggin
+ME,Freeport,Cumberland
+ME,Scarborough,Cumberland
+ME,Brooklin,Hancock
+ME,Winthrop,Kennebec
+ME,Nobleboro,Lincoln
+ME,East Andover,Oxford
+ME,West Bethel,Oxford
+ME,Newport,Penobscot
+ME,Bowdoin,Sagadahoc
+ME,Steuben,Washington
+ME,Kittery Point,York
+ME,Parsonsfield,York
+MI,Rumely,Alger
+MI,Wetmore,Alger
+MI,Elk Rapids,Antrim
+MI,Bay City,Bay
+MI,Elberta,Benzie
+MI,Baroda,Berrien
+MI,Afton,Cheboygan
+MI,Gaines,Genesee
+MI,Goodrich,Genesee
+MI,Munith,Jackson
+MI,Cedar,Leelanau
+MI,Pointe Aux Pins,Mackinac
+MI,Mount Clemens,Macomb
+MI,Warren,Macomb
+MI,Arcadia,Manistee
+MI,Republic,Marquette
+MI,Falmouth,Missaukee
+MI,Lakeview,Montcalm
+MI,Muskegon,Muskegon
+MI,Oxford,Oakland
+MI,Southfield,Oakland
+MI,Luzerne,Oscoda
+MI,Manistique,Schoolcraft
+MI,East China,St. Clair
+MI,Detroit,Wayne
+MI,Livonia,Wayne
+MI,Riverview,Wayne
+MI,Romulus,Wayne
+MN,Minneapolis,Anoka
+MN,Sauk Rapids,Benton
+MN,Comfrey,Brown
+MN,Watertown,Carver
+MN,Remer,Cass
+MN,Georgetown,Clay
+MN,Hawley,Clay
+MN,Hovland,Cook
+MN,Randolph,Dakota
+MN,Saint Paul,Dakota
+MN,Minnesota Lake,Faribault
+MN,Emmons,Freeborn
+MN,Isanti,Isanti
+MN,Stanchfield,Isanti
+MN,Halma,Kittson
+MN,Ranier,Koochiching
+MN,Bigelow,Nobles
+MN,Halstad,Norman
+MN,Winger,Polk
+MN,Lamberton,Redwood
+MN,Lonsdale,Rice
+MN,Hills,Rock
+MN,Orr,St. Louis
+MN,Collegeville,Stearns
+MN,Afton,Washington
+MO,Brashear,Adair
+MO,Wheaton,Barry
+MO,Williamsburg,Callaway
+MO,Pleasant Hill,Cass
+MO,Luray,Clark
+MO,Kansas City,Clay
+MO,Cardwell,Dunklin
+MO,Owensville,Gasconade
+MO,Blairstown,Henry
+MO,Mound City,Holt
+MO,Independence,Jackson
+MO,Arnold,Jefferson
+MO,Centerview,Johnson
+MO,Odessa,Lafayette
+MO,Browning,Linn
+MO,Meadville,Linn
+MO,Utica,Livingston
+MO,Rocky Mount,Morgan
+MO,Syracuse,Morgan
+MO,Matthews,New Madrid
+MO,Clarksville,Pike
+MO,Louisiana,Pike
+MO,Unionville,Putnam
+MO,Camden,Ray
+MO,Redford,Reynolds
+MO,Saint Louis,St Louis
+MO,Ballwin,St. Louis
+MO,Kissee Mills,Taney
+MO,Wappapello,Wayne
+MS,Duncan,Bolivar
+MS,Bruce,Calhoun
+MS,Meadville,Franklin
+MS,Pearlington,Hancock
+MS,Jackson,Hinds
+MS,Mayersville,Issaquena
+MS,Moss Point,Jackson
+MS,Heidelberg,Jasper
+MS,Paris,Lafayette
+MS,University,Lafayette
+MS,Sontag,Lawrence
+MS,Ridgeland,Madison
+MS,Sturgis,Oktibbeha
+MS,Florence,Rankin
+MS,Moorhead,Sunflower
+MS,Sunflower,Sunflower
+MS,Coffeeville,Yalobusha
+MT,Turner,Blaine
+MT,Bridger,Carbon
+MT,Belgrade,Gallatin
+MT,Boulder,Jefferson
+MT,Alder,Madison
+MT,Heart Butte,Pondera
+MT,Sula,Ravalli
+NC,Haw River,Alamance
+NC,Morven,Anson
+NC,Collettsville,Caldwell
+NC,Pelham,Caswell
+NC,Andrews,Cherokee
+NC,Grover,Cleveland
+NC,Bolton,Columbus
+NC,Fayetteville,Cumberland
+NC,Walkertown,Forsyth
+NC,Creedmoor,Granville
+NC,Gibsonville,Guilford
+NC,Summerfield,Guilford
+NC,Mooresville,Iredell
+NC,Crouse,Lincoln
+NC,Bailey,Nash
+NC,Wilmington,New Hanover
+NC,Grimesland,Pitt
+NC,Pembroke,Robeson
+NC,Moravian Falls,Wilkes
+NC,North Wilkesboro,Wilkes
+ND,Rhame,Bowman
+ND,Noonan,Divide
+ND,Reynolds,Grand Forks
+ND,Shields,Grant
+ND,Coleharbor,McLean
+ND,Wilton,McLean
+ND,Palermo,Mountrail
+ND,Michigan,Nelson
+ND,Christine,Richland
+NE,Holstein,Adams
+NE,Roseland,Adams
+NE,Ravenna,Buffalo
+NE,Brainard,Butler
+NE,Manley,Cass
+NE,Weeping Water,Cass
+NE,Valentine,Cherry
+NE,Howells,Colfax
+NE,Westerville,Custer
+NE,Hooper,Dodge
+NE,Omaha,Douglas
+NE,Campbell,Franklin
+NE,Sprague,Lancaster
+NE,Sutherland,Lincoln
+NE,Fullerton,Nance
+NE,Nelson,Nuckolls
+NE,Hubbell,Thayer
+NE,North Loup,Valley
+NE,Carroll,Wayne
+NH,Belmont,Belknap
+NH,Center Tuftonboro,Carroll
+NH,Conway,Carroll
+NH,Jaffrey,Cheshire
+NH,North Haverhill,Grafton
+NH,Newton,Rockingham
+NH,Acworth,Sullivan
+NH,Grantham,Sullivan
+NJ,Richland,Atlantic
+NJ,Fairview,Bergen
+NJ,Harrington Park,Bergen
+NJ,Greenwich,Cumberland
+NJ,Heislerville,Cumberland
+NJ,Bridgeport,Gloucester
+NJ,Iselin,Middlesex
+NJ,Allenhurst,Monmouth
+NJ,Matawan,Monmouth
+NJ,Monmouth Beach,Monmouth
+NJ,West Long Branch,Monmouth
+NJ,Boonton,Morris
+NJ,Stirling,Morris
+NJ,Ogdensburg,Sussex
+NJ,Elizabeth,Union
+NJ,Plainfield,Union
+NM,Albuquerque,Bernalillo
+NM,Kirtland Afb,Bernalillo
+NM,Loving,Eddy
+NM,Ruidoso,Lincoln
+NM,Crownpoint,McKinley
+NM,High Rolls Mountain Park,Otero
+NM,Espanola,Rio Arriba
+NM,Lamy,Santa Fe
+NM,Llano,Taos
+NM,Red River,Taos
+NM,Moriarty,Torrance
+NV,Las Vegas,Clark
+NV,North Las Vegas,Clark
+NV,Reno,Washoe
+NV,Washoe Valley,Washoe
+NV,Ruth,White Pine
+NY,Albany,Albany
+NY,Allentown,Allegany
+NY,Belfast,Allegany
+NY,Bronx,Bronx
+NY,Saint Bonaventure,Cattaraugus
+NY,Falconer,Chautauqua
+NY,Breesport,Chemung
+NY,Altona,Clinton
+NY,West Chazy,Clinton
+NY,Chatham,Columbia
+NY,Hudson,Columbia
+NY,De Lancey,Delaware
+NY,Downsville,Delaware
+NY,Margaretville,Delaware
+NY,Beacon,Dutchess
+NY,Tupper Lake,Franklin
+NY,Oak Hill,Greene
+NY,Jordanville,Herkimer
+NY,Brownville,Jefferson
+NY,Brooklyn,Kings
+NY,Lowville,Lewis
+NY,Mount Morris,Livingston
+NY,West Eaton,Madison
+NY,East Rochester,Monroe
+NY,West Henrietta,Monroe
+NY,Bellmore,Nassau
+NY,Melville,Nassau
+NY,New York City,New York
+NY,North Tonawanda,Niagara
+NY,Barneveld,Oneida
+NY,Camden,Oneida
+NY,Oriskany Falls,Oneida
+NY,Stittville,Oneida
+NY,Farmington,Ontario
+NY,Phelps,Ontario
+NY,Port Gibson,Ontario
+NY,Rock Tavern,Orange
+NY,Knowlesville,Orleans
+NY,Garrattsville,Otsego
+NY,South Richmond Hill,Queens
+NY,Springfield Gardens,Queens
+NY,Nanuet,Rockland
+NY,Orangeburg,Rockland
+NY,Pomona,Rockland
+NY,Howes Cave,Schoharie
+NY,Jefferson,Schoharie
+NY,Hannawa Falls,St. Lawrence
+NY,Greenport,Suffolk
+NY,Medford,Suffolk
+NY,Moriches,Suffolk
+NY,Northport,Suffolk
+NY,Oakdale,Suffolk
+NY,Orient,Suffolk
+NY,Shelter Island,Suffolk
+NY,West Sayville,Suffolk
+NY,Westhampton Beach,Suffolk
+NY,Newark Valley,Tioga
+NY,Big Indian,Ulster
+NY,Cottekill,Ulster
+NY,Port Ewen,Ulster
+NY,Palmyra,Wayne
+NY,Armonk,Westchester
+NY,Irvington,Westchester
+NY,Montrose,Westchester
+NY,Mount Vernon,Westchester
+NY,West Harrison,Westchester
+NY,Cowlesville,Wyoming
+OH,Beaverdam,Allen
+OH,Lima,Allen
+OH,Waynesfield,Auglaize
+OH,Holloway,Belmont
+OH,Rosewood,Champaign
+OH,Bethel,Clermont
+OH,Milford,Clermont
+OH,Greenville,Darke
+OH,Amanda,Fairfield
+OH,Lithopolis,Fairfield
+OH,Washington Court House,Fayette
+OH,Bowersville,Greene
+OH,Dayton,Greene
+OH,Byesville,Guernsey
+OH,Mount Saint Joseph,Hamilton
+OH,Arcadia,Hancock
+OH,Norwalk,Huron
+OH,Amsterdam,Jefferson
+OH,Ironton,Lawrence
+OH,Hinckley,Medina
+OH,Maria Stein,Mercer
+OH,Miamisburg,Montgomery
+OH,Fulton,Morrow
+OH,Norwich,Muskingum
+OH,Clay Center,Ottawa
+OH,Paulding,Paulding
+OH,Mount Perry,Perry
+OH,Thornville,Perry
+OH,Diamond,Portage
+OH,Randolph,Portage
+OH,Mansfield,Richland
+OH,Canton,Stark
+OH,Akron,Summit
+OH,Cuyahoga Falls,Summit
+OH,Warren,Trumbull
+OH,Creola,Vinton
+OH,Zaleski,Vinton
+OH,Kirby,Wyandot
+OK,Amorita,Alfalfa
+OK,Lane,Atoka
+OK,Achille,Bryan
+OK,Oklahoma City,Canadian
+OK,Tulsa,Creek
+OK,Thomas,Custer
+OK,Lahoma,Garfield
+OK,Mountain Park,Kiowa
+OK,Roosevelt,Kiowa
+OK,Tryon,Lincoln
+OK,Coyle,Logan
+OK,Edmond,Oklahoma
+OK,Mounds,Okmulgee
+OK,Burbank,Osage
+OK,Stillwater,Payne
+OK,Clayton,Pushmataha
+OK,Burns Flat,Washita
+OR,Lake Oswego,Clackamas
+OR,Portland,Clackamas
+OR,Powell Butte,Crook
+OR,Sixes,Curry
+OR,Gardiner,Douglas
+OR,Cascade Locks,Hood River
+OR,Eugene,Lane
+OR,Lowell,Lane
+OR,Westfir,Lane
+OR,Shedd,Linn
+OR,Jordan Valley,Malheur
+OR,Scotts Mills,Marion
+OR,Stayton,Marion
+OR,Kent,Sherman
+OR,Bay City,Tillamook
+OR,Athena,Umatilla
+OR,La Grande,Union
+OR,Newberg,Yamhill
+PA,Leetsdale,Allegheny
+PA,Pittsburgh,Allegheny
+PA,Spring Church,Armstrong
+PA,Beaver Falls,Beaver
+PA,Shippingport,Beaver
+PA,Bristol,Bucks
+PA,Dublin,Bucks
+PA,Fenelton,Butler
+PA,Harmony,Butler
+PA,Karns City,Butler
+PA,North Washington,Butler
+PA,Emporium,Cameron
+PA,Atglen,Chester
+PA,Clarion,Clarion
+PA,Grassflat,Clearfield
+PA,Morrisdale,Clearfield
+PA,West Decatur,Clearfield
+PA,Cochranton,Crawford
+PA,Chester Heights,Delaware
+PA,Philadelphia,Delaware
+PA,Harborcreek,Erie
+PA,North East,Erie
+PA,Keisterville,Fayette
+PA,Mc Clellandtown,Fayette
+PA,Smock,Fayette
+PA,Uledi,Fayette
+PA,Vanderbilt,Fayette
+PA,Marienville,Forest
+PA,Mill Creek,Huntingdon
+PA,Armagh,Indiana
+PA,Clune,Indiana
+PA,Corsica,Jefferson
+PA,Mifflin,Juniata
+PA,Jermyn,Lackawanna
+PA,Lawn,Lebanon
+PA,Schaefferstown,Lebanon
+PA,Allentown,Lehigh
+PA,Rock Glen,Luzerne
+PA,Clarks Mills,Mercer
+PA,Mc Veytown,Mifflin
+PA,Skytop,Monroe
+PA,Oaks,Montgomery
+PA,Montandon,Northumberland
+PA,Cressona,Schuylkill
+PA,Rockwood,Somerset
+PA,Utica,Venango
+PA,Irvine,Warren
+PA,Cokeburg,Washington
+PA,Dunlevy,Washington
+PA,West Finley,Washington
+PA,Bolivar,Westmoreland
+PA,Manor,Westmoreland
+PA,Nicholson,Wyoming
+PA,Glen Rock,York
+RI,Providence,Providence
+SC,Monetta,Aiken
+SC,New Ellenton,Aiken
+SC,North Augusta,Aiken
+SC,Ridge Spring,Aiken
+SC,Ehrhardt,Bamberg
+SC,Blackville,Barnwell
+SC,Cross,Berkeley
+SC,Edisto Island,Charleston
+SC,Johns Island,Charleston
+SC,Winnsboro,Fairfield
+SC,Marietta,Greenville
+SC,Bradley,Greenwood
+SC,Brunson,Hampton
+SC,Scotia,Hampton
+SC,Cassatt,Kershaw
+SC,Columbia,Lexington
+SC,West Columbia,Lexington
+SC,Prosperity,Newberry
+SC,Hopkins,Richland
+SC,Arcadia,Spartanburg
+SC,Clifton,Spartanburg
+SD,Barnard,Brown
+SD,Ferney,Brown
+SD,Belle Fourche,Butte
+SD,Mc Intosh,Corson
+SD,Fulton,Hanson
+SD,Deadwood,Lawrence
+SD,Spencer,McCook
+SD,Manderson,Oglala Lakota
+SD,Hurley,Turner
+TN,Heiskell,Anderson
+TN,Old Hickory,Davidson
+TN,Slayden,Dickson
+TN,Oakland,Fayette
+TN,Apison,Hamilton
+TN,Chattanooga,Hamilton
+TN,Grand Junction,Hardeman
+TN,Mountain City,Johnson
+TN,Knoxville,Knox
+TN,Powell,Knox
+TN,Tiptonville,Lake
+TN,Bethel Springs,McNairy
+TN,Clarksville,Montgomery
+TN,Wartburg,Morgan
+TN,Benton,Polk
+TN,Murfreesboro,Rutherford
+TN,Kingsport,Sullivan
+TX,Zavalla,Angelina
+TX,Holliday,Archer
+TX,San Antonio,Bexar
+TX,Meridian,Bosque
+TX,Lake Jackson,Brazoria
+TX,Marathon,Brewster
+TX,May,Brown
+TX,Lockhart,Caldwell
+TX,Cross Plains,Callahan
+TX,Nazareth,Castro
+TX,Summerfield,Castro
+TX,Coleman,Coleman
+TX,Dallas,Collin
+TX,Altair,Colorado
+TX,Gainesville,Cooke
+TX,Purmela,Coryell
+TX,El Paso,Crockett
+TX,Lorenzo,Crosby
+TX,Sachse,Dallas
+TX,Hedley,Donley
+TX,Desdemona,Eastland
+TX,Notrees,Ector
+TX,Leonard,Fannin
+TX,Trenton,Fannin
+TX,Beasley,Fort Bend
+TX,Houston,Fort Bend
+TX,Harper,Gillespie
+TX,Sherman,Grayson
+TX,Kilgore,Gregg
+TX,Quanah,Hardeman
+TX,Humble,Harris
+TX,Spring,Harris
+TX,Karnack,Harrison
+TX,O Brien,Haskell
+TX,Rule,Haskell
+TX,Bynum,Hill
+TX,Granbury,Hood
+TX,Ratcliff,Houston
+TX,Dell City,Hudspeth
+TX,Lolita,Jackson
+TX,Grandview,Johnson
+TX,Cleveland,Liberty
+TX,Prairie Hill,Limestone
+TX,Lubbock,Lubbock
+TX,Blooming Grove,Navarro
+TX,Aledo,Parker
+TX,Camden,Polk
+TX,Pecos,Reeves
+TX,Tyler,Smith
+TX,Roma,Starr
+TX,Sterling City,Sterling
+TX,Keller,Tarrant
+TX,San Angelo,Tom Green
+TX,New Waverly,Walker
+TX,Laredo,Webb
+TX,Thrall,Williamson
+TX,Falls City,Wilson
+UT,Mendon,Cache
+UT,Woods Cross,Davis
+UT,Altonah,Duchesne
+UT,Hatch,Garfield
+UT,Moab,Grand
+UT,Thompson,Grand
+UT,American Fork,Utah
+VA,Atlantic,Accomack
+VA,Greenbush,Accomack
+VA,Alexandria,Alexandria City
+VA,Arlington,Arlington
+VA,Drakes Branch,Charlotte
+VA,Ford,Dinwiddie
+VA,Burke,Fairfax
+VA,Falls Church,Fairfax
+VA,Oakton,Fairfax
+VA,Springfield,Fairfax
+VA,Ruckersville,Greene
+VA,Hampton,Hampton City
+VA,Doe Hill,Highland
+VA,Hopewell,Hopewell city
+VA,Manquin,King William
+VA,Mineral,Louisa
+VA,Etlan,Madison
+VA,Norfolk,Norfolk City
+VA,Catawba,Roanoke
+VA,Timberville,Rockingham
+VA,Lebanon,Russell
+VA,Basye,Shenandoah
+VA,Edinburg,Shenandoah
+VA,Damascus,Washington
+VA,Glade Spring,Washington
+VT,Hinesburg,Chittenden
+VT,South Hero,Grand Isle
+VT,Brandon,Rutland
+VT,Graniteville,Washington
+VT,South Londonderry,Windham
+VT,West Hartford,Windsor
+WA,Monitor,Chelan
+WA,Vancouver,Clark
+WA,Orient,Ferry
+WA,Issaquah,King
+WA,Seattle,King
+WA,Coulee Dam,Okanogan
+WA,Ashford,Pierce
+WA,Burlington,Skagit
+WA,Conway,Skagit
+WA,Burbank,Walla Walla
+WA,Colton,Whitman
+WA,Tekoa,Whitman
+WI,Adams,Adams
+WI,New Franken,Brown
+WI,New Holstein,Calumet
+WI,Boyd,Chippewa
+WI,Seneca,Crawford
+WI,Marshall,Dane
+WI,Bagley,Grant
+WI,Dalton,Green Lake
+WI,Saxon,Iron
+WI,Benton,Lafayette
+WI,Bryant,Langlade
+WI,Tomahawk,Lincoln
+WI,Greendale,Milwaukee
+WI,Milwaukee,Milwaukee
+WI,Oconto Falls,Oconto
+WI,Cazenovia,Richland
+WI,Winter,Sawyer
+WI,Wittenberg,Shawano
+WI,East Troy,Walworth
+WI,Brookfield,Waukesha
+WI,North Prairie,Waukesha
+WI,Waukesha,Waukesha
+WI,Waupaca,Waupaca
+WI,Waukau,Winnebago
+WI,Hewitt,Wood
+WV,Comfort,Boone
+WV,Center Point,Doddridge
+WV,Ronceverte,Greenbrier
+WV,White Sulphur Springs,Greenbrier
+WV,Shenandoah Junction,Jefferson
+WV,Moundsville,Marshall
+WV,Henderson,Mason
+WV,Premier,McDowell
+WV,Union,Monroe
+WV,Cass,Pocahontas
+WV,Hurricane,Putnam
+WV,Winfield,Putnam
+WV,Daniels,Raleigh
+WV,Thomas,Tucker
+WV,Tallmansville,Upshur
+WY,Jelm,Albany
+WY,Laramie,Albany
+WY,Alva,Crook
+WY,Fort Washakie,Fremont
+WY,Riverton,Fremont
+WY,Lagrange,Goshen
+WY,Freedom,Lincoln
+WY,Manville,Niobrara
+WY,Yellowstone National Park,Park
+WY,Rock Springs,Sweetwater
+WY,Lonetree,Uinta

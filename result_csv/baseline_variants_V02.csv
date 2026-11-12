@@ -1,0 +1,16 @@
+group,variant,n_cols,valid_aucpr
+A,city/job dropped,75,0.9109753104408321
+A,"target encoding, smoothing 20",77,0.45545073175405726
+A,"target encoding, smoothing 200",77,0.5346927033854949
+A,"target encoding, smoothing 2000",77,0.6893746075602114
+A,frequency (count) encoding,77,0.9107845636598516
+A,ordinal / label encoding,77,0.9086075658794663
+A,one-hot city + job,1463,0.9103522758211232
+B,"encoded, all 27",27,0.8573207025095717
+B,minus city_1..city_4b (5),22,0.855567180570002
+B,minus job_1..job_4 (4),23,0.8579033129365184
+B,minus state_x/state_y (2),25,0.861766915796002
+B,minus location clusters + distance (3),24,0.8582739000866184
+B,minus city + job (9),18,0.8599125542207571
+B,minus all geographic + occupational (14),13,0.8663482214787398
+B,only category_* + amt + time + age + pop,13,0.8661681466734557

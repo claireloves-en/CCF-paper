@@ -1,0 +1,71 @@
+period,scheme,family,tests,separated
+test,stratified,"primary (ensemble mean, Holm over 2)",2,2
+test,stratified,model vs model,35,21
+test,stratified,"P1  3 - 1  encoding, without client history",8,8
+test,stratified,"P2  4 - 2  encoding, with client history",8,8
+test,stratified,"2 - 1  client history, on raw features",8,7
+test,stratified,"4 - 3  client history, on encoded features",8,8
+test,stratified,hybrid - raw,2,0
+test,stratified,hybrid + client - raw + client,2,0
+test,stratified,catnative - raw,1,1
+test,stratified,catnative + client - raw + client,1,1
+test,stratified,reduced: encoded - raw,2,2
+test,stratified,ablation abl_cat_onehot - E,2,2
+test,stratified,ablation abl_plus_onehot - E,2,2
+test,stratified,ablation abl_hour - E,2,2
+test,stratified,ablation abl_plus_dow - E,2,1
+test,stratified,ablation abl_no_interactions - E,2,0
+test,stratified,ablation abl_no_external - E,2,1
+test,stratified,ablation abl_no_geo_occ - E,2,2
+test,card,"primary (ensemble mean, Holm over 2)",2,2
+test,card,model vs model,35,17
+test,card,"P1  3 - 1  encoding, without client history",8,8
+test,card,"P2  4 - 2  encoding, with client history",8,8
+test,card,"2 - 1  client history, on raw features",8,7
+test,card,"4 - 3  client history, on encoded features",8,7
+test,card,hybrid - raw,2,0
+test,card,hybrid + client - raw + client,2,0
+test,card,catnative - raw,1,1
+test,card,catnative + client - raw + client,1,1
+test,card,reduced: encoded - raw,2,2
+test,card,ablation abl_cat_onehot - E,2,2
+test,card,ablation abl_plus_onehot - E,2,2
+test,card,ablation abl_hour - E,2,2
+test,card,ablation abl_plus_dow - E,2,0
+test,card,ablation abl_no_interactions - E,2,0
+test,card,ablation abl_no_external - E,2,1
+test,card,ablation abl_no_geo_occ - E,2,2
+test,time block (7 days),"primary (ensemble mean, Holm over 2)",2,2
+test,time block (7 days),model vs model,35,17
+test,time block (7 days),"P1  3 - 1  encoding, without client history",8,8
+test,time block (7 days),"P2  4 - 2  encoding, with client history",8,8
+test,time block (7 days),"2 - 1  client history, on raw features",8,7
+test,time block (7 days),"4 - 3  client history, on encoded features",8,7
+test,time block (7 days),hybrid - raw,2,1
+test,time block (7 days),hybrid + client - raw + client,2,0
+test,time block (7 days),catnative - raw,1,1
+test,time block (7 days),catnative + client - raw + client,1,1
+test,time block (7 days),reduced: encoded - raw,2,2
+test,time block (7 days),ablation abl_cat_onehot - E,2,2
+test,time block (7 days),ablation abl_plus_onehot - E,2,2
+test,time block (7 days),ablation abl_hour - E,2,2
+test,time block (7 days),ablation abl_plus_dow - E,2,0
+test,time block (7 days),ablation abl_no_interactions - E,2,0
+test,time block (7 days),ablation abl_no_external - E,2,1
+test,time block (7 days),ablation abl_no_geo_occ - E,2,2
+confirmation,stratified,"primary (ensemble mean, Holm over 2)",2,2
+confirmation,stratified,model vs model,25,20
+confirmation,stratified,"P1  3 - 1  encoding, without client history",8,8
+confirmation,stratified,"P2  4 - 2  encoding, with client history",8,8
+confirmation,stratified,"2 - 1  client history, on raw features",8,6
+confirmation,stratified,"4 - 3  client history, on encoded features",8,6
+confirmation,stratified,hybrid + client - raw + client,2,1
+confirmation,stratified,catnative + client - raw + client,1,1
+confirmation,card,"primary (ensemble mean, Holm over 2)",2,2
+confirmation,card,model vs model,25,17
+confirmation,card,"P1  3 - 1  encoding, without client history",8,8
+confirmation,card,"P2  4 - 2  encoding, with client history",8,8
+confirmation,card,"2 - 1  client history, on raw features",8,6
+confirmation,card,"4 - 3  client history, on encoded features",8,6
+confirmation,card,hybrid + client - raw + client,2,0
+confirmation,card,catnative + client - raw + client,1,1

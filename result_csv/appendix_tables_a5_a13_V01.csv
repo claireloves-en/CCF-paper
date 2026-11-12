@@ -1,0 +1,67 @@
+table,row,column,value
+A5,5.93-17,n,483
+A5,5.93-17,fraud,483
+A5,17-24.84,n,254
+A5,17-24.84,fraud,135
+A5,>24.84,n,130922
+A5,>24.84,fraud,0
+A5,Total,n,131659
+A5,Total,fraud,618
+A6,<=200,n,112002
+A6,<=200,fraud,0
+A6,200-250,n,9712
+A6,200-250,fraud,4
+A6,>250,n,1924
+A6,>250,fraud,1739
+A6,Total,n,123638
+A6,Total,fraud,1743
+A6,<=200,age 25-50,63917
+A6,200-250,age 25-50,9624
+A6,>250,age 25-50,883
+A6,Total,age 25-50,74424
+A7,Bed time,age <= 25 genuine,942
+A7,Bed time,age <= 25 fraud,58
+A7,Office hours,age <= 25 genuine,2702
+A7,Office hours,age <= 25 fraud,12
+A7,Evening,age <= 25 genuine,4556
+A7,Evening,age <= 25 fraud,45
+A7,Bed time,age > 25 genuine,33147
+A7,Bed time,age > 25 fraud,137
+A7,Office hours,age > 25 genuine,18122
+A7,Office hours,age > 25 fraud,45
+A7,Evening,age > 25 genuine,2903
+A7,Evening,age > 25 fraud,618
+A8,Bed time,age <= 50 genuine,7853
+A8,Bed time,age <= 50 fraud,186
+A8,Office hours,age <= 50 genuine,22012
+A8,Office hours,age <= 50 fraud,49
+A8,Evening,age <= 50 genuine,36550
+A8,Evening,age <= 50 fraud,711
+A8,Bed time,age > 50 genuine,19629
+A8,Bed time,age > 50 fraud,0
+A8,Office hours,age > 50 genuine,9786
+A8,Office hours,age > 50 fraud,60
+A8,Evening,age > 50 genuine,0
+A8,Evening,age > 50 fraud,707
+A9,Bed time,age <= 50 genuine,6487
+A9,Bed time,age <= 50 fraud,134
+A9,Office hours,age <= 50 genuine,27043
+A9,Office hours,age <= 50 fraud,23
+A9,Evening,age <= 50 genuine,47027
+A9,Evening,age <= 50 fraud,277
+A9,Bed time,age > 50 genuine,23434
+A9,Bed time,age > 50 fraud,0
+A9,Office hours,age > 50 genuine,11838
+A9,Office hours,age > 50 fraud,41
+A9,Evening,age > 50 genuine,0
+A9,Evening,age > 50 fraud,368
+A13,<=250,n,1258216
+A13,<=250,fraud,1896
+A13,250-600,n,27386
+A13,250-600,fraud,2056
+A13,600-2000,n,10342
+A13,600-2000,fraud,3554
+A13,>2000,n,731
+A13,>2000,fraud,0
+A13,Total,n,1296675
+A13,Total,fraud,7506

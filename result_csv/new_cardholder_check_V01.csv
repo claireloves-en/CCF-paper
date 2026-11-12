@@ -1,0 +1,4 @@
+split,rows,fraud,cards,cards_unseen_in_train,rows_on_unseen_cards,fraud_on_unseen_cards
+train,829872,4797,955,0,0,0
+valid,207468,1171,917,9,94,94
+test,259335,1538,927,19,174,174

@@ -1,0 +1,92 @@
+kind,config,a,b,diff,lo,hi,separated,p,p_holm
+"PRIMARY P1  3 - 1  encoding, without client history",p7_notime - p7_notime_raw,"ensemble mean (RF, CatBoost, XGBoost, LightGBM)",,-0.03891681373859479,-0.04818705530395783,-0.029436109452636215,True,0.0,0.0
+"PRIMARY P2  4 - 2  encoding, with client history",p7_notime_client - p7_notime_raw_client,"ensemble mean (RF, CatBoost, XGBoost, LightGBM)",,-0.03155705290461652,-0.03841948280672271,-0.024499105696779513,True,0.0,0.0
+model vs model,p7_notime_raw,Random Forest,CatBoost,-0.0035562202119966413,-0.007710342075896126,-6.581187833238067e-06,True,,
+model vs model,p7_notime_raw,Random Forest,XGBoost,-0.00023395470393738904,-0.0062613888983600345,0.005193615164715098,False,,
+model vs model,p7_notime_raw,Random Forest,LightGBM,0.0006764259219489421,-0.0035920831195867644,0.004661657568582825,False,,
+model vs model,p7_notime_raw,CatBoost,XGBoost,0.0033222655080592522,-0.0021150758348754545,0.008111771256898423,False,,
+model vs model,p7_notime_raw,CatBoost,LightGBM,0.004232646133945583,-0.00044065466254940565,0.00877044816821123,False,,
+model vs model,p7_notime_raw,XGBoost,LightGBM,0.0009103806258863312,-0.004321661876675625,0.006103454857196425,False,,
+model vs model,p7_notime_raw_client,Random Forest,CatBoost,-0.026997615372286177,-0.0327790281793995,-0.021590732446923323,True,,
+model vs model,p7_notime_raw_client,Random Forest,XGBoost,-0.022556915099944397,-0.026871153359828738,-0.018032022385423896,True,,
+model vs model,p7_notime_raw_client,Random Forest,LightGBM,-0.02041420956608453,-0.02549168977463289,-0.01523998223408227,True,,
+model vs model,p7_notime_raw_client,CatBoost,XGBoost,0.00444070027234178,-0.0001994572519092158,0.009604928974722881,False,,
+model vs model,p7_notime_raw_client,CatBoost,LightGBM,0.006583405806201648,0.0018673566242051855,0.011772896079029637,True,,
+model vs model,p7_notime_raw_client,XGBoost,LightGBM,0.0021427055338598677,-0.0004990153678280568,0.004974758075274504,False,,
+model vs model,p7_notime,Random Forest,CatBoost,0.007638039803406271,3.3188245902457435e-05,0.015548002095523124,True,,
+model vs model,p7_notime,Random Forest,XGBoost,0.007576225043244733,0.0025628997181023653,0.012659347300132065,True,,
+model vs model,p7_notime,Random Forest,LightGBM,0.009378049742929107,0.003896583596351194,0.014997263738074966,True,,
+model vs model,p7_notime,CatBoost,XGBoost,-6.18147601615382e-05,-0.00447172749723346,0.004759097821919612,False,,
+model vs model,p7_notime,CatBoost,LightGBM,0.0017400099395228352,-0.005533280644836494,0.010396458747784663,False,,
+model vs model,p7_notime,XGBoost,LightGBM,0.0018018246996843734,-0.0040026488760697785,0.008204705124437122,False,,
+model vs model,p7_notime_client,Random Forest,CatBoost,-0.02322044018080216,-0.031214430164679303,-0.015156730684120807,True,,
+model vs model,p7_notime_client,Random Forest,XGBoost,-0.02252024835217692,-0.029667708603684895,-0.015551629896602533,True,,
+model vs model,p7_notime_client,Random Forest,LightGBM,-0.023190470087488646,-0.030147654311815927,-0.01626328955800068,True,,
+model vs model,p7_notime_client,CatBoost,XGBoost,0.0007001918286252407,-0.0040687862305633735,0.004811108372751783,False,,
+model vs model,p7_notime_client,CatBoost,LightGBM,2.9970093313513857e-05,-0.004974568765001736,0.004362545020812064,False,,
+model vs model,p7_notime_client,XGBoost,LightGBM,-0.0006702217353117268,-0.0034685532995095162,0.0022922159735338453,False,,
+model vs model,p7_hybrid,Random Forest,CatBoost,-0.0028211576877068545,-0.006681130864795248,0.0007318913126385739,False,,
+model vs model,p7_hybrid_client,Random Forest,CatBoost,-0.023226277485909108,-0.029188490280041293,-0.01751312977409135,True,,
+model vs model,p7_abl_cat_onehot,Random Forest,CatBoost,0.012505530919660002,0.0053427868840697805,0.01942225915327024,True,,
+model vs model,p7_abl_plus_onehot,Random Forest,CatBoost,0.009544638507765324,0.003500499620558234,0.015481604548243455,True,,
+model vs model,p7_abl_hour,Random Forest,CatBoost,-0.0002595208432972784,-0.0034763306711629916,0.0030840775682426437,False,,
+model vs model,p7_abl_plus_dow,Random Forest,CatBoost,0.006987258214623315,-0.00022232387517064355,0.014925374488490965,False,,
+model vs model,p7_abl_no_interactions,Random Forest,CatBoost,0.008394618965495315,0.0012802508257181433,0.016086049378321948,True,,
+model vs model,p7_abl_no_external,Random Forest,CatBoost,0.004783490645392963,-0.001602222342554388,0.011579344022975493,False,,
+model vs model,p7_abl_no_geo_occ,Random Forest,CatBoost,0.006124527104496069,-0.0005486373094040903,0.012894838057253596,False,,
+model vs model,p7_red_raw,Random Forest,CatBoost,0.020667182294099473,0.012841611096286603,0.02838735426309545,True,,
+model vs model,p7_red_enc,Random Forest,CatBoost,0.035022479639259085,0.024639945068669462,0.04601075343381721,True,,
+"P1  3 - 1  encoding, without client history",p7_notime - p7_notime_raw,Logistic Regression,,-0.031839400833804654,-0.06514316113367784,-0.0035351501091212896,True,0.022,0.022
+"P1  3 - 1  encoding, without client history",p7_notime - p7_notime_raw,Decision Tree,,-0.053311992072905046,-0.06777214917455242,-0.039182359223315255,True,0.0,0.0
+"P1  3 - 1  encoding, without client history",p7_notime - p7_notime_raw,Random Forest,,-0.03199029784270335,-0.04099840978671305,-0.023062237705989155,True,0.0,0.0
+"P1  3 - 1  encoding, without client history",p7_notime - p7_notime_raw,AdaBoost,,-0.05104113020319445,-0.07028515980507127,-0.03127585928260911,True,0.0,0.0
+"P1  3 - 1  encoding, without client history",p7_notime - p7_notime_raw,CatBoost,,-0.043184557858106265,-0.05176915184469858,-0.03382032474082605,True,0.0,0.0
+"P1  3 - 1  encoding, without client history",p7_notime - p7_notime_raw,XGBoost,,-0.039800477589885475,-0.05113222842340717,-0.029317228930148678,True,0.0,0.0
+"P1  3 - 1  encoding, without client history",p7_notime - p7_notime_raw,LightGBM,,-0.04069192166368352,-0.05259106862091971,-0.029297603855159067,True,0.0,0.0
+"P1  3 - 1  encoding, without client history",p7_notime - p7_notime_raw,K-NN,,0.06650635397894666,0.04210821354731619,0.08821941481650337,True,0.0,0.0
+"P2  4 - 2  encoding, with client history",p7_notime_client - p7_notime_raw_client,Logistic Regression,,-0.020429926240304097,-0.02977002627618156,-0.011694744053860435,True,0.0,0.0
+"P2  4 - 2  encoding, with client history",p7_notime_client - p7_notime_raw_client,Decision Tree,,-0.013855782998992594,-0.026003368913399404,-0.0016715228288155626,True,0.03,0.03
+"P2  4 - 2  encoding, with client history",p7_notime_client - p7_notime_raw_client,Random Forest,,-0.03129765755015457,-0.040331454579947384,-0.02180027002102057,True,0.0,0.0
+"P2  4 - 2  encoding, with client history",p7_notime_client - p7_notime_raw_client,AdaBoost,,-0.05442453112935819,-0.0684734270964366,-0.03963464425519893,True,0.0,0.0
+"P2  4 - 2  encoding, with client history",p7_notime_client - p7_notime_raw_client,CatBoost,,-0.035074832741638584,-0.0427046951511055,-0.028196349951262908,True,0.0,0.0
+"P2  4 - 2  encoding, with client history",p7_notime_client - p7_notime_raw_client,XGBoost,,-0.031334324297922045,-0.03892573380948911,-0.023898625632140808,True,0.0,0.0
+"P2  4 - 2  encoding, with client history",p7_notime_client - p7_notime_raw_client,LightGBM,,-0.02852139702875045,-0.036024809037580104,-0.020969307121270715,True,0.0,0.0
+"P2  4 - 2  encoding, with client history",p7_notime_client - p7_notime_raw_client,K-NN,,0.0570456269073043,0.03587078030027605,0.07731564977991184,True,0.0,0.0
+"2 - 1  client history, on raw features",p7_notime_raw_client - p7_notime_raw,Logistic Regression,,0.16282390042558648,0.13141767794902637,0.18726996830544954,True,0.0,0.0
+"2 - 1  client history, on raw features",p7_notime_raw_client - p7_notime_raw,Decision Tree,,-0.018687741798027235,-0.030411232530682925,-0.006569413417681837,True,0.0,0.0
+"2 - 1  client history, on raw features",p7_notime_raw_client - p7_notime_raw,Random Forest,,0.005896303510154022,-0.0015114500705506822,0.013675486393522823,False,0.122,0.122
+"2 - 1  client history, on raw features",p7_notime_raw_client - p7_notime_raw,AdaBoost,,0.15087292789400875,0.13148805732207303,0.16843831171915832,True,0.0,0.0
+"2 - 1  client history, on raw features",p7_notime_raw_client - p7_notime_raw,CatBoost,,0.029337698670443557,0.02278920508506105,0.03581882264561109,True,0.0,0.0
+"2 - 1  client history, on raw features",p7_notime_raw_client - p7_notime_raw,XGBoost,,0.02821926390616103,0.02015282335210798,0.035479919174061764,True,0.0,0.0
+"2 - 1  client history, on raw features",p7_notime_raw_client - p7_notime_raw,LightGBM,,0.026986938998187493,0.018774820233374824,0.03474573780236999,True,0.0,0.0
+"2 - 1  client history, on raw features",p7_notime_raw_client - p7_notime_raw,K-NN,,0.014195865860374468,0.008034032297656934,0.019628710077856226,True,0.0,0.0
+"4 - 3  client history, on encoded features",p7_notime_client - p7_notime,Logistic Regression,,0.17423337501908703,0.1364217834994086,0.20999607688344893,True,0.0,0.0
+"4 - 3  client history, on encoded features",p7_notime_client - p7_notime,Decision Tree,,0.020768467275885216,0.00968139614720093,0.03126588682351345,True,0.002,0.006
+"4 - 3  client history, on encoded features",p7_notime_client - p7_notime,Random Forest,,0.006588943802702807,-0.0010181787686569827,0.013613680572422262,False,0.086,0.086
+"4 - 3  client history, on encoded features",p7_notime_client - p7_notime,AdaBoost,,0.147489526967845,0.12523617420132083,0.16777713978916853,True,0.0,0.0
+"4 - 3  client history, on encoded features",p7_notime_client - p7_notime,CatBoost,,0.03744742378691124,0.027108202192989386,0.047160844569830176,True,0.0,0.0
+"4 - 3  client history, on encoded features",p7_notime_client - p7_notime,XGBoost,,0.03668541719812446,0.027842077541431597,0.045298894190867155,True,0.0,0.0
+"4 - 3  client history, on encoded features",p7_notime_client - p7_notime,LightGBM,,0.03915746363312056,0.02767589782686179,0.04959833451315848,True,0.0,0.0
+"4 - 3  client history, on encoded features",p7_notime_client - p7_notime,K-NN,,0.004735138788732107,0.0007195459721075099,0.008209824691113183,True,0.022,0.044
+hybrid - raw,p7_hybrid - p7_notime_raw,Random Forest,,0.0016953186214875293,0.00035535557258400133,0.003179194162169854,True,0.016,0.032
+hybrid - raw,p7_hybrid - p7_notime_raw,CatBoost,,0.0009602560971977425,-0.0010495727474178873,0.0034092701559849388,False,0.412,0.412
+hybrid + client - raw + client,p7_hybrid_client - p7_notime_raw_client,Random Forest,,0.00317245045726966,-0.0007413043645391053,0.007453529516110048,False,0.128,0.256
+hybrid + client - raw + client,p7_hybrid_client - p7_notime_raw_client,CatBoost,,-0.0005988874291074087,-0.0023670035720101345,0.0011999458631945425,False,0.552,0.552
+catnative - raw,p7_catnative - p7_notime_raw,CatBoost,,-0.01045519853187138,-0.01593994901535464,-0.00484870342093948,True,0.0,0.0
+catnative + client - raw + client,p7_catnative_client - p7_notime_raw_client,CatBoost,,-0.012610264539474003,-0.018077954362762057,-0.007842170556035807,True,0.0,0.0
+reduced: encoded - raw,p7_red_enc - p7_red_raw,Random Forest,,-0.07897560291288108,-0.09184881922331162,-0.06654846348186405,True,0.0,0.0
+reduced: encoded - raw,p7_red_enc - p7_red_raw,CatBoost,,-0.0933309002580407,-0.10606024016737606,-0.08042191863013713,True,0.0,0.0
+ablation abl_cat_onehot - E,p7_abl_cat_onehot - p7_notime,Random Forest,,0.009010610526408391,0.006504836190920354,0.011589332964898507,True,0.0,0.0
+ablation abl_cat_onehot - E,p7_abl_cat_onehot - p7_notime,CatBoost,,0.004143119410154661,0.0008757009720318121,0.007587858347942819,True,0.01,0.01
+ablation abl_plus_onehot - E,p7_abl_plus_onehot - p7_notime,Random Forest,,0.010029149448981589,0.007104071845823357,0.0131636456149129,True,0.0,0.0
+ablation abl_plus_onehot - E,p7_abl_plus_onehot - p7_notime,CatBoost,,0.008122550744622536,0.004968095779068879,0.011416175930656492,True,0.0,0.0
+ablation abl_hour - E,p7_abl_hour - p7_notime,Random Forest,,0.02938195345943373,0.020707493984115005,0.038529487915223315,True,0.0,0.0
+ablation abl_hour - E,p7_abl_hour - p7_notime,CatBoost,,0.03727951410613728,0.027928635252561278,0.04567062390004068,True,0.0,0.0
+ablation abl_plus_dow - E,p7_abl_plus_dow - p7_notime,Random Forest,,0.0007022778472116631,-6.400404983499805e-05,0.001635570365038766,False,0.074,0.148
+ablation abl_plus_dow - E,p7_abl_plus_dow - p7_notime,CatBoost,,0.001353059435994619,-0.00022343240516494998,0.0031896805873176384,False,0.096,0.148
+ablation abl_no_interactions - E,p7_abl_no_interactions - p7_notime,Random Forest,,-0.0005714091463187021,-0.0015011260602080163,0.0003395934559090235,False,0.212,0.212
+ablation abl_no_interactions - E,p7_abl_no_interactions - p7_notime,CatBoost,,-0.001327988308407746,-0.002887715409360725,0.00010268976975641985,False,0.076,0.152
+ablation abl_no_external - E,p7_abl_no_external - p7_notime,Random Forest,,0.00124273127818475,-0.00020244253109816534,0.0026620960801250785,False,0.114,0.114
+ablation abl_no_external - E,p7_abl_no_external - p7_notime,CatBoost,,0.004097280436198059,0.0013198782570438966,0.006714478375996478,True,0.0,0.0
+ablation abl_no_geo_occ - E,p7_abl_no_geo_occ - p7_notime,Random Forest,,0.006203741109090832,0.003260366589930436,0.009328815216600972,True,0.0,0.0
+ablation abl_no_geo_occ - E,p7_abl_no_geo_occ - p7_notime,CatBoost,,0.0077172538080010344,0.0038936812642109075,0.011491841039149936,True,0.0,0.0

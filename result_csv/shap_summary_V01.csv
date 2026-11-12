@@ -1,0 +1,625 @@
+config,model,sample,explainer,units,feature,label,group,mean_abs_shap,mean_shap
+R,Random Forest,balanced case-control,tree-path-dependent,probability,amt,Amount spent (USD),amount,0.2254892054840461,0.216756861686268
+R,Random Forest,balanced case-control,tree-path-dependent,probability,city_pop,Population of the city,city population,0.004670839878484489,0.0021277727945720995
+R,Random Forest,balanced case-control,tree-path-dependent,probability,lat,Cardholder home latitude,location,0.0007401899258638191,-0.00010542153503730925
+R,Random Forest,balanced case-control,tree-path-dependent,probability,long,Cardholder home longitude,location,0.0006143752123813948,-0.00010382943950016343
+R,Random Forest,balanced case-control,tree-path-dependent,probability,merch_lat,Merchant latitude,location,0.0007386373671695946,-0.0002781813243411538
+R,Random Forest,balanced case-control,tree-path-dependent,probability,merch_long,Merchant longitude,location,0.0006659405316640656,8.627655841472642e-05
+R,Random Forest,balanced case-control,tree-path-dependent,probability,gender,Gender,gender,0.009155793926914527,0.005140649295620299
+R,Random Forest,balanced case-control,tree-path-dependent,probability,age,Cardholder age,age,0.024265064127175245,0.01715323621073168
+R,Random Forest,balanced case-control,tree-path-dependent,probability,hour_of_day,Hour of day (0-23),time,0.05836703832256186,0.05234586685887424
+R,Random Forest,balanced case-control,tree-path-dependent,probability,day_of_week,Day of week (0 = Monday),time,0.000480466664305698,-2.3902536861839112e-05
+R,Random Forest,balanced case-control,tree-path-dependent,probability,category_entertainment,Category = entertainment,category,0.0036871881762764033,0.0029751895559296518
+R,Random Forest,balanced case-control,tree-path-dependent,probability,category_food_dining,Category = food and dining,category,0.0016997660775555654,0.0005112078513966508
+R,Random Forest,balanced case-control,tree-path-dependent,probability,category_gas_transport,Category = gas and transport,category,0.021681753705170257,0.011656887583678867
+R,Random Forest,balanced case-control,tree-path-dependent,probability,category_grocery_net,Category = grocery (online),category,0.0021265538875481194,0.0011699723968214902
+R,Random Forest,balanced case-control,tree-path-dependent,probability,category_grocery_pos,Category = grocery (in store),category,0.053025560585107274,0.04745721825818602
+R,Random Forest,balanced case-control,tree-path-dependent,probability,category_health_fitness,Category = health and fitness,category,0.0001428706068820546,5.954647096131122e-05
+R,Random Forest,balanced case-control,tree-path-dependent,probability,category_home,Category = home products,category,0.0021614465921039635,0.002068470365628876
+R,Random Forest,balanced case-control,tree-path-dependent,probability,category_kids_pets,Category = kids and pets,category,0.00038233434654583734,0.00021660047416982662
+R,Random Forest,balanced case-control,tree-path-dependent,probability,category_misc_net,Category = miscellaneous (online),category,0.0058901053477284655,0.004651147090672532
+R,Random Forest,balanced case-control,tree-path-dependent,probability,category_misc_pos,Category = miscellaneous (in store),category,0.0038755718004785996,0.0026726108580421635
+R,Random Forest,balanced case-control,tree-path-dependent,probability,category_personal_care,Category = personal care,category,0.0003451997990428541,0.00016123067941981156
+R,Random Forest,balanced case-control,tree-path-dependent,probability,category_shopping_net,Category = shopping (online),category,0.008661818976210909,0.0072793038980251985
+R,Random Forest,balanced case-control,tree-path-dependent,probability,category_shopping_pos,Category = shopping (in store),category,0.00193276684622309,0.0006302964041839284
+R,Random Forest,balanced case-control,tree-path-dependent,probability,category_travel,Category = travel,category,0.0030664539655225805,0.0026018325903011444
+R,Random Forest,balanced case-control,tree-path-dependent,probability,state_AK,State = AK,state,7.658037003159679e-07,-3.4733357731191753e-07
+R,Random Forest,balanced case-control,tree-path-dependent,probability,state_AL,State = AL,state,0.00013412220295745046,-7.904437761091773e-06
+R,Random Forest,balanced case-control,tree-path-dependent,probability,state_AR,State = AR,state,8.191984741670114e-05,9.115801974616602e-07
+R,Random Forest,balanced case-control,tree-path-dependent,probability,state_AZ,State = AZ,state,2.6388967976075158e-05,2.48012773770516e-05
+R,Random Forest,balanced case-control,tree-path-dependent,probability,state_CA,State = CA,state,6.568171234040746e-05,1.8495320883095538e-05
+R,Random Forest,balanced case-control,tree-path-dependent,probability,state_CO,State = CO,state,2.6511491423962332e-05,3.277507311094976e-06
+R,Random Forest,balanced case-control,tree-path-dependent,probability,state_CT,State = CT,state,4.193994976920203e-06,8.788609663746701e-07
+R,Random Forest,balanced case-control,tree-path-dependent,probability,state_DC,State = DC,state,1.6032392580700934e-05,-6.330480132732786e-06
+R,Random Forest,balanced case-control,tree-path-dependent,probability,state_DE,State = DE,state,4.203321560047506e-06,-4.203321560047506e-06
+R,Random Forest,balanced case-control,tree-path-dependent,probability,state_FL,State = FL,state,6.638880970275702e-05,4.117714019299453e-07
+R,Random Forest,balanced case-control,tree-path-dependent,probability,state_GA,State = GA,state,4.539125115291976e-05,4.742258189678061e-06
+R,Random Forest,balanced case-control,tree-path-dependent,probability,state_HI,State = HI,state,3.556806108581773e-07,-6.826274752238225e-08
+R,Random Forest,balanced case-control,tree-path-dependent,probability,state_IA,State = IA,state,7.474877014043608e-05,-8.962921933534706e-06
+R,Random Forest,balanced case-control,tree-path-dependent,probability,state_ID,State = ID,state,2.946794108075307e-06,-1.0785079337271617e-06
+R,Random Forest,balanced case-control,tree-path-dependent,probability,state_IL,State = IL,state,0.00012755505231618912,1.7957715733686353e-05
+R,Random Forest,balanced case-control,tree-path-dependent,probability,state_IN,State = IN,state,2.3789136718025178e-05,-7.262884231132681e-06
+R,Random Forest,balanced case-control,tree-path-dependent,probability,state_KS,State = KS,state,0.000111834614989116,-4.217716017193251e-05
+R,Random Forest,balanced case-control,tree-path-dependent,probability,state_KY,State = KY,state,5.0425437335063935e-05,4.872514328733405e-06
+R,Random Forest,balanced case-control,tree-path-dependent,probability,state_LA,State = LA,state,5.584469139211998e-05,-3.273511890633981e-06
+R,Random Forest,balanced case-control,tree-path-dependent,probability,state_MA,State = MA,state,4.663547413382487e-05,3.355549907360297e-05
+R,Random Forest,balanced case-control,tree-path-dependent,probability,state_MD,State = MD,state,4.2518410007306496e-05,-3.1546170445837076e-06
+R,Random Forest,balanced case-control,tree-path-dependent,probability,state_ME,State = ME,state,1.5434567281058972e-05,-2.074074217737699e-06
+R,Random Forest,balanced case-control,tree-path-dependent,probability,state_MI,State = MI,state,0.00010973787765238753,2.6996856901695956e-05
+R,Random Forest,balanced case-control,tree-path-dependent,probability,state_MN,State = MN,state,5.691353736380575e-05,-9.303363239750128e-06
+R,Random Forest,balanced case-control,tree-path-dependent,probability,state_MO,State = MO,state,0.0001491298524348852,-3.2515909485593057e-06
+R,Random Forest,balanced case-control,tree-path-dependent,probability,state_MS,State = MS,state,2.439791312555153e-05,-2.4001959079236157e-06
+R,Random Forest,balanced case-control,tree-path-dependent,probability,state_MT,State = MT,state,1.5434166640678824e-05,-9.566925998093215e-06
+R,Random Forest,balanced case-control,tree-path-dependent,probability,state_NC,State = NC,state,9.971188880574193e-05,7.593825234991594e-05
+R,Random Forest,balanced case-control,tree-path-dependent,probability,state_ND,State = ND,state,1.8061501835799484e-05,-1.2549406926364102e-05
+R,Random Forest,balanced case-control,tree-path-dependent,probability,state_NE,State = NE,state,5.154714905635453e-05,-1.2288544083312356e-06
+R,Random Forest,balanced case-control,tree-path-dependent,probability,state_NH,State = NH,state,1.46784283946725e-05,1.1117565503789713e-06
+R,Random Forest,balanced case-control,tree-path-dependent,probability,state_NJ,State = NJ,state,6.588057092068894e-05,8.85699678341088e-06
+R,Random Forest,balanced case-control,tree-path-dependent,probability,state_NM,State = NM,state,0.00019502006855241235,-5.626151760255367e-05
+R,Random Forest,balanced case-control,tree-path-dependent,probability,state_NV,State = NV,state,3.640097317848409e-05,1.370513393462217e-05
+R,Random Forest,balanced case-control,tree-path-dependent,probability,state_NY,State = NY,state,9.027423968941061e-05,-5.017530546652676e-06
+R,Random Forest,balanced case-control,tree-path-dependent,probability,state_OH,State = OH,state,0.0001384397168849437,1.0549381373150472e-05
+R,Random Forest,balanced case-control,tree-path-dependent,probability,state_OK,State = OK,state,4.5865701800114904e-05,-1.670571833088033e-05
+R,Random Forest,balanced case-control,tree-path-dependent,probability,state_OR,State = OR,state,4.281146256011463e-05,-1.0751893097007787e-05
+R,Random Forest,balanced case-control,tree-path-dependent,probability,state_PA,State = PA,state,0.00017160084251621673,-3.447551398208802e-05
+R,Random Forest,balanced case-control,tree-path-dependent,probability,state_RI,State = RI,state,1.5058827084364418e-05,-1.4865788523658036e-05
+R,Random Forest,balanced case-control,tree-path-dependent,probability,state_SC,State = SC,state,7.077302002795257e-05,-3.0536832398657124e-05
+R,Random Forest,balanced case-control,tree-path-dependent,probability,state_SD,State = SD,state,2.1922441825163533e-05,5.803112285886303e-06
+R,Random Forest,balanced case-control,tree-path-dependent,probability,state_TN,State = TN,state,5.111263036489332e-05,1.0328988307452512e-06
+R,Random Forest,balanced case-control,tree-path-dependent,probability,state_TX,State = TX,state,0.00016120777074659257,2.763839278706764e-06
+R,Random Forest,balanced case-control,tree-path-dependent,probability,state_UT,State = UT,state,2.5919940658459363e-05,-1.182086114897605e-06
+R,Random Forest,balanced case-control,tree-path-dependent,probability,state_VA,State = VA,state,0.00034194535399084404,-0.00022509762431970203
+R,Random Forest,balanced case-control,tree-path-dependent,probability,state_VT,State = VT,state,9.439501173491925e-05,-5.8133919482330655e-05
+R,Random Forest,balanced case-control,tree-path-dependent,probability,state_WA,State = WA,state,3.003699595874712e-05,2.2127752301084387e-05
+R,Random Forest,balanced case-control,tree-path-dependent,probability,state_WI,State = WI,state,6.042859163371888e-05,-2.524743206096491e-08
+R,Random Forest,balanced case-control,tree-path-dependent,probability,state_WV,State = WV,state,3.3045376287458935e-05,-2.943152664577896e-06
+R,Random Forest,balanced case-control,tree-path-dependent,probability,state_WY,State = WY,state,6.0490749511930377e-05,-3.317408308495583e-05
+R,Random Forest,balanced case-control,tree-path-dependent,probability,city_ordinal,City (alphabetical code),city,0.000848036623509731,-0.00020112673534572492
+R,Random Forest,balanced case-control,tree-path-dependent,probability,job_ordinal,Occupation (alphabetical code),occupation,0.0007674019291632933,-0.00017335103374484514
+R,Random Forest,natural prevalence,tree-path-dependent,probability,amt,Amount spent (USD),amount,0.021258426410031554,0.0019858625971767027
+R,Random Forest,natural prevalence,tree-path-dependent,probability,city_pop,Population of the city,city population,0.00045517048662926214,0.00016522903553182927
+R,Random Forest,natural prevalence,tree-path-dependent,probability,lat,Cardholder home latitude,location,0.00012169840649308057,5.6895455009195574e-05
+R,Random Forest,natural prevalence,tree-path-dependent,probability,long,Cardholder home longitude,location,0.00017330550906821305,-2.385460272449138e-05
+R,Random Forest,natural prevalence,tree-path-dependent,probability,merch_lat,Merchant latitude,location,0.00013512526486958622,7.117573110382972e-05
+R,Random Forest,natural prevalence,tree-path-dependent,probability,merch_long,Merchant longitude,location,0.0001785477855141349,9.347520419872876e-05
+R,Random Forest,natural prevalence,tree-path-dependent,probability,gender,Gender,gender,0.0004244553102759799,-7.251362638694102e-05
+R,Random Forest,natural prevalence,tree-path-dependent,probability,age,Cardholder age,age,0.003108087248564754,0.0019284643615503263
+R,Random Forest,natural prevalence,tree-path-dependent,probability,hour_of_day,Hour of day (0-23),time,0.00596749552464819,-0.0011462569388845849
+R,Random Forest,natural prevalence,tree-path-dependent,probability,day_of_week,Day of week (0 = Monday),time,4.6015058729957894e-05,-5.0839551925637335e-06
+R,Random Forest,natural prevalence,tree-path-dependent,probability,category_entertainment,Category = entertainment,category,0.00030844968854684305,-3.2205994522753214e-05
+R,Random Forest,natural prevalence,tree-path-dependent,probability,category_food_dining,Category = food and dining,category,0.0011484322105918775,-0.00022512942637551646
+R,Random Forest,natural prevalence,tree-path-dependent,probability,category_gas_transport,Category = gas and transport,category,0.01357917791093272,-0.0020585057353296127
+R,Random Forest,natural prevalence,tree-path-dependent,probability,category_grocery_net,Category = grocery (online),category,0.0009361007656804892,-0.0005311184925976385
+R,Random Forest,natural prevalence,tree-path-dependent,probability,category_grocery_pos,Category = grocery (in store),category,0.0033065836865751935,4.344887975024515e-05
+R,Random Forest,natural prevalence,tree-path-dependent,probability,category_health_fitness,Category = health and fitness,category,6.242717384256192e-05,-1.8867435052765813e-05
+R,Random Forest,natural prevalence,tree-path-dependent,probability,category_home,Category = home products,category,0.00020205766306575866,6.337805030574048e-05
+R,Random Forest,natural prevalence,tree-path-dependent,probability,category_kids_pets,Category = kids and pets,category,0.00016077090935064404,-2.387368467983309e-06
+R,Random Forest,natural prevalence,tree-path-dependent,probability,category_misc_net,Category = miscellaneous (online),category,0.00029226452062382506,8.990533133894342e-05
+R,Random Forest,natural prevalence,tree-path-dependent,probability,category_misc_pos,Category = miscellaneous (in store),category,0.001302606226669806,-0.0003742483930031209
+R,Random Forest,natural prevalence,tree-path-dependent,probability,category_personal_care,Category = personal care,category,0.00012821947760309339,-2.344768594121998e-05
+R,Random Forest,natural prevalence,tree-path-dependent,probability,category_shopping_net,Category = shopping (online),category,0.00038040206058410886,-7.208896822897653e-05
+R,Random Forest,natural prevalence,tree-path-dependent,probability,category_shopping_pos,Category = shopping (in store),category,0.00017254677826399775,-3.761401685951261e-05
+R,Random Forest,natural prevalence,tree-path-dependent,probability,category_travel,Category = travel,category,0.0003510675809466752,-0.0001545846108365935
+R,Random Forest,natural prevalence,tree-path-dependent,probability,state_AK,State = AK,state,2.000543171278232e-07,-9.297389805395535e-08
+R,Random Forest,natural prevalence,tree-path-dependent,probability,state_AL,State = AL,state,1.891160621666236e-05,-4.069496775405361e-06
+R,Random Forest,natural prevalence,tree-path-dependent,probability,state_AR,State = AR,state,1.6866753009576423e-05,-5.54055008642039e-06
+R,Random Forest,natural prevalence,tree-path-dependent,probability,state_AZ,State = AZ,state,2.698438008979713e-06,1.5036686254497716e-06
+R,Random Forest,natural prevalence,tree-path-dependent,probability,state_CA,State = CA,state,5.442425340841723e-06,1.774296055879227e-06
+R,Random Forest,natural prevalence,tree-path-dependent,probability,state_CO,State = CO,state,1.1095771091130762e-05,5.535532510291724e-06
+R,Random Forest,natural prevalence,tree-path-dependent,probability,state_CT,State = CT,state,2.0776610684653974e-06,-7.779352971583361e-07
+R,Random Forest,natural prevalence,tree-path-dependent,probability,state_DC,State = DC,state,6.895598216038895e-06,-1.2518539508900362e-06
+R,Random Forest,natural prevalence,tree-path-dependent,probability,state_DE,State = DE,state,3.91887429885606e-06,-3.91887429885606e-06
+R,Random Forest,natural prevalence,tree-path-dependent,probability,state_FL,State = FL,state,1.73009774533208e-05,-1.8417979370192534e-06
+R,Random Forest,natural prevalence,tree-path-dependent,probability,state_GA,State = GA,state,9.218064273255247e-06,-3.9449425476516494e-07
+R,Random Forest,natural prevalence,tree-path-dependent,probability,state_HI,State = HI,state,1.4246073705321558e-07,1.2008855152531845e-07
+R,Random Forest,natural prevalence,tree-path-dependent,probability,state_IA,State = IA,state,1.0345537306208866e-05,6.262925803434679e-07
+R,Random Forest,natural prevalence,tree-path-dependent,probability,state_ID,State = ID,state,3.263382027182985e-06,-2.077099224835287e-06
+R,Random Forest,natural prevalence,tree-path-dependent,probability,state_IL,State = IL,state,2.5465709065672853e-05,-2.919960225595762e-06
+R,Random Forest,natural prevalence,tree-path-dependent,probability,state_IN,State = IN,state,7.5024227611076e-06,-2.4755424575779962e-06
+R,Random Forest,natural prevalence,tree-path-dependent,probability,state_KS,State = KS,state,2.0390498909540464e-05,-7.041659011710845e-06
+R,Random Forest,natural prevalence,tree-path-dependent,probability,state_KY,State = KY,state,1.2222711108379037e-05,-6.672546281877269e-07
+R,Random Forest,natural prevalence,tree-path-dependent,probability,state_LA,State = LA,state,3.808871450866797e-05,-2.269057027221722e-05
+R,Random Forest,natural prevalence,tree-path-dependent,probability,state_MA,State = MA,state,3.644486034444177e-06,1.2146343020201972e-07
+R,Random Forest,natural prevalence,tree-path-dependent,probability,state_MD,State = MD,state,2.2022490622551887e-05,-5.287248210787484e-06
+R,Random Forest,natural prevalence,tree-path-dependent,probability,state_ME,State = ME,state,4.727009086519292e-06,-1.821903824298202e-06
+R,Random Forest,natural prevalence,tree-path-dependent,probability,state_MI,State = MI,state,1.0824798007502148e-05,2.244217462233123e-06
+R,Random Forest,natural prevalence,tree-path-dependent,probability,state_MN,State = MN,state,3.8400044667706354e-05,-2.5766125480408565e-05
+R,Random Forest,natural prevalence,tree-path-dependent,probability,state_MO,State = MO,state,2.517679642610755e-05,-7.581927508907134e-06
+R,Random Forest,natural prevalence,tree-path-dependent,probability,state_MS,State = MS,state,4.520519105350833e-06,-1.3178113837409247e-06
+R,Random Forest,natural prevalence,tree-path-dependent,probability,state_MT,State = MT,state,1.9090491971786076e-05,-7.559673824791709e-06
+R,Random Forest,natural prevalence,tree-path-dependent,probability,state_NC,State = NC,state,1.3013007413062322e-05,2.8015982220143247e-06
+R,Random Forest,natural prevalence,tree-path-dependent,probability,state_ND,State = ND,state,6.947265764231218e-06,8.858191347331046e-07
+R,Random Forest,natural prevalence,tree-path-dependent,probability,state_NE,State = NE,state,1.584149030953925e-05,-2.5632319213384457e-08
+R,Random Forest,natural prevalence,tree-path-dependent,probability,state_NH,State = NH,state,5.884874299571886e-06,-1.8758657122777568e-06
+R,Random Forest,natural prevalence,tree-path-dependent,probability,state_NJ,State = NJ,state,4.607362737493616e-06,-1.7230813880398204e-06
+R,Random Forest,natural prevalence,tree-path-dependent,probability,state_NM,State = NM,state,1.0149666466427826e-05,-1.2055643900006625e-06
+R,Random Forest,natural prevalence,tree-path-dependent,probability,state_NV,State = NV,state,3.8073835522906668e-06,-4.811337977498239e-07
+R,Random Forest,natural prevalence,tree-path-dependent,probability,state_NY,State = NY,state,2.9828036651597887e-05,-8.492374586100215e-06
+R,Random Forest,natural prevalence,tree-path-dependent,probability,state_OH,State = OH,state,5.4599620482428035e-05,-2.8237067026645103e-05
+R,Random Forest,natural prevalence,tree-path-dependent,probability,state_OK,State = OK,state,1.0308253436816011e-05,-1.669695359285011e-06
+R,Random Forest,natural prevalence,tree-path-dependent,probability,state_OR,State = OR,state,8.76840076695731e-06,-5.2524966776379494e-06
+R,Random Forest,natural prevalence,tree-path-dependent,probability,state_PA,State = PA,state,5.750818898917554e-05,-2.4809415540330053e-05
+R,Random Forest,natural prevalence,tree-path-dependent,probability,state_RI,State = RI,state,1.6046863719228008e-06,-1.1128381355483108e-06
+R,Random Forest,natural prevalence,tree-path-dependent,probability,state_SC,State = SC,state,1.20590565319986e-05,-3.6349705205147645e-06
+R,Random Forest,natural prevalence,tree-path-dependent,probability,state_SD,State = SD,state,1.0519378687038308e-05,-3.7142873962063455e-06
+R,Random Forest,natural prevalence,tree-path-dependent,probability,state_TN,State = TN,state,1.6686630597318045e-05,-4.923813707112586e-06
+R,Random Forest,natural prevalence,tree-path-dependent,probability,state_TX,State = TX,state,2.1564615241855036e-05,-8.369196157216008e-06
+R,Random Forest,natural prevalence,tree-path-dependent,probability,state_UT,State = UT,state,3.5535930119085008e-06,4.0006079604300267e-07
+R,Random Forest,natural prevalence,tree-path-dependent,probability,state_VA,State = VA,state,1.3547307981569076e-05,-6.5702857949185136e-06
+R,Random Forest,natural prevalence,tree-path-dependent,probability,state_VT,State = VT,state,6.4864370162195915e-06,-1.6551746130437208e-06
+R,Random Forest,natural prevalence,tree-path-dependent,probability,state_WA,State = WA,state,4.597615767515674e-06,3.7572337531344495e-08
+R,Random Forest,natural prevalence,tree-path-dependent,probability,state_WI,State = WI,state,7.2110881601966e-06,1.3497512975763384e-06
+R,Random Forest,natural prevalence,tree-path-dependent,probability,state_WV,State = WV,state,1.1200686346614728e-05,-7.970640886892515e-07
+R,Random Forest,natural prevalence,tree-path-dependent,probability,state_WY,State = WY,state,2.2723296400520246e-05,-1.1097694352285082e-06
+R,Random Forest,natural prevalence,tree-path-dependent,probability,city_ordinal,City (alphabetical code),city,0.0002010303994859583,3.5594728142903616e-05
+R,Random Forest,natural prevalence,tree-path-dependent,probability,job_ordinal,Occupation (alphabetical code),occupation,0.00013028434185551833,1.0998166894882817e-05
+R,Random Forest,"balanced, first 500",interventional (1000 training rows),probability,amt,Amount spent (USD),amount,0.406027989837325,0.40601318506864975
+R,Random Forest,"balanced, first 500",interventional (1000 training rows),probability,city_pop,Population of the city,city population,0.009923809034725391,0.0010745622714624936
+R,Random Forest,"balanced, first 500",interventional (1000 training rows),probability,lat,Cardholder home latitude,location,0.001449287462650832,-0.00026375127669659413
+R,Random Forest,"balanced, first 500",interventional (1000 training rows),probability,long,Cardholder home longitude,location,0.0011930485038945098,-9.591627947989206e-05
+R,Random Forest,"balanced, first 500",interventional (1000 training rows),probability,merch_lat,Merchant latitude,location,0.001349238402642591,-0.00037275685461319284
+R,Random Forest,"balanced, first 500",interventional (1000 training rows),probability,merch_long,Merchant longitude,location,0.001235364786019304,-5.062402551348478e-05
+R,Random Forest,"balanced, first 500",interventional (1000 training rows),probability,gender,Gender,gender,0.023540298954869403,0.01615982681595622
+R,Random Forest,"balanced, first 500",interventional (1000 training rows),probability,age,Cardholder age,age,0.05260592831518835,0.03921214749933553
+R,Random Forest,"balanced, first 500",interventional (1000 training rows),probability,hour_of_day,Hour of day (0-23),time,0.10870617963550193,0.10596921115053969
+R,Random Forest,"balanced, first 500",interventional (1000 training rows),probability,day_of_week,Day of week (0 = Monday),time,0.0010055624134402894,5.763986370167658e-05
+R,Random Forest,"balanced, first 500",interventional (1000 training rows),probability,category_entertainment,Category = entertainment,category,0.007178210315422269,0.005971657728251455
+R,Random Forest,"balanced, first 500",interventional (1000 training rows),probability,category_food_dining,Category = food and dining,category,0.0037287052381383755,0.0006160303703726652
+R,Random Forest,"balanced, first 500",interventional (1000 training rows),probability,category_gas_transport,Category = gas and transport,category,0.03876630138445809,0.033951138022935666
+R,Random Forest,"balanced, first 500",interventional (1000 training rows),probability,category_grocery_net,Category = grocery (online),category,0.0051674142969977644,0.004928814517112499
+R,Random Forest,"balanced, first 500",interventional (1000 training rows),probability,category_grocery_pos,Category = grocery (in store),category,0.11102632761729632,0.09911469676071354
+R,Random Forest,"balanced, first 500",interventional (1000 training rows),probability,category_health_fitness,Category = health and fitness,category,0.00034158601937066225,0.0003135838741008659
+R,Random Forest,"balanced, first 500",interventional (1000 training rows),probability,category_home,Category = home products,category,0.005270127427557045,0.005165329044175209
+R,Random Forest,"balanced, first 500",interventional (1000 training rows),probability,category_kids_pets,Category = kids and pets,category,0.0007736430717957214,0.0006679149320100452
+R,Random Forest,"balanced, first 500",interventional (1000 training rows),probability,category_misc_net,Category = miscellaneous (online),category,0.009981005983703717,0.007289009725273232
+R,Random Forest,"balanced, first 500",interventional (1000 training rows),probability,category_misc_pos,Category = miscellaneous (in store),category,0.005007435474768148,0.003669252660115986
+R,Random Forest,"balanced, first 500",interventional (1000 training rows),probability,category_personal_care,Category = personal care,category,0.0006287702978931156,0.0004668853242849338
+R,Random Forest,"balanced, first 500",interventional (1000 training rows),probability,category_shopping_net,Category = shopping (online),category,0.018056985471662644,0.017252269297508716
+R,Random Forest,"balanced, first 500",interventional (1000 training rows),probability,category_shopping_pos,Category = shopping (in store),category,0.0059420047158794485,0.00505059958097917
+R,Random Forest,"balanced, first 500",interventional (1000 training rows),probability,category_travel,Category = travel,category,0.0030522350561934487,0.003003321311659977
+R,Random Forest,"balanced, first 500",interventional (1000 training rows),probability,state_AK,State = AK,state,4.864450344002762e-07,-2.910680475733898e-07
+R,Random Forest,"balanced, first 500",interventional (1000 training rows),probability,state_AL,State = AL,state,0.00029978131922832573,1.7071453587251245e-05
+R,Random Forest,"balanced, first 500",interventional (1000 training rows),probability,state_AR,State = AR,state,0.00015658805429113773,1.7476942932392395e-05
+R,Random Forest,"balanced, first 500",interventional (1000 training rows),probability,state_AZ,State = AZ,state,3.63457039485447e-05,3.211403471311346e-05
+R,Random Forest,"balanced, first 500",interventional (1000 training rows),probability,state_CA,State = CA,state,9.233974690164607e-05,3.458762743084891e-05
+R,Random Forest,"balanced, first 500",interventional (1000 training rows),probability,state_CO,State = CO,state,3.05973908691306e-05,-8.098911033716163e-06
+R,Random Forest,"balanced, first 500",interventional (1000 training rows),probability,state_CT,State = CT,state,3.7297954823799635e-06,-2.0913761812577224e-06
+R,Random Forest,"balanced, first 500",interventional (1000 training rows),probability,state_DC,State = DC,state,2.430036502911616e-06,-2.2874820905347973e-06
+R,Random Forest,"balanced, first 500",interventional (1000 training rows),probability,state_DE,State = DE,state,0.0,0.0
+R,Random Forest,"balanced, first 500",interventional (1000 training rows),probability,state_FL,State = FL,state,0.0001042492514349571,6.066841379754802e-06
+R,Random Forest,"balanced, first 500",interventional (1000 training rows),probability,state_GA,State = GA,state,6.302412914576012e-05,2.7357146314282426e-05
+R,Random Forest,"balanced, first 500",interventional (1000 training rows),probability,state_HI,State = HI,state,5.982928678422469e-07,5.705762001744006e-07
+R,Random Forest,"balanced, first 500",interventional (1000 training rows),probability,state_IA,State = IA,state,0.00010970618205238839,-2.1260688889528568e-05
+R,Random Forest,"balanced, first 500",interventional (1000 training rows),probability,state_ID,State = ID,state,1.5057062469033564e-06,9.382228481106961e-07
+R,Random Forest,"balanced, first 500",interventional (1000 training rows),probability,state_IL,State = IL,state,0.00026444523260174655,8.485355635286006e-05
+R,Random Forest,"balanced, first 500",interventional (1000 training rows),probability,state_IN,State = IN,state,2.594295949377686e-05,5.79752751441131e-06
+R,Random Forest,"balanced, first 500",interventional (1000 training rows),probability,state_KS,State = KS,state,0.00019713511095183068,-3.835812042187713e-05
+R,Random Forest,"balanced, first 500",interventional (1000 training rows),probability,state_KY,State = KY,state,0.00010891025782764397,6.885577867775329e-06
+R,Random Forest,"balanced, first 500",interventional (1000 training rows),probability,state_LA,State = LA,state,9.083640118050326e-05,4.643830875093457e-05
+R,Random Forest,"balanced, first 500",interventional (1000 training rows),probability,state_MA,State = MA,state,2.532965933027502e-05,1.822018576731594e-06
+R,Random Forest,"balanced, first 500",interventional (1000 training rows),probability,state_MD,State = MD,state,5.245698212277844e-05,-2.1122522071454995e-05
+R,Random Forest,"balanced, first 500",interventional (1000 training rows),probability,state_ME,State = ME,state,1.0609552965156113e-05,-2.27427648798328e-06
+R,Random Forest,"balanced, first 500",interventional (1000 training rows),probability,state_MI,State = MI,state,0.00023456627785426706,7.355329285720248e-05
+R,Random Forest,"balanced, first 500",interventional (1000 training rows),probability,state_MN,State = MN,state,9.5550986480935e-05,4.764783952194056e-05
+R,Random Forest,"balanced, first 500",interventional (1000 training rows),probability,state_MO,State = MO,state,0.00030056229487614107,-7.385943429135656e-05
+R,Random Forest,"balanced, first 500",interventional (1000 training rows),probability,state_MS,State = MS,state,3.595286234312439e-05,-7.887077182881803e-07
+R,Random Forest,"balanced, first 500",interventional (1000 training rows),probability,state_MT,State = MT,state,2.0457639104720274e-05,-2.0297538617973253e-05
+R,Random Forest,"balanced, first 500",interventional (1000 training rows),probability,state_NC,State = NC,state,0.0001842797472499871,0.00013814247273048383
+R,Random Forest,"balanced, first 500",interventional (1000 training rows),probability,state_ND,State = ND,state,1.617781585550913e-05,-1.605919241105826e-05
+R,Random Forest,"balanced, first 500",interventional (1000 training rows),probability,state_NE,State = NE,state,8.919149841468075e-05,-3.351656628849853e-05
+R,Random Forest,"balanced, first 500",interventional (1000 training rows),probability,state_NH,State = NH,state,3.1653616601927316e-05,4.481700411483269e-06
+R,Random Forest,"balanced, first 500",interventional (1000 training rows),probability,state_NJ,State = NJ,state,9.280736786264843e-05,2.2513520113471148e-06
+R,Random Forest,"balanced, first 500",interventional (1000 training rows),probability,state_NM,State = NM,state,0.0004053445192132959,-0.00020318396041726233
+R,Random Forest,"balanced, first 500",interventional (1000 training rows),probability,state_NV,State = NV,state,7.072868256661102e-05,4.1666960033733057e-05
+R,Random Forest,"balanced, first 500",interventional (1000 training rows),probability,state_NY,State = NY,state,0.0001330598025810652,-2.0240954691790042e-05
+R,Random Forest,"balanced, first 500",interventional (1000 training rows),probability,state_OH,State = OH,state,0.00019437692469467295,9.19873566647685e-05
+R,Random Forest,"balanced, first 500",interventional (1000 training rows),probability,state_OK,State = OK,state,7.820722493699453e-05,-3.0594571312513484e-05
+R,Random Forest,"balanced, first 500",interventional (1000 training rows),probability,state_OR,State = OR,state,6.619296435660986e-05,-1.5679597620853107e-05
+R,Random Forest,"balanced, first 500",interventional (1000 training rows),probability,state_PA,State = PA,state,0.0003178646364025327,-7.827580929073407e-05
+R,Random Forest,"balanced, first 500",interventional (1000 training rows),probability,state_RI,State = RI,state,9.745382734844925e-06,-9.483761003397963e-06
+R,Random Forest,"balanced, first 500",interventional (1000 training rows),probability,state_SC,State = SC,state,0.00010883605706211843,1.1697426186459123e-05
+R,Random Forest,"balanced, first 500",interventional (1000 training rows),probability,state_SD,State = SD,state,3.7075836314756054e-05,2.400574212904259e-05
+R,Random Forest,"balanced, first 500",interventional (1000 training rows),probability,state_TN,State = TN,state,8.600774787060302e-05,4.3659546717225416e-05
+R,Random Forest,"balanced, first 500",interventional (1000 training rows),probability,state_TX,State = TX,state,0.00030487767035200763,4.8242800663426696e-05
+R,Random Forest,"balanced, first 500",interventional (1000 training rows),probability,state_UT,State = UT,state,4.5414711229825755e-05,-1.9050961701245073e-05
+R,Random Forest,"balanced, first 500",interventional (1000 training rows),probability,state_VA,State = VA,state,0.000876191730657964,-0.0005316094882890543
+R,Random Forest,"balanced, first 500",interventional (1000 training rows),probability,state_VT,State = VT,state,0.0002357130864422488,-0.0001894299759547759
+R,Random Forest,"balanced, first 500",interventional (1000 training rows),probability,state_WA,State = WA,state,2.7062511789108457e-05,2.1072219211794398e-05
+R,Random Forest,"balanced, first 500",interventional (1000 training rows),probability,state_WI,State = WI,state,8.352405058372682e-05,-2.45174029753513e-05
+R,Random Forest,"balanced, first 500",interventional (1000 training rows),probability,state_WV,State = WV,state,3.98972914874703e-05,-1.8226245501912583e-05
+R,Random Forest,"balanced, first 500",interventional (1000 training rows),probability,state_WY,State = WY,state,6.957512538187223e-05,-2.234765812858072e-05
+R,Random Forest,"balanced, first 500",interventional (1000 training rows),probability,city_ordinal,City (alphabetical code),city,0.0015750542754151703,-0.00023684826603079118
+R,Random Forest,"balanced, first 500",interventional (1000 training rows),probability,job_ordinal,Occupation (alphabetical code),occupation,0.0014720332694367457,-0.00021353515114729522
+R,CatBoost,balanced case-control,tree-path-dependent,log-odds,amt,Amount spent (USD),amount,3.8934681356568737,3.2945258105118227
+R,CatBoost,balanced case-control,tree-path-dependent,log-odds,city_pop,Population of the city,city population,0.15475426567129888,0.008693904050448816
+R,CatBoost,balanced case-control,tree-path-dependent,log-odds,lat,Cardholder home latitude,location,0.028704751970514926,-0.00270388444295315
+R,CatBoost,balanced case-control,tree-path-dependent,log-odds,long,Cardholder home longitude,location,0.024068646906280577,0.0022269622771862673
+R,CatBoost,balanced case-control,tree-path-dependent,log-odds,merch_lat,Merchant latitude,location,0.022005171905374456,-0.00825730639040784
+R,CatBoost,balanced case-control,tree-path-dependent,log-odds,merch_long,Merchant longitude,location,0.06088081655637335,-0.00271375579794854
+R,CatBoost,balanced case-control,tree-path-dependent,log-odds,gender,Gender,gender,0.19310117116827472,0.07652139811302637
+R,CatBoost,balanced case-control,tree-path-dependent,log-odds,age,Cardholder age,age,0.5342005020694252,0.37931376227205493
+R,CatBoost,balanced case-control,tree-path-dependent,log-odds,hour_of_day,Hour of day (0-23),time,1.4580104182662348,0.9270315350647924
+R,CatBoost,balanced case-control,tree-path-dependent,log-odds,day_of_week,Day of week (0 = Monday),time,0.049970407709983115,0.0017757549843900058
+R,CatBoost,balanced case-control,tree-path-dependent,log-odds,category_entertainment,Category = entertainment,category,0.3095340966204791,0.10388560984649825
+R,CatBoost,balanced case-control,tree-path-dependent,log-odds,category_food_dining,Category = food and dining,category,0.24400134635850315,0.05268225620740739
+R,CatBoost,balanced case-control,tree-path-dependent,log-odds,category_gas_transport,Category = gas and transport,category,0.7619981123991536,0.5862506993152574
+R,CatBoost,balanced case-control,tree-path-dependent,log-odds,category_grocery_net,Category = grocery (online),category,0.18378793582352979,0.086684673420527
+R,CatBoost,balanced case-control,tree-path-dependent,log-odds,category_grocery_pos,Category = grocery (in store),category,0.6303515211543684,0.41148058125915293
+R,CatBoost,balanced case-control,tree-path-dependent,log-odds,category_health_fitness,Category = health and fitness,category,0.06407104487669468,0.025180311605980974
+R,CatBoost,balanced case-control,tree-path-dependent,log-odds,category_home,Category = home products,category,0.4250667489598761,0.1646105062752515
+R,CatBoost,balanced case-control,tree-path-dependent,log-odds,category_kids_pets,Category = kids and pets,category,0.17936159388389236,0.038339276021379494
+R,CatBoost,balanced case-control,tree-path-dependent,log-odds,category_misc_net,Category = miscellaneous (online),category,0.23083028612081727,-0.03698375308215708
+R,CatBoost,balanced case-control,tree-path-dependent,log-odds,category_misc_pos,Category = miscellaneous (in store),category,0.1125616749067915,0.05003876845803183
+R,CatBoost,balanced case-control,tree-path-dependent,log-odds,category_personal_care,Category = personal care,category,0.0631252480692993,0.009237064925575775
+R,CatBoost,balanced case-control,tree-path-dependent,log-odds,category_shopping_net,Category = shopping (online),category,0.32370301769301607,-0.007451250136673025
+R,CatBoost,balanced case-control,tree-path-dependent,log-odds,category_shopping_pos,Category = shopping (in store),category,0.2117600133481949,0.015061043993357351
+R,CatBoost,balanced case-control,tree-path-dependent,log-odds,category_travel,Category = travel,category,0.07897917700432416,0.022449891786677563
+R,CatBoost,balanced case-control,tree-path-dependent,log-odds,state_AK,State = AK,state,3.7442727895706124e-05,-3.39427878427295e-05
+R,CatBoost,balanced case-control,tree-path-dependent,log-odds,state_AL,State = AL,state,0.0020657523491177878,-0.0009135324925762792
+R,CatBoost,balanced case-control,tree-path-dependent,log-odds,state_AR,State = AR,state,0.0004896572028870647,-0.00011994198234812107
+R,CatBoost,balanced case-control,tree-path-dependent,log-odds,state_AZ,State = AZ,state,0.0001885519355038084,0.000175287506375281
+R,CatBoost,balanced case-control,tree-path-dependent,log-odds,state_CA,State = CA,state,0.0006079524816539561,-0.0002036117855183604
+R,CatBoost,balanced case-control,tree-path-dependent,log-odds,state_CO,State = CO,state,0.0008239793383146205,-0.00010886387530019184
+R,CatBoost,balanced case-control,tree-path-dependent,log-odds,state_CT,State = CT,state,0.0002503711178904483,0.0002503711178904483
+R,CatBoost,balanced case-control,tree-path-dependent,log-odds,state_DC,State = DC,state,0.0007178762224684809,0.00046619729265579934
+R,CatBoost,balanced case-control,tree-path-dependent,log-odds,state_DE,State = DE,state,0.00011544561203444442,-7.258086633921628e-05
+R,CatBoost,balanced case-control,tree-path-dependent,log-odds,state_FL,State = FL,state,0.0009932941092703172,-0.00043263565849890727
+R,CatBoost,balanced case-control,tree-path-dependent,log-odds,state_GA,State = GA,state,0.0,0.0
+R,CatBoost,balanced case-control,tree-path-dependent,log-odds,state_HI,State = HI,state,0.0,0.0
+R,CatBoost,balanced case-control,tree-path-dependent,log-odds,state_IA,State = IA,state,0.001456756696600542,-0.00013592282741667455
+R,CatBoost,balanced case-control,tree-path-dependent,log-odds,state_ID,State = ID,state,0.0011972551530767372,0.00036689063827079703
+R,CatBoost,balanced case-control,tree-path-dependent,log-odds,state_IL,State = IL,state,0.0027431419066586303,0.0011791316582141769
+R,CatBoost,balanced case-control,tree-path-dependent,log-odds,state_IN,State = IN,state,0.006505655188023718,0.0003310793101095363
+R,CatBoost,balanced case-control,tree-path-dependent,log-odds,state_KS,State = KS,state,0.0001579075817095848,-2.6022257863656676e-05
+R,CatBoost,balanced case-control,tree-path-dependent,log-odds,state_KY,State = KY,state,0.0013189438932277701,0.0009439312692114965
+R,CatBoost,balanced case-control,tree-path-dependent,log-odds,state_LA,State = LA,state,0.00015877462532481396,2.582213630603109e-05
+R,CatBoost,balanced case-control,tree-path-dependent,log-odds,state_MA,State = MA,state,0.00012270918473218385,2.6446032092321958e-05
+R,CatBoost,balanced case-control,tree-path-dependent,log-odds,state_MD,State = MD,state,0.0007483929674698085,-7.874026080508526e-06
+R,CatBoost,balanced case-control,tree-path-dependent,log-odds,state_ME,State = ME,state,0.0,0.0
+R,CatBoost,balanced case-control,tree-path-dependent,log-odds,state_MI,State = MI,state,0.0034424252403393264,0.00016713538846482588
+R,CatBoost,balanced case-control,tree-path-dependent,log-odds,state_MN,State = MN,state,0.0016488490233791482,-0.00046731816393519386
+R,CatBoost,balanced case-control,tree-path-dependent,log-odds,state_MO,State = MO,state,0.0041770395117542635,-0.00041032127808345454
+R,CatBoost,balanced case-control,tree-path-dependent,log-odds,state_MS,State = MS,state,0.000833370068854377,0.0002148530930200828
+R,CatBoost,balanced case-control,tree-path-dependent,log-odds,state_MT,State = MT,state,6.961070975459072e-05,2.0548265295206898e-05
+R,CatBoost,balanced case-control,tree-path-dependent,log-odds,state_NC,State = NC,state,0.002036820977172518,5.418843935986206e-05
+R,CatBoost,balanced case-control,tree-path-dependent,log-odds,state_ND,State = ND,state,0.0002998531863584377,0.00016639498471430336
+R,CatBoost,balanced case-control,tree-path-dependent,log-odds,state_NE,State = NE,state,0.008495130761670883,-0.0030878307734982574
+R,CatBoost,balanced case-control,tree-path-dependent,log-odds,state_NH,State = NH,state,0.00030034192668254887,-2.1251877545694907e-05
+R,CatBoost,balanced case-control,tree-path-dependent,log-odds,state_NJ,State = NJ,state,0.001451074638612091,1.5142961548257803e-05
+R,CatBoost,balanced case-control,tree-path-dependent,log-odds,state_NM,State = NM,state,0.0027104818796707536,-0.0003433586531468072
+R,CatBoost,balanced case-control,tree-path-dependent,log-odds,state_NV,State = NV,state,0.0007411210031342799,-0.0003368823639679411
+R,CatBoost,balanced case-control,tree-path-dependent,log-odds,state_NY,State = NY,state,0.004688838856099106,-0.001194972215524023
+R,CatBoost,balanced case-control,tree-path-dependent,log-odds,state_OH,State = OH,state,0.0005764480456587454,-0.00016275591540159648
+R,CatBoost,balanced case-control,tree-path-dependent,log-odds,state_OK,State = OK,state,0.0,0.0
+R,CatBoost,balanced case-control,tree-path-dependent,log-odds,state_OR,State = OR,state,0.0015276206716387526,0.0004844867386055085
+R,CatBoost,balanced case-control,tree-path-dependent,log-odds,state_PA,State = PA,state,0.00470562929825279,-0.0004496756761479258
+R,CatBoost,balanced case-control,tree-path-dependent,log-odds,state_RI,State = RI,state,0.0002564459384106025,-0.00012467227140090486
+R,CatBoost,balanced case-control,tree-path-dependent,log-odds,state_SC,State = SC,state,0.0044922667931006684,0.0009625966639915935
+R,CatBoost,balanced case-control,tree-path-dependent,log-odds,state_SD,State = SD,state,0.0002478159473197677,0.0002160463369856545
+R,CatBoost,balanced case-control,tree-path-dependent,log-odds,state_TN,State = TN,state,0.00031284702575032163,1.4832451195659319e-05
+R,CatBoost,balanced case-control,tree-path-dependent,log-odds,state_TX,State = TX,state,0.001046200107238677,5.546327335173724e-05
+R,CatBoost,balanced case-control,tree-path-dependent,log-odds,state_UT,State = UT,state,0.0008810164203358355,-8.184924946790793e-05
+R,CatBoost,balanced case-control,tree-path-dependent,log-odds,state_VA,State = VA,state,0.00263990809909288,-0.000496119471127648
+R,CatBoost,balanced case-control,tree-path-dependent,log-odds,state_VT,State = VT,state,0.0025922046345823236,-0.0007168345250362369
+R,CatBoost,balanced case-control,tree-path-dependent,log-odds,state_WA,State = WA,state,0.0006890438887991064,-3.74108678298159e-05
+R,CatBoost,balanced case-control,tree-path-dependent,log-odds,state_WI,State = WI,state,0.0014319460870677423,-6.264920777935571e-05
+R,CatBoost,balanced case-control,tree-path-dependent,log-odds,state_WV,State = WV,state,0.0005457011844483459,3.807425754725231e-05
+R,CatBoost,balanced case-control,tree-path-dependent,log-odds,state_WY,State = WY,state,0.003932534720969846,-0.00013050596654072622
+R,CatBoost,balanced case-control,tree-path-dependent,log-odds,city_ordinal,City (alphabetical code),city,0.030355069742585436,-0.004662192578032896
+R,CatBoost,balanced case-control,tree-path-dependent,log-odds,job_ordinal,Occupation (alphabetical code),occupation,0.027435293040816284,-0.0011471695189708504
+R,CatBoost,natural prevalence,tree-path-dependent,log-odds,amt,Amount spent (USD),amount,0.9958508829579594,-0.18292369932244812
+R,CatBoost,natural prevalence,tree-path-dependent,log-odds,city_pop,Population of the city,city population,0.09531925900348304,-0.011024824002088648
+R,CatBoost,natural prevalence,tree-path-dependent,log-odds,lat,Cardholder home latitude,location,0.029413319986036135,-0.0023363754796389387
+R,CatBoost,natural prevalence,tree-path-dependent,log-odds,long,Cardholder home longitude,location,0.02597852463066119,0.005080912933491376
+R,CatBoost,natural prevalence,tree-path-dependent,log-odds,merch_lat,Merchant latitude,location,0.02203161043589245,-0.0068006359456241495
+R,CatBoost,natural prevalence,tree-path-dependent,log-odds,merch_long,Merchant longitude,location,0.07102679622814656,-0.0007771818648517091
+R,CatBoost,natural prevalence,tree-path-dependent,log-odds,gender,Gender,gender,0.07021734191262449,-0.0025784728703542085
+R,CatBoost,natural prevalence,tree-path-dependent,log-odds,age,Cardholder age,age,0.2405176863245376,0.06851195858361164
+R,CatBoost,natural prevalence,tree-path-dependent,log-odds,hour_of_day,Hour of day (0-23),time,0.8440228498552463,-0.10456237385686488
+R,CatBoost,natural prevalence,tree-path-dependent,log-odds,day_of_week,Day of week (0 = Monday),time,0.054589150974623434,0.0010360619507952954
+R,CatBoost,natural prevalence,tree-path-dependent,log-odds,category_entertainment,Category = entertainment,category,0.4829403072216531,-0.0028860800079637326
+R,CatBoost,natural prevalence,tree-path-dependent,log-odds,category_food_dining,Category = food and dining,category,0.3013925354779128,-0.014162904503474209
+R,CatBoost,natural prevalence,tree-path-dependent,log-odds,category_gas_transport,Category = gas and transport,category,0.6568808528155847,0.23272069756893146
+R,CatBoost,natural prevalence,tree-path-dependent,log-odds,category_grocery_net,Category = grocery (online),category,0.21181972106676503,-0.010268847891877613
+R,CatBoost,natural prevalence,tree-path-dependent,log-odds,category_grocery_pos,Category = grocery (in store),category,0.46503603320312614,0.04273796448215787
+R,CatBoost,natural prevalence,tree-path-dependent,log-odds,category_health_fitness,Category = health and fitness,category,0.07020560331003274,0.001689845213550314
+R,CatBoost,natural prevalence,tree-path-dependent,log-odds,category_home,Category = home products,category,0.6340892082266498,0.029405577943691516
+R,CatBoost,natural prevalence,tree-path-dependent,log-odds,category_kids_pets,Category = kids and pets,category,0.18910407392988363,-0.004940538475813193
+R,CatBoost,natural prevalence,tree-path-dependent,log-odds,category_misc_net,Category = miscellaneous (online),category,0.22318686117649864,-0.009290214175895163
+R,CatBoost,natural prevalence,tree-path-dependent,log-odds,category_misc_pos,Category = miscellaneous (in store),category,0.09735837845620567,-0.014362736196453455
+R,CatBoost,natural prevalence,tree-path-dependent,log-odds,category_personal_care,Category = personal care,category,0.07493685007572949,-0.0007287357086631604
+R,CatBoost,natural prevalence,tree-path-dependent,log-odds,category_shopping_net,Category = shopping (online),category,0.3705938272511667,0.005222892851186347
+R,CatBoost,natural prevalence,tree-path-dependent,log-odds,category_shopping_pos,Category = shopping (in store),category,0.24754027969404274,0.009029540003279588
+R,CatBoost,natural prevalence,tree-path-dependent,log-odds,category_travel,Category = travel,category,0.052027296439348426,-0.020711314938436056
+R,CatBoost,natural prevalence,tree-path-dependent,log-odds,state_AK,State = AK,state,7.28006396908654e-05,-1.783929662833521e-05
+R,CatBoost,natural prevalence,tree-path-dependent,log-odds,state_AL,State = AL,state,0.0015180897044357283,-0.0004281374919097642
+R,CatBoost,natural prevalence,tree-path-dependent,log-odds,state_AR,State = AR,state,0.0004183938648976599,-6.012964926874758e-05
+R,CatBoost,natural prevalence,tree-path-dependent,log-odds,state_AZ,State = AZ,state,0.0003030660298044519,0.0002760062522287054
+R,CatBoost,natural prevalence,tree-path-dependent,log-odds,state_CA,State = CA,state,0.0005504568572429996,-8.998046139638027e-05
+R,CatBoost,natural prevalence,tree-path-dependent,log-odds,state_CO,State = CO,state,0.0008953936548147268,-6.972278549339614e-06
+R,CatBoost,natural prevalence,tree-path-dependent,log-odds,state_CT,State = CT,state,0.0003558629416670312,0.0003558629416670312
+R,CatBoost,natural prevalence,tree-path-dependent,log-odds,state_DC,State = DC,state,0.0009766754644895343,0.0001907269412794448
+R,CatBoost,natural prevalence,tree-path-dependent,log-odds,state_DE,State = DE,state,3.928605549626825e-05,-3.888118451078432e-05
+R,CatBoost,natural prevalence,tree-path-dependent,log-odds,state_FL,State = FL,state,0.0009090437478577477,-0.0004589982391466421
+R,CatBoost,natural prevalence,tree-path-dependent,log-odds,state_GA,State = GA,state,0.0,0.0
+R,CatBoost,natural prevalence,tree-path-dependent,log-odds,state_HI,State = HI,state,0.0,0.0
+R,CatBoost,natural prevalence,tree-path-dependent,log-odds,state_IA,State = IA,state,0.001339671128417916,6.20112733701688e-05
+R,CatBoost,natural prevalence,tree-path-dependent,log-odds,state_ID,State = ID,state,0.001344671241124618,0.0001891259806488145
+R,CatBoost,natural prevalence,tree-path-dependent,log-odds,state_IL,State = IL,state,0.00407022095075678,0.000871072728944076
+R,CatBoost,natural prevalence,tree-path-dependent,log-odds,state_IN,State = IN,state,0.006364500174485785,0.00018035532810382576
+R,CatBoost,natural prevalence,tree-path-dependent,log-odds,state_KS,State = KS,state,0.00017343064343832172,-5.291176619483452e-07
+R,CatBoost,natural prevalence,tree-path-dependent,log-odds,state_KY,State = KY,state,0.0016937225796369159,0.001124303402550797
+R,CatBoost,natural prevalence,tree-path-dependent,log-odds,state_LA,State = LA,state,0.00015914519768835705,7.127935563817554e-06
+R,CatBoost,natural prevalence,tree-path-dependent,log-odds,state_MA,State = MA,state,0.00015182088159526407,-1.1449585875887211e-05
+R,CatBoost,natural prevalence,tree-path-dependent,log-odds,state_MD,State = MD,state,0.0008641954129841936,-3.762820927904213e-05
+R,CatBoost,natural prevalence,tree-path-dependent,log-odds,state_ME,State = ME,state,0.0,0.0
+R,CatBoost,natural prevalence,tree-path-dependent,log-odds,state_MI,State = MI,state,0.003621150521853454,0.0003810514091292092
+R,CatBoost,natural prevalence,tree-path-dependent,log-odds,state_MN,State = MN,state,0.001649477502137735,-0.0003682743135182629
+R,CatBoost,natural prevalence,tree-path-dependent,log-odds,state_MO,State = MO,state,0.004454875681562859,-0.00027612080513881015
+R,CatBoost,natural prevalence,tree-path-dependent,log-odds,state_MS,State = MS,state,0.0009641127532221001,0.00020478488142069965
+R,CatBoost,natural prevalence,tree-path-dependent,log-odds,state_MT,State = MT,state,0.00010900966222306008,-1.8580878384945477e-05
+R,CatBoost,natural prevalence,tree-path-dependent,log-odds,state_NC,State = NC,state,0.0021939259706698247,-0.0004779196932952989
+R,CatBoost,natural prevalence,tree-path-dependent,log-odds,state_ND,State = ND,state,0.00043450800361559904,0.0002803772275773897
+R,CatBoost,natural prevalence,tree-path-dependent,log-odds,state_NE,State = NE,state,0.006552414570270417,-0.0014039293953768419
+R,CatBoost,natural prevalence,tree-path-dependent,log-odds,state_NH,State = NH,state,0.0002545901021640785,8.18056900798765e-05
+R,CatBoost,natural prevalence,tree-path-dependent,log-odds,state_NJ,State = NJ,state,0.0014763074707175147,0.00013069227199052037
+R,CatBoost,natural prevalence,tree-path-dependent,log-odds,state_NM,State = NM,state,0.0021922789280901674,0.0003748651641236732
+R,CatBoost,natural prevalence,tree-path-dependent,log-odds,state_NV,State = NV,state,0.0007650446712581476,6.199831998605709e-05
+R,CatBoost,natural prevalence,tree-path-dependent,log-odds,state_NY,State = NY,state,0.006343047150311605,4.244759448345471e-05
+R,CatBoost,natural prevalence,tree-path-dependent,log-odds,state_OH,State = OH,state,0.0005402181968120436,-9.789262886447235e-05
+R,CatBoost,natural prevalence,tree-path-dependent,log-odds,state_OK,State = OK,state,0.0,0.0
+R,CatBoost,natural prevalence,tree-path-dependent,log-odds,state_OR,State = OR,state,0.0012179520534927734,7.943678446006866e-05
+R,CatBoost,natural prevalence,tree-path-dependent,log-odds,state_PA,State = PA,state,0.005413977347495696,-0.00048178476861163774
+R,CatBoost,natural prevalence,tree-path-dependent,log-odds,state_RI,State = RI,state,0.00017406659761458706,7.044299767489162e-05
+R,CatBoost,natural prevalence,tree-path-dependent,log-odds,state_SC,State = SC,state,0.0053681726599001745,-6.653699376772508e-05
+R,CatBoost,natural prevalence,tree-path-dependent,log-odds,state_SD,State = SD,state,0.00020243448555823574,0.00017679725743569393
+R,CatBoost,natural prevalence,tree-path-dependent,log-odds,state_TN,State = TN,state,0.0003571424015234179,-2.844513442350014e-06
+R,CatBoost,natural prevalence,tree-path-dependent,log-odds,state_TX,State = TX,state,0.0011846683996994492,6.0090675920186025e-06
+R,CatBoost,natural prevalence,tree-path-dependent,log-odds,state_UT,State = UT,state,0.0009257179375737294,-3.066105218956866e-05
+R,CatBoost,natural prevalence,tree-path-dependent,log-odds,state_VA,State = VA,state,0.0018934813453794018,0.00019089184374454005
+R,CatBoost,natural prevalence,tree-path-dependent,log-odds,state_VT,State = VT,state,0.001504155233790427,-4.849320198341279e-10
+R,CatBoost,natural prevalence,tree-path-dependent,log-odds,state_WA,State = WA,state,0.0009099816535531549,-0.00022153626940317212
+R,CatBoost,natural prevalence,tree-path-dependent,log-odds,state_WI,State = WI,state,0.0012454333441863955,2.3251480989905075e-05
+R,CatBoost,natural prevalence,tree-path-dependent,log-odds,state_WV,State = WV,state,0.0006334192528769413,-3.1386284743473e-05
+R,CatBoost,natural prevalence,tree-path-dependent,log-odds,state_WY,State = WY,state,0.0038790246784081417,0.00030948371700699495
+R,CatBoost,natural prevalence,tree-path-dependent,log-odds,city_ordinal,City (alphabetical code),city,0.032462261604886064,-0.0012734950422880675
+R,CatBoost,natural prevalence,tree-path-dependent,log-odds,job_ordinal,Occupation (alphabetical code),occupation,0.027807460843563808,-0.0005561962883696844
+R,CatBoost,"balanced, first 500",interventional (1000 training rows),log-odds,amt,Amount spent (USD),amount,6.97161993105354,6.97161993105354
+R,CatBoost,"balanced, first 500",interventional (1000 training rows),log-odds,city_pop,Population of the city,city population,0.24495887009183964,0.02610875431168505
+R,CatBoost,"balanced, first 500",interventional (1000 training rows),log-odds,lat,Cardholder home latitude,location,0.03550027049897455,-0.004655232266449308
+R,CatBoost,"balanced, first 500",interventional (1000 training rows),log-odds,long,Cardholder home longitude,location,0.03027430007019528,-0.0002926480937265833
+R,CatBoost,"balanced, first 500",interventional (1000 training rows),log-odds,merch_lat,Merchant latitude,location,0.023432412341977425,-0.0008437707512207077
+R,CatBoost,"balanced, first 500",interventional (1000 training rows),log-odds,merch_long,Merchant longitude,location,0.05385552740190126,-0.004131865666953974
+R,CatBoost,"balanced, first 500",interventional (1000 training rows),log-odds,gender,Gender,gender,0.30984754358005046,0.16030559403451536
+R,CatBoost,"balanced, first 500",interventional (1000 training rows),log-odds,age,Cardholder age,age,0.7656526022109118,0.5634445165894808
+R,CatBoost,"balanced, first 500",interventional (1000 training rows),log-odds,hour_of_day,Hour of day (0-23),time,2.2844845435711134,2.214089116313039
+R,CatBoost,"balanced, first 500",interventional (1000 training rows),log-odds,day_of_week,Day of week (0 = Monday),time,0.044284350554300744,0.00985594914186543
+R,CatBoost,"balanced, first 500",interventional (1000 training rows),log-odds,category_entertainment,Category = entertainment,category,0.1368594508777569,0.12852797734643934
+R,CatBoost,"balanced, first 500",interventional (1000 training rows),log-odds,category_food_dining,Category = food and dining,category,0.1758021632177968,0.17399808121748858
+R,CatBoost,"balanced, first 500",interventional (1000 training rows),log-odds,category_gas_transport,Category = gas and transport,category,0.725263721736637,0.715615220507279
+R,CatBoost,"balanced, first 500",interventional (1000 training rows),log-odds,category_grocery_net,Category = grocery (online),category,0.16132111739059443,0.16102817567488484
+R,CatBoost,"balanced, first 500",interventional (1000 training rows),log-odds,category_grocery_pos,Category = grocery (in store),category,0.7682526478818845,0.7598123842461972
+R,CatBoost,"balanced, first 500",interventional (1000 training rows),log-odds,category_health_fitness,Category = health and fitness,category,0.05762190681505487,0.03978239056197847
+R,CatBoost,"balanced, first 500",interventional (1000 training rows),log-odds,category_home,Category = home products,category,0.26942863139614903,0.2686507156383281
+R,CatBoost,"balanced, first 500",interventional (1000 training rows),log-odds,category_kids_pets,Category = kids and pets,category,0.1354342259035471,0.10646373858900239
+R,CatBoost,"balanced, first 500",interventional (1000 training rows),log-odds,category_misc_net,Category = miscellaneous (online),category,0.15623397793886296,-0.001772413275380738
+R,CatBoost,"balanced, first 500",interventional (1000 training rows),log-odds,category_misc_pos,Category = miscellaneous (in store),category,0.10407056454894582,0.08696888901307509
+R,CatBoost,"balanced, first 500",interventional (1000 training rows),log-odds,category_personal_care,Category = personal care,category,0.04747577420368881,0.02828121144748853
+R,CatBoost,"balanced, first 500",interventional (1000 training rows),log-odds,category_shopping_net,Category = shopping (online),category,0.2619711622649996,0.007069638414164686
+R,CatBoost,"balanced, first 500",interventional (1000 training rows),log-odds,category_shopping_pos,Category = shopping (in store),category,0.1770999441665586,0.07149540714966657
+R,CatBoost,"balanced, first 500",interventional (1000 training rows),log-odds,category_travel,Category = travel,category,0.08631232396856435,0.07904738551705227
+R,CatBoost,"balanced, first 500",interventional (1000 training rows),log-odds,state_AK,State = AK,state,1.5220962776853411e-05,-7.992374934792678e-06
+R,CatBoost,"balanced, first 500",interventional (1000 training rows),log-odds,state_AL,State = AL,state,0.0019595403428645584,-0.0004043113503214335
+R,CatBoost,"balanced, first 500",interventional (1000 training rows),log-odds,state_AR,State = AR,state,0.0005658514570228108,-0.0002079489028922289
+R,CatBoost,"balanced, first 500",interventional (1000 training rows),log-odds,state_AZ,State = AZ,state,0.00022149778749793768,-0.00020069385723024607
+R,CatBoost,"balanced, first 500",interventional (1000 training rows),log-odds,state_CA,State = CA,state,0.0004711709161257895,-8.655335902111257e-05
+R,CatBoost,"balanced, first 500",interventional (1000 training rows),log-odds,state_CO,State = CO,state,0.00022576864203542938,0.0001757967416777683
+R,CatBoost,"balanced, first 500",interventional (1000 training rows),log-odds,state_CT,State = CT,state,0.00025482900446330314,-0.0002429504765183956
+R,CatBoost,"balanced, first 500",interventional (1000 training rows),log-odds,state_DC,State = DC,state,0.00011006555755844806,1.0567053233129854e-05
+R,CatBoost,"balanced, first 500",interventional (1000 training rows),log-odds,state_DE,State = DE,state,0.0,0.0
+R,CatBoost,"balanced, first 500",interventional (1000 training rows),log-odds,state_FL,State = FL,state,0.0008532548074012263,-5.6278865209301074e-05
+R,CatBoost,"balanced, first 500",interventional (1000 training rows),log-odds,state_GA,State = GA,state,0.0,0.0
+R,CatBoost,"balanced, first 500",interventional (1000 training rows),log-odds,state_HI,State = HI,state,0.0,0.0
+R,CatBoost,"balanced, first 500",interventional (1000 training rows),log-odds,state_IA,State = IA,state,0.0011724120391291655,9.659057211120673e-05
+R,CatBoost,"balanced, first 500",interventional (1000 training rows),log-odds,state_ID,State = ID,state,0.001500783896088129,0.001500783896088129
+R,CatBoost,"balanced, first 500",interventional (1000 training rows),log-odds,state_IL,State = IL,state,0.0012077792402777141,0.0002497746398751715
+R,CatBoost,"balanced, first 500",interventional (1000 training rows),log-odds,state_IN,State = IN,state,0.008758803247845772,0.0008410958519984122
+R,CatBoost,"balanced, first 500",interventional (1000 training rows),log-odds,state_KS,State = KS,state,0.00018603947390418034,-2.886314889870118e-05
+R,CatBoost,"balanced, first 500",interventional (1000 training rows),log-odds,state_KY,State = KY,state,0.0004001467587565202,5.86077971100967e-05
+R,CatBoost,"balanced, first 500",interventional (1000 training rows),log-odds,state_LA,State = LA,state,0.00021640901305105945,7.710961184451297e-05
+R,CatBoost,"balanced, first 500",interventional (1000 training rows),log-odds,state_MA,State = MA,state,5.614823152293684e-05,5.4903754104452676e-05
+R,CatBoost,"balanced, first 500",interventional (1000 training rows),log-odds,state_MD,State = MD,state,0.00047257393053759197,-4.10245776202373e-05
+R,CatBoost,"balanced, first 500",interventional (1000 training rows),log-odds,state_ME,State = ME,state,0.0,0.0
+R,CatBoost,"balanced, first 500",interventional (1000 training rows),log-odds,state_MI,State = MI,state,0.003218530095326025,0.0007084466501237021
+R,CatBoost,"balanced, first 500",interventional (1000 training rows),log-odds,state_MN,State = MN,state,0.0017849480654826856,-0.00039988998848065416
+R,CatBoost,"balanced, first 500",interventional (1000 training rows),log-odds,state_MO,State = MO,state,0.004328139474863484,-0.0007023345516654605
+R,CatBoost,"balanced, first 500",interventional (1000 training rows),log-odds,state_MS,State = MS,state,0.00046820553477243843,0.00022223186594550292
+R,CatBoost,"balanced, first 500",interventional (1000 training rows),log-odds,state_MT,State = MT,state,6.680081758840243e-05,2.9047194298997056e-05
+R,CatBoost,"balanced, first 500",interventional (1000 training rows),log-odds,state_NC,State = NC,state,0.0014429187851745335,0.0010468727655212314
+R,CatBoost,"balanced, first 500",interventional (1000 training rows),log-odds,state_ND,State = ND,state,9.907632460270543e-05,-8.983463853917784e-05
+R,CatBoost,"balanced, first 500",interventional (1000 training rows),log-odds,state_NE,State = NE,state,0.006882393131773323,-0.003065313930219105
+R,CatBoost,"balanced, first 500",interventional (1000 training rows),log-odds,state_NH,State = NH,state,0.0007693084580024656,-0.0004990912470863439
+R,CatBoost,"balanced, first 500",interventional (1000 training rows),log-odds,state_NJ,State = NJ,state,0.0010371096048929188,-2.0494549921266243e-05
+R,CatBoost,"balanced, first 500",interventional (1000 training rows),log-odds,state_NM,State = NM,state,0.0029545419148974306,-0.0009263469185124765
+R,CatBoost,"balanced, first 500",interventional (1000 training rows),log-odds,state_NV,State = NV,state,0.00036449044892206806,8.3260448717534e-05
+R,CatBoost,"balanced, first 500",interventional (1000 training rows),log-odds,state_NY,State = NY,state,0.0034876485377130814,-0.0023194205328164025
+R,CatBoost,"balanced, first 500",interventional (1000 training rows),log-odds,state_OH,State = OH,state,0.0005800296062166307,-4.778472530291761e-06
+R,CatBoost,"balanced, first 500",interventional (1000 training rows),log-odds,state_OK,State = OK,state,0.0,0.0
+R,CatBoost,"balanced, first 500",interventional (1000 training rows),log-odds,state_OR,State = OR,state,0.003141165513496264,0.0013750243306470803
+R,CatBoost,"balanced, first 500",interventional (1000 training rows),log-odds,state_PA,State = PA,state,0.004541320914365207,-0.00030523018267552285
+R,CatBoost,"balanced, first 500",interventional (1000 training rows),log-odds,state_RI,State = RI,state,0.0002498347380556227,-0.0001646368058563042
+R,CatBoost,"balanced, first 500",interventional (1000 training rows),log-odds,state_SC,State = SC,state,0.0033616509627149467,0.0007289882260940966
+R,CatBoost,"balanced, first 500",interventional (1000 training rows),log-odds,state_SD,State = SD,state,0.00032336110370204547,0.00020181458889920032
+R,CatBoost,"balanced, first 500",interventional (1000 training rows),log-odds,state_TN,State = TN,state,0.00041755160550916484,-0.00012374317543175858
+R,CatBoost,"balanced, first 500",interventional (1000 training rows),log-odds,state_TX,State = TX,state,0.0007061911642956438,1.946540521127828e-05
+R,CatBoost,"balanced, first 500",interventional (1000 training rows),log-odds,state_UT,State = UT,state,0.0010888277712093886,-0.00026868376887293833
+R,CatBoost,"balanced, first 500",interventional (1000 training rows),log-odds,state_VA,State = VA,state,0.004155121963619993,-0.0026699215727092936
+R,CatBoost,"balanced, first 500",interventional (1000 training rows),log-odds,state_VT,State = VT,state,0.0025914405363921533,-0.0014035372903683316
+R,CatBoost,"balanced, first 500",interventional (1000 training rows),log-odds,state_WA,State = WA,state,0.0003039525276513086,0.0002861383500295124
+R,CatBoost,"balanced, first 500",interventional (1000 training rows),log-odds,state_WI,State = WI,state,0.001526040195356627,-0.0002328252141677241
+R,CatBoost,"balanced, first 500",interventional (1000 training rows),log-odds,state_WV,State = WV,state,0.00039296379180270015,0.00014354860081587688
+R,CatBoost,"balanced, first 500",interventional (1000 training rows),log-odds,state_WY,State = WY,state,0.004424199496330342,-0.0003959571511532338
+R,CatBoost,"balanced, first 500",interventional (1000 training rows),log-odds,city_ordinal,City (alphabetical code),city,0.028838043549227036,-0.004406482743255703
+R,CatBoost,"balanced, first 500",interventional (1000 training rows),log-odds,job_ordinal,Occupation (alphabetical code),occupation,0.026978443346003793,-0.004965045131879553
+E,Random Forest,balanced case-control,tree-path-dependent,probability,trans_time_grp,Transaction time group,time,0.03777355821610892,0.02783107618582394
+E,Random Forest,balanced case-control,tree-path-dependent,probability,category_1,Offline vs. online,category,0.011938290465842338,0.008732104557851193
+E,Random Forest,balanced case-control,tree-path-dependent,probability,category_2,Non-essential vs. essential,category,0.015385696939114886,0.00989916268500345
+E,Random Forest,balanced case-control,tree-path-dependent,probability,category_3,Average item cost,category,0.029740318827090547,0.025289590428847354
+E,Random Forest,balanced case-control,tree-path-dependent,probability,category_4a,Purpose of purchase: household/wellbeing,category,0.0015959557887043699,0.0012532951312769045
+E,Random Forest,balanced case-control,tree-path-dependent,probability,category_4b,Purpose of purchase: entertainment/lifestyle,category,0.006931307330627139,0.005899041826546387
+E,Random Forest,balanced case-control,tree-path-dependent,probability,category_4c,Purpose of purchase: shopping-related,category,0.011090056952146939,0.007235857231459514
+E,Random Forest,balanced case-control,tree-path-dependent,probability,category_interaction_1,Interaction 1: Non-essential vs. essential*Average item cost,category,0.04590407000443218,0.03720573357044009
+E,Random Forest,balanced case-control,tree-path-dependent,probability,category_interaction_2,Interaction 2: Non-essential vs. essential*Purpose of purchase: household or wellbeing,category,0.002197003446613552,0.0015876133272205615
+E,Random Forest,balanced case-control,tree-path-dependent,probability,amt,Amount spent (USD),amount,0.19912133755390077,0.18909583870827648
+E,Random Forest,balanced case-control,tree-path-dependent,probability,gender,Gender,gender,0.010826934220857756,0.0058742787719777805
+E,Random Forest,balanced case-control,tree-path-dependent,probability,city_1,City socioeconomic status,city,0.0004468566900670583,-5.286672952880666e-07
+E,Random Forest,balanced case-control,tree-path-dependent,probability,city_2,City social inequality level,city,0.0009292087661126705,-0.0003484187971659063
+E,Random Forest,balanced case-control,tree-path-dependent,probability,city_3,City Rural-Urban,city,0.0003642240868128178,3.976295432385834e-05
+E,Random Forest,balanced case-control,tree-path-dependent,probability,city_4a,City high-speed fixed broadband coverage,city,0.0004286980262460206,3.8231854953561506e-05
+E,Random Forest,balanced case-control,tree-path-dependent,probability,city_4b,City high-speed mobile broadband,city,0.0004602789052452149,-8.740725046630587e-05
+E,Random Forest,balanced case-control,tree-path-dependent,probability,state_x,State West vs East,state,0.0005903093724441969,-0.00011412902996490468
+E,Random Forest,balanced case-control,tree-path-dependent,probability,state_y,State North vs South,state,0.0004266309191284578,-0.00014164292613755863
+E,Random Forest,balanced case-control,tree-path-dependent,probability,city_pop,Population of the city,city population,0.007245315258527377,0.002664792754322128
+E,Random Forest,balanced case-control,tree-path-dependent,probability,job_1,Occupation income level,occupation,0.0006098863486370944,-7.441291111492616e-05
+E,Random Forest,balanced case-control,tree-path-dependent,probability,job_2,Occupation education requirement,occupation,0.00022811080718040854,-2.716217829348788e-05
+E,Random Forest,balanced case-control,tree-path-dependent,probability,job_3,Occupation career level,occupation,0.00030546013511980317,-5.06825928800296e-05
+E,Random Forest,balanced case-control,tree-path-dependent,probability,job_4,Occupation cyber knowledge,occupation,0.0004808291212848592,-9.921418170780027e-05
+E,Random Forest,balanced case-control,tree-path-dependent,probability,cardholder_age,Cardholder age,age,0.031632369551673194,0.02375027855019363
+E,Random Forest,balanced case-control,tree-path-dependent,probability,loc_cluster_issue,Location Cluster Card Issue,location,0.0009324210804783666,-0.00023634021267324637
+E,Random Forest,balanced case-control,tree-path-dependent,probability,loc_cluster_transac,Location Cluster Transaction,location,0.0008728767759108469,-0.00022209479135273886
+E,Random Forest,balanced case-control,tree-path-dependent,probability,issue_transac_dist,Distance between where card was issued and transaction made,location,0.0008387806873053761,5.02246160258007e-05
+E,Random Forest,natural prevalence,tree-path-dependent,probability,trans_time_grp,Transaction time group,time,0.007869270272870177,-0.0027028428434486417
+E,Random Forest,natural prevalence,tree-path-dependent,probability,category_1,Offline vs. online,category,0.0019948347028327157,1.2539801366932497e-05
+E,Random Forest,natural prevalence,tree-path-dependent,probability,category_2,Non-essential vs. essential,category,0.0058229115097717995,-0.002775387843667957
+E,Random Forest,natural prevalence,tree-path-dependent,probability,category_3,Average item cost,category,0.005186655950619921,-0.0012574692054873112
+E,Random Forest,natural prevalence,tree-path-dependent,probability,category_4a,Purpose of purchase: household/wellbeing,category,0.000729098131195364,0.00018891162667942742
+E,Random Forest,natural prevalence,tree-path-dependent,probability,category_4b,Purpose of purchase: entertainment/lifestyle,category,0.002179282249847973,0.0006338859306678603
+E,Random Forest,natural prevalence,tree-path-dependent,probability,category_4c,Purpose of purchase: shopping-related,category,0.0034047841163247143,-0.0020349496180010803
+E,Random Forest,natural prevalence,tree-path-dependent,probability,category_interaction_1,Interaction 1: Non-essential vs. essential*Average item cost,category,0.010980171676365494,0.0006767293277319673
+E,Random Forest,natural prevalence,tree-path-dependent,probability,category_interaction_2,Interaction 2: Non-essential vs. essential*Purpose of purchase: household or wellbeing,category,0.0009428610286013406,-1.7452696235297878e-05
+E,Random Forest,natural prevalence,tree-path-dependent,probability,amt,Amount spent (USD),amount,0.022336944359439267,0.0006446997924247772
+E,Random Forest,natural prevalence,tree-path-dependent,probability,gender,Gender,gender,0.0007036757546439885,-0.00013957018510215148
+E,Random Forest,natural prevalence,tree-path-dependent,probability,city_1,City socioeconomic status,city,7.858804838865228e-05,2.1659798394417395e-05
+E,Random Forest,natural prevalence,tree-path-dependent,probability,city_2,City social inequality level,city,0.00011345111510842023,7.791318426092142e-06
+E,Random Forest,natural prevalence,tree-path-dependent,probability,city_3,City Rural-Urban,city,7.27785519903602e-05,1.4881584638184543e-05
+E,Random Forest,natural prevalence,tree-path-dependent,probability,city_4a,City high-speed fixed broadband coverage,city,8.25970283909087e-05,9.165085688962476e-06
+E,Random Forest,natural prevalence,tree-path-dependent,probability,city_4b,City high-speed mobile broadband,city,7.203699593917157e-05,1.3763154052396628e-05
+E,Random Forest,natural prevalence,tree-path-dependent,probability,state_x,State West vs East,state,0.00013779753239769485,1.331610673139092e-05
+E,Random Forest,natural prevalence,tree-path-dependent,probability,state_y,State North vs South,state,7.465967260023816e-05,2.057827999774855e-06
+E,Random Forest,natural prevalence,tree-path-dependent,probability,city_pop,Population of the city,city population,0.0007505065873342805,0.00037657336748982064
+E,Random Forest,natural prevalence,tree-path-dependent,probability,job_1,Occupation income level,occupation,9.418587698563672e-05,1.1251593862077872e-05
+E,Random Forest,natural prevalence,tree-path-dependent,probability,job_2,Occupation education requirement,occupation,2.4015965993635017e-05,4.194071139191086e-06
+E,Random Forest,natural prevalence,tree-path-dependent,probability,job_3,Occupation career level,occupation,8.309965659395279e-05,6.778757980469677e-06
+E,Random Forest,natural prevalence,tree-path-dependent,probability,job_4,Occupation cyber knowledge,occupation,7.628091528449102e-05,8.964763248988736e-06
+E,Random Forest,natural prevalence,tree-path-dependent,probability,cardholder_age,Cardholder age,age,0.0074363904539764885,0.005878445464069812
+E,Random Forest,natural prevalence,tree-path-dependent,probability,loc_cluster_issue,Location Cluster Card Issue,location,0.00012974036032052866,-4.218836063252197e-06
+E,Random Forest,natural prevalence,tree-path-dependent,probability,loc_cluster_transac,Location Cluster Transaction,location,0.00013726606147343996,2.5681499796028735e-05
+E,Random Forest,natural prevalence,tree-path-dependent,probability,issue_transac_dist,Distance between where card was issued and transaction made,location,0.00017925901982280038,7.234697410666125e-06
+E,Random Forest,"balanced, first 500",interventional (1000 training rows),probability,trans_time_grp,Transaction time group,time,0.07975547785381094,0.07271127913671709
+E,Random Forest,"balanced, first 500",interventional (1000 training rows),probability,category_1,Offline vs. online,category,0.030026126220780793,0.027342491036230303
+E,Random Forest,"balanced, first 500",interventional (1000 training rows),probability,category_2,Non-essential vs. essential,category,0.022796154564400442,0.021382792378669902
+E,Random Forest,"balanced, first 500",interventional (1000 training rows),probability,category_3,Average item cost,category,0.062303308393143096,0.059709823043049635
+E,Random Forest,"balanced, first 500",interventional (1000 training rows),probability,category_4a,Purpose of purchase: household/wellbeing,category,0.0027585990315252998,0.002399013976257363
+E,Random Forest,"balanced, first 500",interventional (1000 training rows),probability,category_4b,Purpose of purchase: entertainment/lifestyle,category,0.010801102377853781,0.010253115652883971
+E,Random Forest,"balanced, first 500",interventional (1000 training rows),probability,category_4c,Purpose of purchase: shopping-related,category,0.03177798326350457,0.029365725837589084
+E,Random Forest,"balanced, first 500",interventional (1000 training rows),probability,category_interaction_1,Interaction 1: Non-essential vs. essential*Average item cost,category,0.09236596189966985,0.08198379943014598
+E,Random Forest,"balanced, first 500",interventional (1000 training rows),probability,category_interaction_2,Interaction 2: Non-essential vs. essential*Purpose of purchase: household or wellbeing,category,0.004011280178728896,0.0034964808406590642
+E,Random Forest,"balanced, first 500",interventional (1000 training rows),probability,amt,Amount spent (USD),amount,0.32788582464882754,0.3277764309926727
+E,Random Forest,"balanced, first 500",interventional (1000 training rows),probability,gender,Gender,gender,0.021836602900488895,0.013773544727912722
+E,Random Forest,"balanced, first 500",interventional (1000 training rows),probability,city_1,City socioeconomic status,city,0.0007837825946799557,3.0778913896689495e-05
+E,Random Forest,"balanced, first 500",interventional (1000 training rows),probability,city_2,City social inequality level,city,0.0015801132806248684,-0.0005679027679093343
+E,Random Forest,"balanced, first 500",interventional (1000 training rows),probability,city_3,City Rural-Urban,city,0.000691012977913479,7.153873390941309e-05
+E,Random Forest,"balanced, first 500",interventional (1000 training rows),probability,city_4a,City high-speed fixed broadband coverage,city,0.0008580076159006404,2.583431079870285e-05
+E,Random Forest,"balanced, first 500",interventional (1000 training rows),probability,city_4b,City high-speed mobile broadband,city,0.0007865850742744108,-9.98497826518735e-05
+E,Random Forest,"balanced, first 500",interventional (1000 training rows),probability,state_x,State West vs East,state,0.0010160660439611524,-0.00024722066511784864
+E,Random Forest,"balanced, first 500",interventional (1000 training rows),probability,state_y,State North vs South,state,0.0006989682873912156,-0.0002405634941554884
+E,Random Forest,"balanced, first 500",interventional (1000 training rows),probability,city_pop,Population of the city,city population,0.013241349695787323,0.0013768710545216814
+E,Random Forest,"balanced, first 500",interventional (1000 training rows),probability,job_1,Occupation income level,occupation,0.0010618280139949225,-1.0212013210518963e-06
+E,Random Forest,"balanced, first 500",interventional (1000 training rows),probability,job_2,Occupation education requirement,occupation,0.00037424814771933415,1.1812175889064489e-05
+E,Random Forest,"balanced, first 500",interventional (1000 training rows),probability,job_3,Occupation career level,occupation,0.0005183070426126268,-3.270274479382041e-05
+E,Random Forest,"balanced, first 500",interventional (1000 training rows),probability,job_4,Occupation cyber knowledge,occupation,0.0008458237087132378,-0.00020430560628906426
+E,Random Forest,"balanced, first 500",interventional (1000 training rows),probability,cardholder_age,Cardholder age,age,0.052798558923102874,0.03771034063988707
+E,Random Forest,"balanced, first 500",interventional (1000 training rows),probability,loc_cluster_issue,Location Cluster Card Issue,location,0.0014430347409530157,-0.00030424195457509135
+E,Random Forest,"balanced, first 500",interventional (1000 training rows),probability,loc_cluster_transac,Location Cluster Transaction,location,0.0014006845697279488,-0.00043583769774442724
+E,Random Forest,"balanced, first 500",interventional (1000 training rows),probability,issue_transac_dist,Distance between where card was issued and transaction made,location,0.0014546712425081462,0.00012826352622737153
+E,CatBoost,balanced case-control,tree-path-dependent,log-odds,trans_time_grp,Transaction time group,time,1.1084750198358202,0.824984612483665
+E,CatBoost,balanced case-control,tree-path-dependent,log-odds,category_1,Offline vs. online,category,0.21350759499860042,0.07051320261236892
+E,CatBoost,balanced case-control,tree-path-dependent,log-odds,category_2,Non-essential vs. essential,category,0.12039589837368714,0.03746681783458708
+E,CatBoost,balanced case-control,tree-path-dependent,log-odds,category_3,Average item cost,category,0.5860570413530439,0.26803571788172936
+E,CatBoost,balanced case-control,tree-path-dependent,log-odds,category_4a,Purpose of purchase: household/wellbeing,category,0.12748188018327847,0.07807919441473876
+E,CatBoost,balanced case-control,tree-path-dependent,log-odds,category_4b,Purpose of purchase: entertainment/lifestyle,category,0.29726944978202596,0.15446147228870696
+E,CatBoost,balanced case-control,tree-path-dependent,log-odds,category_4c,Purpose of purchase: shopping-related,category,0.31222933299558703,0.07122264924143079
+E,CatBoost,balanced case-control,tree-path-dependent,log-odds,category_interaction_1,Interaction 1: Non-essential vs. essential*Average item cost,category,0.6899896945069575,0.5831922132873819
+E,CatBoost,balanced case-control,tree-path-dependent,log-odds,category_interaction_2,Interaction 2: Non-essential vs. essential*Purpose of purchase: household or wellbeing,category,0.14542375737661195,0.08717162687173162
+E,CatBoost,balanced case-control,tree-path-dependent,log-odds,amt,Amount spent (USD),amount,3.6552102218255906,3.0383843612639225
+E,CatBoost,balanced case-control,tree-path-dependent,log-odds,gender,Gender,gender,0.22532723340593605,0.07118867955618777
+E,CatBoost,balanced case-control,tree-path-dependent,log-odds,city_1,City socioeconomic status,city,0.013401284466220943,-0.0008205934060721235
+E,CatBoost,balanced case-control,tree-path-dependent,log-odds,city_2,City social inequality level,city,0.03899018174323566,-0.004706464953373566
+E,CatBoost,balanced case-control,tree-path-dependent,log-odds,city_3,City Rural-Urban,city,0.007929674501179209,-0.0009224965063187957
+E,CatBoost,balanced case-control,tree-path-dependent,log-odds,city_4a,City high-speed fixed broadband coverage,city,0.010050353396217692,-0.0015661725132222607
+E,CatBoost,balanced case-control,tree-path-dependent,log-odds,city_4b,City high-speed mobile broadband,city,0.019310900479750034,-0.0036963749683043647
+E,CatBoost,balanced case-control,tree-path-dependent,log-odds,state_x,State West vs East,state,0.02998788062588038,-0.004099430949320898
+E,CatBoost,balanced case-control,tree-path-dependent,log-odds,state_y,State North vs South,state,0.02276760658609149,-0.004894860413798831
+E,CatBoost,balanced case-control,tree-path-dependent,log-odds,city_pop,Population of the city,city population,0.1731344321669737,0.0169570358306528
+E,CatBoost,balanced case-control,tree-path-dependent,log-odds,job_1,Occupation income level,occupation,0.02631751999466139,-0.005160141462323954
+E,CatBoost,balanced case-control,tree-path-dependent,log-odds,job_2,Occupation education requirement,occupation,0.0038560376801664836,-0.00020467875721498046
+E,CatBoost,balanced case-control,tree-path-dependent,log-odds,job_3,Occupation career level,occupation,0.01598318877339383,-0.0026830535189602866
+E,CatBoost,balanced case-control,tree-path-dependent,log-odds,job_4,Occupation cyber knowledge,occupation,0.0407736085277438,-0.007097416940507295
+E,CatBoost,balanced case-control,tree-path-dependent,log-odds,cardholder_age,Cardholder age,age,0.6622770636922559,0.28933186591338117
+E,CatBoost,balanced case-control,tree-path-dependent,log-odds,loc_cluster_issue,Location Cluster Card Issue,location,0.035163382160947124,0.0009351830175746474
+E,CatBoost,balanced case-control,tree-path-dependent,log-odds,loc_cluster_transac,Location Cluster Transaction,location,0.021126656407388242,-0.007393068423644637
+E,CatBoost,balanced case-control,tree-path-dependent,log-odds,issue_transac_dist,Distance between where card was issued and transaction made,location,0.016767875070345918,0.000216856784444748
+E,CatBoost,natural prevalence,tree-path-dependent,log-odds,trans_time_grp,Transaction time group,time,0.6503421850093623,0.16456000388358621
+E,CatBoost,natural prevalence,tree-path-dependent,log-odds,category_1,Offline vs. online,category,0.26612065064641727,0.018659736645259533
+E,CatBoost,natural prevalence,tree-path-dependent,log-odds,category_2,Non-essential vs. essential,category,0.09098186996902297,-0.015438755650877496
+E,CatBoost,natural prevalence,tree-path-dependent,log-odds,category_3,Average item cost,category,0.5972756959991886,0.020848961762848943
+E,CatBoost,natural prevalence,tree-path-dependent,log-odds,category_4a,Purpose of purchase: household/wellbeing,category,0.11374693534420505,0.030422957438065248
+E,CatBoost,natural prevalence,tree-path-dependent,log-odds,category_4b,Purpose of purchase: entertainment/lifestyle,category,0.261891791318976,-0.005870602343711961
+E,CatBoost,natural prevalence,tree-path-dependent,log-odds,category_4c,Purpose of purchase: shopping-related,category,0.2787502357135426,-0.08012787938696661
+E,CatBoost,natural prevalence,tree-path-dependent,log-odds,category_interaction_1,Interaction 1: Non-essential vs. essential*Average item cost,category,0.2716083456933067,0.1870352423947615
+E,CatBoost,natural prevalence,tree-path-dependent,log-odds,category_interaction_2,Interaction 2: Non-essential vs. essential*Purpose of purchase: household or wellbeing,category,0.13483138242904522,0.03697074744249201
+E,CatBoost,natural prevalence,tree-path-dependent,log-odds,amt,Amount spent (USD),amount,1.0262087558535176,-0.2266257404433184
+E,CatBoost,natural prevalence,tree-path-dependent,log-odds,gender,Gender,gender,0.11794803969204119,-0.00875408412981531
+E,CatBoost,natural prevalence,tree-path-dependent,log-odds,city_1,City socioeconomic status,city,0.01483296260449282,-0.0007382995221259202
+E,CatBoost,natural prevalence,tree-path-dependent,log-odds,city_2,City social inequality level,city,0.03663003630045642,-0.0007563205265837877
+E,CatBoost,natural prevalence,tree-path-dependent,log-odds,city_3,City Rural-Urban,city,0.008697277938745957,-0.0018812172577423489
+E,CatBoost,natural prevalence,tree-path-dependent,log-odds,city_4a,City high-speed fixed broadband coverage,city,0.009743511962943333,-0.0005945879088701549
+E,CatBoost,natural prevalence,tree-path-dependent,log-odds,city_4b,City high-speed mobile broadband,city,0.0165034817625359,-0.0008984966721047063
+E,CatBoost,natural prevalence,tree-path-dependent,log-odds,state_x,State West vs East,state,0.02982211641567823,-0.0018199999812524325
+E,CatBoost,natural prevalence,tree-path-dependent,log-odds,state_y,State North vs South,state,0.022754658835461586,-0.0019751743559706858
+E,CatBoost,natural prevalence,tree-path-dependent,log-odds,city_pop,Population of the city,city population,0.11690857231125737,-0.010661535994692809
+E,CatBoost,natural prevalence,tree-path-dependent,log-odds,job_1,Occupation income level,occupation,0.02613705176925812,-0.0008606999512552721
+E,CatBoost,natural prevalence,tree-path-dependent,log-odds,job_2,Occupation education requirement,occupation,0.0036674948055944183,4.927016069294005e-05
+E,CatBoost,natural prevalence,tree-path-dependent,log-odds,job_3,Occupation career level,occupation,0.016410820431074127,0.0002934292371639092
+E,CatBoost,natural prevalence,tree-path-dependent,log-odds,job_4,Occupation cyber knowledge,occupation,0.04140763883056194,5.430252874979732e-05
+E,CatBoost,natural prevalence,tree-path-dependent,log-odds,cardholder_age,Cardholder age,age,0.3400596603828692,-0.08327880004234614
+E,CatBoost,natural prevalence,tree-path-dependent,log-odds,loc_cluster_issue,Location Cluster Card Issue,location,0.03351362839229155,0.004857854764535184
+E,CatBoost,natural prevalence,tree-path-dependent,log-odds,loc_cluster_transac,Location Cluster Transaction,location,0.021526994976409208,-0.006107337267532922
+E,CatBoost,natural prevalence,tree-path-dependent,log-odds,issue_transac_dist,Distance between where card was issued and transaction made,location,0.01583023506714131,0.00011048750373921728
+E,CatBoost,"balanced, first 500",interventional (1000 training rows),log-odds,trans_time_grp,Transaction time group,time,1.4601810021369133,1.3575332974323473
+E,CatBoost,"balanced, first 500",interventional (1000 training rows),log-odds,category_1,Offline vs. online,category,0.30458895843616474,0.30091533488804295
+E,CatBoost,"balanced, first 500",interventional (1000 training rows),log-odds,category_2,Non-essential vs. essential,category,0.16355131133530143,0.14096523640306122
+E,CatBoost,"balanced, first 500",interventional (1000 training rows),log-odds,category_3,Average item cost,category,0.6536931323997608,0.6137185777141515
+E,CatBoost,"balanced, first 500",interventional (1000 training rows),log-odds,category_4a,Purpose of purchase: household/wellbeing,category,0.1269803894141015,0.11204147892649856
+E,CatBoost,"balanced, first 500",interventional (1000 training rows),log-odds,category_4b,Purpose of purchase: entertainment/lifestyle,category,0.25736948290690365,0.24363682366800737
+E,CatBoost,"balanced, first 500",interventional (1000 training rows),log-odds,category_4c,Purpose of purchase: shopping-related,category,0.4482113713644399,0.41739687855497015
+E,CatBoost,"balanced, first 500",interventional (1000 training rows),log-odds,category_interaction_1,Interaction 1: Non-essential vs. essential*Average item cost,category,1.3556015135853774,1.1712521258455
+E,CatBoost,"balanced, first 500",interventional (1000 training rows),log-odds,category_interaction_2,Interaction 2: Non-essential vs. essential*Purpose of purchase: household or wellbeing,category,0.14640491920754178,0.12845202256779228
+E,CatBoost,"balanced, first 500",interventional (1000 training rows),log-odds,amt,Amount spent (USD),amount,5.887956217413245,5.887738837801026
+E,CatBoost,"balanced, first 500",interventional (1000 training rows),log-odds,gender,Gender,gender,0.3385362518514689,0.18131793102740135
+E,CatBoost,"balanced, first 500",interventional (1000 training rows),log-odds,city_1,City socioeconomic status,city,0.01185732695325557,-0.0013511290582870895
+E,CatBoost,"balanced, first 500",interventional (1000 training rows),log-odds,city_2,City social inequality level,city,0.03792351138138395,-0.006455494076058916
+E,CatBoost,"balanced, first 500",interventional (1000 training rows),log-odds,city_3,City Rural-Urban,city,0.00774638727994212,0.0006788635880625161
+E,CatBoost,"balanced, first 500",interventional (1000 training rows),log-odds,city_4a,City high-speed fixed broadband coverage,city,0.010977681668868965,-0.0041829301224374105
+E,CatBoost,"balanced, first 500",interventional (1000 training rows),log-odds,city_4b,City high-speed mobile broadband,city,0.024442399113721387,-0.007973452575653054
+E,CatBoost,"balanced, first 500",interventional (1000 training rows),log-odds,state_x,State West vs East,state,0.028664798952110295,-0.0058453053858390225
+E,CatBoost,"balanced, first 500",interventional (1000 training rows),log-odds,state_y,State North vs South,state,0.023223224063845156,-0.00863333713382627
+E,CatBoost,"balanced, first 500",interventional (1000 training rows),log-odds,city_pop,Population of the city,city population,0.2545185601821665,0.04633389738304061
+E,CatBoost,"balanced, first 500",interventional (1000 training rows),log-odds,job_1,Occupation income level,occupation,0.02760960263954587,-0.00942965805609118
+E,CatBoost,"balanced, first 500",interventional (1000 training rows),log-odds,job_2,Occupation education requirement,occupation,0.004031931638027697,-0.0004720878687000747
+E,CatBoost,"balanced, first 500",interventional (1000 training rows),log-odds,job_3,Occupation career level,occupation,0.01635953031693761,-0.005274554992936274
+E,CatBoost,"balanced, first 500",interventional (1000 training rows),log-odds,job_4,Occupation cyber knowledge,occupation,0.038764432512616846,-0.01497878495969367
+E,CatBoost,"balanced, first 500",interventional (1000 training rows),log-odds,cardholder_age,Cardholder age,age,1.1075546871824526,0.6959722390406154
+E,CatBoost,"balanced, first 500",interventional (1000 training rows),log-odds,loc_cluster_issue,Location Cluster Card Issue,location,0.03759250788045408,-0.008482524292027935
+E,CatBoost,"balanced, first 500",interventional (1000 training rows),log-odds,loc_cluster_transac,Location Cluster Transaction,location,0.02430526917904331,-0.00452088000546795
+E,CatBoost,"balanced, first 500",interventional (1000 training rows),log-odds,issue_transac_dist,Distance between where card was issued and transaction made,location,0.016713496556637744,-0.0002702100060584444

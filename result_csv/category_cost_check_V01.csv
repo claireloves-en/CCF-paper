@@ -1,0 +1,15 @@
+category,mean_amt_all,bin_all,mean_amt_train,bin_train,category_3_workbook
+personal_care,47.9677,0,47.904,0,0
+food_dining,51.0869,0,51.1677,0,0
+grocery_net,53.6701,0,53.8041,0,0
+health_fitness,54.1821,0,54.0734,0,0
+kids_pets,57.5369,1,57.5979,1,1
+home,58.2701,1,58.2059,1,1
+misc_pos,62.891,1,62.4428,1,1
+gas_transport,63.4346,2,63.4219,2,2
+entertainment,64.2104,2,64.1555,2,2
+shopping_pos,79.7792,2,78.7222,2,2
+misc_net,80.8651,3,80.4319,3,3
+shopping_net,88.4241,3,88.6043,3,3
+travel,111.5047,3,113.8144,3,3
+grocery_pos,116.961,3,116.87,3,3

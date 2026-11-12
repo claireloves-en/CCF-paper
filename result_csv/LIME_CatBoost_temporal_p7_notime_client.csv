@@ -1,0 +1,107 @@
+,0
+47.40 < Amount spent (USD) <= 83.06,-0.055974150671073905
+0.00 < Transaction time group <= 1.00,-0.03673494796959169
+Card first purchase in category <= 0.00,-0.0022118051724587203
+Purpose of purchase: entertainment/lifestyle <= 0.00,-0.0073803471593495255
+Cardholder age <= 32.00,-0.0061769438771666785
+Card transactions in past 1h > 0.00,0.008099732798656209
+Average item cost <= 1.00,-0.014818362195552161
+3.00 < Card transactions in past 24h <= 5.00,0.00777115308387605
+23.00 < Card transactions in past 7d <= 32.00,-0.011570958098796866
+Card hours since previous transaction <= 1.70,0.007782241576296782
+1.00 < City Rural-Urban <= 2.00,0.0003539066778569798
+Occupation income level > 2.00,0.00027037214942884967
+2.00 < Occupation cyber knowledge <= 3.00,0.0012398523094080984
+1.00 < City high-speed fixed broadband coverage <= 2.00,0.002254529272943689
+78.30 < Card distance from usual location (km) <= 98.77,0.0012907556132606829
+2.00 < State North vs South <= 4.00,0.0019319171045422137
+2.00 < City socioeconomic status <= 3.00,-0.0006862273664681536
+1.00 < City social inequality level <= 2.00,0.0014878056082591824
+Location Cluster Card Issue <= 337.00,0.0005993575101093045
+0.00 < Interaction 2: Non-essential vs. essential*Purpose of purchase: household or wellbeing <= 1.00,-0.0051282366988093095
+0.00 < Non-essential vs. essential <= 1.00,0.0025619439089875767
+2.00 < Occupation career level <= 3.00,-0.00022011468627587683
+2456.00 < Population of the city <= 20478.00,-0.0030822481815039157
+-0.45 < Card amount vs own history (z-score) <= -0.19,0.0092919517100137
+1.00 < City high-speed mobile broadband <= 3.00,0.00020888580327398492
+Gender <= 0.00,-0.0017622908712002531
+Offline vs. online <= 0.00,0.007752057208675527
+0.00 < Purpose of purchase: household/wellbeing <= 1.00,-0.013199656993763445
+State West vs East <= 3.00,-0.002273960830147997
+Location Cluster Transaction <= 336.00,-0.0008951564170662711
+1.00 < Occupation education requirement <= 2.00,0.0003535815854825693
+0.00 < Interaction 1: Non-essential vs. essential*Average item cost <= 1.00,-0.0031036091513708536
+78.27 < Distance between where card was issued and transaction made <= 98.49,0.0006990964800888534
+Purpose of purchase: shopping-related <= 0.00,-0.0018127613261303065
+Interaction 1: Non-essential vs. essential*Average item cost > 1.00,0.09440603027273209
+Card transactions in past 24h <= 2.00,-0.023308249803228105
+Card transactions in past 7d > 32.00,-0.02968139770869988
+Purpose of purchase: household/wellbeing <= 0.00,0.013111863134492766
+Interaction 2: Non-essential vs. essential*Purpose of purchase: household or wellbeing <= 0.00,0.006611041342542395
+Cardholder age > 56.00,0.01645073868829297
+Distance between where card was issued and transaction made <= 55.38,-9.157233912959955e-05
+State North vs South > 4.00,0.001054111939742841
+City social inequality level > 3.00,-0.00030746918630813097
+City high-speed fixed broadband coverage <= 1.00,-0.000623077469213905
+Card distance from usual location (km) <= 55.39,-0.0002190244648418583
+3.00 < Occupation cyber knowledge <= 4.00,-0.00045613279777197206
+Transaction time group <= 0.00,0.021829035171591717
+2.00 < Average item cost <= 3.00,0.008320446549253792
+-0.19 < Card amount vs own history (z-score) <= 0.12,-0.0016996082898226774
+City socioeconomic status <= 1.00,0.0020897224138765897
+City Rural-Urban <= 1.00,0.0012072576645787082
+4.67 < Card hours since previous transaction <= 11.27,-0.008296750318474586
+Card transactions in past 1h <= 0.00,-0.006541938731813358
+Interaction 1: Non-essential vs. essential*Average item cost <= 0.00,-0.05949570135606123
+Card transactions in past 7d <= 15.00,0.03831909529536609
+9.64 < Amount spent (USD) <= 47.40,-0.0396740662524461
+Card amount vs own history (z-score) <= -0.45,0.013958710899896126
+Card hours since previous transaction > 11.27,0.014852520278361044
+1.00 < Transaction time group <= 2.00,0.019572165956984543
+1.00 < Average item cost <= 2.00,0.013802090172588875
+2.00 < City high-speed fixed broadband coverage <= 3.00,0.0019782497433119633
+City social inequality level <= 1.00,0.0006567694270712676
+743.00 < Population of the city <= 2456.00,0.006171652777648543
+Location Cluster Transaction > 476.00,0.0022562457764682656
+Non-essential vs. essential <= 0.00,-0.0018739108516079804
+State North vs South <= 1.00,0.0005186251321215405
+Purpose of purchase: entertainment/lifestyle > 0.00,0.00518452157984701
+55.39 < Card distance from usual location (km) <= 78.30,0.0007132053225821502
+55.38 < Distance between where card was issued and transaction made <= 78.27,7.64621145532914e-05
+Location Cluster Card Issue > 475.00,-0.0010187328455808107
+Occupation education requirement <= 1.00,-0.0008926199768477502
+Offline vs. online > 0.00,-0.00519453593208459
+Occupation career level <= 2.00,0.0011714442322411736
+2.00 < Card transactions in past 24h <= 3.00,-0.007394370831239841
+1.00 < State North vs South <= 2.00,0.001140684307972453
+Population of the city > 20478.00,-0.0026922731546606743
+429.00 < Location Cluster Transaction <= 476.00,0.0023479432462305758
+412.00 < Location Cluster Card Issue <= 475.00,0.0012651124991396347
+0.00 < Gender <= 1.00,0.002073753309429423
+Occupation cyber knowledge <= 2.00,0.000581845683090984
+Occupation income level <= 1.00,-0.0001742046316685277
+15.00 < Card transactions in past 7d <= 23.00,0.005953912572796807
+1.00 < City socioeconomic status <= 2.00,0.0002865021535436122
+43.00 < Cardholder age <= 56.00,0.001094024676112641
+Occupation career level > 3.00,0.0011477842015042772
+Card transactions in past 24h > 5.00,0.03371113762928289
+1.70 < Card hours since previous transaction <= 4.67,-0.01211582495679677
+Card amount vs own history (z-score) > 0.12,-0.01831299838884649
+336.00 < Location Cluster Transaction <= 429.00,0.0009713246216583575
+337.00 < Location Cluster Card Issue <= 412.00,0.0017472530824973753
+3.00 < State West vs East <= 6.00,0.0006552910276274535
+32.00 < Cardholder age <= 43.00,-0.006647089581258822
+Amount spent (USD) > 83.06,0.09492862292713013
+0.00 < Purpose of purchase: shopping-related <= 1.00,0.004195312252102799
+2.00 < City social inequality level <= 3.00,0.0012347109373773936
+Card distance from usual location (km) > 98.77,0.0020351107096363515
+Distance between where card was issued and transaction made > 98.49,0.001280785631509486
+6.00 < State West vs East <= 7.00,0.0022713222847036587
+3.00 < City high-speed mobile broadband <= 4.00,0.0003479260323012255
+City high-speed mobile broadband <= 1.00,0.0005527150766774161
+Population of the city <= 743.00,0.003984122563168568
+1.00 < Occupation income level <= 2.00,0.0012656478774615322
+Amount spent (USD) <= 9.64,0.0031077843570325955
+City high-speed fixed broadband coverage > 3.00,7.033000049489614e-05
+Card first purchase in category > 0.00,0.04963693506044664
+State West vs East > 7.00,0.002219003680173154

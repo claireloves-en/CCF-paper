@@ -1,0 +1,3 @@
+scope,rows,fraud,fraud_on_fraud_only,share_of_fraud
+whole dataset,1296675,7506,741,0.0987
+test window,259335,1538,174,0.1131

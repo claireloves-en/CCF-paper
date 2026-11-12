@@ -1,0 +1,21 @@
+column,rows_changed,share_changed
+city_1,940388,0.7252303005764744
+city_2,1031532,0.79552085140841
+city_3,764781,0.5898016079588178
+city_4a,1025996,0.7912514701062332
+city_4b,1021197,0.7875504656139742
+category_1,0,0.0
+category_2,90758,0.06999286636975341
+category_3,90758,0.06999286636975341
+category_4a,90758,0.06999286636975341
+category_4b,90758,0.06999286636975341
+category_4c,0,0.0
+category_interaction_1,0,0.0
+category_interaction_2,90758,0.06999286636975341
+any city column,1290523,0.9952555574835638
+any category column,90758,0.06999286636975341
+lookup city_1: cities changed,18,0.01939655172413793
+lookup city_2: cities changed,0,0.0
+lookup city_3: cities changed,0,0.0
+lookup city_4a: cities changed,0,0.0
+lookup city_4b: cities changed,6,0.00646551724137931

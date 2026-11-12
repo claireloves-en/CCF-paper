@@ -1,0 +1,9 @@
+model,aucpr_untuned,aucpr_tuned,gain,auc_tuned,kept,chosen_params
+Logistic Regression,0.1579414057489938,0.2178893097259804,0.0599479039769866,0.8085362159441305,tuned,"{""C"": 73.45805338899959, ""class_weight"": null, ""solver"": ""liblinear""}"
+Decision Tree,0.5991566809470176,0.8948386644522701,0.29568198350525254,0.98327303310369,tuned,"{""max_depth"": 10, ""min_samples_split"": 50, ""min_samples_leaf"": 20, ""criterion"": ""gini"", ""class_weight"": null}"
+Random Forest,0.8730433362995259,0.922917075867874,0.04987373956834806,0.9970877541060356,tuned,"{""n_estimators"": 400, ""max_depth"": 16, ""min_samples_split"": 2, ""min_samples_leaf"": 1, ""max_features"": 0.5, ""class_weight"": null}"
+AdaBoost,0.549431814240782,0.5582919187995394,0.008860104558757409,0.9865437832942086,tuned,"{""n_estimators"": 200, ""learning_rate"": 0.8198461683333294}"
+CatBoost,0.9221788245802176,0.9254647692208822,0.003285944640664562,0.9975998282951256,tuned,"{""iterations"": 1000, ""depth"": 8, ""learning_rate"": 0.015474590024779264, ""l2_leaf_reg"": 1.0, ""bagging_temperature"": 0.12479937612392289}"
+XGBoost,0.8125770341314051,0.9233918932055916,0.11081485907418642,0.9983123228051642,tuned,"{""eta"": 0.027355308155894122, ""max_depth"": 10, ""subsample"": 0.9653476109156784, ""colsample_bytree"": 0.895210791225691, ""min_child_weight"": 1.0, ""gamma"": 5.0, ""scale_pos_weight"": 10.0}"
+LightGBM,0.8049174713732686,0.9176119112775192,0.11269443990425054,0.9977662305191756,tuned,"{""learning_rate"": 0.03291491138999078, ""num_leaves"": 63, ""max_depth"": 12, ""min_child_samples"": 20, ""feature_fraction"": 0.8963987700651181, ""bagging_fraction"": 0.9109168770479202, ""scale_pos_weight"": 1.0}"
+K-NN,0.0251676850397693,0.1963601358900179,0.17119245085024862,0.7680139752369117,tuned,"{""n_neighbors"": 50, ""weights"": ""distance"", ""p"": 2}"

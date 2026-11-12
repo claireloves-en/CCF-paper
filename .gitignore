@@ -1,0 +1,9 @@
+# transaction data (Kaggle) and everything derived from it
+fraudTrain*.csv
+fraudTest*.csv
+Found_DataSet/
+ablation_data/
+confirm_data/
+revision_scripts/output/
+catboost_info/
+__pycache__/

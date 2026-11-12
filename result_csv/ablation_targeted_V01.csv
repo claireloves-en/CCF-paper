@@ -1,0 +1,23 @@
+config,reference,change,model,test_aucpr,reference_aucpr,difference
+p7_hybrid,p7_notime_raw,R + E: the encoded features added to the raw ones,Random Forest,0.9214246429262536,0.9197293243047664,0.0016953186214871963
+p7_hybrid,p7_notime_raw,R + E: the encoded features added to the raw ones,CatBoost,0.9242458006139604,0.9232855445167628,0.0009602560971976315
+p7_hybrid_client,p7_notime_raw_client,R + E + H against R + H,Random Forest,0.92879807827219,0.9256256278149204,0.003172450457269549
+p7_hybrid_client,p7_notime_raw_client,R + E + H against R + H,CatBoost,0.952024355758099,0.9526232431872064,-0.0005988874291074087
+p7_abl_cat_onehot,p7_notime,category: 8 encoded features -> one-hot (14),Random Forest,0.8967496369884713,0.8877390264620627,0.009010610526408613
+p7_abl_cat_onehot,p7_notime,category: 8 encoded features -> one-hot (14),CatBoost,0.8842441060688111,0.8801009866586564,0.004143119410154661
+p7_abl_plus_onehot,p7_notime,category: one-hot added alongside the encoding,Random Forest,0.8977681759110443,0.8877390264620627,0.010029149448981589
+p7_abl_plus_onehot,p7_notime,category: one-hot added alongside the encoding,CatBoost,0.8882235374032791,0.8801009866586564,0.008122550744622647
+p7_abl_hour,p7_notime,time: 3 bands -> hour of day (24),Random Forest,0.9171209799214968,0.8877390264620627,0.029381953459434063
+p7_abl_hour,p7_notime,time: 3 bands -> hour of day (24),CatBoost,0.917380500764794,0.8801009866586564,0.03727951410613761
+p7_abl_plus_dow,p7_notime,time: day of week added (absent from E),Random Forest,0.8884413043092743,0.8877390264620627,0.0007022778472115521
+p7_abl_plus_dow,p7_notime,time: day of week added (absent from E),CatBoost,0.8814540460946514,0.8801009866586564,0.0013530594359949522
+p7_abl_no_interactions,p7_notime,the 2 interaction terms removed,Random Forest,0.8871676173157442,0.8877390264620627,-0.0005714091463184801
+p7_abl_no_interactions,p7_notime,the 2 interaction terms removed,CatBoost,0.8787729983502489,0.8801009866586564,-0.001327988308407524
+p7_abl_no_external,p7_notime,"external enrichment removed (city_1..4b, job_1..4): also every post-2020 source",Random Forest,0.8889817577402476,0.8877390264620627,0.001242731278184861
+p7_abl_no_external,p7_notime,"external enrichment removed (city_1..4b, job_1..4): also every post-2020 source",CatBoost,0.8841982670948546,0.8801009866586564,0.00409728043619817
+p7_abl_no_geo_occ,p7_notime,all 14 geographic and occupational features removed,Random Forest,0.8939427675711538,0.8877390264620627,0.006203741109091054
+p7_abl_no_geo_occ,p7_notime,all 14 geographic and occupational features removed,CatBoost,0.8878182404666575,0.8801009866586564,0.0077172538080010344
+p7_red_enc,p7_red_raw,"reduced pair: amt + category + time, encoded against raw",Random Forest,0.7828713051754382,0.8618469080883193,-0.07897560291288108
+p7_red_enc,p7_red_raw,"reduced pair: amt + category + time, encoded against raw",CatBoost,0.7478488255361793,0.8411797257942198,-0.09333090025804058
+p7_catnative,p7_notime_raw,CatBoost native categorical handling of the raw strings,CatBoost,0.9128303459848915,0.9232855445167628,-0.010455198531871268
+p7_catnative_client,p7_notime_raw_client,"the same, with H",CatBoost,0.9400129786477324,0.9526232431872064,-0.012610264539474003

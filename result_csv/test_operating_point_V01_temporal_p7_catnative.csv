@@ -1,0 +1,10 @@
+metric\model,CatBoost
+Operating threshold (from validation),0.23530842923593256
+Alert rate on test,0.005438052482991623
+Recall (budget),0.817295188556567
+Precision (budget),0.8914893617021277
+F1 (budget),0.8527815468113975
+MCC (budget),0.8527548464360097
+Alerts on test (count),1410.0
+TP (budget),1257.0
+FP (budget),153.0

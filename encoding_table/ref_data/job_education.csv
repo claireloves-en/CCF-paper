@@ -1,0 +1,859 @@
+Ref_job,Ref_education_category,Ref_education_category_description,Encoded_education_category,Encoded_education_category_description
+Chief Executives,8.0,Master's Degree,2,Bachelor’s Degree or above
+Chief Sustainability Officers,8.0,Master's Degree,2,Bachelor’s Degree or above
+General and Operations Managers,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Advertising and Promotions Managers,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Marketing Managers,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Sales Managers,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Administrative Services Managers,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Facilities Managers,5.0,Associate's Degree (or other 2-year degree),1,High School or above
+Computer and Information Systems Managers,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Financial Managers,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Treasurers and Controllers,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Investment Fund Managers,8.0,Master's Degree,2,Bachelor’s Degree or above
+Industrial Production Managers,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Quality Control Systems Managers,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Geothermal Production Managers,4.0,Some College Courses,1,High School or above
+Biofuels Production Managers,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Biomass Power Plant Managers,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Hydroelectric Production Managers,3.0,"Post-Secondary Certificate - awarded for training completed after high school (for example, in agriculture or natural resources, computer services, personal or culinary services, engineering technologies, healthcare, construction trades, mechanic and repair technologies, or precision production)",1,High School or above
+Purchasing Managers,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Supply Chain Managers,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Compensation and Benefits Managers,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Human Resources Managers,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Training and Development Managers,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Construction Managers,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+"Education and Childcare Administrators, Preschool and Daycare",5.0,Associate's Degree (or other 2-year degree),1,High School or above
+"Education Administrators, Kindergarten through Secondary",9.0,Post-Master's Certificate - awarded for completion of an organized program of study; designed for people who have completed a Master's degree but do not meet the requirements of academic degrees at the doctoral level.,2,Bachelor’s Degree or above
+"Education Administrators, Postsecondary",8.0,Master's Degree,2,Bachelor’s Degree or above
+Architectural and Engineering Managers,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Biofuels/Biodiesel Technology and Product Development Managers,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Food Service Managers,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Gambling Managers,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Lodging Managers,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Medical and Health Services Managers,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Natural Sciences Managers,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Clinical Research Coordinators,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Water Resource Specialists,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Postmasters and Mail Superintendents,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+"Property, Real Estate, and Community Association Managers",6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Social and Community Service Managers,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Emergency Management Directors,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Funeral Home Managers,5.0,Associate's Degree (or other 2-year degree),1,High School or above
+Fitness and Wellness Coordinators,8.0,Master's Degree,2,Bachelor’s Degree or above
+Spa Managers,3.0,"Post-Secondary Certificate - awarded for training completed after high school (for example, in agriculture or natural resources, computer services, personal or culinary services, engineering technologies, healthcare, construction trades, mechanic and repair technologies, or precision production)",1,High School or above
+Regulatory Affairs Managers,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Compliance Managers,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Loss Prevention Managers,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Wind Energy Operations Managers,5.0,Associate's Degree (or other 2-year degree),1,High School or above
+Wind Energy Development Managers,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Brownfield Redevelopment Specialists and Site Managers,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+"Agents and Business Managers of Artists, Performers, and Athletes",6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+"Buyers and Purchasing Agents, Farm Products",6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+"Wholesale and Retail Buyers, Except Farm Products",6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+"Purchasing Agents, Except Wholesale, Retail, and Farm Products",6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+"Claims Adjusters, Examiners, and Investigators",6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+"Insurance Appraisers, Auto Damage",4.0,Some College Courses,1,High School or above
+Environmental Compliance Inspectors,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Equal Opportunity Representatives and Officers,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Government Property Inspectors and Investigators,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Coroners,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Regulatory Affairs Specialists,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Customs Brokers,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Cost Estimators,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Human Resources Specialists,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Farm Labor Contractors,1.0,Less than a High School Diploma,0,Below High School
+Labor Relations Specialists,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Logisticians,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Logistics Engineers,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Logistics Analysts,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Management Analysts,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+"Meeting, Convention, and Event Planners",6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Fundraisers,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+"Compensation, Benefits, and Job Analysis Specialists",6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Training and Development Specialists,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Market Research Analysts and Marketing Specialists,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Search Marketing Strategists,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Business Continuity Planners,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Sustainability Specialists,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Online Merchants,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Budget Analysts,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Credit Analysts,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Personal Financial Advisors,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Insurance Underwriters,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Financial Examiners,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Credit Counselors,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Loan Officers,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+"Tax Examiners and Collectors, and Revenue Agents",6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Tax Preparers,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Financial Quantitative Analysts,8.0,Master's Degree,2,Bachelor’s Degree or above
+"Fraud Examiners, Investigators and Analysts",6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Computer Systems Analysts,5.0,Associate's Degree (or other 2-year degree),1,High School or above
+Health Informatics Specialists,8.0,Master's Degree,2,Bachelor’s Degree or above
+Information Security Analysts,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Computer and Information Research Scientists,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Computer Network Support Specialists,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Computer User Support Specialists,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Computer Network Architects,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Telecommunications Engineering Specialists,3.0,"Post-Secondary Certificate - awarded for training completed after high school (for example, in agriculture or natural resources, computer services, personal or culinary services, engineering technologies, healthcare, construction trades, mechanic and repair technologies, or precision production)",1,High School or above
+Database Administrators,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Database Architects,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Data Warehousing Specialists,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Network and Computer Systems Administrators,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Computer Programmers,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Software Quality Assurance Analysts and Testers,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Web Developers,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Video Game Designers,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Web Administrators,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Document Management Specialists,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Computer Systems Engineers/Architects,3.0,"Post-Secondary Certificate - awarded for training completed after high school (for example, in agriculture or natural resources, computer services, personal or culinary services, engineering technologies, healthcare, construction trades, mechanic and repair technologies, or precision production)",1,High School or above
+Information Technology Project Managers,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Actuaries,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Mathematicians,11.0,Doctoral Degree,2,Bachelor’s Degree or above
+Operations Research Analysts,8.0,Master's Degree,2,Bachelor’s Degree or above
+Statisticians,8.0,Master's Degree,2,Bachelor’s Degree or above
+Biostatisticians,8.0,Master's Degree,2,Bachelor’s Degree or above
+Business Intelligence Analysts,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Clinical Data Managers,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Bioinformatics Technicians,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+"Architects, Except Landscape and Naval",6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Landscape Architects,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Cartographers and Photogrammetrists,3.0,"Post-Secondary Certificate - awarded for training completed after high school (for example, in agriculture or natural resources, computer services, personal or culinary services, engineering technologies, healthcare, construction trades, mechanic and repair technologies, or precision production)",1,High School or above
+Surveyors,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Geodetic Surveyors,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Aerospace Engineers,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Agricultural Engineers,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Bioengineers and Biomedical Engineers,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Chemical Engineers,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Civil Engineers,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Transportation Engineers,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Water/Wastewater Engineers,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Computer Hardware Engineers,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Electrical Engineers,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+"Electronics Engineers, Except Computer",6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Radio Frequency Identification Device Specialists,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Environmental Engineers,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Fire-Prevention and Protection Engineers,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Industrial Engineers,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Human Factors Engineers and Ergonomists,8.0,Master's Degree,2,Bachelor’s Degree or above
+Validation Engineers,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Manufacturing Engineers,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Materials Engineers,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Mechanical Engineers,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Fuel Cell Engineers,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Automotive Engineers,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+"Mining and Geological Engineers, Including Mining Safety Engineers",6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Nuclear Engineers,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Petroleum Engineers,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+"Energy Engineers, Except Wind and Solar",6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Mechatronics Engineers,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Microsystems Engineers,8.0,Master's Degree,2,Bachelor’s Degree or above
+Photonics Engineers,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Robotics Engineers,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Nanosystems Engineers,11.0,Doctoral Degree,2,Bachelor’s Degree or above
+Wind Energy Engineers,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Solar Energy Systems Engineers,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Electrical and Electronics Drafters,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Mechanical Drafters,5.0,Associate's Degree (or other 2-year degree),1,High School or above
+Aerospace Engineering and Operations Technologists and Technicians,3.0,"Post-Secondary Certificate - awarded for training completed after high school (for example, in agriculture or natural resources, computer services, personal or culinary services, engineering technologies, healthcare, construction trades, mechanic and repair technologies, or precision production)",1,High School or above
+Civil Engineering Technologists and Technicians,3.0,"Post-Secondary Certificate - awarded for training completed after high school (for example, in agriculture or natural resources, computer services, personal or culinary services, engineering technologies, healthcare, construction trades, mechanic and repair technologies, or precision production)",1,High School or above
+Electro-Mechanical and Mechatronics Technologists and Technicians,3.0,"Post-Secondary Certificate - awarded for training completed after high school (for example, in agriculture or natural resources, computer services, personal or culinary services, engineering technologies, healthcare, construction trades, mechanic and repair technologies, or precision production)",1,High School or above
+Robotics Technicians,5.0,Associate's Degree (or other 2-year degree),1,High School or above
+Environmental Engineering Technologists and Technicians,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Industrial Engineering Technologists and Technicians,4.0,Some College Courses,1,High School or above
+Mechanical Engineering Technologists and Technicians,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Automotive Engineering Technicians,5.0,Associate's Degree (or other 2-year degree),1,High School or above
+Non-Destructive Testing Specialists,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Photonics Technicians,5.0,Associate's Degree (or other 2-year degree),1,High School or above
+Animal Scientists,11.0,Doctoral Degree,2,Bachelor’s Degree or above
+Food Scientists and Technologists,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Soil and Plant Scientists,8.0,Master's Degree,2,Bachelor’s Degree or above
+Biochemists and Biophysicists,12.0,Post-Doctoral Training,2,Bachelor’s Degree or above
+Microbiologists,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Zoologists and Wildlife Biologists,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Bioinformatics Scientists,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Molecular and Cellular Biologists,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Geneticists,12.0,Post-Doctoral Training,2,Bachelor’s Degree or above
+Biologists,8.0,Master's Degree,2,Bachelor’s Degree or above
+Conservation Scientists,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Range Managers,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Park Naturalists,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Foresters,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Epidemiologists,8.0,Master's Degree,2,Bachelor’s Degree or above
+"Medical Scientists, Except Epidemiologists",11.0,Doctoral Degree,2,Bachelor’s Degree or above
+Astronomers,11.0,Doctoral Degree,2,Bachelor’s Degree or above
+Physicists,11.0,Doctoral Degree,2,Bachelor’s Degree or above
+Atmospheric and Space Scientists,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Chemists,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Materials Scientists,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+"Environmental Scientists and Specialists, Including Health",6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Climate Change Policy Analysts,8.0,Master's Degree,2,Bachelor’s Degree or above
+Environmental Restoration Planners,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Industrial Ecologists,8.0,Master's Degree,2,Bachelor’s Degree or above
+"Geoscientists, Except Hydrologists and Geographers",8.0,Master's Degree,2,Bachelor’s Degree or above
+Hydrologists,8.0,Master's Degree,2,Bachelor’s Degree or above
+Remote Sensing Scientists and Technologists,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Economists,8.0,Master's Degree,2,Bachelor’s Degree or above
+Environmental Economists,11.0,Doctoral Degree,2,Bachelor’s Degree or above
+Survey Researchers,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Industrial-Organizational Psychologists,8.0,Master's Degree,2,Bachelor’s Degree or above
+Clinical and Counseling Psychologists,12.0,Post-Doctoral Training,2,Bachelor’s Degree or above
+School Psychologists,9.0,Post-Master's Certificate - awarded for completion of an organized program of study; designed for people who have completed a Master's degree but do not meet the requirements of academic degrees at the doctoral level.,2,Bachelor’s Degree or above
+Neuropsychologists,12.0,Post-Doctoral Training,2,Bachelor’s Degree or above
+Clinical Neuropsychologists,12.0,Post-Doctoral Training,2,Bachelor’s Degree or above
+Sociologists,11.0,Doctoral Degree,2,Bachelor’s Degree or above
+Urban and Regional Planners,8.0,Master's Degree,2,Bachelor’s Degree or above
+Anthropologists and Archeologists,11.0,Doctoral Degree,2,Bachelor’s Degree or above
+Geographers,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Historians,8.0,Master's Degree,2,Bachelor’s Degree or above
+Political Scientists,11.0,Doctoral Degree,2,Bachelor’s Degree or above
+Transportation Planners,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Agricultural Technicians,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Precision Agriculture Technicians,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Food Science Technicians,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Biological Technicians,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Chemical Technicians,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+"Environmental Science and Protection Technicians, Including Health",6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Nuclear Monitoring Technicians,5.0,Associate's Degree (or other 2-year degree),1,High School or above
+Social Science Research Assistants,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Forest and Conservation Technicians,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Forensic Science Technicians,3.0,"Post-Secondary Certificate - awarded for training completed after high school (for example, in agriculture or natural resources, computer services, personal or culinary services, engineering technologies, healthcare, construction trades, mechanic and repair technologies, or precision production)",1,High School or above
+Quality Control Analysts,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Remote Sensing Technicians,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Occupational Health and Safety Specialists,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Occupational Health and Safety Technicians,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Substance Abuse and Behavioral Disorder Counselors,8.0,Master's Degree,2,Bachelor’s Degree or above
+"Educational, Guidance, and Career Counselors and Advisors",6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Marriage and Family Therapists,8.0,Master's Degree,2,Bachelor’s Degree or above
+Mental Health Counselors,8.0,Master's Degree,2,Bachelor’s Degree or above
+Rehabilitation Counselors,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+"Child, Family, and School Social Workers",6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Healthcare Social Workers,8.0,Master's Degree,2,Bachelor’s Degree or above
+Mental Health and Substance Abuse Social Workers,8.0,Master's Degree,2,Bachelor’s Degree or above
+Health Education Specialists,5.0,Associate's Degree (or other 2-year degree),1,High School or above
+Probation Officers and Correctional Treatment Specialists,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Social and Human Service Assistants,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Community Health Workers,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Clergy,8.0,Master's Degree,2,Bachelor’s Degree or above
+"Directors, Religious Activities and Education",6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Lawyers,11.0,Doctoral Degree,2,Bachelor’s Degree or above
+Judicial Law Clerks,11.0,Doctoral Degree,2,Bachelor’s Degree or above
+"Administrative Law Judges, Adjudicators, and Hearing Officers",11.0,Doctoral Degree,2,Bachelor’s Degree or above
+"Arbitrators, Mediators, and Conciliators",10.0,"First Professional Degree - awarded for completion of a program that: requires at least 2 years of college work before entrance into the program, includes a total of at least 6 academic years of work to complete, and provides all remaining academic requirements to begin practice in a profession.",2,Bachelor’s Degree or above
+"Judges, Magistrate Judges, and Magistrates",11.0,Doctoral Degree,2,Bachelor’s Degree or above
+Paralegals and Legal Assistants,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+"Title Examiners, Abstractors, and Searchers",2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+"Business Teachers, Postsecondary",11.0,Doctoral Degree,2,Bachelor’s Degree or above
+"Computer Science Teachers, Postsecondary",8.0,Master's Degree,2,Bachelor’s Degree or above
+"Mathematical Science Teachers, Postsecondary",8.0,Master's Degree,2,Bachelor’s Degree or above
+"Architecture Teachers, Postsecondary",11.0,Doctoral Degree,2,Bachelor’s Degree or above
+"Engineering Teachers, Postsecondary",11.0,Doctoral Degree,2,Bachelor’s Degree or above
+"Agricultural Sciences Teachers, Postsecondary",11.0,Doctoral Degree,2,Bachelor’s Degree or above
+"Biological Science Teachers, Postsecondary",11.0,Doctoral Degree,2,Bachelor’s Degree or above
+"Forestry and Conservation Science Teachers, Postsecondary",11.0,Doctoral Degree,2,Bachelor’s Degree or above
+"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary",8.0,Master's Degree,2,Bachelor’s Degree or above
+"Chemistry Teachers, Postsecondary",8.0,Master's Degree,2,Bachelor’s Degree or above
+"Environmental Science Teachers, Postsecondary",11.0,Doctoral Degree,2,Bachelor’s Degree or above
+"Physics Teachers, Postsecondary",11.0,Doctoral Degree,2,Bachelor’s Degree or above
+"Anthropology and Archeology Teachers, Postsecondary",11.0,Doctoral Degree,2,Bachelor’s Degree or above
+"Area, Ethnic, and Cultural Studies Teachers, Postsecondary",11.0,Doctoral Degree,2,Bachelor’s Degree or above
+"Economics Teachers, Postsecondary",11.0,Doctoral Degree,2,Bachelor’s Degree or above
+"Geography Teachers, Postsecondary",11.0,Doctoral Degree,2,Bachelor’s Degree or above
+"Political Science Teachers, Postsecondary",11.0,Doctoral Degree,2,Bachelor’s Degree or above
+"Psychology Teachers, Postsecondary",11.0,Doctoral Degree,2,Bachelor’s Degree or above
+"Sociology Teachers, Postsecondary",11.0,Doctoral Degree,2,Bachelor’s Degree or above
+"Health Specialties Teachers, Postsecondary",8.0,Master's Degree,2,Bachelor’s Degree or above
+"Nursing Instructors and Teachers, Postsecondary",8.0,Master's Degree,2,Bachelor’s Degree or above
+"Education Teachers, Postsecondary",11.0,Doctoral Degree,2,Bachelor’s Degree or above
+"Library Science Teachers, Postsecondary",11.0,Doctoral Degree,2,Bachelor’s Degree or above
+"Criminal Justice and Law Enforcement Teachers, Postsecondary",8.0,Master's Degree,2,Bachelor’s Degree or above
+"Law Teachers, Postsecondary",10.0,"First Professional Degree - awarded for completion of a program that: requires at least 2 years of college work before entrance into the program, includes a total of at least 6 academic years of work to complete, and provides all remaining academic requirements to begin practice in a profession.",2,Bachelor’s Degree or above
+"Social Work Teachers, Postsecondary",11.0,Doctoral Degree,2,Bachelor’s Degree or above
+"Art, Drama, and Music Teachers, Postsecondary",8.0,Master's Degree,2,Bachelor’s Degree or above
+"Communications Teachers, Postsecondary",8.0,Master's Degree,2,Bachelor’s Degree or above
+"English Language and Literature Teachers, Postsecondary",11.0,Doctoral Degree,2,Bachelor’s Degree or above
+"Foreign Language and Literature Teachers, Postsecondary",11.0,Doctoral Degree,2,Bachelor’s Degree or above
+"History Teachers, Postsecondary",11.0,Doctoral Degree,2,Bachelor’s Degree or above
+"Philosophy and Religion Teachers, Postsecondary",11.0,Doctoral Degree,2,Bachelor’s Degree or above
+"Family and Consumer Sciences Teachers, Postsecondary",11.0,Doctoral Degree,2,Bachelor’s Degree or above
+"Recreation and Fitness Studies Teachers, Postsecondary",11.0,Doctoral Degree,2,Bachelor’s Degree or above
+"Career/Technical Education Teachers, Postsecondary",5.0,Associate's Degree (or other 2-year degree),1,High School or above
+"Preschool Teachers, Except Special Education",2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+"Kindergarten Teachers, Except Special Education",6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+"Elementary School Teachers, Except Special Education",6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+"Middle School Teachers, Except Special and Career/Technical Education",6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+"Career/Technical Education Teachers, Middle School",6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+"Secondary School Teachers, Except Special and Career/Technical Education",6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+"Career/Technical Education Teachers, Secondary School",6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+"Special Education Teachers, Preschool",6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+"Special Education Teachers, Middle School",8.0,Master's Degree,2,Bachelor’s Degree or above
+"Special Education Teachers, Secondary School",6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Adapted Physical Education Specialists,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+"Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors",6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Self-Enrichment Teachers,8.0,Master's Degree,2,Bachelor’s Degree or above
+Tutors,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Archivists,8.0,Master's Degree,2,Bachelor’s Degree or above
+Curators,8.0,Master's Degree,2,Bachelor’s Degree or above
+Museum Technicians and Conservators,8.0,Master's Degree,2,Bachelor’s Degree or above
+Librarians and Media Collections Specialists,8.0,Master's Degree,2,Bachelor’s Degree or above
+Library Technicians,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Farm and Home Management Educators,8.0,Master's Degree,2,Bachelor’s Degree or above
+Instructional Coordinators,8.0,Master's Degree,2,Bachelor’s Degree or above
+"Teaching Assistants, Preschool, Elementary, Middle, and Secondary School, Except Special Education",2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+"Teaching Assistants, Postsecondary",6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Art Directors,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Craft Artists,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+"Fine Artists, Including Painters, Sculptors, and Illustrators",4.0,Some College Courses,1,High School or above
+Special Effects Artists and Animators,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Commercial and Industrial Designers,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Fashion Designers,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Floral Designers,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Graphic Designers,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Interior Designers,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Merchandise Displayers and Window Trimmers,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Set and Exhibit Designers,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Actors,1.0,Less than a High School Diploma,0,Below High School
+Producers and Directors,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Media Programming Directors,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Talent Directors,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Media Technical Directors/Managers,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Athletes and Sports Competitors,1.0,Less than a High School Diploma,0,Below High School
+Coaches and Scouts,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+"Umpires, Referees, and Other Sports Officials",2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Dancers,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Choreographers,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Music Directors and Composers,8.0,Master's Degree,2,Bachelor’s Degree or above
+Musicians and Singers,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Broadcast Announcers and Radio Disc Jockeys,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Public Relations Specialists,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Editors,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Technical Writers,5.0,Associate's Degree (or other 2-year degree),1,High School or above
+Writers and Authors,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+"Poets, Lyricists and Creative Writers",6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Interpreters and Translators,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Court Reporters and Simultaneous Captioners,3.0,"Post-Secondary Certificate - awarded for training completed after high school (for example, in agriculture or natural resources, computer services, personal or culinary services, engineering technologies, healthcare, construction trades, mechanic and repair technologies, or precision production)",1,High School or above
+Audio and Video Technicians,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Broadcast Technicians,5.0,Associate's Degree (or other 2-year degree),1,High School or above
+Sound Engineering Technicians,5.0,Associate's Degree (or other 2-year degree),1,High School or above
+Photographers,4.0,Some College Courses,1,High School or above
+"Camera Operators, Television, Video, and Film",5.0,Associate's Degree (or other 2-year degree),1,High School or above
+Film and Video Editors,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Chiropractors,11.0,Doctoral Degree,2,Bachelor’s Degree or above
+"Dentists, General",11.0,Doctoral Degree,2,Bachelor’s Degree or above
+Oral and Maxillofacial Surgeons,12.0,Post-Doctoral Training,2,Bachelor’s Degree or above
+Orthodontists,12.0,Post-Doctoral Training,2,Bachelor’s Degree or above
+Prosthodontists,12.0,Post-Doctoral Training,2,Bachelor’s Degree or above
+Dietitians and Nutritionists,7.0,Post-Baccalaureate Certificate - awarded for completion of an organized program of study; designed for people who have completed a Baccalaureate degree but do not meet the requirements of academic degrees carrying the title of Master.,2,Bachelor’s Degree or above
+Optometrists,11.0,Doctoral Degree,2,Bachelor’s Degree or above
+Pharmacists,11.0,Doctoral Degree,2,Bachelor’s Degree or above
+Physician Assistants,8.0,Master's Degree,2,Bachelor’s Degree or above
+Anesthesiologist Assistants,8.0,Master's Degree,2,Bachelor’s Degree or above
+Podiatrists,11.0,Doctoral Degree,2,Bachelor’s Degree or above
+Occupational Therapists,8.0,Master's Degree,2,Bachelor’s Degree or above
+"Low Vision Therapists, Orientation and Mobility Specialists, and Vision Rehabilitation Therapists",8.0,Master's Degree,2,Bachelor’s Degree or above
+Physical Therapists,11.0,Doctoral Degree,2,Bachelor’s Degree or above
+Radiation Therapists,5.0,Associate's Degree (or other 2-year degree),1,High School or above
+Recreational Therapists,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Respiratory Therapists,5.0,Associate's Degree (or other 2-year degree),1,High School or above
+Speech-Language Pathologists,8.0,Master's Degree,2,Bachelor’s Degree or above
+Exercise Physiologists,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Art Therapists,8.0,Master's Degree,2,Bachelor’s Degree or above
+Music Therapists,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Veterinarians,11.0,Doctoral Degree,2,Bachelor’s Degree or above
+Registered Nurses,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Acute Care Nurses,5.0,Associate's Degree (or other 2-year degree),1,High School or above
+Advanced Practice Psychiatric Nurses,8.0,Master's Degree,2,Bachelor’s Degree or above
+Critical Care Nurses,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Clinical Nurse Specialists,8.0,Master's Degree,2,Bachelor’s Degree or above
+Nurse Anesthetists,11.0,Doctoral Degree,2,Bachelor’s Degree or above
+Nurse Midwives,8.0,Master's Degree,2,Bachelor’s Degree or above
+Nurse Practitioners,8.0,Master's Degree,2,Bachelor’s Degree or above
+Audiologists,11.0,Doctoral Degree,2,Bachelor’s Degree or above
+Anesthesiologists,12.0,Post-Doctoral Training,2,Bachelor’s Degree or above
+Dermatologists,11.0,Doctoral Degree,2,Bachelor’s Degree or above
+Family Medicine Physicians,11.0,Doctoral Degree,2,Bachelor’s Degree or above
+General Internal Medicine Physicians,12.0,Post-Doctoral Training,2,Bachelor’s Degree or above
+Neurologists,12.0,Post-Doctoral Training,2,Bachelor’s Degree or above
+Obstetricians and Gynecologists,12.0,Post-Doctoral Training,2,Bachelor’s Degree or above
+"Pediatricians, General",12.0,Post-Doctoral Training,2,Bachelor’s Degree or above
+"Physicians, Pathologists",12.0,Post-Doctoral Training,2,Bachelor’s Degree or above
+Psychiatrists,12.0,Post-Doctoral Training,2,Bachelor’s Degree or above
+Radiologists,12.0,Post-Doctoral Training,2,Bachelor’s Degree or above
+Allergists and Immunologists,12.0,Post-Doctoral Training,2,Bachelor’s Degree or above
+Hospitalists,12.0,Post-Doctoral Training,2,Bachelor’s Degree or above
+Urologists,12.0,Post-Doctoral Training,2,Bachelor’s Degree or above
+Physical Medicine and Rehabilitation Physicians,11.0,Doctoral Degree,2,Bachelor’s Degree or above
+Preventive Medicine Physicians,12.0,Post-Doctoral Training,2,Bachelor’s Degree or above
+Sports Medicine Physicians,11.0,Doctoral Degree,2,Bachelor’s Degree or above
+"Ophthalmologists, Except Pediatric",12.0,Post-Doctoral Training,2,Bachelor’s Degree or above
+Acupuncturists,8.0,Master's Degree,2,Bachelor’s Degree or above
+Dental Hygienists,5.0,Associate's Degree (or other 2-year degree),1,High School or above
+Naturopathic Physicians,11.0,Doctoral Degree,2,Bachelor’s Degree or above
+Orthoptists,7.0,Post-Baccalaureate Certificate - awarded for completion of an organized program of study; designed for people who have completed a Baccalaureate degree but do not meet the requirements of academic degrees carrying the title of Master.,2,Bachelor’s Degree or above
+Medical and Clinical Laboratory Technologists,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Cytogenetic Technologists,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Cytotechnologists,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Histotechnologists,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Medical and Clinical Laboratory Technicians,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Cardiovascular Technologists and Technicians,5.0,Associate's Degree (or other 2-year degree),1,High School or above
+Diagnostic Medical Sonographers,5.0,Associate's Degree (or other 2-year degree),1,High School or above
+Nuclear Medicine Technologists,5.0,Associate's Degree (or other 2-year degree),1,High School or above
+Radiologic Technologists and Technicians,5.0,Associate's Degree (or other 2-year degree),1,High School or above
+Magnetic Resonance Imaging Technologists,5.0,Associate's Degree (or other 2-year degree),1,High School or above
+Medical Dosimetrists,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Dietetic Technicians,5.0,Associate's Degree (or other 2-year degree),1,High School or above
+Pharmacy Technicians,3.0,"Post-Secondary Certificate - awarded for training completed after high school (for example, in agriculture or natural resources, computer services, personal or culinary services, engineering technologies, healthcare, construction trades, mechanic and repair technologies, or precision production)",1,High School or above
+Psychiatric Technicians,4.0,Some College Courses,1,High School or above
+Surgical Technologists,5.0,Associate's Degree (or other 2-year degree),1,High School or above
+Veterinary Technologists and Technicians,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Ophthalmic Medical Technicians,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Licensed Practical and Licensed Vocational Nurses,4.0,Some College Courses,1,High School or above
+"Opticians, Dispensing",2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Orthotists and Prosthetists,8.0,Master's Degree,2,Bachelor’s Degree or above
+Hearing Aid Specialists,11.0,Doctoral Degree,2,Bachelor’s Degree or above
+Neurodiagnostic Technologists,5.0,Associate's Degree (or other 2-year degree),1,High School or above
+Ophthalmic Medical Technologists,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Patient Representatives,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Athletic Trainers,8.0,Master's Degree,2,Bachelor’s Degree or above
+Genetic Counselors,8.0,Master's Degree,2,Bachelor’s Degree or above
+Surgical Assistants,5.0,Associate's Degree (or other 2-year degree),1,High School or above
+Midwives,3.0,"Post-Secondary Certificate - awarded for training completed after high school (for example, in agriculture or natural resources, computer services, personal or culinary services, engineering technologies, healthcare, construction trades, mechanic and repair technologies, or precision production)",1,High School or above
+Home Health Aides,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Personal Care Aides,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Nursing Assistants,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Orderlies,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Psychiatric Aides,4.0,Some College Courses,1,High School or above
+Occupational Therapy Assistants,5.0,Associate's Degree (or other 2-year degree),1,High School or above
+Occupational Therapy Aides,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Physical Therapist Assistants,5.0,Associate's Degree (or other 2-year degree),1,High School or above
+Physical Therapist Aides,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Massage Therapists,3.0,"Post-Secondary Certificate - awarded for training completed after high school (for example, in agriculture or natural resources, computer services, personal or culinary services, engineering technologies, healthcare, construction trades, mechanic and repair technologies, or precision production)",1,High School or above
+Dental Assistants,3.0,"Post-Secondary Certificate - awarded for training completed after high school (for example, in agriculture or natural resources, computer services, personal or culinary services, engineering technologies, healthcare, construction trades, mechanic and repair technologies, or precision production)",1,High School or above
+Medical Assistants,3.0,"Post-Secondary Certificate - awarded for training completed after high school (for example, in agriculture or natural resources, computer services, personal or culinary services, engineering technologies, healthcare, construction trades, mechanic and repair technologies, or precision production)",1,High School or above
+Medical Equipment Preparers,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Medical Transcriptionists,3.0,"Post-Secondary Certificate - awarded for training completed after high school (for example, in agriculture or natural resources, computer services, personal or culinary services, engineering technologies, healthcare, construction trades, mechanic and repair technologies, or precision production)",1,High School or above
+Pharmacy Aides,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Veterinary Assistants and Laboratory Animal Caretakers,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Phlebotomists,3.0,"Post-Secondary Certificate - awarded for training completed after high school (for example, in agriculture or natural resources, computer services, personal or culinary services, engineering technologies, healthcare, construction trades, mechanic and repair technologies, or precision production)",1,High School or above
+Speech-Language Pathology Assistants,5.0,Associate's Degree (or other 2-year degree),1,High School or above
+Endoscopy Technicians,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+First-Line Supervisors of Correctional Officers,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+First-Line Supervisors of Police and Detectives,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+First-Line Supervisors of Firefighting and Prevention Workers,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Firefighters,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Fire Inspectors and Investigators,3.0,"Post-Secondary Certificate - awarded for training completed after high school (for example, in agriculture or natural resources, computer services, personal or culinary services, engineering technologies, healthcare, construction trades, mechanic and repair technologies, or precision production)",1,High School or above
+Forest Fire Inspectors and Prevention Specialists,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Bailiffs,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Correctional Officers and Jailers,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Detectives and Criminal Investigators,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Police Identification and Records Officers,5.0,Associate's Degree (or other 2-year degree),1,High School or above
+Intelligence Analysts,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Fish and Game Wardens,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Parking Enforcement Workers,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Police and Sheriff's Patrol Officers,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Customs and Border Protection Officers,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Transit and Railroad Police,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Animal Control Workers,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Private Detectives and Investigators,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Gambling Surveillance Officers and Gambling Investigators,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Security Guards,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Crossing Guards and Flaggers,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",1.0,Less than a High School Diploma,0,Below High School
+Transportation Security Screeners,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Retail Loss Prevention Specialists,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Chefs and Head Cooks,5.0,Associate's Degree (or other 2-year degree),1,High School or above
+First-Line Supervisors of Food Preparation and Serving Workers,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+"Cooks, Fast Food",2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+"Cooks, Institution and Cafeteria",2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+"Cooks, Private Household",3.0,"Post-Secondary Certificate - awarded for training completed after high school (for example, in agriculture or natural resources, computer services, personal or culinary services, engineering technologies, healthcare, construction trades, mechanic and repair technologies, or precision production)",1,High School or above
+"Cooks, Restaurant",2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+"Cooks, Short Order",2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Food Preparation Workers,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Bartenders,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Fast Food and Counter Workers,1.0,Less than a High School Diploma,0,Below High School
+Baristas,1.0,Less than a High School Diploma,0,Below High School
+Waiters and Waitresses,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+"Food Servers, Nonrestaurant",2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Dining Room and Cafeteria Attendants and Bartender Helpers,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Dishwashers,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+First-Line Supervisors of Housekeeping and Janitorial Workers,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Maids and Housekeeping Cleaners,1.0,Less than a High School Diploma,0,Below High School
+Pest Control Workers,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Landscaping and Groundskeeping Workers,1.0,Less than a High School Diploma,0,Below High School
+"Pesticide Handlers, Sprayers, and Applicators, Vegetation",2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Tree Trimmers and Pruners,1.0,Less than a High School Diploma,0,Below High School
+First-Line Supervisors of Gambling Services Workers,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+First-Line Supervisors of Personal Service Workers,5.0,Associate's Degree (or other 2-year degree),1,High School or above
+Animal Trainers,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Animal Caretakers,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Gambling Dealers,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Gambling and Sports Book Writers and Runners,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Motion Picture Projectionists,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+"Ushers, Lobby Attendants, and Ticket Takers",2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Amusement and Recreation Attendants,1.0,Less than a High School Diploma,0,Below High School
+Costume Attendants,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+"Locker Room, Coatroom, and Dressing Room Attendants",2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Embalmers,5.0,Associate's Degree (or other 2-year degree),1,High School or above
+Funeral Attendants,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+"Morticians, Undertakers, and Funeral Arrangers",5.0,Associate's Degree (or other 2-year degree),1,High School or above
+Barbers,3.0,"Post-Secondary Certificate - awarded for training completed after high school (for example, in agriculture or natural resources, computer services, personal or culinary services, engineering technologies, healthcare, construction trades, mechanic and repair technologies, or precision production)",1,High School or above
+"Hairdressers, Hairstylists, and Cosmetologists",3.0,"Post-Secondary Certificate - awarded for training completed after high school (for example, in agriculture or natural resources, computer services, personal or culinary services, engineering technologies, healthcare, construction trades, mechanic and repair technologies, or precision production)",1,High School or above
+"Makeup Artists, Theatrical and Performance",3.0,"Post-Secondary Certificate - awarded for training completed after high school (for example, in agriculture or natural resources, computer services, personal or culinary services, engineering technologies, healthcare, construction trades, mechanic and repair technologies, or precision production)",1,High School or above
+Manicurists and Pedicurists,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Shampooers,3.0,"Post-Secondary Certificate - awarded for training completed after high school (for example, in agriculture or natural resources, computer services, personal or culinary services, engineering technologies, healthcare, construction trades, mechanic and repair technologies, or precision production)",1,High School or above
+Skincare Specialists,3.0,"Post-Secondary Certificate - awarded for training completed after high school (for example, in agriculture or natural resources, computer services, personal or culinary services, engineering technologies, healthcare, construction trades, mechanic and repair technologies, or precision production)",1,High School or above
+Baggage Porters and Bellhops,1.0,Less than a High School Diploma,0,Below High School
+Concierges,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Tour Guides and Escorts,5.0,Associate's Degree (or other 2-year degree),1,High School or above
+Travel Guides,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Childcare Workers,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Nannies,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Exercise Trainers and Group Fitness Instructors,3.0,"Post-Secondary Certificate - awarded for training completed after high school (for example, in agriculture or natural resources, computer services, personal or culinary services, engineering technologies, healthcare, construction trades, mechanic and repair technologies, or precision production)",1,High School or above
+Recreation Workers,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Residential Advisors,4.0,Some College Courses,1,High School or above
+First-Line Supervisors of Retail Sales Workers,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+First-Line Supervisors of Non-Retail Sales Workers,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Cashiers,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Gambling Change Persons and Booth Cashiers,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Counter and Rental Clerks,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Parts Salespersons,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Retail Salespersons,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Advertising Sales Agents,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Insurance Sales Agents,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+"Securities, Commodities, and Financial Services Sales Agents",6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Travel Agents,5.0,Associate's Degree (or other 2-year degree),1,High School or above
+"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Solar Sales Representatives and Assessors,5.0,Associate's Degree (or other 2-year degree),1,High School or above
+"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Demonstrators and Product Promoters,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Models,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Real Estate Brokers,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Real Estate Sales Agents,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Sales Engineers,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Telemarketers,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+"Door-to-Door Sales Workers, News and Street Vendors, and Related Workers",1.0,Less than a High School Diploma,0,Below High School
+First-Line Supervisors of Office and Administrative Support Workers,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+"Switchboard Operators, Including Answering Service",2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Telephone Operators,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Bill and Account Collectors,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Billing and Posting Clerks,4.0,Some College Courses,1,High School or above
+"Bookkeeping, Accounting, and Auditing Clerks",2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Gambling Cage Workers,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Payroll and Timekeeping Clerks,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Procurement Clerks,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Tellers,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Brokerage Clerks,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Correspondence Clerks,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+"Court, Municipal, and License Clerks",2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Customer Service Representatives,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+"Eligibility Interviewers, Government Programs",2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+File Clerks,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+"Hotel, Motel, and Resort Desk Clerks",2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+"Interviewers, Except Eligibility and Loan",2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+"Library Assistants, Clerical",2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Loan Interviewers and Clerks,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+New Accounts Clerks,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Order Clerks,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+"Human Resources Assistants, Except Payroll and Timekeeping",6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Receptionists and Information Clerks,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Reservation and Transportation Ticket Agents and Travel Clerks,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Cargo and Freight Agents,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Freight Forwarders,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Couriers and Messengers,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Public Safety Telecommunicators,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+"Dispatchers, Except Police, Fire, and Ambulance",2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+"Meter Readers, Utilities",2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Postal Service Clerks,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Postal Service Mail Carriers,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+"Postal Service Mail Sorters, Processors, and Processing Machine Operators",2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+"Production, Planning, and Expediting Clerks",2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+"Shipping, Receiving, and Inventory Clerks",2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+"Weighers, Measurers, Checkers, and Samplers, Recordkeeping",2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Executive Secretaries and Executive Administrative Assistants,5.0,Associate's Degree (or other 2-year degree),1,High School or above
+Legal Secretaries and Administrative Assistants,5.0,Associate's Degree (or other 2-year degree),1,High School or above
+Medical Secretaries and Administrative Assistants,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Data Entry Keyers,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Word Processors and Typists,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Desktop Publishers,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Insurance Claims and Policy Processing Clerks,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+"Mail Clerks and Mail Machine Operators, Except Postal Service",2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+"Office Clerks, General",2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+"Office Machine Operators, Except Computer",2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Proofreaders and Copy Markers,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Statistical Assistants,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+"First-Line Supervisors of Farming, Fishing, and Forestry Workers",6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Agricultural Inspectors,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Animal Breeders,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+"Graders and Sorters, Agricultural Products",1.0,Less than a High School Diploma,0,Below High School
+Agricultural Equipment Operators,1.0,Less than a High School Diploma,0,Below High School
+"Farmworkers and Laborers, Crop, Nursery, and Greenhouse",1.0,Less than a High School Diploma,0,Below High School
+"Farmworkers, Farm, Ranch, and Aquacultural Animals",4.0,Some College Courses,1,High School or above
+Forest and Conservation Workers,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Fallers,1.0,Less than a High School Diploma,0,Below High School
+Logging Equipment Operators,1.0,Less than a High School Diploma,0,Below High School
+Log Graders and Scalers,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+First-Line Supervisors of Construction Trades and Extraction Workers,3.0,"Post-Secondary Certificate - awarded for training completed after high school (for example, in agriculture or natural resources, computer services, personal or culinary services, engineering technologies, healthcare, construction trades, mechanic and repair technologies, or precision production)",1,High School or above
+Solar Energy Installation Managers,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Boilermakers,1.0,Less than a High School Diploma,0,Below High School
+Brickmasons and Blockmasons,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Stonemasons,1.0,Less than a High School Diploma,0,Below High School
+Carpenters,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Carpet Installers,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+"Floor Layers, Except Carpet, Wood, and Hard Tiles",2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Floor Sanders and Finishers,1.0,Less than a High School Diploma,0,Below High School
+Tile and Stone Setters,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Cement Masons and Concrete Finishers,1.0,Less than a High School Diploma,0,Below High School
+Terrazzo Workers and Finishers,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Construction Laborers,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+"Paving, Surfacing, and Tamping Equipment Operators",1.0,Less than a High School Diploma,0,Below High School
+Pile Driver Operators,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Operating Engineers and Other Construction Equipment Operators,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Drywall and Ceiling Tile Installers,1.0,Less than a High School Diploma,0,Below High School
+Tapers,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Electricians,3.0,"Post-Secondary Certificate - awarded for training completed after high school (for example, in agriculture or natural resources, computer services, personal or culinary services, engineering technologies, healthcare, construction trades, mechanic and repair technologies, or precision production)",1,High School or above
+Glaziers,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+"Insulation Workers, Floor, Ceiling, and Wall",2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+"Insulation Workers, Mechanical",2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+"Painters, Construction and Maintenance",2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Paperhangers,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Pipelayers,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+"Plumbers, Pipefitters, and Steamfitters",3.0,"Post-Secondary Certificate - awarded for training completed after high school (for example, in agriculture or natural resources, computer services, personal or culinary services, engineering technologies, healthcare, construction trades, mechanic and repair technologies, or precision production)",1,High School or above
+Solar Thermal Installers and Technicians,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Plasterers and Stucco Masons,1.0,Less than a High School Diploma,0,Below High School
+Reinforcing Iron and Rebar Workers,1.0,Less than a High School Diploma,0,Below High School
+Roofers,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Sheet Metal Workers,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Structural Iron and Steel Workers,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Solar Photovoltaic Installers,3.0,"Post-Secondary Certificate - awarded for training completed after high school (for example, in agriculture or natural resources, computer services, personal or culinary services, engineering technologies, healthcare, construction trades, mechanic and repair technologies, or precision production)",1,High School or above
+"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters",2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Helpers--Carpenters,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Helpers--Electricians,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",1.0,Less than a High School Diploma,0,Below High School
+"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Helpers--Roofers,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Construction and Building Inspectors,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Energy Auditors,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Elevator and Escalator Installers and Repairers,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Fence Erectors,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Hazardous Materials Removal Workers,1.0,Less than a High School Diploma,0,Below High School
+Highway Maintenance Workers,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Rail-Track Laying and Maintenance Equipment Operators,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Septic Tank Servicers and Sewer Pipe Cleaners,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Segmental Pavers,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Weatherization Installers and Technicians,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+"Derrick Operators, Oil and Gas",1.0,Less than a High School Diploma,0,Below High School
+"Rotary Drill Operators, Oil and Gas",1.0,Less than a High School Diploma,0,Below High School
+"Service Unit Operators, Oil and Gas",2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+"Excavating and Loading Machine and Dragline Operators, Surface Mining",2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+"Earth Drillers, Except Oil and Gas",2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+"Explosives Workers, Ordnance Handling Experts, and Blasters",2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Continuous Mining Machine Operators,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+"Roof Bolters, Mining",2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+"Loading and Moving Machine Operators, Underground Mining",2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+"Rock Splitters, Quarry",1.0,Less than a High School Diploma,0,Below High School
+"Roustabouts, Oil and Gas",1.0,Less than a High School Diploma,0,Below High School
+Helpers--Extraction Workers,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+"First-Line Supervisors of Mechanics, Installers, and Repairers",2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+"Computer, Automated Teller, and Office Machine Repairers",5.0,Associate's Degree (or other 2-year degree),1,High School or above
+"Radio, Cellular, and Tower Equipment Installers and Repairers",2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+"Telecommunications Equipment Installers and Repairers, Except Line Installers",2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Avionics Technicians,3.0,"Post-Secondary Certificate - awarded for training completed after high school (for example, in agriculture or natural resources, computer services, personal or culinary services, engineering technologies, healthcare, construction trades, mechanic and repair technologies, or precision production)",1,High School or above
+"Electric Motor, Power Tool, and Related Repairers",3.0,"Post-Secondary Certificate - awarded for training completed after high school (for example, in agriculture or natural resources, computer services, personal or culinary services, engineering technologies, healthcare, construction trades, mechanic and repair technologies, or precision production)",1,High School or above
+"Electrical and Electronics Installers and Repairers, Transportation Equipment",3.0,"Post-Secondary Certificate - awarded for training completed after high school (for example, in agriculture or natural resources, computer services, personal or culinary services, engineering technologies, healthcare, construction trades, mechanic and repair technologies, or precision production)",1,High School or above
+"Electrical and Electronics Repairers, Commercial and Industrial Equipment",5.0,Associate's Degree (or other 2-year degree),1,High School or above
+"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",3.0,"Post-Secondary Certificate - awarded for training completed after high school (for example, in agriculture or natural resources, computer services, personal or culinary services, engineering technologies, healthcare, construction trades, mechanic and repair technologies, or precision production)",1,High School or above
+"Electronic Equipment Installers and Repairers, Motor Vehicles",3.0,"Post-Secondary Certificate - awarded for training completed after high school (for example, in agriculture or natural resources, computer services, personal or culinary services, engineering technologies, healthcare, construction trades, mechanic and repair technologies, or precision production)",1,High School or above
+Audiovisual Equipment Installers and Repairers,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Security and Fire Alarm Systems Installers,3.0,"Post-Secondary Certificate - awarded for training completed after high school (for example, in agriculture or natural resources, computer services, personal or culinary services, engineering technologies, healthcare, construction trades, mechanic and repair technologies, or precision production)",1,High School or above
+Aircraft Mechanics and Service Technicians,3.0,"Post-Secondary Certificate - awarded for training completed after high school (for example, in agriculture or natural resources, computer services, personal or culinary services, engineering technologies, healthcare, construction trades, mechanic and repair technologies, or precision production)",1,High School or above
+Automotive Body and Related Repairers,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Automotive Glass Installers and Repairers,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Automotive Service Technicians and Mechanics,3.0,"Post-Secondary Certificate - awarded for training completed after high school (for example, in agriculture or natural resources, computer services, personal or culinary services, engineering technologies, healthcare, construction trades, mechanic and repair technologies, or precision production)",1,High School or above
+Bus and Truck Mechanics and Diesel Engine Specialists,3.0,"Post-Secondary Certificate - awarded for training completed after high school (for example, in agriculture or natural resources, computer services, personal or culinary services, engineering technologies, healthcare, construction trades, mechanic and repair technologies, or precision production)",1,High School or above
+Farm Equipment Mechanics and Service Technicians,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+"Mobile Heavy Equipment Mechanics, Except Engines",3.0,"Post-Secondary Certificate - awarded for training completed after high school (for example, in agriculture or natural resources, computer services, personal or culinary services, engineering technologies, healthcare, construction trades, mechanic and repair technologies, or precision production)",1,High School or above
+Rail Car Repairers,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Motorboat Mechanics and Service Technicians,3.0,"Post-Secondary Certificate - awarded for training completed after high school (for example, in agriculture or natural resources, computer services, personal or culinary services, engineering technologies, healthcare, construction trades, mechanic and repair technologies, or precision production)",1,High School or above
+Motorcycle Mechanics,3.0,"Post-Secondary Certificate - awarded for training completed after high school (for example, in agriculture or natural resources, computer services, personal or culinary services, engineering technologies, healthcare, construction trades, mechanic and repair technologies, or precision production)",1,High School or above
+Outdoor Power Equipment and Other Small Engine Mechanics,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Bicycle Repairers,1.0,Less than a High School Diploma,0,Below High School
+Recreational Vehicle Service Technicians,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Tire Repairers and Changers,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Mechanical Door Repairers,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+"Control and Valve Installers and Repairers, Except Mechanical Door",2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+"Heating, Air Conditioning, and Refrigeration Mechanics and Installers",3.0,"Post-Secondary Certificate - awarded for training completed after high school (for example, in agriculture or natural resources, computer services, personal or culinary services, engineering technologies, healthcare, construction trades, mechanic and repair technologies, or precision production)",1,High School or above
+Home Appliance Repairers,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Industrial Machinery Mechanics,3.0,"Post-Secondary Certificate - awarded for training completed after high school (for example, in agriculture or natural resources, computer services, personal or culinary services, engineering technologies, healthcare, construction trades, mechanic and repair technologies, or precision production)",1,High School or above
+"Maintenance Workers, Machinery",3.0,"Post-Secondary Certificate - awarded for training completed after high school (for example, in agriculture or natural resources, computer services, personal or culinary services, engineering technologies, healthcare, construction trades, mechanic and repair technologies, or precision production)",1,High School or above
+Millwrights,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+"Refractory Materials Repairers, Except Brickmasons",2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Electrical Power-Line Installers and Repairers,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Telecommunications Line Installers and Repairers,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Camera and Photographic Equipment Repairers,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Medical Equipment Repairers,5.0,Associate's Degree (or other 2-year degree),1,High School or above
+Musical Instrument Repairers and Tuners,3.0,"Post-Secondary Certificate - awarded for training completed after high school (for example, in agriculture or natural resources, computer services, personal or culinary services, engineering technologies, healthcare, construction trades, mechanic and repair technologies, or precision production)",1,High School or above
+Watch and Clock Repairers,3.0,"Post-Secondary Certificate - awarded for training completed after high school (for example, in agriculture or natural resources, computer services, personal or culinary services, engineering technologies, healthcare, construction trades, mechanic and repair technologies, or precision production)",1,High School or above
+"Maintenance and Repair Workers, General",3.0,"Post-Secondary Certificate - awarded for training completed after high school (for example, in agriculture or natural resources, computer services, personal or culinary services, engineering technologies, healthcare, construction trades, mechanic and repair technologies, or precision production)",1,High School or above
+Wind Turbine Service Technicians,3.0,"Post-Secondary Certificate - awarded for training completed after high school (for example, in agriculture or natural resources, computer services, personal or culinary services, engineering technologies, healthcare, construction trades, mechanic and repair technologies, or precision production)",1,High School or above
+"Coin, Vending, and Amusement Machine Servicers and Repairers",2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Commercial Divers,3.0,"Post-Secondary Certificate - awarded for training completed after high school (for example, in agriculture or natural resources, computer services, personal or culinary services, engineering technologies, healthcare, construction trades, mechanic and repair technologies, or precision production)",1,High School or above
+Locksmiths and Safe Repairers,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Manufactured Building and Mobile Home Installers,1.0,Less than a High School Diploma,0,Below High School
+Riggers,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Signal and Track Switch Repairers,1.0,Less than a High School Diploma,0,Below High School
+"Helpers--Installation, Maintenance, and Repair Workers",2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Geothermal Technicians,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+First-Line Supervisors of Production and Operating Workers,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+"Aircraft Structure, Surfaces, Rigging, and Systems Assemblers",2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+"Coil Winders, Tapers, and Finishers",2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Electrical and Electronic Equipment Assemblers,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Electromechanical Equipment Assemblers,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Engine and Other Machine Assemblers,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Structural Metal Fabricators and Fitters,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Fiberglass Laminators and Fabricators,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Timing Device Assemblers and Adjusters,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Team Assemblers,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Bakers,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Butchers and Meat Cutters,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+"Meat, Poultry, and Fish Cutters and Trimmers",1.0,Less than a High School Diploma,0,Below High School
+Slaughterers and Meat Packers,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+"Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders",2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Food Batchmakers,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Food Cooking Machine Operators and Tenders,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+"Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic",2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+"Forging Machine Setters, Operators, and Tenders, Metal and Plastic",2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+"Rolling Machine Setters, Operators, and Tenders, Metal and Plastic",2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+"Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+"Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic",2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic",2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Machinists,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Metal-Refining Furnace Operators and Tenders,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+"Pourers and Casters, Metal",2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+"Model Makers, Metal and Plastic",2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+"Patternmakers, Metal and Plastic",4.0,Some College Courses,1,High School or above
+Foundry Mold and Coremakers,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+"Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+"Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Tool and Die Makers,3.0,"Post-Secondary Certificate - awarded for training completed after high school (for example, in agriculture or natural resources, computer services, personal or culinary services, engineering technologies, healthcare, construction trades, mechanic and repair technologies, or precision production)",1,High School or above
+"Welders, Cutters, Solderers, and Brazers",2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",3.0,"Post-Secondary Certificate - awarded for training completed after high school (for example, in agriculture or natural resources, computer services, personal or culinary services, engineering technologies, healthcare, construction trades, mechanic and repair technologies, or precision production)",1,High School or above
+"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+"Layout Workers, Metal and Plastic",2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+"Plating Machine Setters, Operators, and Tenders, Metal and Plastic",1.0,Less than a High School Diploma,0,Below High School
+"Tool Grinders, Filers, and Sharpeners",2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Prepress Technicians and Workers,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Printing Press Operators,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Print Binding and Finishing Workers,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Laundry and Dry-Cleaning Workers,1.0,Less than a High School Diploma,0,Below High School
+"Pressers, Textile, Garment, and Related Materials",1.0,Less than a High School Diploma,0,Below High School
+Sewing Machine Operators,1.0,Less than a High School Diploma,0,Below High School
+Shoe and Leather Workers and Repairers,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Shoe Machine Operators and Tenders,1.0,Less than a High School Diploma,0,Below High School
+"Sewers, Hand",1.0,Less than a High School Diploma,0,Below High School
+"Tailors, Dressmakers, and Custom Sewers",2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Textile Bleaching and Dyeing Machine Operators and Tenders,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+"Textile Cutting Machine Setters, Operators, and Tenders",2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+"Textile Knitting and Weaving Machine Setters, Operators, and Tenders",2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+"Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders",1.0,Less than a High School Diploma,0,Below High School
+"Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers",2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Fabric and Apparel Patternmakers,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Upholsterers,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Cabinetmakers and Bench Carpenters,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Furniture Finishers,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+"Model Makers, Wood",3.0,"Post-Secondary Certificate - awarded for training completed after high school (for example, in agriculture or natural resources, computer services, personal or culinary services, engineering technologies, healthcare, construction trades, mechanic and repair technologies, or precision production)",1,High School or above
+"Patternmakers, Wood",2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+"Sawing Machine Setters, Operators, and Tenders, Wood",2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+"Woodworking Machine Setters, Operators, and Tenders, Except Sawing",2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Nuclear Power Reactor Operators,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Power Distributors and Dispatchers,3.0,"Post-Secondary Certificate - awarded for training completed after high school (for example, in agriculture or natural resources, computer services, personal or culinary services, engineering technologies, healthcare, construction trades, mechanic and repair technologies, or precision production)",1,High School or above
+Power Plant Operators,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Biomass Plant Technicians,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Hydroelectric Plant Technicians,5.0,Associate's Degree (or other 2-year degree),1,High School or above
+Stationary Engineers and Boiler Operators,3.0,"Post-Secondary Certificate - awarded for training completed after high school (for example, in agriculture or natural resources, computer services, personal or culinary services, engineering technologies, healthcare, construction trades, mechanic and repair technologies, or precision production)",1,High School or above
+Water and Wastewater Treatment Plant and System Operators,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Chemical Plant and System Operators,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Gas Plant Operators,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+"Petroleum Pump System Operators, Refinery Operators, and Gaugers",2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Biofuels Processing Technicians,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Chemical Equipment Operators and Tenders,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+"Grinding and Polishing Workers, Hand",2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+"Mixing and Blending Machine Setters, Operators, and Tenders",2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+"Cutters and Trimmers, Hand",1.0,Less than a High School Diploma,0,Below High School
+"Cutting and Slicing Machine Setters, Operators, and Tenders",2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+"Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders",2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+"Inspectors, Testers, Sorters, Samplers, and Weighers",2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Gem and Diamond Workers,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Dental Laboratory Technicians,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Medical Appliance Technicians,5.0,Associate's Degree (or other 2-year degree),1,High School or above
+Ophthalmic Laboratory Technicians,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Packaging and Filling Machine Operators and Tenders,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+"Painting, Coating, and Decorating Workers",1.0,Less than a High School Diploma,0,Below High School
+"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Semiconductor Processing Technicians,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Photographic Process Workers and Processing Machine Operators,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Computer Numerically Controlled Tool Operators,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Computer Numerically Controlled Tool Programmers,3.0,"Post-Secondary Certificate - awarded for training completed after high school (for example, in agriculture or natural resources, computer services, personal or culinary services, engineering technologies, healthcare, construction trades, mechanic and repair technologies, or precision production)",1,High School or above
+Adhesive Bonding Machine Operators and Tenders,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders",2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Cooling and Freezing Equipment Operators and Tenders,1.0,Less than a High School Diploma,0,Below High School
+Etchers and Engravers,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+"Stone Cutters and Carvers, Manufacturing",2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+"Glass Blowers, Molders, Benders, and Finishers",1.0,Less than a High School Diploma,0,Below High School
+"Potters, Manufacturing",4.0,Some College Courses,1,High School or above
+"Paper Goods Machine Setters, Operators, and Tenders",2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Tire Builders,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Helpers--Production Workers,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Aircraft Cargo Handling Supervisors,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+"First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand",2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Recycling Coordinators,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+First-Line Supervisors of Material-Moving Machine and Vehicle Operators,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+"Airline Pilots, Copilots, and Flight Engineers",6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Commercial Pilots,3.0,"Post-Secondary Certificate - awarded for training completed after high school (for example, in agriculture or natural resources, computer services, personal or culinary services, engineering technologies, healthcare, construction trades, mechanic and repair technologies, or precision production)",1,High School or above
+Air Traffic Controllers,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Airfield Operations Specialists,6.0,Bachelor's Degree,2,Bachelor’s Degree or above
+Flight Attendants,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+"Ambulance Drivers and Attendants, Except Emergency Medical Technicians",2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Driver/Sales Workers,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Heavy and Tractor-Trailer Truck Drivers,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Light Truck Drivers,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+"Bus Drivers, Transit and Intercity",2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Locomotive Engineers,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+"Rail Yard Engineers, Dinkey Operators, and Hostlers",2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Railroad Conductors and Yardmasters,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Subway and Streetcar Operators,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Sailors and Marine Oilers,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+"Captains, Mates, and Pilots of Water Vessels",2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Motorboat Operators,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Ship Engineers,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Bridge and Lock Tenders,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Parking Attendants,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Automotive and Watercraft Service Attendants,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Traffic Technicians,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Aviation Inspectors,5.0,Associate's Degree (or other 2-year degree),1,High School or above
+"Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation",2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Passenger Attendants,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Conveyor Operators and Tenders,1.0,Less than a High School Diploma,0,Below High School
+Crane and Tower Operators,3.0,"Post-Secondary Certificate - awarded for training completed after high school (for example, in agriculture or natural resources, computer services, personal or culinary services, engineering technologies, healthcare, construction trades, mechanic and repair technologies, or precision production)",1,High School or above
+Dredge Operators,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Hoist and Winch Operators,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Industrial Truck and Tractor Operators,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Cleaners of Vehicles and Equipment,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+"Laborers and Freight, Stock, and Material Movers, Hand",2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Recycling and Reclamation Workers,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Machine Feeders and Offbearers,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+"Packers and Packagers, Hand",2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Stockers and Order Fillers,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Gas Compressor and Gas Pumping Station Operators,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+"Pump Operators, Except Wellhead Pumpers",2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Wellhead Pumpers,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+Refuse and Recyclable Material Collectors,2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above
+"Tank Car, Truck, and Ship Loaders",2.0,"High School Diploma - or the equivalent (for example, GED)",1,High School or above

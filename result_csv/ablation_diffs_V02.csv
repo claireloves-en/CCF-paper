@@ -1,0 +1,33 @@
+difference,model,value
+"3 - 1  encoding, without client history",Logistic Regression,-0.03183940083380471
+"3 - 1  encoding, without client history",Decision Tree,-0.05331199207290516
+"3 - 1  encoding, without client history",Random Forest,-0.031990297842703685
+"3 - 1  encoding, without client history",AdaBoost,-0.05104113020319445
+"3 - 1  encoding, without client history",CatBoost,-0.043184557858106376
+"3 - 1  encoding, without client history",XGBoost,-0.0398004775898857
+"3 - 1  encoding, without client history",LightGBM,-0.04069192166368363
+"3 - 1  encoding, without client history",K-NN,0.06650635397894672
+"4 - 2  encoding, with client history",Logistic Regression,-0.020429926240304097
+"4 - 2  encoding, with client history",Decision Tree,-0.013855782998992705
+"4 - 2  encoding, with client history",Random Forest,-0.0312976575501549
+"4 - 2  encoding, with client history",AdaBoost,-0.0544245311293583
+"4 - 2  encoding, with client history",CatBoost,-0.03507483274163836
+"4 - 2  encoding, with client history",XGBoost,-0.031334324297921934
+"4 - 2  encoding, with client history",LightGBM,-0.02852139702875045
+"4 - 2  encoding, with client history",K-NN,0.0570456269073043
+"2 - 1  client history, on raw features",Logistic Regression,0.1628239004255865
+"2 - 1  client history, on raw features",Decision Tree,-0.018687741798027235
+"2 - 1  client history, on raw features",Random Forest,0.005896303510154022
+"2 - 1  client history, on raw features",AdaBoost,0.15087292789400886
+"2 - 1  client history, on raw features",CatBoost,0.029337698670443557
+"2 - 1  client history, on raw features",XGBoost,0.028219263906160585
+"2 - 1  client history, on raw features",LightGBM,0.026986938998187604
+"2 - 1  client history, on raw features",K-NN,0.014195865860374524
+"4 - 3  client history, on encoded features",Logistic Regression,0.17423337501908712
+"4 - 3  client history, on encoded features",Decision Tree,0.020768467275885216
+"4 - 3  client history, on encoded features",Random Forest,0.006588943802702807
+"4 - 3  client history, on encoded features",AdaBoost,0.147489526967845
+"4 - 3  client history, on encoded features",CatBoost,0.03744742378691157
+"4 - 3  client history, on encoded features",XGBoost,0.03668541719812435
+"4 - 3  client history, on encoded features",LightGBM,0.03915746363312078
+"4 - 3  client history, on encoded features",K-NN,0.004735138788732107

@@ -1,0 +1,929 @@
+State,City,County,city_1,city_2,city_3,city_4a,city_4b
+AK,Wales,Nome Census Area,2,1,0,1,0
+AK,Kaktovik,North Slope Borough,3,0,0,0,0
+AK,Huslia,Yukon-Koyukuk Census Area,0,3,0,0,0
+AL,Jones,Autauga,2,3,2,3,3
+AL,Bay Minette,Baldwin,3,3,2,2,2
+AL,Fairhope,Baldwin,3,3,2,2,2
+AL,Cleveland,Blount,1,3,2,0,4
+AL,Brantley,Crenshaw,0,4,0,0,1
+AL,Plantersville,Dallas,0,3,1,0,0
+AL,Sardis,Dallas,0,3,1,0,0
+AL,Gadsden,Etowah,1,3,2,2,4
+AL,Eldridge,Fayette,0,3,0,1,1
+AL,Phil Campbell,Franklin,0,1,1,0,3
+AL,Hartford,Geneva,0,2,2,0,2
+AL,Paint Rock,Jackson,0,3,1,4,1
+AL,Woodville,Jackson,0,3,1,4,1
+AL,Bessemer,Jefferson,2,4,2,2,4
+AL,Birmingham,Jefferson,2,4,2,2,4
+AL,Mount Hope,Lawrence,1,1,2,4,3
+AL,Phenix City,Lee,1,4,2,3,3
+AL,Huntsville,Madison,3,3,2,4,4
+AL,Grant,Marshall,1,3,1,2,4
+AL,Grand Bay,Mobile,1,3,2,3,3
+AL,Mobile,Mobile,1,3,2,3,3
+AL,Montgomery,Montgomery,1,4,2,2,4
+AL,Ragland,St. Clair,2,0,2,2,4
+AL,Dadeville,Tallapoosa,1,3,1,1,1
+AR,De Witt,Arkansas,0,3,0,0,2
+AR,Pea Ridge,Benton,3,3,2,3,4
+AR,Enola,Faulkner,2,3,2,3,4
+AR,Cherokee Village,Fulton,0,2,0,4,1
+AR,Viola,Fulton,0,2,0,4,1
+AR,Cord,Independence,1,3,1,0,2
+AR,Thida,Independence,1,3,1,0,2
+AR,Walnut Ridge,Lawrence,0,2,0,3,2
+AR,Haynes,Lee,0,4,1,0,2
+AR,Texarkana,Miller,0,3,2,4,2
+AR,Norman,Montgomery,0,1,0,0,0
+AR,Lepanto,Poinsett,0,2,2,3,3
+AR,Roland,Pulaski,1,4,2,4,4
+AR,Bauxite,Saline,2,0,2,2,3
+AR,De Queen,Sevier,0,3,0,3,0
+AR,Ash Flat,Sharp,0,3,0,2,0
+AR,Smackover,Union,0,4,1,0,0
+AR,Winslow,Washington,2,4,2,4,3
+AR,Gregory,Woodruff,0,4,0,1,3
+AZ,Parks,Coconino,2,3,2,2,0
+AZ,Mesa,Maricopa,3,3,2,3,3
+AZ,Paradise Valley,Maricopa,3,3,2,3,3
+AZ,Phoenix,Maricopa,3,3,2,3,3
+AZ,Superior,Pinal,3,2,2,2,3
+AZ,Humboldt,Yavapai,2,2,2,1,1
+CA,Oakland,Alameda,3,3,2,4,3
+CA,Fiddletown,Amador,3,3,1,0,2
+CA,Port Costa,Contra Costa,3,3,2,4,4
+CA,Smith River,Del Norte,1,3,1,0,0
+CA,Helm,Fresno,2,4,2,3,3
+CA,Carlotta,Humboldt,1,4,1,1,0
+CA,Fields Landing,Humboldt,1,4,1,1,0
+CA,Lakeport,Lake,0,4,1,2,1
+CA,Wendel,Lassen,1,0,1,1,1
+CA,Azusa,Los Angeles,3,4,2,2,3
+CA,Claremont,Los Angeles,3,4,2,2,3
+CA,Downey,Los Angeles,3,4,2,2,3
+CA,Glendale,Los Angeles,3,4,2,2,3
+CA,Hawthorne,Los Angeles,3,4,2,2,3
+CA,Los Angeles,Los Angeles,3,4,2,2,3
+CA,Newhall,Los Angeles,3,4,2,2,3
+CA,Norwalk,Los Angeles,3,4,2,2,3
+CA,Palmdale,Los Angeles,3,4,2,2,3
+CA,Santa Monica,Los Angeles,3,4,2,2,3
+CA,Tomales,Marin,3,4,2,3,1
+CA,June Lake,Mono,3,0,0,0,1
+CA,Angwin,Napa,3,4,2,3,2
+CA,Napa,Napa,3,4,2,3,2
+CA,Huntington Beach,Orange,3,3,2,2,3
+CA,Laguna Hills,Orange,3,3,2,2,3
+CA,Blairsden-Graeagle,Plumas,2,2,0,0,0
+CA,Vinton,Plumas,2,2,0,0,0
+CA,Corona,Riverside,3,3,2,1,3
+CA,Indian Wells,Riverside,3,3,2,1,3
+CA,Mountain Center,Riverside,3,3,2,1,3
+CA,Sun City,Riverside,3,3,2,1,3
+CA,Sacramento,Sacramento,3,2,2,4,4
+CA,Parker Dam,San Bernardino,3,2,2,1,2
+CA,San Diego,San Diego,3,3,2,3,3
+CA,Daly City,San Mateo,3,4,2,4,1
+CA,Buellton,Santa Barbara,3,4,2,3,0
+CA,San Jose,Santa Clara,3,3,2,4,3
+CA,Greenview,Siskiyou,0,3,0,1,0
+CA,Grenada,Siskiyou,0,3,0,1,0
+CA,Vacaville,Solano,3,0,2,3,4
+CO,Aurora,Adams,3,0,2,3,3
+CO,Littleton,Arapahoe,3,3,2,3,3
+CO,Broomfield,Broomfield,3,1,2,3,4
+CO,Dumont,Clear Creek,3,1,2,0,2
+CO,Parker,Douglas,3,0,2,3,3
+CO,Red Cliff,Eagle,3,4,1,3,0
+CO,Colorado Springs,El Paso,3,2,2,4,3
+CO,Arvada,Jefferson,3,1,2,3,3
+CO,Iliff,Logan,1,1,1,3,0
+CO,Meredith,Pitkin,3,4,1,2,0
+CO,Pueblo,Pueblo,1,3,2,3,3
+CO,Kirk,Yuma,1,0,0,3,0
+CT,Marion,Hartford,3,3,2,4,4
+CT,East Canaan,Litchfield,3,3,1,2,2
+CT,Plymouth,Litchfield,3,3,1,2,2
+CT,Higganum,Middlesex,3,2,2,4,3
+CT,Preston,New London,3,2,2,3,3
+DC,Washington,District of Columbia,3,4,2,4,4
+DE,Georgetown,Sussex,3,3,1,2,3
+FL,Hampton,Bradford,1,2,1,0,4
+FL,Melbourne,Brevard,3,2,2,2,3
+FL,Titusville,Brevard,3,2,2,2,3
+FL,Port Charlotte,Charlotte,2,3,2,2,3
+FL,Orange Park,Clay,3,0,2,3,4
+FL,Naples,Collier,3,4,2,3,1
+FL,Lanark Village,Franklin,0,4,0,2,0
+FL,Wauchula,Hardee,0,4,1,1,3
+FL,Sebring,Highlands,0,4,2,2,3
+FL,Brandon,Hillsborough,3,4,2,2,4
+FL,Tampa,Hillsborough,3,4,2,2,4
+FL,Vero Beach,Indian River,2,4,2,3,3
+FL,Grand Ridge,Jackson,0,3,0,0,2
+FL,Umatilla,Lake,2,1,2,2,4
+FL,Bonita Springs,Lee,3,4,2,3,2
+FL,Cape Coral,Lee,3,4,2,3,2
+FL,Fort Myers,Lee,3,4,2,3,2
+FL,Saint James City,Lee,3,4,2,3,2
+FL,Key West,Monroe,3,4,1,4,0
+FL,Loxahatchee,Palm Beach,3,4,2,4,3
+FL,West Palm Beach,Palm Beach,3,4,2,4,3
+FL,Port Richey,Pasco,2,2,2,1,3
+FL,Clearwater,Pinellas,2,4,2,1,1
+FL,Saint Petersburg,Pinellas,2,4,2,1,1
+FL,Haines City,Polk,2,2,2,1,4
+FL,Lakeland,Polk,2,2,2,1,4
+FL,Jay,Santa Rosa,3,1,2,3,2
+FL,Port Saint Lucie,St. Lucie,2,2,2,3,4
+FL,Deltona,Volusia,2,3,2,1,3
+GA,Surrency,Appling,0,3,0,2,2
+GA,Girard,Burke,0,3,2,1,2
+GA,Kings Bay,Camden,2,1,1,4,1
+GA,Du Pont,Clinch,0,4,0,0,0
+GA,West Green,Coffee,0,3,1,3,2
+GA,Norman Park,Colquitt,0,4,1,2,2
+GA,Brinson,Decatur,0,3,1,0,2
+GA,Vienna,Dooly,0,3,0,4,2
+GA,Springfield,Effingham,3,1,2,3,0
+GA,Alpharetta,Fulton,3,4,2,4,4
+GA,Sea Island,Glynn,2,4,2,3,2
+GA,Whigham,Grady,0,3,1,0,2
+GA,Avera,Jefferson,0,3,0,3,2
+GA,Milner,Lamar,2,2,1,2,2
+GA,Hahira,Lowndes,1,4,2,2,3
+GA,Valdosta,Lowndes,1,4,2,2,3
+GA,Darien,McIntosh,0,1,2,4,1
+GA,Juliette,Monroe,3,4,2,4,1
+GA,Cuthbert,Randolph,0,1,0,1,1
+GA,Varnell,Whitfield,2,2,2,4,4
+GA,Allentown,Wilkinson,0,4,0,1,1
+GA,Irwinton,Wilkinson,0,4,0,1,1
+HI,Honokaa,Hawaii,3,3,1,2,0
+HI,Paauilo,Hawaii,3,3,1,2,0
+IA,Moulton,Appanoose,1,4,0,1,3
+IA,Lohrville,Calhoun,2,1,0,3,2
+IA,Rockwell,Cerro Gordo,2,2,1,4,2
+IA,Oran,Fayette,1,2,0,3,2
+IA,Webster City,Hamilton,2,0,0,3,3
+IA,Battle Creek,Ida,2,2,0,0,2
+IA,Hedrick,Keokuk,2,3,0,3,3
+IA,Ollie,Keokuk,2,3,0,3,3
+IA,Whittemore,Kossuth,2,1,0,3,1
+IA,Moscow,Muscatine,2,1,1,2,4
+IA,Clarinda,Page,1,1,0,4,1
+IA,Curlew,Palo Alto,2,0,0,2,1
+IA,Des Moines,Polk,3,1,2,3,4
+IA,Elkhart,Polk,3,1,2,3,4
+IA,Avoca,Pottawattamie,2,1,2,3,2
+IA,Early,Sac,3,1,0,1,1
+IA,Princeton,Scott,2,3,2,4,4
+IA,Alton,Sioux,3,0,0,1,3
+IA,Clutier,Tama,2,1,0,3,3
+IA,Birmingham,Van Buren,2,3,0,0,2
+IA,Belmond,Wright,2,1,0,4,3
+ID,Meridian,Ada,3,2,2,3,4
+ID,Mesa,Adams,1,4,0,1,0
+ID,Spirit Lake,Kootenai,3,0,2,3,1
+ID,Malad City,Oneida,2,0,1,4,1
+IL,Payson,Adams,2,2,1,4,2
+IL,Mulberry Grove,Bond,2,2,2,0,4
+IL,New Memphis,Clinton,3,1,2,0,4
+IL,Schaumburg,Cook,3,4,2,4,3
+IL,Wilmette,Cook,3,4,2,4,3
+IL,Dieterich,Effingham,3,3,1,3,3
+IL,Logan,Franklin,0,3,0,2,4
+IL,West Frankfort,Franklin,0,3,0,2,4
+IL,Smithfield,Fulton,1,3,1,4,2
+IL,Lomax,Henderson,2,0,1,2,2
+IL,Goreville,Johnson,1,2,0,2,3
+IL,Bonfield,Kankakee,2,1,2,2,4
+IL,Pembroke Township,Kankakee,2,1,2,2,4
+IL,Streator,LaSalle,2,1,1,3,4
+IL,Eagarville,Macoupin,2,0,2,2,2
+IL,Moro,Madison,2,2,2,2,4
+IL,Ringwood,McHenry,3,0,2,4,4
+IL,Oakford,Menard,3,0,2,3,3
+IL,New Boston,Mercer,2,0,2,1,1
+IL,Nokomis,Montgomery,1,2,1,2,3
+IL,Murrayville,Morgan,2,2,1,3,3
+IL,Tamaroa,Perry,1,1,0,1,4
+IL,Cisco,Piatt,3,0,2,3,3
+IL,Olmsted,Pulaski,0,3,0,0,4
+IL,Mc Nabb,Putnam,3,0,1,0,3
+IL,Putnam,Putnam,3,0,1,0,3
+IL,Galatia,Saline,0,4,0,2,2
+IL,Loami,Sangamon,3,3,2,4,4
+IL,Tower Hill,Shelby,2,0,0,0,3
+IL,Dongola,Union,0,3,0,1,3
+IL,Rossville,Vermilion,0,2,1,2,4
+IL,Joliet,Will,3,0,2,3,4
+IL,Eureka,Woodford,3,1,2,2,4
+IN,Leo,Allen,2,2,2,4,4
+IN,Moores Hill,Dearborn,3,0,2,3,3
+IN,Veedersburg,Fountain,2,1,0,2,3
+IN,Indianapolis,Hamilton,3,2,2,4,4
+IN,Noblesville,Hamilton,3,2,2,4,4
+IN,Central,Harrison,3,0,2,1,2
+IN,Andrews,Huntington,1,0,1,4,4
+IN,Greenwood,Johnson,3,1,2,4,4
+IN,Claypool,Kosciusko,3,0,1,4,4
+IN,Kingsford Heights,LaPorte,2,1,2,3,4
+IN,Highland,Lake,2,2,2,3,4
+IN,Oolitic,Lawrence,1,0,1,2,2
+IN,Williams,Lawrence,1,0,1,2,2
+IN,Harrodsburg,Monroe,2,4,2,3,3
+IN,Bristow,Perry,1,0,0,4,1
+IN,North Judson,Starke,1,2,1,0,3
+IN,Carlisle,Sullivan,1,1,2,1,2
+IN,Clinton,Vermillion,1,0,2,1,2
+IN,New Goshen,Vigo,0,3,2,1,4
+IN,Prairie Creek,Vigo,0,3,2,1,4
+IN,Liberty Mills,Wabash,2,0,1,3,3
+IN,Churubusco,Whitley,3,0,2,1,4
+KS,Dexter,Cowley,1,2,1,2,2
+KS,Dresden,Decatur,0,1,0,3,1
+KS,Grenola,Elk,0,1,0,0,0
+KS,Holcomb,Finney,2,0,1,3,3
+KS,Burrton,Harvey,3,0,2,2,3
+KS,Ozawkie,Jefferson,3,0,2,1,4
+KS,Esbon,Jewell,1,4,0,3,0
+KS,De Soto,Johnson,3,2,2,4,4
+KS,Easton,Leavenworth,3,0,2,3,4
+KS,Utica,Ness,2,1,0,4,2
+KS,Garfield,Pawnee,0,0,0,3,1
+KS,Mc Cracken,Rush,1,0,0,3,0
+KS,Wichita,Sedgwick,2,3,2,4,4
+KS,Topeka,Shawnee,2,2,2,4,4
+KS,Hudson,Stafford,1,2,0,2,0
+KY,Ashland,Boyd,1,2,2,2,2
+KY,Stephensport,Breckinridge,0,2,1,1,1
+KY,Rochester,Butler,0,2,2,0,1
+KY,Hazel,Calloway,0,3,1,2,2
+KY,Big Creek,Clay,0,4,1,3,0
+KY,Dubre,Cumberland,0,4,0,0,0
+KY,Irvine,Estill,0,2,1,2,0
+KY,Elizabethtown,Hardin,2,3,2,4,3
+KY,Cranks,Harlan,0,4,0,1,0
+KY,Louisville,Jefferson,2,3,2,3,4
+KY,River,Johnson,0,4,0,4,0
+KY,Mallie,Knott,0,3,0,4,0
+KY,Cromona,Letcher,0,4,0,1,0
+KY,Deane,Letcher,0,4,0,1,0
+KY,Saint Francis,Marion,1,2,1,2,1
+KY,Maysville,Mason,0,4,1,0,4
+KY,Parkers Lake,McCreary,0,4,0,4,0
+KY,Pewee Valley,Oldham,3,2,2,2,4
+KY,Westport,Oldham,3,2,2,2,4
+KY,Cadiz,Trigg,1,1,2,1,1
+KY,Smiths Grove,Warren,1,4,2,2,3
+LA,Egan,Acadia Parish,0,4,2,1,4
+LA,Saint Amant,Ascension Parish,3,1,2,4,4
+LA,Baton Rouge,East Baton Rouge Parish,2,4,2,4,4
+LA,Gretna,Jefferson Parish,2,3,2,4,3
+LA,Kenner,Jefferson Parish,2,3,2,4,3
+LA,Metairie,Jefferson Parish,2,3,2,4,3
+LA,Denham Springs,Livingston Parish,3,0,2,3,4
+LA,West Monroe,Ouachita Parish,0,4,2,3,3
+LA,Fordoche,Pointe Coupee Parish,1,4,2,1,3
+LA,Delhi,Richland Parish,0,3,2,0,3
+LA,Madisonville,St. Tammany Parish,3,2,2,2,4
+LA,Tickfaw,Tangipahoa Parish,1,4,2,1,4
+LA,Spearsville,Union Parish,0,4,2,0,1
+MA,Barnstable,Barnstable,3,3,2,3,0
+MA,Sheffield,Berkshire,3,3,2,2,2
+MA,Lawrence,Essex,3,4,2,3,2
+MA,Methuen,Essex,3,4,2,3,2
+MA,Ashfield,Franklin,2,2,1,3,2
+MA,Stoneham,Middlesex,3,3,2,4,4
+MA,North Brookfield,Worcester,3,2,2,2,3
+MA,Paxton,Worcester,3,2,2,2,3
+MA,Shrewsbury,Worcester,3,2,2,2,3
+MD,Corriganville,Allegany,0,2,1,3,3
+MD,Annapolis,Anne Arundel,3,1,2,3,3
+MD,Harwood,Anne Arundel,3,1,2,3,3
+MD,Linthicum Heights,Anne Arundel,3,1,2,3,3
+MD,Kingsville,Baltimore,3,2,2,4,4
+MD,Pikesville,Baltimore,3,2,2,4,4
+MD,Manchester,Carroll,3,0,2,3,4
+MD,Cecilton,Cecil,3,1,2,2,3
+MD,Tuscarora,Frederick,3,0,2,3,4
+MD,Gaithersburg,Montgomery,3,3,2,4,4
+MD,Kensington,Montgomery,3,3,2,4,4
+MD,Chester,Queen Anne's,3,1,2,3,3
+MD,Queen Anne,Queen Anne's,3,1,2,3,3
+MD,Queenstown,Queen Anne's,3,1,2,3,3
+MD,Great Mills,St. Mary's,3,0,2,3,2
+MD,Scotland,St. Mary's,3,0,2,3,2
+MD,Hancock,Washington,2,2,2,3,4
+MD,Tyaskin,Wicomico,2,2,2,2,4
+MD,Whaleyville,Worcester,3,4,1,2,2
+ME,Auburn,Androscoggin,2,1,2,4,3
+ME,Freeport,Cumberland,3,2,2,4,2
+ME,Scarborough,Cumberland,3,2,2,4,2
+ME,Brooklin,Hancock,2,3,0,1,0
+ME,Winthrop,Kennebec,2,2,1,2,3
+ME,Nobleboro,Lincoln,3,2,0,1,0
+ME,East Andover,Oxford,1,1,0,1,1
+ME,West Bethel,Oxford,1,1,0,1,1
+ME,Newport,Penobscot,1,2,2,2,0
+ME,Bowdoin,Sagadahoc,3,0,2,4,1
+ME,Steuben,Washington,1,2,0,1,0
+ME,Kittery Point,York,3,1,2,3,2
+ME,Parsonsfield,York,3,1,2,3,2
+MI,Rumely,Alger,1,0,0,1,0
+MI,Wetmore,Alger,1,0,0,1,0
+MI,Elk Rapids,Antrim,3,1,0,1,2
+MI,Bay City,Bay,1,2,2,0,3
+MI,Elberta,Benzie,2,0,2,0,0
+MI,Baroda,Berrien,2,3,2,3,1
+MI,Afton,Cheboygan,1,1,0,1,1
+MI,Gaines,Genesee,1,3,2,2,4
+MI,Goodrich,Genesee,1,3,2,2,4
+MI,Munith,Jackson,2,2,2,1,4
+MI,Cedar,Leelanau,3,2,2,0,0
+MI,Pointe Aux Pins,Mackinac,1,2,0,2,0
+MI,Mount Clemens,Macomb,3,1,2,4,4
+MI,Warren,Macomb,3,1,2,4,4
+MI,Arcadia,Manistee,1,2,0,0,0
+MI,Republic,Marquette,2,1,1,2,0
+MI,Falmouth,Missaukee,1,0,1,0,2
+MI,Lakeview,Montcalm,2,0,2,3,4
+MI,Muskegon,Muskegon,1,2,2,2,0
+MI,Oxford,Oakland,3,3,2,4,4
+MI,Southfield,Oakland,3,3,2,4,4
+MI,Luzerne,Oscoda,0,1,0,1,0
+MI,Manistique,Schoolcraft,1,2,0,0,0
+MI,East China,St. Clair,2,2,2,2,4
+MI,Detroit,Wayne,1,4,2,3,4
+MI,Livonia,Wayne,1,4,2,3,4
+MI,Riverview,Wayne,1,4,2,3,4
+MI,Romulus,Wayne,1,4,2,3,4
+MN,Minneapolis,Anoka,3,0,2,3,4
+MN,Sauk Rapids,Benton,3,0,2,1,4
+MN,Comfrey,Brown,2,0,1,3,3
+MN,Watertown,Carver,3,1,2,4,4
+MN,Remer,Cass,2,1,1,3,2
+MN,Georgetown,Clay,3,1,2,4,3
+MN,Hawley,Clay,3,1,2,4,3
+MN,Hovland,Cook,2,1,0,4,0
+MN,Randolph,Dakota,3,0,2,4,4
+MN,Saint Paul,Dakota,3,0,2,4,4
+MN,Minnesota Lake,Faribault,2,1,0,3,2
+MN,Emmons,Freeborn,2,1,1,4,3
+MN,Isanti,Isanti,3,0,2,1,4
+MN,Stanchfield,Isanti,3,0,2,1,4
+MN,Halma,Kittson,2,0,0,4,1
+MN,Ranier,Koochiching,2,0,0,2,0
+MN,Bigelow,Nobles,2,1,1,3,3
+MN,Halstad,Norman,2,2,0,4,3
+MN,Winger,Polk,2,1,2,4,3
+MN,Lamberton,Redwood,2,0,0,2,3
+MN,Lonsdale,Rice,3,1,1,4,4
+MN,Hills,Rock,2,1,2,4,3
+MN,Orr,St. Louis,2,2,2,2,2
+MN,Collegeville,Stearns,3,1,2,2,4
+MN,Afton,Washington,3,1,2,3,4
+MO,Brashear,Adair,0,4,1,3,1
+MO,Wheaton,Barry,0,3,0,2,3
+MO,Williamsburg,Callaway,3,0,2,4,3
+MO,Pleasant Hill,Cass,3,0,2,3,4
+MO,Luray,Clark,2,4,0,0,2
+MO,Kansas City,Clay,3,0,2,3,4
+MO,Cardwell,Dunklin,0,4,1,4,3
+MO,Owensville,Gasconade,1,1,1,4,2
+MO,Blairstown,Henry,1,3,1,0,3
+MO,Mound City,Holt,0,1,0,0,3
+MO,Independence,Jackson,2,3,2,3,4
+MO,Arnold,Jefferson,3,0,2,1,4
+MO,Centerview,Johnson,1,0,1,1,3
+MO,Odessa,Lafayette,2,1,2,0,4
+MO,Browning,Linn,1,1,0,2,2
+MO,Meadville,Linn,1,1,0,2,2
+MO,Utica,Livingston,1,1,0,3,3
+MO,Rocky Mount,Morgan,0,4,0,4,2
+MO,Syracuse,Morgan,0,4,0,4,2
+MO,Matthews,New Madrid,0,2,0,2,3
+MO,Clarksville,Pike,1,2,1,1,2
+MO,Louisiana,Pike,1,2,1,1,2
+MO,Unionville,Putnam,0,2,0,4,2
+MO,Camden,Ray,2,1,2,1,4
+MO,Redford,Reynolds,0,1,0,4,0
+MO,Saint Louis,St Louis,3,3,2,4,4
+MO,Ballwin,St. Louis,3,4,2,3,4
+MO,Kissee Mills,Taney,1,1,1,0,2
+MO,Wappapello,Wayne,0,2,0,0,0
+MS,Duncan,Bolivar,0,4,1,2,1
+MS,Bruce,Calhoun,0,0,0,4,0
+MS,Meadville,Franklin,0,3,0,0,1
+MS,Pearlington,Hancock,1,3,2,4,2
+MS,Jackson,Hinds,0,3,2,3,3
+MS,Mayersville,Issaquena,0,4,0,0,1
+MS,Moss Point,Jackson,2,3,2,3,1
+MS,Heidelberg,Jasper,0,3,1,0,1
+MS,Paris,Lafayette,2,4,1,4,2
+MS,University,Lafayette,2,4,1,4,2
+MS,Sontag,Lawrence,0,3,0,0,1
+MS,Ridgeland,Madison,3,4,2,4,3
+MS,Sturgis,Oktibbeha,0,4,1,4,1
+MS,Florence,Rankin,3,0,2,4,4
+MS,Moorhead,Sunflower,0,4,0,0,1
+MS,Sunflower,Sunflower,0,4,0,0,1
+MS,Coffeeville,Yalobusha,0,1,1,0,0
+MT,Turner,Blaine,1,2,0,2,0
+MT,Bridger,Carbon,2,1,2,0,1
+MT,Belgrade,Gallatin,3,3,2,3,2
+MT,Boulder,Jefferson,3,0,2,0,2
+MT,Alder,Madison,3,0,0,4,1
+MT,Heart Butte,Pondera,0,1,0,2,2
+MT,Sula,Ravalli,2,3,0,1,0
+NC,Haw River,Alamance,2,2,2,2,4
+NC,Morven,Anson,0,2,2,0,1
+NC,Collettsville,Caldwell,1,1,2,1,2
+NC,Pelham,Caswell,1,2,0,0,1
+NC,Andrews,Cherokee,0,1,0,0,0
+NC,Grover,Cleveland,1,3,1,1,4
+NC,Bolton,Columbus,0,4,0,2,2
+NC,Fayetteville,Cumberland,1,2,2,1,4
+NC,Walkertown,Forsyth,2,4,2,2,4
+NC,Creedmoor,Granville,3,1,1,0,2
+NC,Gibsonville,Guilford,2,4,2,2,4
+NC,Summerfield,Guilford,2,4,2,2,4
+NC,Mooresville,Iredell,3,3,2,2,4
+NC,Crouse,Lincoln,3,3,2,1,4
+NC,Bailey,Nash,1,3,2,0,3
+NC,Wilmington,New Hanover,3,4,2,2,3
+NC,Grimesland,Pitt,1,4,2,1,4
+NC,Pembroke,Robeson,0,4,1,1,3
+NC,Moravian Falls,Wilkes,0,2,1,3,0
+NC,North Wilkesboro,Wilkes,0,2,1,3,0
+ND,Rhame,Bowman,3,0,0,4,1
+ND,Noonan,Divide,2,2,0,4,3
+ND,Reynolds,Grand Forks,2,3,2,3,3
+ND,Shields,Grant,0,4,0,4,2
+ND,Coleharbor,McLean,3,0,0,4,2
+ND,Wilton,McLean,3,0,0,4,2
+ND,Palermo,Mountrail,3,2,0,4,3
+ND,Michigan,Nelson,1,3,0,4,1
+ND,Christine,Richland,3,2,1,4,3
+NE,Holstein,Adams,2,2,1,4,1
+NE,Roseland,Adams,2,2,1,4,1
+NE,Ravenna,Buffalo,2,1,1,3,0
+NE,Brainard,Butler,3,2,0,2,0
+NE,Manley,Cass,3,0,2,3,2
+NE,Weeping Water,Cass,3,0,2,3,2
+NE,Valentine,Cherry,1,2,0,3,0
+NE,Howells,Colfax,2,0,1,2,1
+NE,Westerville,Custer,1,2,0,2,0
+NE,Hooper,Dodge,2,0,1,4,1
+NE,Omaha,Douglas,3,3,2,3,4
+NE,Campbell,Franklin,1,0,0,3,0
+NE,Sprague,Lancaster,2,2,2,4,4
+NE,Sutherland,Lincoln,2,1,1,4,0
+NE,Fullerton,Nance,2,1,0,2,0
+NE,Nelson,Nuckolls,1,4,0,3,0
+NE,Hubbell,Thayer,2,1,0,3,0
+NE,North Loup,Valley,1,2,0,1,0
+NE,Carroll,Wayne,2,1,0,4,0
+NH,Belmont,Belknap,3,2,1,4,2
+NH,Center Tuftonboro,Carroll,3,3,1,2,1
+NH,Conway,Carroll,3,3,1,2,1
+NH,Jaffrey,Cheshire,3,1,1,3,1
+NH,North Haverhill,Grafton,3,4,1,1,0
+NH,Newton,Rockingham,3,1,2,4,3
+NH,Acworth,Sullivan,3,1,1,3,1
+NH,Grantham,Sullivan,3,1,1,3,1
+NJ,Richland,Atlantic,3,4,2,3,3
+NJ,Fairview,Bergen,3,3,2,3,4
+NJ,Harrington Park,Bergen,3,3,2,3,4
+NJ,Greenwich,Cumberland,2,4,2,3,2
+NJ,Heislerville,Cumberland,2,4,2,3,2
+NJ,Bridgeport,Gloucester,3,0,2,3,4
+NJ,Iselin,Middlesex,3,1,2,3,4
+NJ,Allenhurst,Monmouth,3,3,2,3,3
+NJ,Matawan,Monmouth,3,3,2,3,3
+NJ,Monmouth Beach,Monmouth,3,3,2,3,3
+NJ,West Long Branch,Monmouth,3,3,2,3,3
+NJ,Boonton,Morris,3,3,2,2,4
+NJ,Stirling,Morris,3,3,2,2,4
+NJ,Ogdensburg,Sussex,3,0,2,2,3
+NJ,Elizabeth,Union,3,4,2,4,4
+NJ,Plainfield,Union,3,4,2,4,4
+NM,Albuquerque,Bernalillo,2,3,2,3,3
+NM,Kirtland Afb,Bernalillo,2,3,2,3,3
+NM,Loving,Eddy,2,2,1,3,2
+NM,Ruidoso,Lincoln,1,3,1,1,1
+NM,Crownpoint,McKinley,0,4,1,1,1
+NM,High Rolls Mountain Park,Otero,1,4,1,1,1
+NM,Espanola,Rio Arriba,1,4,1,0,1
+NM,Lamy,Santa Fe,3,4,2,2,2
+NM,Llano,Taos,0,4,1,1,1
+NM,Red River,Taos,0,4,1,1,1
+NM,Moriarty,Torrance,0,1,2,0,2
+NV,Las Vegas,Clark,3,3,2,3,3
+NV,North Las Vegas,Clark,3,3,2,3,3
+NV,Reno,Washoe,3,3,2,4,0
+NV,Washoe Valley,Washoe,3,3,2,4,0
+NV,Ruth,White Pine,2,0,0,0,1
+NY,Albany,Albany,3,3,2,2,4
+NY,Allentown,Allegany,1,2,0,3,1
+NY,Belfast,Allegany,1,2,0,3,1
+NY,Bronx,Bronx,0,4,2,4,4
+NY,Saint Bonaventure,Cattaraugus,0,2,1,2,1
+NY,Falconer,Chautauqua,1,2,1,2,1
+NY,Breesport,Chemung,1,3,2,1,2
+NY,Altona,Clinton,2,1,1,3,1
+NY,West Chazy,Clinton,2,1,1,3,1
+NY,Chatham,Columbia,3,3,1,3,3
+NY,Hudson,Columbia,3,3,1,3,3
+NY,De Lancey,Delaware,2,2,0,4,1
+NY,Downsville,Delaware,2,2,0,4,1
+NY,Margaretville,Delaware,2,2,0,4,1
+NY,Beacon,Dutchess,3,3,2,2,3
+NY,Tupper Lake,Franklin,1,3,0,1,0
+NY,Oak Hill,Greene,3,3,0,3,2
+NY,Jordanville,Herkimer,2,1,2,2,1
+NY,Brownville,Jefferson,1,1,2,2,2
+NY,Brooklyn,Kings,3,4,2,4,4
+NY,Lowville,Lewis,2,0,0,1,0
+NY,Mount Morris,Livingston,3,1,2,1,3
+NY,West Eaton,Madison,2,2,2,1,3
+NY,East Rochester,Monroe,2,3,2,3,2
+NY,West Henrietta,Monroe,2,3,2,3,2
+NY,Bellmore,Nassau,3,3,2,4,3
+NY,Melville,Nassau,3,3,2,4,3
+NY,New York City,New York,3,4,2,4,4
+NY,North Tonawanda,Niagara,2,2,2,1,1
+NY,Barneveld,Oneida,2,2,2,2,3
+NY,Camden,Oneida,2,2,2,2,3
+NY,Oriskany Falls,Oneida,2,2,2,2,3
+NY,Stittville,Oneida,2,2,2,2,3
+NY,Farmington,Ontario,3,2,2,2,4
+NY,Phelps,Ontario,3,2,2,2,4
+NY,Port Gibson,Ontario,3,2,2,2,4
+NY,Rock Tavern,Orange,3,2,2,2,4
+NY,Knowlesville,Orleans,2,1,2,1,1
+NY,Garrattsville,Otsego,2,2,1,1,2
+NY,South Richmond Hill,Queens,3,3,2,4,3
+NY,Springfield Gardens,Queens,3,3,2,4,3
+NY,Nanuet,Rockland,3,3,2,3,4
+NY,Orangeburg,Rockland,3,3,2,3,4
+NY,Pomona,Rockland,3,3,2,3,4
+NY,Howes Cave,Schoharie,2,1,2,2,1
+NY,Jefferson,Schoharie,2,1,2,2,1
+NY,Hannawa Falls,St. Lawrence,1,2,1,2,0
+NY,Greenport,Suffolk,3,2,2,3,2
+NY,Medford,Suffolk,3,2,2,3,2
+NY,Moriches,Suffolk,3,2,2,3,2
+NY,Northport,Suffolk,3,2,2,3,2
+NY,Oakdale,Suffolk,3,2,2,3,2
+NY,Orient,Suffolk,3,2,2,3,2
+NY,Shelter Island,Suffolk,3,2,2,3,2
+NY,West Sayville,Suffolk,3,2,2,3,2
+NY,Westhampton Beach,Suffolk,3,2,2,3,2
+NY,Newark Valley,Tioga,3,1,2,2,2
+NY,Big Indian,Ulster,3,3,2,1,2
+NY,Cottekill,Ulster,3,3,2,1,2
+NY,Port Ewen,Ulster,3,3,2,1,2
+NY,Palmyra,Wayne,3,1,2,2,1
+NY,Armonk,Westchester,3,4,2,3,4
+NY,Irvington,Westchester,3,4,2,3,4
+NY,Montrose,Westchester,3,4,2,3,4
+NY,Mount Vernon,Westchester,3,4,2,3,4
+NY,West Harrison,Westchester,3,4,2,3,4
+NY,Cowlesville,Wyoming,2,0,1,1,2
+OH,Beaverdam,Allen,1,1,2,1,4
+OH,Lima,Allen,1,1,2,1,4
+OH,Waynesfield,Auglaize,3,0,1,3,3
+OH,Holloway,Belmont,1,2,2,2,2
+OH,Rosewood,Champaign,3,0,1,2,4
+OH,Bethel,Clermont,3,2,2,4,4
+OH,Milford,Clermont,3,2,2,4,4
+OH,Greenville,Darke,2,1,1,1,3
+OH,Amanda,Fairfield,3,1,2,2,4
+OH,Lithopolis,Fairfield,3,1,2,2,4
+OH,Washington Court House,Fayette,1,1,1,0,4
+OH,Bowersville,Greene,3,2,2,1,4
+OH,Dayton,Greene,3,2,2,1,4
+OH,Byesville,Guernsey,1,2,1,0,2
+OH,Mount Saint Joseph,Hamilton,2,4,2,4,4
+OH,Arcadia,Hancock,3,2,1,3,3
+OH,Norwalk,Huron,2,0,1,1,4
+OH,Amsterdam,Jefferson,1,3,2,2,2
+OH,Ironton,Lawrence,0,2,2,0,1
+OH,Hinckley,Medina,3,0,2,2,4
+OH,Maria Stein,Mercer,3,0,1,3,2
+OH,Miamisburg,Montgomery,2,3,2,2,4
+OH,Fulton,Morrow,3,0,2,1,4
+OH,Norwich,Muskingum,1,3,1,0,2
+OH,Clay Center,Ottawa,3,3,2,1,1
+OH,Paulding,Paulding,2,1,0,2,2
+OH,Mount Perry,Perry,1,2,2,0,2
+OH,Thornville,Perry,1,2,2,0,2
+OH,Diamond,Portage,3,2,2,1,4
+OH,Randolph,Portage,3,2,2,1,4
+OH,Mansfield,Richland,1,1,2,1,4
+OH,Canton,Stark,2,2,2,1,4
+OH,Akron,Summit,2,3,2,2,4
+OH,Cuyahoga Falls,Summit,2,3,2,2,4
+OH,Warren,Trumbull,1,3,2,1,4
+OH,Creola,Vinton,0,0,1,0,0
+OH,Zaleski,Vinton,0,0,1,0,0
+OH,Kirby,Wyandot,2,0,0,3,3
+OK,Amorita,Alfalfa,1,0,0,2,2
+OK,Lane,Atoka,0,3,0,1,1
+OK,Achille,Bryan,1,3,1,1,2
+OK,Oklahoma City,Canadian,3,0,2,4,4
+OK,Tulsa,Creek,1,2,2,1,3
+OK,Thomas,Custer,1,3,1,3,2
+OK,Lahoma,Garfield,1,2,2,4,2
+OK,Mountain Park,Kiowa,0,3,0,2,3
+OK,Roosevelt,Kiowa,0,3,0,2,3
+OK,Tryon,Lincoln,1,2,2,2,3
+OK,Coyle,Logan,3,4,2,2,4
+OK,Edmond,Oklahoma,2,4,2,4,4
+OK,Mounds,Okmulgee,0,3,2,1,3
+OK,Burbank,Osage,1,2,2,0,2
+OK,Stillwater,Payne,0,4,1,2,4
+OK,Clayton,Pushmataha,0,3,0,1,0
+OK,Burns Flat,Washita,1,1,1,1,3
+OR,Lake Oswego,Clackamas,3,2,2,3,1
+OR,Portland,Clackamas,3,2,2,3,1
+OR,Powell Butte,Crook,2,0,2,0,0
+OR,Sixes,Curry,1,2,1,3,0
+OR,Gardiner,Douglas,1,1,1,4,0
+OR,Cascade Locks,Hood River,3,1,1,1,1
+OR,Eugene,Lane,2,3,2,2,0
+OR,Lowell,Lane,2,3,2,2,0
+OR,Westfir,Lane,2,3,2,2,0
+OR,Shedd,Linn,2,0,2,2,1
+OR,Jordan Valley,Malheur,0,2,1,2,0
+OR,Scotts Mills,Marion,3,1,2,3,2
+OR,Stayton,Marion,3,1,2,3,2
+OR,Kent,Sherman,3,3,0,2,3
+OR,Bay City,Tillamook,2,2,0,0,0
+OR,Athena,Umatilla,3,1,1,3,1
+OR,La Grande,Union,1,1,1,3,0
+OR,Newberg,Yamhill,3,2,2,3,2
+PA,Leetsdale,Allegheny,3,4,2,3,4
+PA,Pittsburgh,Allegheny,3,4,2,3,4
+PA,Spring Church,Armstrong,1,0,2,3,2
+PA,Beaver Falls,Beaver,2,1,2,3,4
+PA,Shippingport,Beaver,2,1,2,3,4
+PA,Bristol,Bucks,3,2,2,3,4
+PA,Dublin,Bucks,3,2,2,3,4
+PA,Fenelton,Butler,3,2,2,1,3
+PA,Harmony,Butler,3,2,2,1,3
+PA,Karns City,Butler,3,2,2,1,3
+PA,North Washington,Butler,3,2,2,1,3
+PA,Emporium,Cameron,0,0,0,2,0
+PA,Atglen,Chester,3,3,2,3,4
+PA,Clarion,Clarion,1,2,1,1,2
+PA,Grassflat,Clearfield,1,1,1,1,2
+PA,Morrisdale,Clearfield,1,1,1,1,2
+PA,West Decatur,Clearfield,1,1,1,1,2
+PA,Cochranton,Crawford,1,1,1,2,3
+PA,Chester Heights,Delaware,3,4,2,4,4
+PA,Philadelphia,Delaware,3,4,2,4,4
+PA,Harborcreek,Erie,1,3,2,1,1
+PA,North East,Erie,1,3,2,1,1
+PA,Keisterville,Fayette,0,3,2,2,3
+PA,Mc Clellandtown,Fayette,0,3,2,2,3
+PA,Smock,Fayette,0,3,2,2,3
+PA,Uledi,Fayette,0,3,2,2,3
+PA,Vanderbilt,Fayette,0,3,2,2,3
+PA,Marienville,Forest,0,0,0,0,0
+PA,Mill Creek,Huntingdon,1,0,1,1,2
+PA,Armagh,Indiana,1,2,1,2,3
+PA,Clune,Indiana,1,2,1,2,3
+PA,Corsica,Jefferson,1,1,0,2,2
+PA,Mifflin,Juniata,2,0,0,0,2
+PA,Jermyn,Lackawanna,2,3,2,3,4
+PA,Lawn,Lebanon,2,0,2,2,4
+PA,Schaefferstown,Lebanon,2,0,2,2,4
+PA,Allentown,Lehigh,3,3,2,1,4
+PA,Rock Glen,Luzerne,1,2,2,3,4
+PA,Clarks Mills,Mercer,1,2,1,0,4
+PA,Mc Veytown,Mifflin,1,0,1,2,2
+PA,Skytop,Monroe,3,1,1,3,3
+PA,Oaks,Montgomery,3,3,2,3,4
+PA,Montandon,Northumberland,1,1,1,4,4
+PA,Cressona,Schuylkill,2,1,1,3,3
+PA,Rockwood,Somerset,0,1,1,1,2
+PA,Utica,Venango,0,1,1,1,2
+PA,Irvine,Warren,1,1,1,0,1
+PA,Cokeburg,Washington,3,2,2,2,3
+PA,Dunlevy,Washington,3,2,2,2,3
+PA,West Finley,Washington,3,2,2,2,3
+PA,Bolivar,Westmoreland,3,2,2,3,4
+PA,Manor,Westmoreland,3,2,2,3,4
+PA,Nicholson,Wyoming,2,2,2,1,2
+PA,Glen Rock,York,3,0,2,2,4
+RI,Providence,Providence,3,3,2,3,4
+SC,Monetta,Aiken,2,2,2,4,4
+SC,New Ellenton,Aiken,2,2,2,4,4
+SC,North Augusta,Aiken,2,2,2,4,4
+SC,Ridge Spring,Aiken,2,2,2,4,4
+SC,Ehrhardt,Bamberg,0,1,0,1,1
+SC,Blackville,Barnwell,0,3,0,1,1
+SC,Cross,Berkeley,3,1,2,3,3
+SC,Edisto Island,Charleston,3,4,2,3,2
+SC,Johns Island,Charleston,3,4,2,3,2
+SC,Winnsboro,Fairfield,0,4,2,1,1
+SC,Marietta,Greenville,3,3,2,2,4
+SC,Bradley,Greenwood,0,4,1,4,3
+SC,Brunson,Hampton,0,1,0,1,0
+SC,Scotia,Hampton,0,1,0,1,0
+SC,Cassatt,Kershaw,2,2,2,2,2
+SC,Columbia,Lexington,3,2,2,3,4
+SC,West Columbia,Lexington,3,2,2,3,4
+SC,Prosperity,Newberry,1,3,1,4,3
+SC,Hopkins,Richland,2,4,2,2,4
+SC,Arcadia,Spartanburg,1,3,2,1,4
+SC,Clifton,Spartanburg,1,3,2,1,4
+SD,Barnard,Brown,3,2,1,3,1
+SD,Ferney,Brown,3,2,1,3,1
+SD,Belle Fourche,Butte,2,2,0,2,1
+SD,Mc Intosh,Corson,0,4,0,3,2
+SD,Fulton,Hanson,3,0,1,4,3
+SD,Deadwood,Lawrence,2,4,1,2,1
+SD,Spencer,McCook,2,0,2,3,4
+SD,Manderson,Oglala Lakota,0,4,0,2,2
+SD,Hurley,Turner,3,2,2,3,4
+TN,Heiskell,Anderson,2,2,2,2,3
+TN,Old Hickory,Davidson,3,4,2,4,4
+TN,Slayden,Dickson,2,2,2,1,3
+TN,Oakland,Fayette,3,3,2,2,3
+TN,Apison,Hamilton,3,4,2,4,4
+TN,Chattanooga,Hamilton,3,4,2,4,4
+TN,Grand Junction,Hardeman,0,1,1,3,2
+TN,Mountain City,Johnson,0,4,0,1,1
+TN,Knoxville,Knox,2,4,2,4,4
+TN,Powell,Knox,2,4,2,4,4
+TN,Tiptonville,Lake,0,4,0,4,2
+TN,Bethel Springs,McNairy,0,2,0,0,2
+TN,Clarksville,Montgomery,2,0,2,4,4
+TN,Wartburg,Morgan,1,2,2,4,0
+TN,Benton,Polk,1,3,2,1,0
+TN,Murfreesboro,Rutherford,3,0,2,4,4
+TN,Kingsport,Sullivan,1,3,2,2,4
+TX,Zavalla,Angelina,1,2,1,1,1
+TX,Holliday,Archer,3,3,2,3,1
+TX,San Antonio,Bexar,2,3,2,3,4
+TX,Meridian,Bosque,2,0,2,0,1
+TX,Lake Jackson,Brazoria,3,1,2,3,4
+TX,Marathon,Brewster,0,3,0,2,0
+TX,May,Brown,1,3,1,3,3
+TX,Lockhart,Caldwell,1,2,2,0,3
+TX,Cross Plains,Callahan,2,1,2,2,2
+TX,Nazareth,Castro,1,2,0,3,3
+TX,Summerfield,Castro,1,2,0,3,3
+TX,Coleman,Coleman,0,4,0,2,2
+TX,Dallas,Collin,3,1,2,3,4
+TX,Altair,Colorado,1,3,1,0,3
+TX,Gainesville,Cooke,2,2,1,3,2
+TX,Purmela,Coryell,2,0,2,1,3
+TX,El Paso,Crockett,3,0,0,0,0
+TX,Lorenzo,Crosby,0,4,2,3,2
+TX,Sachse,Dallas,3,4,2,3,4
+TX,Hedley,Donley,0,1,0,0,2
+TX,Desdemona,Eastland,1,4,0,1,3
+TX,Notrees,Ector,2,2,2,3,4
+TX,Leonard,Fannin,2,3,1,1,3
+TX,Trenton,Fannin,2,3,1,1,3
+TX,Beasley,Fort Bend,3,1,2,4,4
+TX,Houston,Fort Bend,3,1,2,4,4
+TX,Harper,Gillespie,3,3,1,1,2
+TX,Sherman,Grayson,2,2,2,3,4
+TX,Kilgore,Gregg,2,3,2,2,4
+TX,Quanah,Hardeman,0,2,0,2,1
+TX,Humble,Harris,2,4,2,4,4
+TX,Spring,Harris,2,4,2,4,4
+TX,Karnack,Harrison,2,3,2,0,2
+TX,O Brien,Haskell,0,4,0,4,1
+TX,Rule,Haskell,0,4,0,4,1
+TX,Bynum,Hill,1,1,1,0,3
+TX,Granbury,Hood,3,2,1,1,4
+TX,Ratcliff,Houston,0,4,0,0,1
+TX,Dell City,Hudspeth,0,0,2,0,1
+TX,Lolita,Jackson,2,0,0,2,3
+TX,Grandview,Johnson,3,0,2,4,4
+TX,Cleveland,Liberty,2,2,2,1,4
+TX,Prairie Hill,Limestone,0,2,0,1,0
+TX,Lubbock,Lubbock,1,4,2,4,4
+TX,Blooming Grove,Navarro,0,3,1,1,3
+TX,Aledo,Parker,3,1,2,2,4
+TX,Camden,Polk,1,2,1,2,2
+TX,Pecos,Reeves,1,2,1,1,3
+TX,Tyler,Smith,2,3,2,0,3
+TX,Roma,Starr,0,4,1,3,4
+TX,Sterling City,Sterling,3,0,0,0,0
+TX,Keller,Tarrant,3,2,2,3,4
+TX,San Angelo,Tom Green,1,2,2,3,2
+TX,New Waverly,Walker,1,4,1,1,3
+TX,Laredo,Webb,1,3,2,3,3
+TX,Thrall,Williamson,3,0,2,2,4
+TX,Falls City,Wilson,3,2,2,1,4
+UT,Mendon,Cache,3,1,2,3,2
+UT,Woods Cross,Davis,3,0,2,4,4
+UT,Altonah,Duchesne,2,0,0,2,1
+UT,Hatch,Garfield,2,2,0,2,0
+UT,Moab,Grand,2,1,0,4,1
+UT,Thompson,Grand,2,1,0,4,1
+UT,American Fork,Utah,3,1,2,4,3
+VA,Atlantic,Accomack,1,3,0,0,0
+VA,Greenbush,Accomack,1,3,0,0,0
+VA,Alexandria,Alexandria City,3,3,2,2,4
+VA,Arlington,Arlington,3,2,2,3,4
+VA,Drakes Branch,Charlotte,0,4,0,1,1
+VA,Ford,Dinwiddie,3,1,2,0,1
+VA,Burke,Fairfax,3,1,2,3,4
+VA,Falls Church,Fairfax,3,1,2,3,4
+VA,Oakton,Fairfax,3,1,2,3,4
+VA,Springfield,Fairfax,3,1,2,3,4
+VA,Ruckersville,Greene,3,0,2,1,2
+VA,Hampton,Hampton City,2,3,2,4,4
+VA,Doe Hill,Highland,1,0,0,0,0
+VA,Hopewell,Hopewell city,1,2,2,3,4
+VA,Manquin,King William,3,0,2,0,3
+VA,Mineral,Louisa,3,2,1,0,2
+VA,Etlan,Madison,3,2,1,0,2
+VA,Norfolk,Norfolk City,2,3,2,3,4
+VA,Catawba,Roanoke,3,2,2,3,2
+VA,Timberville,Rockingham,3,2,2,1,2
+VA,Lebanon,Russell,0,3,0,4,2
+VA,Basye,Shenandoah,2,4,1,1,2
+VA,Edinburg,Shenandoah,2,4,1,1,2
+VA,Damascus,Washington,2,2,2,4,2
+VA,Glade Spring,Washington,2,2,2,4,2
+VT,Hinesburg,Chittenden,3,2,2,4,2
+VT,South Hero,Grand Isle,3,1,2,2,2
+VT,Brandon,Rutland,2,2,1,4,1
+VT,Graniteville,Washington,3,1,1,2,1
+VT,South Londonderry,Windham,2,3,1,3,0
+VT,West Hartford,Windsor,3,3,1,4,0
+WA,Monitor,Chelan,3,2,2,4,0
+WA,Vancouver,Clark,3,1,2,3,3
+WA,Orient,Ferry,1,4,0,0,0
+WA,Issaquah,King,3,3,2,4,2
+WA,Seattle,King,3,3,2,4,2
+WA,Coulee Dam,Okanogan,1,1,0,0,0
+WA,Ashford,Pierce,3,1,2,3,1
+WA,Burlington,Skagit,3,1,2,3,0
+WA,Conway,Skagit,3,1,2,3,0
+WA,Burbank,Walla Walla,2,2,2,1,1
+WA,Colton,Whitman,1,4,1,2,1
+WA,Tekoa,Whitman,1,4,1,2,1
+WI,Adams,Adams,1,1,0,2,2
+WI,New Franken,Brown,3,2,2,2,4
+WI,New Holstein,Calumet,3,0,2,2,4
+WI,Boyd,Chippewa,3,1,2,2,2
+WI,Seneca,Crawford,2,2,0,1,1
+WI,Marshall,Dane,3,2,2,4,4
+WI,Bagley,Grant,2,1,1,1,1
+WI,Dalton,Green Lake,2,1,0,0,4
+WI,Saxon,Iron,1,1,0,0,0
+WI,Benton,Lafayette,2,0,0,0,3
+WI,Bryant,Langlade,1,1,0,1,0
+WI,Tomahawk,Lincoln,1,0,0,0,0
+WI,Greendale,Milwaukee,1,4,2,3,0
+WI,Milwaukee,Milwaukee,1,4,2,3,0
+WI,Oconto Falls,Oconto,2,0,2,1,1
+WI,Cazenovia,Richland,2,1,0,2,0
+WI,Winter,Sawyer,1,4,0,0,0
+WI,Wittenberg,Shawano,2,0,1,2,2
+WI,East Troy,Walworth,3,1,1,1,4
+WI,Brookfield,Waukesha,3,2,2,2,4
+WI,North Prairie,Waukesha,3,2,2,2,4
+WI,Waukesha,Waukesha,3,2,2,2,4
+WI,Waupaca,Waupaca,2,1,0,0,2
+WI,Waukau,Winnebago,2,2,2,3,4
+WI,Hewitt,Wood,2,1,1,3,2
+WV,Comfort,Boone,0,1,2,0,0
+WV,Center Point,Doddridge,0,3,1,0,0
+WV,Ronceverte,Greenbrier,0,4,0,0,0
+WV,White Sulphur Springs,Greenbrier,0,4,0,0,0
+WV,Shenandoah Junction,Jefferson,3,0,2,3,4
+WV,Moundsville,Marshall,0,3,2,1,0
+WV,Henderson,Mason,0,3,0,0,1
+WV,Premier,McDowell,0,3,0,2,0
+WV,Union,Monroe,1,0,0,0,0
+WV,Cass,Pocahontas,0,4,0,0,0
+WV,Hurricane,Putnam,3,1,2,1,2
+WV,Winfield,Putnam,3,1,2,1,2
+WV,Daniels,Raleigh,0,3,2,0,1
+WV,Thomas,Tucker,0,0,0,1,0
+WV,Tallmansville,Upshur,0,4,0,0,0
+WY,Jelm,Albany,1,3,1,4,1
+WY,Laramie,Albany,1,3,1,4,1
+WY,Alva,Crook,2,0,0,1,0
+WY,Fort Washakie,Fremont,1,1,1,2,0
+WY,Riverton,Fremont,1,1,1,2,0
+WY,Lagrange,Goshen,1,0,0,3,1
+WY,Freedom,Lincoln,3,0,0,3,0
+WY,Manville,Niobrara,1,2,0,3,0
+WY,Yellowstone National Park,Park,2,1,1,3,0
+WY,Rock Springs,Sweetwater,3,0,1,1,0
+WY,Lonetree,Uinta,3,0,1,1,0

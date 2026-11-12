@@ -1,0 +1,72 @@
+[01:54:56] p7_notime_raw Logistic Regression: guard max |diff| 1.11e-16 (tol 1e-09) (33s)
+[01:55:06] p7_notime_raw Decision Tree: guard max |diff| 1.11e-16 (tol 1e-09) (9s)
+[02:06:27] p7_notime_raw Random Forest: guard max |diff| 3.33e-16 (tol 1e-09) (681s)
+[02:12:08] p7_notime_raw AdaBoost: guard max |diff| 5.55e-17 (tol 1e-09) (342s)
+[02:12:33] p7_notime_raw CatBoost: guard max |diff| 1.11e-16 (tol 1e-09) (25s)
+[02:13:22] p7_notime_raw XGBoost: guard max |diff| 2.98e-08 (tol 1e-06) (49s)
+[02:13:37] p7_notime_raw LightGBM: guard max |diff| 1.11e-16 (tol 1e-09) (14s)
+[02:16:41] p7_notime_raw K-NN: guard max |diff| 9.89e-17 (tol 1e-09) (184s)
+[02:16:54] p7_notime_raw_client Logistic Regression: guard max |diff| 1.11e-16 (tol 1e-09) (5s)
+[02:17:08] p7_notime_raw_client Decision Tree: guard max |diff| 1.11e-16 (tol 1e-09) (14s)
+[02:31:30] p7_notime_raw_client Random Forest: guard max |diff| 3.33e-16 (tol 1e-09) (862s)
+[02:46:35] p7_notime_raw_client AdaBoost: guard max |diff| 5.55e-17 (tol 1e-09) (905s)
+[02:47:02] p7_notime_raw_client CatBoost: guard max |diff| 1.11e-16 (tol 1e-09) (28s)
+[02:48:10] p7_notime_raw_client XGBoost: guard max |diff| 2.98e-08 (tol 1e-06) (68s)
+[02:48:34] p7_notime_raw_client LightGBM: guard max |diff| 1.11e-16 (tol 1e-09) (23s)
+[02:51:51] p7_notime_raw_client K-NN: guard max |diff| 9.89e-17 (tol 1e-09) (197s)
+[02:52:01] p7_notime Logistic Regression: guard max |diff| 1.11e-16 (tol 1e-09) (7s)
+[02:52:08] p7_notime Decision Tree: guard max |diff| 1.11e-16 (tol 1e-09) (8s)
+[02:59:10] p7_notime Random Forest: guard max |diff| 2.22e-16 (tol 1e-09) (421s)
+[03:03:26] p7_notime AdaBoost: guard max |diff| 5.55e-17 (tol 1e-09) (257s)
+[03:03:52] p7_notime CatBoost: guard max |diff| 1.11e-16 (tol 1e-09) (26s)
+[03:04:33] p7_notime XGBoost: guard max |diff| 2.98e-08 (tol 1e-06) (40s)
+[03:04:47] p7_notime LightGBM: guard max |diff| 1.11e-16 (tol 1e-09) (14s)
+[03:06:52] p7_notime K-NN: guard max |diff| 9.89e-17 (tol 1e-09) (125s)
+[03:07:07] p7_notime_client Logistic Regression: guard max |diff| 1.11e-16 (tol 1e-09) (12s)
+[03:07:16] p7_notime_client Decision Tree: guard max |diff| 9.28e-17 (tol 1e-09) (8s)
+[03:22:13] p7_notime_client Random Forest: guard max |diff| 2.22e-16 (tol 1e-09) (897s)
+[03:34:48] p7_notime_client AdaBoost: guard max |diff| 5.55e-17 (tol 1e-09) (756s)
+[03:35:15] p7_notime_client CatBoost: guard max |diff| 1.11e-16 (tol 1e-09) (26s)
+[03:36:09] p7_notime_client XGBoost: guard max |diff| 2.98e-08 (tol 1e-06) (55s)
+[03:36:33] p7_notime_client LightGBM: guard max |diff| 1.11e-16 (tol 1e-09) (24s)
+[03:38:46] p7_notime_client K-NN: guard max |diff| 9.89e-17 (tol 1e-09) (133s)
+[04:02:32] p7_hybrid_client Random Forest: guard max |diff| 3.33e-16 (tol 1e-09) (1416s)
+[04:03:02] p7_hybrid_client CatBoost: guard max |diff| 1.11e-16 (tol 1e-09) (29s)
+[04:05:26] p7_catnative_client CatBoost: guard max |diff| 1.11e-16 (tol 1e-09) (140s)
+[04:05:26] GUARD PASSED for every model of every configuration
+[04:05:30] p7_notime_raw Logistic Regression: fraudTest AUC-PR 0.1740
+[04:05:31] p7_notime_raw Decision Tree: fraudTest AUC-PR 0.8282
+[04:05:36] p7_notime_raw Random Forest: fraudTest AUC-PR 0.8821
+[04:05:55] p7_notime_raw AdaBoost: fraudTest AUC-PR 0.4796
+[04:05:56] p7_notime_raw CatBoost: fraudTest AUC-PR 0.8826
+[04:05:57] p7_notime_raw XGBoost: fraudTest AUC-PR 0.8673
+[04:05:58] p7_notime_raw LightGBM: fraudTest AUC-PR 0.8680
+[04:09:37] p7_notime_raw K-NN: fraudTest AUC-PR 0.1571
+[04:09:57] p7_notime_raw_client Logistic Regression: fraudTest AUC-PR 0.3056
+[04:09:57] p7_notime_raw_client Decision Tree: fraudTest AUC-PR 0.8227
+[04:10:02] p7_notime_raw_client Random Forest: fraudTest AUC-PR 0.8894
+[04:10:45] p7_notime_raw_client AdaBoost: fraudTest AUC-PR 0.6153
+[04:10:45] p7_notime_raw_client CatBoost: fraudTest AUC-PR 0.9177
+[04:10:47] p7_notime_raw_client XGBoost: fraudTest AUC-PR 0.9058
+[04:10:48] p7_notime_raw_client LightGBM: fraudTest AUC-PR 0.9101
+[04:14:38] p7_notime_raw_client K-NN: fraudTest AUC-PR 0.1675
+[04:14:54] p7_notime Logistic Regression: fraudTest AUC-PR 0.1495
+[04:14:55] p7_notime Decision Tree: fraudTest AUC-PR 0.7907
+[04:14:58] p7_notime Random Forest: fraudTest AUC-PR 0.8415
+[04:15:07] p7_notime AdaBoost: fraudTest AUC-PR 0.4440
+[04:15:08] p7_notime CatBoost: fraudTest AUC-PR 0.8301
+[04:15:09] p7_notime XGBoost: fraudTest AUC-PR 0.8259
+[04:15:09] p7_notime LightGBM: fraudTest AUC-PR 0.8183
+[04:17:34] p7_notime K-NN: fraudTest AUC-PR 0.2026
+[04:17:53] p7_notime_client Logistic Regression: fraudTest AUC-PR 0.2841
+[04:17:53] p7_notime_client Decision Tree: fraudTest AUC-PR 0.7976
+[04:17:57] p7_notime_client Random Forest: fraudTest AUC-PR 0.8428
+[04:18:17] p7_notime_client AdaBoost: fraudTest AUC-PR 0.5749
+[04:18:17] p7_notime_client CatBoost: fraudTest AUC-PR 0.8695
+[04:18:18] p7_notime_client XGBoost: fraudTest AUC-PR 0.8646
+[04:18:20] p7_notime_client LightGBM: fraudTest AUC-PR 0.8652
+[04:20:54] p7_notime_client K-NN: fraudTest AUC-PR 0.2066
+[04:21:20] p7_hybrid_client Random Forest: fraudTest AUC-PR 0.8864
+[04:21:21] p7_hybrid_client CatBoost: fraudTest AUC-PR 0.9198
+[04:21:29] p7_catnative_client CatBoost: fraudTest AUC-PR 0.8970
+[04:21:35] fraudTest scored once: 555,719 rows, 2145 fraudulent. Outputs written; commit them now.

@@ -1,0 +1,12 @@
+Two reference files used by the encoding are not redistributed here, because their licences
+do not clearly permit it. Download them into this folder before re-running the encoding notebook:
+
+  uscities.csv           SimpleMaps, United States Cities Database (Basic, free version)
+                         https://simplemaps.com/data/us-cities   (downloaded January 2025)
+                         Used only for state name <-> state code.
+  zip_code_database.csv  United States Zip Codes, ZIP Code Database (free version)
+                         https://www.unitedstateszipcodes.org/zip-code-database/  (downloaded ~April 2025)
+                         Used for (state, city) -> county.
+
+The lookups built from them are included (../city_county.csv and the other city_*.csv files), so
+the encoded features can be rebuilt with revision_scripts/rebuild_encoded.py without these files.

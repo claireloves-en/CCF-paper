@@ -1,0 +1,880 @@
+Ref_job,Ref_cyber_knowledge
+Chief Executives,5.19
+Chief Sustainability Officers,3.59
+General and Operations Managers,3.0
+Advertising and Promotions Managers,4.17
+Marketing Managers,4.05
+Sales Managers,3.96
+Administrative Services Managers,4.15
+Facilities Managers,4.06
+Computer and Information Systems Managers,6.13
+Financial Managers,3.97
+Treasurers and Controllers,3.76
+Investment Fund Managers,3.5
+Industrial Production Managers,3.65
+Quality Control Systems Managers,3.97
+Geothermal Production Managers,4.2
+Biofuels Production Managers,3.96
+Biomass Power Plant Managers,4.07
+Hydroelectric Production Managers,4.35
+Purchasing Managers,4.21
+"Transportation, Storage, and Distribution Managers",3.93
+Supply Chain Managers,4.29
+Compensation and Benefits Managers,3.62
+Human Resources Managers,3.13
+Training and Development Managers,3.75
+"Farmers, Ranchers, and Other Agricultural Managers",3.37
+Construction Managers,3.95
+"Education and Childcare Administrators, Preschool and Daycare",3.7
+"Education Administrators, Kindergarten through Secondary",3.42
+"Education Administrators, Postsecondary",4.13
+Architectural and Engineering Managers,4.48
+Biofuels/Biodiesel Technology and Product Development Managers,4.42
+Food Service Managers,3.1
+Gambling Managers,4.16
+Lodging Managers,4.79
+Medical and Health Services Managers,4.89
+Natural Sciences Managers,4.61
+Clinical Research Coordinators,3.47
+Water Resource Specialists,4.91
+Postmasters and Mail Superintendents,4.45
+"Property, Real Estate, and Community Association Managers",4.1
+Social and Community Service Managers,3.62
+Emergency Management Directors,4.68
+Funeral Home Managers,4.22
+Fitness and Wellness Coordinators,3.58
+Spa Managers,3.17
+Regulatory Affairs Managers,3.61
+Compliance Managers,4.16
+Loss Prevention Managers,4.0
+Wind Energy Operations Managers,3.8
+Wind Energy Development Managers,3.7
+Brownfield Redevelopment Specialists and Site Managers,3.86
+"Agents and Business Managers of Artists, Performers, and Athletes",3.94
+"Buyers and Purchasing Agents, Farm Products",4.54
+"Wholesale and Retail Buyers, Except Farm Products",4.16
+"Purchasing Agents, Except Wholesale, Retail, and Farm Products",4.04
+"Claims Adjusters, Examiners, and Investigators",3.99
+"Insurance Appraisers, Auto Damage",3.87
+Compliance Officers,4.08
+Environmental Compliance Inspectors,4.15
+Equal Opportunity Representatives and Officers,3.36
+Government Property Inspectors and Investigators,4.46
+Coroners,4.26
+Regulatory Affairs Specialists,3.6
+Customs Brokers,4.45
+Cost Estimators,4.36
+Human Resources Specialists,2.8
+Farm Labor Contractors,1.91
+Labor Relations Specialists,3.33
+Logisticians,3.79
+Logistics Engineers,4.2
+Logistics Analysts,4.77
+Management Analysts,4.24
+"Meeting, Convention, and Event Planners",4.05
+Fundraisers,3.81
+"Compensation, Benefits, and Job Analysis Specialists",4.24
+Training and Development Specialists,3.7
+Market Research Analysts and Marketing Specialists,4.45
+Search Marketing Strategists,4.91
+Business Continuity Planners,4.77
+Sustainability Specialists,3.87
+Online Merchants,4.17
+Accountants and Auditors,3.98
+Appraisers and Assessors of Real Estate,4.33
+Budget Analysts,4.35
+Credit Analysts,3.0
+Personal Financial Advisors,3.65
+Insurance Underwriters,3.2
+Financial Examiners,3.09
+Credit Counselors,3.44
+Loan Officers,3.55
+"Tax Examiners and Collectors, and Revenue Agents",3.11
+Tax Preparers,4.23
+Financial Quantitative Analysts,5.3
+"Fraud Examiners, Investigators and Analysts",4.76
+Computer Systems Analysts,6.0
+Health Informatics Specialists,5.1
+Information Security Analysts,5.97
+Computer and Information Research Scientists,6.11
+Computer Network Support Specialists,6.58
+Computer User Support Specialists,5.89
+Computer Network Architects,6.05
+Telecommunications Engineering Specialists,4.67
+Database Administrators,6.11
+Database Architects,6.0
+Data Warehousing Specialists,5.61
+Network and Computer Systems Administrators,6.74
+Computer Programmers,6.16
+Software Quality Assurance Analysts and Testers,5.47
+Web Developers,5.75
+Video Game Designers,5.15
+Web Administrators,5.35
+Geographic Information Systems Technologists and Technicians,5.63
+Document Management Specialists,4.6
+Computer Systems Engineers/Architects,6.32
+Information Technology Project Managers,5.48
+Actuaries,5.07
+Mathematicians,4.88
+Operations Research Analysts,5.33
+Statisticians,5.57
+Biostatisticians,4.88
+Business Intelligence Analysts,5.41
+Clinical Data Managers,4.75
+Bioinformatics Technicians,6.0
+"Architects, Except Landscape and Naval",4.81
+Landscape Architects,4.43
+Cartographers and Photogrammetrists,4.92
+Surveyors,5.0
+Geodetic Surveyors,5.0
+Aerospace Engineers,4.62
+Agricultural Engineers,6.0
+Bioengineers and Biomedical Engineers,5.83
+Chemical Engineers,5.32
+Civil Engineers,4.1
+Transportation Engineers,4.55
+Water/Wastewater Engineers,4.09
+Computer Hardware Engineers,6.5
+Electrical Engineers,6.01
+"Electronics Engineers, Except Computer",6.05
+Radio Frequency Identification Device Specialists,6.16
+Environmental Engineers,4.75
+"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",3.77
+Fire-Prevention and Protection Engineers,4.05
+Industrial Engineers,4.46
+Human Factors Engineers and Ergonomists,4.0
+Validation Engineers,4.3
+Manufacturing Engineers,4.73
+Marine Engineers and Naval Architects,4.24
+Materials Engineers,4.65
+Mechanical Engineers,4.51
+Fuel Cell Engineers,4.68
+Automotive Engineers,5.38
+"Mining and Geological Engineers, Including Mining Safety Engineers",4.05
+Nuclear Engineers,4.9
+Petroleum Engineers,4.02
+"Energy Engineers, Except Wind and Solar",3.77
+Mechatronics Engineers,3.87
+Microsystems Engineers,6.0
+Photonics Engineers,5.26
+Robotics Engineers,5.69
+Nanosystems Engineers,4.67
+Wind Energy Engineers,5.09
+Solar Energy Systems Engineers,4.29
+Architectural and Civil Drafters,4.81
+Electrical and Electronics Drafters,5.3
+Mechanical Drafters,4.9
+Aerospace Engineering and Operations Technologists and Technicians,3.97
+Civil Engineering Technologists and Technicians,4.43
+Electrical and Electronic Engineering Technologists and Technicians,5.24
+Electro-Mechanical and Mechatronics Technologists and Technicians,4.79
+Robotics Technicians,5.27
+Environmental Engineering Technologists and Technicians,3.21
+Industrial Engineering Technologists and Technicians,4.36
+Nanotechnology Engineering Technologists and Technicians,4.74
+Mechanical Engineering Technologists and Technicians,4.02
+Automotive Engineering Technicians,4.89
+Non-Destructive Testing Specialists,4.77
+Photonics Technicians,4.68
+Surveying and Mapping Technicians,5.08
+Animal Scientists,4.43
+Food Scientists and Technologists,3.39
+Soil and Plant Scientists,4.86
+Biochemists and Biophysicists,5.1
+Microbiologists,4.64
+Zoologists and Wildlife Biologists,3.89
+Bioinformatics Scientists,5.61
+Molecular and Cellular Biologists,4.27
+Geneticists,4.24
+Biologists,4.04
+Conservation Scientists,4.17
+Range Managers,3.73
+Park Naturalists,3.65
+Foresters,3.43
+Epidemiologists,4.89
+"Medical Scientists, Except Epidemiologists",4.3
+Astronomers,5.74
+Physicists,5.81
+Atmospheric and Space Scientists,5.65
+Chemists,4.31
+Materials Scientists,4.62
+"Environmental Scientists and Specialists, Including Health",4.2
+Climate Change Policy Analysts,2.96
+Environmental Restoration Planners,3.77
+Industrial Ecologists,4.65
+"Geoscientists, Except Hydrologists and Geographers",4.72
+Hydrologists,4.52
+Remote Sensing Scientists and Technologists,5.32
+Economists,4.75
+Environmental Economists,5.15
+Survey Researchers,4.12
+Industrial-Organizational Psychologists,4.19
+Clinical and Counseling Psychologists,3.62
+School Psychologists,3.68
+Neuropsychologists,3.96
+Clinical Neuropsychologists,4.0
+Sociologists,4.75
+Urban and Regional Planners,4.24
+Anthropologists and Archeologists,4.15
+Geographers,5.0
+Historians,3.85
+Political Scientists,4.12
+Transportation Planners,4.9
+Agricultural Technicians,3.07
+Precision Agriculture Technicians,4.91
+Food Science Technicians,4.03
+Biological Technicians,3.8
+Chemical Technicians,3.38
+"Environmental Science and Protection Technicians, Including Health",4.05
+"Geological Technicians, Except Hydrologic Technicians",4.52
+Nuclear Technicians,4.15
+Nuclear Monitoring Technicians,3.82
+Social Science Research Assistants,4.17
+Forest and Conservation Technicians,3.62
+Forensic Science Technicians,4.21
+Quality Control Analysts,3.44
+Remote Sensing Technicians,5.29
+Occupational Health and Safety Specialists,4.04
+Occupational Health and Safety Technicians,4.19
+Substance Abuse and Behavioral Disorder Counselors,3.37
+"Educational, Guidance, and Career Counselors and Advisors",3.85
+Marriage and Family Therapists,3.03
+Mental Health Counselors,3.8
+Rehabilitation Counselors,3.83
+"Child, Family, and School Social Workers",3.54
+Healthcare Social Workers,2.93
+Mental Health and Substance Abuse Social Workers,3.39
+Health Education Specialists,4.22
+Probation Officers and Correctional Treatment Specialists,3.3
+Social and Human Service Assistants,3.94
+Community Health Workers,3.73
+Clergy,3.33
+"Directors, Religious Activities and Education",3.02
+Lawyers,3.48
+Judicial Law Clerks,3.32
+"Administrative Law Judges, Adjudicators, and Hearing Officers",3.16
+"Arbitrators, Mediators, and Conciliators",2.9
+"Judges, Magistrate Judges, and Magistrates",3.17
+Paralegals and Legal Assistants,4.21
+"Title Examiners, Abstractors, and Searchers",3.31
+"Business Teachers, Postsecondary",4.91
+"Computer Science Teachers, Postsecondary",6.46
+"Mathematical Science Teachers, Postsecondary",4.28
+"Architecture Teachers, Postsecondary",4.28
+"Engineering Teachers, Postsecondary",5.87
+"Agricultural Sciences Teachers, Postsecondary",4.54
+"Biological Science Teachers, Postsecondary",4.35
+"Forestry and Conservation Science Teachers, Postsecondary",4.86
+"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary",4.67
+"Chemistry Teachers, Postsecondary",4.34
+"Environmental Science Teachers, Postsecondary",4.99
+"Physics Teachers, Postsecondary",4.51
+"Anthropology and Archeology Teachers, Postsecondary",4.03
+"Area, Ethnic, and Cultural Studies Teachers, Postsecondary",3.79
+"Economics Teachers, Postsecondary",3.31
+"Geography Teachers, Postsecondary",3.87
+"Political Science Teachers, Postsecondary",3.97
+"Psychology Teachers, Postsecondary",3.97
+"Sociology Teachers, Postsecondary",5.03
+"Health Specialties Teachers, Postsecondary",4.23
+"Nursing Instructors and Teachers, Postsecondary",4.18
+"Education Teachers, Postsecondary",3.75
+"Library Science Teachers, Postsecondary",4.96
+"Criminal Justice and Law Enforcement Teachers, Postsecondary",4.66
+"Law Teachers, Postsecondary",4.3
+"Social Work Teachers, Postsecondary",4.23
+"Art, Drama, and Music Teachers, Postsecondary",3.79
+"Communications Teachers, Postsecondary",4.44
+"English Language and Literature Teachers, Postsecondary",4.24
+"Foreign Language and Literature Teachers, Postsecondary",3.54
+"History Teachers, Postsecondary",4.28
+"Philosophy and Religion Teachers, Postsecondary",3.34
+"Family and Consumer Sciences Teachers, Postsecondary",4.45
+"Recreation and Fitness Studies Teachers, Postsecondary",4.71
+"Career/Technical Education Teachers, Postsecondary",4.23
+"Preschool Teachers, Except Special Education",2.03
+"Kindergarten Teachers, Except Special Education",3.65
+"Elementary School Teachers, Except Special Education",3.35
+"Middle School Teachers, Except Special and Career/Technical Education",3.96
+"Career/Technical Education Teachers, Middle School",4.22
+"Secondary School Teachers, Except Special and Career/Technical Education",4.2
+"Career/Technical Education Teachers, Secondary School",4.81
+"Special Education Teachers, Preschool",3.52
+"Special Education Teachers, Middle School",4.02
+"Special Education Teachers, Secondary School",4.48
+Adapted Physical Education Specialists,3.33
+"Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors",2.77
+Self-Enrichment Teachers,2.63
+Tutors,3.95
+Archivists,5.1
+Curators,3.98
+Museum Technicians and Conservators,2.8
+Librarians and Media Collections Specialists,4.8
+Library Technicians,3.59
+Farm and Home Management Educators,4.0
+Instructional Coordinators,4.31
+"Teaching Assistants, Preschool, Elementary, Middle, and Secondary School, Except Special Education",2.72
+"Teaching Assistants, Postsecondary",3.88
+Art Directors,4.94
+Craft Artists,3.24
+"Fine Artists, Including Painters, Sculptors, and Illustrators",5.1
+Special Effects Artists and Animators,5.15
+Commercial and Industrial Designers,4.85
+Fashion Designers,3.93
+Floral Designers,2.07
+Graphic Designers,4.95
+Interior Designers,4.56
+Merchandise Displayers and Window Trimmers,3.13
+Set and Exhibit Designers,4.67
+Actors,2.08
+Producers and Directors,3.95
+Media Programming Directors,5.02
+Talent Directors,2.83
+Media Technical Directors/Managers,5.18
+Athletes and Sports Competitors,2.79
+Coaches and Scouts,3.3
+"Umpires, Referees, and Other Sports Officials",2.45
+Dancers,1.09
+Choreographers,3.19
+Music Directors and Composers,4.06
+Musicians and Singers,1.92
+Broadcast Announcers and Radio Disc Jockeys,4.77
+"News Analysts, Reporters, and Journalists",3.74
+Public Relations Specialists,3.77
+Editors,3.55
+Technical Writers,4.86
+Writers and Authors,3.96
+"Poets, Lyricists and Creative Writers",4.05
+Interpreters and Translators,3.33
+Court Reporters and Simultaneous Captioners,4.86
+Audio and Video Technicians,4.82
+Broadcast Technicians,5.61
+Sound Engineering Technicians,5.23
+Photographers,4.91
+"Camera Operators, Television, Video, and Film",3.84
+Film and Video Editors,5.37
+Chiropractors,4.35
+"Dentists, General",3.66
+Oral and Maxillofacial Surgeons,3.5
+Orthodontists,3.65
+Prosthodontists,3.75
+Dietitians and Nutritionists,4.03
+Optometrists,4.19
+Pharmacists,3.69
+Physician Assistants,4.05
+Anesthesiologist Assistants,3.06
+Podiatrists,4.19
+Occupational Therapists,2.5
+"Low Vision Therapists, Orientation and Mobility Specialists, and Vision Rehabilitation Therapists",3.65
+Physical Therapists,2.85
+Radiation Therapists,4.17
+Recreational Therapists,3.45
+Respiratory Therapists,4.05
+Speech-Language Pathologists,3.65
+Exercise Physiologists,3.18
+Art Therapists,2.84
+Music Therapists,3.77
+Veterinarians,3.6
+Registered Nurses,2.84
+Acute Care Nurses,3.0
+Advanced Practice Psychiatric Nurses,4.17
+Critical Care Nurses,3.7
+Clinical Nurse Specialists,4.03
+Nurse Anesthetists,4.07
+Nurse Midwives,3.42
+Nurse Practitioners,3.74
+Audiologists,4.64
+Anesthesiologists,3.5
+Dermatologists,3.91
+Family Medicine Physicians,3.35
+General Internal Medicine Physicians,4.87
+Neurologists,4.71
+Obstetricians and Gynecologists,3.81
+"Pediatricians, General",3.66
+"Physicians, Pathologists",3.79
+Psychiatrists,3.72
+Radiologists,4.76
+Allergists and Immunologists,3.88
+Hospitalists,3.36
+Urologists,4.22
+Physical Medicine and Rehabilitation Physicians,3.93
+Preventive Medicine Physicians,4.11
+Sports Medicine Physicians,2.54
+"Ophthalmologists, Except Pediatric",4.02
+Acupuncturists,3.15
+Dental Hygienists,2.71
+Naturopathic Physicians,3.72
+Orthoptists,2.71
+Medical and Clinical Laboratory Technologists,3.07
+Cytogenetic Technologists,3.71
+Cytotechnologists,2.82
+Histotechnologists,3.43
+Medical and Clinical Laboratory Technicians,3.79
+Cardiovascular Technologists and Technicians,3.89
+Diagnostic Medical Sonographers,3.48
+Nuclear Medicine Technologists,4.15
+Radiologic Technologists and Technicians,4.09
+Magnetic Resonance Imaging Technologists,4.35
+Medical Dosimetrists,4.8
+Dietetic Technicians,4.15
+Pharmacy Technicians,3.98
+Psychiatric Technicians,3.48
+Surgical Technologists,3.1
+Veterinary Technologists and Technicians,3.46
+Ophthalmic Medical Technicians,2.73
+Licensed Practical and Licensed Vocational Nurses,3.19
+"Opticians, Dispensing",3.54
+Orthotists and Prosthetists,4.14
+Hearing Aid Specialists,4.9
+Neurodiagnostic Technologists,4.48
+Ophthalmic Medical Technologists,3.25
+Patient Representatives,3.62
+Athletic Trainers,3.41
+Genetic Counselors,3.04
+Surgical Assistants,3.33
+Midwives,3.27
+Home Health Aides,1.58
+Personal Care Aides,2.86
+Nursing Assistants,2.23
+Orderlies,1.27
+Psychiatric Aides,2.67
+Occupational Therapy Assistants,3.25
+Occupational Therapy Aides,4.07
+Physical Therapist Assistants,3.98
+Physical Therapist Aides,3.81
+Massage Therapists,2.19
+Dental Assistants,3.57
+Medical Assistants,4.34
+Medical Equipment Preparers,2.85
+Medical Transcriptionists,4.03
+Pharmacy Aides,2.51
+Veterinary Assistants and Laboratory Animal Caretakers,4.03
+Phlebotomists,3.86
+Speech-Language Pathology Assistants,2.59
+Endoscopy Technicians,3.77
+First-Line Supervisors of Correctional Officers,4.17
+First-Line Supervisors of Police and Detectives,3.34
+First-Line Supervisors of Firefighting and Prevention Workers,3.33
+Firefighters,3.35
+Fire Inspectors and Investigators,3.73
+Forest Fire Inspectors and Prevention Specialists,4.22
+Bailiffs,2.2
+Correctional Officers and Jailers,4.26
+Detectives and Criminal Investigators,3.88
+Police Identification and Records Officers,2.64
+Intelligence Analysts,4.55
+Fish and Game Wardens,3.62
+Parking Enforcement Workers,3.61
+Police and Sheriff's Patrol Officers,3.78
+Customs and Border Protection Officers,3.49
+Transit and Railroad Police,3.68
+Animal Control Workers,2.82
+Private Detectives and Investigators,4.09
+Gambling Surveillance Officers and Gambling Investigators,4.46
+Security Guards,4.87
+Crossing Guards and Flaggers,0.74
+"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",2.04
+Transportation Security Screeners,2.0
+Retail Loss Prevention Specialists,3.91
+Chefs and Head Cooks,3.69
+First-Line Supervisors of Food Preparation and Serving Workers,3.16
+"Cooks, Fast Food",1.37
+"Cooks, Institution and Cafeteria",2.37
+"Cooks, Private Household",2.85
+"Cooks, Restaurant",2.2
+"Cooks, Short Order",1.73
+Food Preparation Workers,0.53
+Bartenders,2.01
+Fast Food and Counter Workers,2.29
+Baristas,2.15
+Waiters and Waitresses,2.37
+"Food Servers, Nonrestaurant",2.3
+Dining Room and Cafeteria Attendants and Bartender Helpers,1.81
+Dishwashers,1.34
+"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",2.57
+First-Line Supervisors of Housekeeping and Janitorial Workers,2.41
+"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",3.47
+"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",1.25
+Maids and Housekeeping Cleaners,1.28
+Pest Control Workers,1.69
+Landscaping and Groundskeeping Workers,1.96
+"Pesticide Handlers, Sprayers, and Applicators, Vegetation",2.05
+Tree Trimmers and Pruners,1.06
+First-Line Supervisors of Gambling Services Workers,4.33
+First-Line Supervisors of Personal Service Workers,4.32
+Animal Trainers,2.52
+Animal Caretakers,2.56
+Gambling Dealers,1.89
+Gambling and Sports Book Writers and Runners,2.32
+Motion Picture Projectionists,4.49
+"Ushers, Lobby Attendants, and Ticket Takers",2.21
+Amusement and Recreation Attendants,2.62
+Costume Attendants,2.67
+"Locker Room, Coatroom, and Dressing Room Attendants",1.49
+Embalmers,3.88
+Funeral Attendants,3.18
+"Morticians, Undertakers, and Funeral Arrangers",3.49
+Barbers,1.56
+"Hairdressers, Hairstylists, and Cosmetologists",2.28
+"Makeup Artists, Theatrical and Performance",2.3
+Manicurists and Pedicurists,1.95
+Shampooers,0.67
+Skincare Specialists,0.96
+Baggage Porters and Bellhops,2.18
+Concierges,3.62
+Tour Guides and Escorts,1.95
+Travel Guides,2.96
+Childcare Workers,2.3
+Nannies,2.48
+Exercise Trainers and Group Fitness Instructors,2.57
+Recreation Workers,3.5
+Residential Advisors,3.52
+First-Line Supervisors of Retail Sales Workers,3.86
+First-Line Supervisors of Non-Retail Sales Workers,3.8
+Cashiers,3.05
+Gambling Change Persons and Booth Cashiers,2.8
+Counter and Rental Clerks,3.05
+Parts Salespersons,4.38
+Retail Salespersons,3.05
+Advertising Sales Agents,4.19
+Insurance Sales Agents,3.26
+"Securities, Commodities, and Financial Services Sales Agents",4.16
+Travel Agents,3.99
+"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",3.81
+Solar Sales Representatives and Assessors,3.55
+"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",3.49
+Demonstrators and Product Promoters,2.83
+Models,1.41
+Real Estate Brokers,4.16
+Real Estate Sales Agents,4.33
+Sales Engineers,4.24
+Telemarketers,3.18
+"Door-to-Door Sales Workers, News and Street Vendors, and Related Workers",2.5
+First-Line Supervisors of Office and Administrative Support Workers,4.25
+"Switchboard Operators, Including Answering Service",3.57
+Telephone Operators,3.42
+Bill and Account Collectors,4.19
+Billing and Posting Clerks,3.63
+"Bookkeeping, Accounting, and Auditing Clerks",3.87
+Gambling Cage Workers,2.92
+Payroll and Timekeeping Clerks,3.74
+Procurement Clerks,3.99
+Tellers,3.5
+Brokerage Clerks,3.97
+Correspondence Clerks,3.84
+"Court, Municipal, and License Clerks",3.74
+"Credit Authorizers, Checkers, and Clerks",3.37
+Customer Service Representatives,3.49
+"Eligibility Interviewers, Government Programs",3.56
+File Clerks,3.82
+"Hotel, Motel, and Resort Desk Clerks",3.31
+"Interviewers, Except Eligibility and Loan",4.53
+"Library Assistants, Clerical",3.34
+Loan Interviewers and Clerks,3.61
+New Accounts Clerks,4.04
+Order Clerks,4.93
+"Human Resources Assistants, Except Payroll and Timekeeping",3.43
+Receptionists and Information Clerks,3.65
+Reservation and Transportation Ticket Agents and Travel Clerks,4.12
+Cargo and Freight Agents,2.87
+Freight Forwarders,4.19
+Couriers and Messengers,2.19
+Public Safety Telecommunicators,4.7
+"Dispatchers, Except Police, Fire, and Ambulance",3.3
+"Meter Readers, Utilities",3.16
+Postal Service Clerks,3.59
+Postal Service Mail Carriers,1.73
+"Postal Service Mail Sorters, Processors, and Processing Machine Operators",1.71
+"Production, Planning, and Expediting Clerks",3.84
+"Shipping, Receiving, and Inventory Clerks",3.46
+"Weighers, Measurers, Checkers, and Samplers, Recordkeeping",2.21
+Executive Secretaries and Executive Administrative Assistants,3.8
+Legal Secretaries and Administrative Assistants,4.3
+Medical Secretaries and Administrative Assistants,3.77
+"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",4.56
+Data Entry Keyers,3.4
+Word Processors and Typists,4.11
+Desktop Publishers,4.75
+Insurance Claims and Policy Processing Clerks,3.54
+"Mail Clerks and Mail Machine Operators, Except Postal Service",2.53
+"Office Clerks, General",3.1
+"Office Machine Operators, Except Computer",3.03
+Proofreaders and Copy Markers,3.2
+Statistical Assistants,5.04
+"First-Line Supervisors of Farming, Fishing, and Forestry Workers",2.88
+Agricultural Inspectors,3.41
+Animal Breeders,3.05
+"Graders and Sorters, Agricultural Products",0.88
+Agricultural Equipment Operators,1.86
+"Farmworkers and Laborers, Crop, Nursery, and Greenhouse",2.11
+"Farmworkers, Farm, Ranch, and Aquacultural Animals",2.53
+Fishing and Hunting Workers,2.47
+Forest and Conservation Workers,3.38
+Fallers,0.32
+Logging Equipment Operators,0.98
+Log Graders and Scalers,2.5
+First-Line Supervisors of Construction Trades and Extraction Workers,2.02
+Solar Energy Installation Managers,3.31
+Boilermakers,1.72
+Brickmasons and Blockmasons,1.18
+Stonemasons,0.17
+Carpenters,2.43
+Carpet Installers,1.03
+"Floor Layers, Except Carpet, Wood, and Hard Tiles",0.42
+Floor Sanders and Finishers,1.22
+Tile and Stone Setters,0.53
+Cement Masons and Concrete Finishers,1.0
+Terrazzo Workers and Finishers,0.39
+Construction Laborers,0.92
+"Paving, Surfacing, and Tamping Equipment Operators",2.06
+Pile Driver Operators,1.45
+Operating Engineers and Other Construction Equipment Operators,0.85
+Drywall and Ceiling Tile Installers,1.25
+Tapers,0.21
+Electricians,1.7
+Glaziers,1.0
+"Insulation Workers, Floor, Ceiling, and Wall",1.06
+"Insulation Workers, Mechanical",2.41
+"Painters, Construction and Maintenance",2.01
+Paperhangers,2.32
+Pipelayers,1.37
+"Plumbers, Pipefitters, and Steamfitters",2.08
+Solar Thermal Installers and Technicians,4.15
+Plasterers and Stucco Masons,0.56
+Reinforcing Iron and Rebar Workers,1.05
+Roofers,1.18
+Sheet Metal Workers,3.16
+Structural Iron and Steel Workers,0.58
+Solar Photovoltaic Installers,3.31
+"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters",0.51
+Helpers--Carpenters,1.63
+Helpers--Electricians,3.18
+"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",0.34
+"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",1.27
+Helpers--Roofers,0.38
+Construction and Building Inspectors,4.0
+Energy Auditors,4.0
+Elevator and Escalator Installers and Repairers,3.6
+Fence Erectors,1.47
+Hazardous Materials Removal Workers,2.08
+Highway Maintenance Workers,1.44
+Rail-Track Laying and Maintenance Equipment Operators,1.52
+Septic Tank Servicers and Sewer Pipe Cleaners,2.59
+Segmental Pavers,0.86
+Weatherization Installers and Technicians,3.43
+"Derrick Operators, Oil and Gas",1.67
+"Rotary Drill Operators, Oil and Gas",1.59
+"Service Unit Operators, Oil and Gas",2.96
+"Excavating and Loading Machine and Dragline Operators, Surface Mining",1.24
+"Earth Drillers, Except Oil and Gas",1.22
+"Explosives Workers, Ordnance Handling Experts, and Blasters",2.59
+Continuous Mining Machine Operators,1.47
+"Roof Bolters, Mining",1.99
+"Loading and Moving Machine Operators, Underground Mining",0.99
+"Rock Splitters, Quarry",1.54
+"Roustabouts, Oil and Gas",1.82
+Helpers--Extraction Workers,1.59
+"First-Line Supervisors of Mechanics, Installers, and Repairers",3.7
+"Computer, Automated Teller, and Office Machine Repairers",5.3
+"Radio, Cellular, and Tower Equipment Installers and Repairers",4.36
+"Telecommunications Equipment Installers and Repairers, Except Line Installers",4.55
+Avionics Technicians,5.32
+"Electric Motor, Power Tool, and Related Repairers",2.5
+"Electrical and Electronics Installers and Repairers, Transportation Equipment",4.94
+"Electrical and Electronics Repairers, Commercial and Industrial Equipment",5.07
+"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",4.14
+"Electronic Equipment Installers and Repairers, Motor Vehicles",4.35
+Audiovisual Equipment Installers and Repairers,4.67
+Security and Fire Alarm Systems Installers,4.25
+Aircraft Mechanics and Service Technicians,2.88
+Automotive Body and Related Repairers,2.37
+Automotive Glass Installers and Repairers,2.27
+Automotive Service Technicians and Mechanics,3.61
+Bus and Truck Mechanics and Diesel Engine Specialists,3.63
+Farm Equipment Mechanics and Service Technicians,3.67
+"Mobile Heavy Equipment Mechanics, Except Engines",3.45
+Rail Car Repairers,1.91
+Motorboat Mechanics and Service Technicians,3.84
+Motorcycle Mechanics,3.58
+Outdoor Power Equipment and Other Small Engine Mechanics,2.84
+Bicycle Repairers,3.07
+Recreational Vehicle Service Technicians,2.2
+Tire Repairers and Changers,2.71
+Mechanical Door Repairers,2.49
+"Control and Valve Installers and Repairers, Except Mechanical Door",4.0
+"Heating, Air Conditioning, and Refrigeration Mechanics and Installers",3.85
+Home Appliance Repairers,4.18
+Industrial Machinery Mechanics,3.27
+"Maintenance Workers, Machinery",2.43
+Millwrights,3.27
+"Refractory Materials Repairers, Except Brickmasons",1.22
+Electrical Power-Line Installers and Repairers,2.03
+Telecommunications Line Installers and Repairers,3.96
+Camera and Photographic Equipment Repairers,4.25
+Medical Equipment Repairers,4.34
+Musical Instrument Repairers and Tuners,2.79
+Watch and Clock Repairers,3.38
+"Maintenance and Repair Workers, General",2.08
+Wind Turbine Service Technicians,4.9
+"Coin, Vending, and Amusement Machine Servicers and Repairers",3.95
+Commercial Divers,2.0
+Locksmiths and Safe Repairers,3.52
+Manufactured Building and Mobile Home Installers,1.66
+Riggers,3.3
+Signal and Track Switch Repairers,3.2
+"Helpers--Installation, Maintenance, and Repair Workers",3.31
+Geothermal Technicians,4.02
+First-Line Supervisors of Production and Operating Workers,3.82
+"Aircraft Structure, Surfaces, Rigging, and Systems Assemblers",2.72
+"Coil Winders, Tapers, and Finishers",3.39
+Electrical and Electronic Equipment Assemblers,2.13
+Electromechanical Equipment Assemblers,3.63
+Engine and Other Machine Assemblers,2.44
+Structural Metal Fabricators and Fitters,2.06
+Fiberglass Laminators and Fabricators,1.68
+Timing Device Assemblers and Adjusters,2.04
+Team Assemblers,3.75
+Bakers,2.15
+Butchers and Meat Cutters,1.59
+"Meat, Poultry, and Fish Cutters and Trimmers",2.9
+Slaughterers and Meat Packers,1.78
+"Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders",1.25
+Food Batchmakers,3.13
+Food Cooking Machine Operators and Tenders,2.93
+"Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic",2.62
+"Forging Machine Setters, Operators, and Tenders, Metal and Plastic",3.01
+"Rolling Machine Setters, Operators, and Tenders, Metal and Plastic",2.35
+"Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",2.04
+"Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic",3.49
+"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",2.69
+"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",3.35
+"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic",3.79
+Machinists,2.49
+Metal-Refining Furnace Operators and Tenders,2.26
+"Pourers and Casters, Metal",1.22
+"Model Makers, Metal and Plastic",2.48
+"Patternmakers, Metal and Plastic",2.48
+Foundry Mold and Coremakers,1.54
+"Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",2.07
+"Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",2.26
+Tool and Die Makers,3.04
+"Welders, Cutters, Solderers, and Brazers",1.67
+"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",2.27
+"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",1.95
+"Layout Workers, Metal and Plastic",3.07
+"Plating Machine Setters, Operators, and Tenders, Metal and Plastic",2.68
+"Tool Grinders, Filers, and Sharpeners",1.99
+Prepress Technicians and Workers,4.79
+Printing Press Operators,2.87
+Print Binding and Finishing Workers,2.34
+Laundry and Dry-Cleaning Workers,2.12
+"Pressers, Textile, Garment, and Related Materials",1.45
+Sewing Machine Operators,1.32
+Shoe and Leather Workers and Repairers,0.61
+Shoe Machine Operators and Tenders,1.38
+"Sewers, Hand",0.9
+"Tailors, Dressmakers, and Custom Sewers",1.27
+Textile Bleaching and Dyeing Machine Operators and Tenders,1.32
+"Textile Cutting Machine Setters, Operators, and Tenders",1.9
+"Textile Knitting and Weaving Machine Setters, Operators, and Tenders",2.03
+"Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders",2.62
+"Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers",1.82
+Fabric and Apparel Patternmakers,3.14
+Upholsterers,1.19
+Cabinetmakers and Bench Carpenters,1.72
+Furniture Finishers,0.96
+"Model Makers, Wood",3.03
+"Patternmakers, Wood",2.39
+"Sawing Machine Setters, Operators, and Tenders, Wood",1.17
+"Woodworking Machine Setters, Operators, and Tenders, Except Sawing",1.59
+Nuclear Power Reactor Operators,3.71
+Power Distributors and Dispatchers,3.84
+Power Plant Operators,2.72
+Biomass Plant Technicians,3.26
+Hydroelectric Plant Technicians,4.53
+Stationary Engineers and Boiler Operators,3.31
+Water and Wastewater Treatment Plant and System Operators,4.02
+Chemical Plant and System Operators,2.53
+Gas Plant Operators,3.94
+"Petroleum Pump System Operators, Refinery Operators, and Gaugers",3.35
+Biofuels Processing Technicians,3.53
+Chemical Equipment Operators and Tenders,4.41
+"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",2.58
+"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",2.4
+"Grinding and Polishing Workers, Hand",1.8
+"Mixing and Blending Machine Setters, Operators, and Tenders",1.35
+"Cutters and Trimmers, Hand",0.64
+"Cutting and Slicing Machine Setters, Operators, and Tenders",2.41
+"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",3.05
+"Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders",2.93
+"Inspectors, Testers, Sorters, Samplers, and Weighers",2.95
+Jewelers and Precious Stone and Metal Workers,1.81
+Gem and Diamond Workers,2.44
+Dental Laboratory Technicians,3.22
+Medical Appliance Technicians,3.04
+Ophthalmic Laboratory Technicians,3.46
+Packaging and Filling Machine Operators and Tenders,2.75
+"Painting, Coating, and Decorating Workers",1.01
+"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",1.66
+Semiconductor Processing Technicians,3.77
+Photographic Process Workers and Processing Machine Operators,4.09
+Computer Numerically Controlled Tool Operators,3.24
+Computer Numerically Controlled Tool Programmers,4.96
+Adhesive Bonding Machine Operators and Tenders,3.07
+"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders",0.82
+Cooling and Freezing Equipment Operators and Tenders,2.54
+Etchers and Engravers,3.17
+"Molders, Shapers, and Casters, Except Metal and Plastic",1.72
+"Stone Cutters and Carvers, Manufacturing",2.41
+"Glass Blowers, Molders, Benders, and Finishers",3.03
+"Potters, Manufacturing",2.97
+"Paper Goods Machine Setters, Operators, and Tenders",1.41
+Tire Builders,1.09
+Helpers--Production Workers,1.61
+Aircraft Cargo Handling Supervisors,4.03
+"First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand",3.32
+Recycling Coordinators,3.51
+First-Line Supervisors of Material-Moving Machine and Vehicle Operators,4.69
+"Airline Pilots, Copilots, and Flight Engineers",3.82
+Commercial Pilots,3.85
+Air Traffic Controllers,3.67
+Airfield Operations Specialists,3.67
+Flight Attendants,3.81
+"Ambulance Drivers and Attendants, Except Emergency Medical Technicians",2.74
+Driver/Sales Workers,2.62
+Heavy and Tractor-Trailer Truck Drivers,2.76
+Light Truck Drivers,1.91
+"Bus Drivers, Transit and Intercity",2.55
+Locomotive Engineers,2.3
+"Rail Yard Engineers, Dinkey Operators, and Hostlers",1.95
+"Railroad Brake, Signal, and Switch Operators and Locomotive Firers",1.83
+Railroad Conductors and Yardmasters,2.91
+Subway and Streetcar Operators,1.83
+Sailors and Marine Oilers,1.51
+"Captains, Mates, and Pilots of Water Vessels",3.01
+Motorboat Operators,2.85
+Ship Engineers,3.55
+Bridge and Lock Tenders,2.75
+Parking Attendants,2.22
+Automotive and Watercraft Service Attendants,3.18
+Traffic Technicians,4.51
+Transportation Inspectors,3.42
+Aviation Inspectors,4.36
+"Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation",3.19
+Passenger Attendants,1.55
+Conveyor Operators and Tenders,0.65
+Crane and Tower Operators,2.49
+Dredge Operators,2.23
+Hoist and Winch Operators,1.27
+Industrial Truck and Tractor Operators,1.48
+Cleaners of Vehicles and Equipment,1.43
+"Laborers and Freight, Stock, and Material Movers, Hand",1.81
+Recycling and Reclamation Workers,2.19
+Machine Feeders and Offbearers,2.24
+"Packers and Packagers, Hand",2.18
+Stockers and Order Fillers,2.06
+Gas Compressor and Gas Pumping Station Operators,3.95
+"Pump Operators, Except Wellhead Pumpers",3.53
+Wellhead Pumpers,3.01
+Refuse and Recyclable Material Collectors,1.62
+"Tank Car, Truck, and Ship Loaders",2.17

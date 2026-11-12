@@ -1,0 +1,3243 @@
+State,County_Name,Attribute,Value,Encoded_urban_type
+AL,Autauga,UIC_2024,4,2
+AL,Baldwin,UIC_2024,4,2
+AL,Barbour,UIC_2024,5,1
+AL,Bibb,UIC_2024,1,2
+AL,Blount,UIC_2024,1,2
+AL,Bullock,UIC_2024,6,0
+AL,Butler,UIC_2024,6,0
+AL,Calhoun,UIC_2024,4,2
+AL,Chambers,UIC_2024,5,1
+AL,Cherokee,UIC_2024,6,0
+AL,Chilton,UIC_2024,1,2
+AL,Choctaw,UIC_2024,9,0
+AL,Clarke,UIC_2024,9,0
+AL,Clay,UIC_2024,9,0
+AL,Cleburne,UIC_2024,3,1
+AL,Coffee,UIC_2024,5,1
+AL,Colbert,UIC_2024,4,2
+AL,Conecuh,UIC_2024,9,0
+AL,Coosa,UIC_2024,2,1
+AL,Covington,UIC_2024,6,0
+AL,Crenshaw,UIC_2024,6,0
+AL,Cullman,UIC_2024,2,1
+AL,Dale,UIC_2024,5,1
+AL,Dallas,UIC_2024,5,1
+AL,DeKalb,UIC_2024,5,1
+AL,Elmore,UIC_2024,4,2
+AL,Escambia,UIC_2024,6,0
+AL,Etowah,UIC_2024,4,2
+AL,Fayette,UIC_2024,6,0
+AL,Franklin,UIC_2024,5,1
+AL,Geneva,UIC_2024,4,2
+AL,Greene,UIC_2024,4,2
+AL,Hale,UIC_2024,4,2
+AL,Henry,UIC_2024,4,2
+AL,Houston,UIC_2024,4,2
+AL,Jackson,UIC_2024,5,1
+AL,Jefferson,UIC_2024,1,2
+AL,Lamar,UIC_2024,6,0
+AL,Lauderdale,UIC_2024,4,2
+AL,Lawrence,UIC_2024,4,2
+AL,Lee,UIC_2024,4,2
+AL,Limestone,UIC_2024,4,2
+AL,Lowndes,UIC_2024,4,2
+AL,Macon,UIC_2024,4,2
+AL,Madison,UIC_2024,4,2
+AL,Marengo,UIC_2024,6,0
+AL,Marion,UIC_2024,8,0
+AL,Marshall,UIC_2024,5,1
+AL,Mobile,UIC_2024,4,2
+AL,Monroe,UIC_2024,6,0
+AL,Montgomery,UIC_2024,4,2
+AL,Morgan,UIC_2024,4,2
+AL,Perry,UIC_2024,3,1
+AL,Pickens,UIC_2024,4,2
+AL,Pike,UIC_2024,5,1
+AL,Randolph,UIC_2024,3,1
+AL,Russell,UIC_2024,4,2
+AL,St. Clair,UIC_2024,1,2
+AL,Shelby,UIC_2024,1,2
+AL,Sumter,UIC_2024,6,0
+AL,Talladega,UIC_2024,2,1
+AL,Tallapoosa,UIC_2024,5,1
+AL,Tuscaloosa,UIC_2024,4,2
+AL,Walker,UIC_2024,1,2
+AL,Washington,UIC_2024,6,0
+AL,Wilcox,UIC_2024,9,0
+AL,Winston,UIC_2024,3,1
+AK,Aleutians East Borough,UIC_2024,9,0
+AK,Aleutians West Census Area,UIC_2024,9,0
+AK,Anchorage Municipality,UIC_2024,4,2
+AK,Bethel Census Area,UIC_2024,8,0
+AK,Bristol Bay Borough,UIC_2024,9,0
+AK,Chugach Census Area,UIC_2024,9,0
+AK,Copper River Census Area,UIC_2024,9,0
+AK,Denali Borough,UIC_2024,9,0
+AK,Dillingham Census Area,UIC_2024,9,0
+AK,Fairbanks North Star Borough,UIC_2024,4,2
+AK,Haines Borough,UIC_2024,9,0
+AK,Hoonah-Angoon Census Area,UIC_2024,9,0
+AK,Juneau City and Borough,UIC_2024,7,1
+AK,Kenai Peninsula Borough,UIC_2024,8,0
+AK,Ketchikan Gateway Borough,UIC_2024,7,1
+AK,Kodiak Island Borough,UIC_2024,8,0
+AK,Kusilvak Census Area,UIC_2024,9,0
+AK,Lake and Peninsula Borough,UIC_2024,9,0
+AK,Matanuska-Susitna Borough,UIC_2024,4,2
+AK,Nome Census Area,UIC_2024,9,0
+AK,North Slope Borough,UIC_2024,9,0
+AK,Northwest Arctic Borough,UIC_2024,9,0
+AK,Petersburg Census area,UIC_2024,9,0
+AK,Price of Wales Hyder Census Area,UIC_2024,9,0
+AK,Sitka City and Borough,UIC_2024,8,0
+AK,Skagway Municipality,UIC_2024,9,0
+AK,Southeast Fairbanks Census Area,UIC_2024,9,0
+AK,Wrangell City and Borough,UIC_2024,9,0
+AK,Yakutat City and Borough,UIC_2024,9,0
+AK,Yukon-Koyukuk Census Area,UIC_2024,6,0
+AZ,Apache,UIC_2024,6,0
+AZ,Cochise,UIC_2024,4,2
+AZ,Coconino,UIC_2024,4,2
+AZ,Gila,UIC_2024,2,1
+AZ,Graham,UIC_2024,7,1
+AZ,Greenlee,UIC_2024,9,0
+AZ,La Paz,UIC_2024,3,1
+AZ,Maricopa,UIC_2024,1,2
+AZ,Mohave,UIC_2024,4,2
+AZ,Navajo,UIC_2024,5,1
+AZ,Pima,UIC_2024,1,2
+AZ,Pinal,UIC_2024,1,2
+AZ,Santa Cruz,UIC_2024,2,1
+AZ,Yavapai,UIC_2024,4,2
+AZ,Yuma,UIC_2024,4,2
+AR,Arkansas,UIC_2024,6,0
+AR,Ashley,UIC_2024,9,0
+AR,Baxter,UIC_2024,7,1
+AR,Benton,UIC_2024,4,2
+AR,Boone,UIC_2024,7,1
+AR,Bradley,UIC_2024,8,0
+AR,Calhoun,UIC_2024,7,1
+AR,Carroll,UIC_2024,6,0
+AR,Chicot,UIC_2024,9,0
+AR,Clark,UIC_2024,7,1
+AR,Clay,UIC_2024,9,0
+AR,Cleburne,UIC_2024,6,0
+AR,Cleveland,UIC_2024,5,1
+AR,Columbia,UIC_2024,7,1
+AR,Conway,UIC_2024,6,0
+AR,Craighead,UIC_2024,4,2
+AR,Crawford,UIC_2024,4,2
+AR,Crittenden,UIC_2024,1,2
+AR,Cross,UIC_2024,3,1
+AR,Dallas,UIC_2024,6,0
+AR,Desha,UIC_2024,9,0
+AR,Drew,UIC_2024,8,0
+AR,Faulkner,UIC_2024,4,2
+AR,Franklin,UIC_2024,6,0
+AR,Fulton,UIC_2024,9,0
+AR,Garland,UIC_2024,4,2
+AR,Grant,UIC_2024,4,2
+AR,Greene,UIC_2024,5,1
+AR,Hempstead,UIC_2024,6,0
+AR,Hot Spring,UIC_2024,5,1
+AR,Howard,UIC_2024,6,0
+AR,Independence,UIC_2024,7,1
+AR,Izard,UIC_2024,9,0
+AR,Jackson,UIC_2024,6,0
+AR,Jefferson,UIC_2024,5,1
+AR,Johnson,UIC_2024,8,0
+AR,Lafayette,UIC_2024,6,0
+AR,Lawrence,UIC_2024,6,0
+AR,Lee,UIC_2024,3,1
+AR,Lincoln,UIC_2024,9,0
+AR,Little River,UIC_2024,4,2
+AR,Logan,UIC_2024,6,0
+AR,Lonoke,UIC_2024,4,2
+AR,Madison,UIC_2024,4,2
+AR,Marion,UIC_2024,9,0
+AR,Miller,UIC_2024,4,2
+AR,Mississippi,UIC_2024,5,1
+AR,Monroe,UIC_2024,9,0
+AR,Montgomery,UIC_2024,6,0
+AR,Nevada,UIC_2024,9,0
+AR,Newton,UIC_2024,7,1
+AR,Ouachita,UIC_2024,7,1
+AR,Perry,UIC_2024,4,2
+AR,Phillips,UIC_2024,8,0
+AR,Pike,UIC_2024,9,0
+AR,Poinsett,UIC_2024,4,2
+AR,Polk,UIC_2024,8,0
+AR,Pope,UIC_2024,7,1
+AR,Prairie,UIC_2024,6,0
+AR,Pulaski,UIC_2024,4,2
+AR,Randolph,UIC_2024,8,0
+AR,St. Francis,UIC_2024,2,1
+AR,Saline,UIC_2024,4,2
+AR,Scott,UIC_2024,6,0
+AR,Searcy,UIC_2024,9,0
+AR,Sebastian,UIC_2024,4,2
+AR,Sevier,UIC_2024,6,0
+AR,Sharp,UIC_2024,9,0
+AR,Stone,UIC_2024,9,0
+AR,Union,UIC_2024,7,1
+AR,Van Buren,UIC_2024,6,0
+AR,Washington,UIC_2024,4,2
+AR,White,UIC_2024,5,1
+AR,Woodruff,UIC_2024,9,0
+AR,Yell,UIC_2024,7,1
+CA,Alameda,UIC_2024,1,2
+CA,Alpine,UIC_2024,2,1
+CA,Amador,UIC_2024,3,1
+CA,Butte,UIC_2024,4,2
+CA,Calaveras,UIC_2024,6,0
+CA,Colusa,UIC_2024,3,1
+CA,Contra Costa,UIC_2024,1,2
+CA,Del Norte,UIC_2024,7,1
+CA,El Dorado,UIC_2024,1,2
+CA,Fresno,UIC_2024,1,2
+CA,Glenn,UIC_2024,6,0
+CA,Humboldt,UIC_2024,7,1
+CA,Imperial,UIC_2024,4,2
+CA,Inyo,UIC_2024,5,1
+CA,Kern,UIC_2024,4,2
+CA,Kings,UIC_2024,4,2
+CA,Lake,UIC_2024,5,1
+CA,Lassen,UIC_2024,7,1
+CA,Los Angeles,UIC_2024,1,2
+CA,Madera,UIC_2024,1,2
+CA,Marin,UIC_2024,1,2
+CA,Mariposa,UIC_2024,6,0
+CA,Mendocino,UIC_2024,5,1
+CA,Merced,UIC_2024,4,2
+CA,Modoc,UIC_2024,6,0
+CA,Mono,UIC_2024,8,0
+CA,Monterey,UIC_2024,4,2
+CA,Napa,UIC_2024,4,2
+CA,Nevada,UIC_2024,2,1
+CA,Orange,UIC_2024,1,2
+CA,Placer,UIC_2024,1,2
+CA,Plumas,UIC_2024,9,0
+CA,Riverside,UIC_2024,1,2
+CA,Sacramento,UIC_2024,1,2
+CA,San Benito,UIC_2024,1,2
+CA,San Bernardino,UIC_2024,1,2
+CA,San Diego,UIC_2024,1,2
+CA,San Francisco,UIC_2024,1,2
+CA,San Joaquin,UIC_2024,4,2
+CA,San Luis Obispo,UIC_2024,4,2
+CA,San Mateo,UIC_2024,1,2
+CA,Santa Barbara,UIC_2024,4,2
+CA,Santa Clara,UIC_2024,1,2
+CA,Santa Cruz,UIC_2024,4,2
+CA,Shasta,UIC_2024,4,2
+CA,Sierra,UIC_2024,6,0
+CA,Siskiyou,UIC_2024,8,0
+CA,Solano,UIC_2024,4,2
+CA,Sonoma,UIC_2024,4,2
+CA,Stanislaus,UIC_2024,4,2
+CA,Sutter,UIC_2024,4,2
+CA,Tehama,UIC_2024,5,1
+CA,Trinity,UIC_2024,6,0
+CA,Tulare,UIC_2024,4,2
+CA,Tuolumne,UIC_2024,5,1
+CA,Ventura,UIC_2024,4,2
+CA,Yolo,UIC_2024,1,2
+CA,Yuba,UIC_2024,4,2
+CO,Adams,UIC_2024,1,2
+CO,Alamosa,UIC_2024,7,1
+CO,Arapahoe,UIC_2024,1,2
+CO,Archuleta,UIC_2024,9,0
+CO,Baca,UIC_2024,9,0
+CO,Bent,UIC_2024,9,0
+CO,Boulder,UIC_2024,4,2
+CO,Broomfield,UIC_2024,1,2
+CO,Chaffee,UIC_2024,3,1
+CO,Cheyenne,UIC_2024,9,0
+CO,Clear Creek,UIC_2024,1,2
+CO,Conejos,UIC_2024,7,1
+CO,Costilla,UIC_2024,7,1
+CO,Crowley,UIC_2024,6,0
+CO,Custer,UIC_2024,6,0
+CO,Delta,UIC_2024,6,0
+CO,Denver,UIC_2024,1,2
+CO,Dolores,UIC_2024,9,0
+CO,Douglas,UIC_2024,1,2
+CO,Eagle,UIC_2024,7,1
+CO,Elbert,UIC_2024,1,2
+CO,El Paso,UIC_2024,4,2
+CO,Fremont,UIC_2024,5,1
+CO,Garfield,UIC_2024,7,1
+CO,Gilpin,UIC_2024,1,2
+CO,Grand,UIC_2024,9,0
+CO,Gunnison,UIC_2024,8,0
+CO,Hinsdale,UIC_2024,9,0
+CO,Huerfano,UIC_2024,6,0
+CO,Jackson,UIC_2024,9,0
+CO,Jefferson,UIC_2024,1,2
+CO,Kiowa,UIC_2024,9,0
+CO,Kit Carson,UIC_2024,9,0
+CO,Lake,UIC_2024,7,1
+CO,La Plata,UIC_2024,5,1
+CO,Larimer,UIC_2024,4,2
+CO,Las Animas,UIC_2024,8,0
+CO,Lincoln,UIC_2024,3,1
+CO,Logan,UIC_2024,5,1
+CO,Mesa,UIC_2024,4,2
+CO,Mineral,UIC_2024,9,0
+CO,Moffat,UIC_2024,7,1
+CO,Montezuma,UIC_2024,6,0
+CO,Montrose,UIC_2024,7,1
+CO,Morgan,UIC_2024,2,1
+CO,Otero,UIC_2024,6,0
+CO,Ouray,UIC_2024,9,0
+CO,Park,UIC_2024,1,2
+CO,Phillips,UIC_2024,9,0
+CO,Pitkin,UIC_2024,7,1
+CO,Prowers,UIC_2024,8,0
+CO,Pueblo,UIC_2024,4,2
+CO,Rio Blanco,UIC_2024,9,0
+CO,Rio Grande,UIC_2024,9,0
+CO,Routt,UIC_2024,7,1
+CO,Saguache,UIC_2024,9,0
+CO,San Juan,UIC_2024,9,0
+CO,San Miguel,UIC_2024,9,0
+CO,Sedgwick,UIC_2024,9,0
+CO,Summit,UIC_2024,7,1
+CO,Teller,UIC_2024,4,2
+CO,Washington,UIC_2024,9,0
+CO,Weld,UIC_2024,4,2
+CO,Yuma,UIC_2024,9,0
+CT,Capitol Planning Region,UIC_2024,1,2
+CT,Greater Bridgeport Planning Region,UIC_2024,4,2
+CT,Lower Connecticut River Valley Planning Region,UIC_2024,1,2
+CT,Naugatuck Valley Planning Region,UIC_2024,4,2
+CT,Northeastern Connecticut Planning Region,UIC_2024,2,1
+CT,Northwest Hills Planning Region,UIC_2024,2,1
+CT,South Central Connecticut Planning Region,UIC_2024,4,2
+CT,Southeastern Connecticut Planning Region,UIC_2024,4,2
+CT,Western Connecticut Planning Region,UIC_2024,4,2
+DE,Kent,UIC_2024,4,2
+DE,New Castle,UIC_2024,1,2
+DE,Sussex,UIC_2024,5,1
+DC,District of Columbia,UIC_2024,1,2
+FL,Alachua,UIC_2024,4,2
+FL,Baker,UIC_2024,1,2
+FL,Bay,UIC_2024,4,2
+FL,Bradford,UIC_2024,3,1
+FL,Brevard,UIC_2024,4,2
+FL,Broward,UIC_2024,1,2
+FL,Calhoun,UIC_2024,6,0
+FL,Charlotte,UIC_2024,4,2
+FL,Citrus,UIC_2024,4,2
+FL,Clay,UIC_2024,1,2
+FL,Collier,UIC_2024,4,2
+FL,Columbia,UIC_2024,2,1
+FL,DeSoto,UIC_2024,5,1
+FL,Dixie,UIC_2024,6,0
+FL,Duval,UIC_2024,1,2
+FL,Escambia,UIC_2024,4,2
+FL,Flagler,UIC_2024,4,2
+FL,Franklin,UIC_2024,6,0
+FL,Gadsden,UIC_2024,4,2
+FL,Gilchrist,UIC_2024,4,2
+FL,Glades,UIC_2024,2,1
+FL,Gulf,UIC_2024,6,0
+FL,Hamilton,UIC_2024,6,0
+FL,Hardee,UIC_2024,3,1
+FL,Hendry,UIC_2024,2,1
+FL,Hernando,UIC_2024,1,2
+FL,Highlands,UIC_2024,4,2
+FL,Hillsborough,UIC_2024,1,2
+FL,Holmes,UIC_2024,6,0
+FL,Indian River,UIC_2024,4,2
+FL,Jackson,UIC_2024,6,0
+FL,Jefferson,UIC_2024,4,2
+FL,Lafayette,UIC_2024,9,0
+FL,Lake,UIC_2024,1,2
+FL,Lee,UIC_2024,4,2
+FL,Leon,UIC_2024,4,2
+FL,Levy,UIC_2024,4,2
+FL,Liberty,UIC_2024,6,0
+FL,Madison,UIC_2024,6,0
+FL,Manatee,UIC_2024,4,2
+FL,Marion,UIC_2024,4,2
+FL,Martin,UIC_2024,4,2
+FL,Miami-Dade,UIC_2024,1,2
+FL,Monroe,UIC_2024,2,1
+FL,Nassau,UIC_2024,1,2
+FL,Okaloosa,UIC_2024,4,2
+FL,Okeechobee,UIC_2024,2,1
+FL,Orange,UIC_2024,1,2
+FL,Osceola,UIC_2024,1,2
+FL,Palm Beach,UIC_2024,1,2
+FL,Pasco,UIC_2024,1,2
+FL,Pinellas,UIC_2024,1,2
+FL,Polk,UIC_2024,4,2
+FL,Putnam,UIC_2024,2,1
+FL,St. Johns,UIC_2024,1,2
+FL,St. Lucie,UIC_2024,4,2
+FL,Santa Rosa,UIC_2024,4,2
+FL,Sarasota,UIC_2024,4,2
+FL,Seminole,UIC_2024,1,2
+FL,Sumter,UIC_2024,4,2
+FL,Suwannee,UIC_2024,6,0
+FL,Taylor,UIC_2024,6,0
+FL,Union,UIC_2024,3,1
+FL,Volusia,UIC_2024,4,2
+FL,Wakulla,UIC_2024,4,2
+FL,Walton,UIC_2024,4,2
+FL,Washington,UIC_2024,4,2
+GA,Appling,UIC_2024,9,0
+GA,Atkinson,UIC_2024,7,1
+GA,Bacon,UIC_2024,9,0
+GA,Baker,UIC_2024,6,0
+GA,Baldwin,UIC_2024,5,1
+GA,Banks,UIC_2024,6,0
+GA,Barrow,UIC_2024,1,2
+GA,Bartow,UIC_2024,1,2
+GA,Ben Hill,UIC_2024,7,1
+GA,Berrien,UIC_2024,6,0
+GA,Bibb,UIC_2024,4,2
+GA,Bleckley,UIC_2024,6,0
+GA,Brantley,UIC_2024,4,2
+GA,Brooks,UIC_2024,4,2
+GA,Bryan,UIC_2024,4,2
+GA,Bulloch,UIC_2024,5,1
+GA,Burke,UIC_2024,4,2
+GA,Butts,UIC_2024,1,2
+GA,Calhoun,UIC_2024,6,0
+GA,Camden,UIC_2024,2,1
+GA,Candler,UIC_2024,9,0
+GA,Carroll,UIC_2024,1,2
+GA,Catoosa,UIC_2024,4,2
+GA,Charlton,UIC_2024,3,1
+GA,Chatham,UIC_2024,4,2
+GA,Chattahoochee,UIC_2024,4,2
+GA,Chattooga,UIC_2024,5,1
+GA,Cherokee,UIC_2024,1,2
+GA,Clarke,UIC_2024,4,2
+GA,Clay,UIC_2024,9,0
+GA,Clayton,UIC_2024,1,2
+GA,Clinch,UIC_2024,6,0
+GA,Cobb,UIC_2024,1,2
+GA,Coffee,UIC_2024,7,1
+GA,Colquitt,UIC_2024,5,1
+GA,Columbia,UIC_2024,4,2
+GA,Cook,UIC_2024,6,0
+GA,Coweta,UIC_2024,1,2
+GA,Crawford,UIC_2024,4,2
+GA,Crisp,UIC_2024,5,1
+GA,Dade,UIC_2024,4,2
+GA,Dawson,UIC_2024,1,2
+GA,Decatur,UIC_2024,5,1
+GA,DeKalb,UIC_2024,1,2
+GA,Dodge,UIC_2024,8,0
+GA,Dooly,UIC_2024,6,0
+GA,Dougherty,UIC_2024,4,2
+GA,Douglas,UIC_2024,1,2
+GA,Early,UIC_2024,6,0
+GA,Echols,UIC_2024,4,2
+GA,Effingham,UIC_2024,4,2
+GA,Elbert,UIC_2024,6,0
+GA,Emanuel,UIC_2024,8,0
+GA,Evans,UIC_2024,5,1
+GA,Fannin,UIC_2024,3,1
+GA,Fayette,UIC_2024,1,2
+GA,Floyd,UIC_2024,4,2
+GA,Forsyth,UIC_2024,1,2
+GA,Franklin,UIC_2024,6,0
+GA,Fulton,UIC_2024,1,2
+GA,Gilmer,UIC_2024,3,1
+GA,Glascock,UIC_2024,9,0
+GA,Glynn,UIC_2024,4,2
+GA,Gordon,UIC_2024,2,1
+GA,Grady,UIC_2024,5,1
+GA,Greene,UIC_2024,3,1
+GA,Gwinnett,UIC_2024,1,2
+GA,Habersham,UIC_2024,5,1
+GA,Hall,UIC_2024,4,2
+GA,Hancock,UIC_2024,9,0
+GA,Haralson,UIC_2024,1,2
+GA,Harris,UIC_2024,4,2
+GA,Hart,UIC_2024,6,0
+GA,Heard,UIC_2024,1,2
+GA,Henry,UIC_2024,1,2
+GA,Houston,UIC_2024,4,2
+GA,Irwin,UIC_2024,8,0
+GA,Jackson,UIC_2024,2,1
+GA,Jasper,UIC_2024,1,2
+GA,Jeff Davis,UIC_2024,9,0
+GA,Jefferson,UIC_2024,6,0
+GA,Jenkins,UIC_2024,9,0
+GA,Johnson,UIC_2024,7,1
+GA,Jones,UIC_2024,4,2
+GA,Lamar,UIC_2024,3,1
+GA,Lanier,UIC_2024,4,2
+GA,Laurens,UIC_2024,5,1
+GA,Lee,UIC_2024,4,2
+GA,Liberty,UIC_2024,4,2
+GA,Lincoln,UIC_2024,4,2
+GA,Long,UIC_2024,4,2
+GA,Lowndes,UIC_2024,4,2
+GA,Lumpkin,UIC_2024,1,2
+GA,McDuffie,UIC_2024,4,2
+GA,McIntosh,UIC_2024,4,2
+GA,Macon,UIC_2024,6,0
+GA,Madison,UIC_2024,4,2
+GA,Marion,UIC_2024,4,2
+GA,Meriwether,UIC_2024,1,2
+GA,Miller,UIC_2024,9,0
+GA,Mitchell,UIC_2024,6,0
+GA,Monroe,UIC_2024,4,2
+GA,Montgomery,UIC_2024,7,1
+GA,Morgan,UIC_2024,1,2
+GA,Murray,UIC_2024,4,2
+GA,Muscogee,UIC_2024,4,2
+GA,Newton,UIC_2024,1,2
+GA,Oconee,UIC_2024,4,2
+GA,Oglethorpe,UIC_2024,4,2
+GA,Paulding,UIC_2024,1,2
+GA,Peach,UIC_2024,4,2
+GA,Pickens,UIC_2024,1,2
+GA,Pierce,UIC_2024,5,1
+GA,Pike,UIC_2024,1,2
+GA,Polk,UIC_2024,2,1
+GA,Pulaski,UIC_2024,6,0
+GA,Putnam,UIC_2024,3,1
+GA,Quitman,UIC_2024,5,1
+GA,Rabun,UIC_2024,9,0
+GA,Randolph,UIC_2024,6,0
+GA,Richmond,UIC_2024,4,2
+GA,Rockdale,UIC_2024,1,2
+GA,Schley,UIC_2024,5,1
+GA,Screven,UIC_2024,6,0
+GA,Seminole,UIC_2024,6,0
+GA,Spalding,UIC_2024,1,2
+GA,Stephens,UIC_2024,7,1
+GA,Stewart,UIC_2024,4,2
+GA,Sumter,UIC_2024,5,1
+GA,Talbot,UIC_2024,4,2
+GA,Taliaferro,UIC_2024,6,0
+GA,Tattnall,UIC_2024,6,0
+GA,Taylor,UIC_2024,6,0
+GA,Telfair,UIC_2024,8,0
+GA,Terrell,UIC_2024,4,2
+GA,Thomas,UIC_2024,5,1
+GA,Tift,UIC_2024,7,1
+GA,Toombs,UIC_2024,7,1
+GA,Towns,UIC_2024,9,0
+GA,Treutlen,UIC_2024,9,0
+GA,Troup,UIC_2024,2,1
+GA,Turner,UIC_2024,7,1
+GA,Twiggs,UIC_2024,4,2
+GA,Union,UIC_2024,3,1
+GA,Upson,UIC_2024,2,1
+GA,Walker,UIC_2024,4,2
+GA,Walton,UIC_2024,1,2
+GA,Ware,UIC_2024,7,1
+GA,Warren,UIC_2024,6,0
+GA,Washington,UIC_2024,8,0
+GA,Wayne,UIC_2024,5,1
+GA,Webster,UIC_2024,6,0
+GA,Wheeler,UIC_2024,8,0
+GA,White,UIC_2024,3,1
+GA,Whitfield,UIC_2024,4,2
+GA,Wilcox,UIC_2024,9,0
+GA,Wilkes,UIC_2024,6,0
+GA,Wilkinson,UIC_2024,6,0
+GA,Worth,UIC_2024,4,2
+HI,Hawaii,UIC_2024,7,1
+HI,Honolulu,UIC_2024,1,2
+HI,Kalawao,UIC_2024,4,2
+HI,Kauai,UIC_2024,7,1
+HI,Maui,UIC_2024,4,2
+ID,Ada,UIC_2024,4,2
+ID,Adams,UIC_2024,9,0
+ID,Bannock,UIC_2024,4,2
+ID,Bear Lake,UIC_2024,9,0
+ID,Benewah,UIC_2024,6,0
+ID,Bingham,UIC_2024,5,1
+ID,Blaine,UIC_2024,7,1
+ID,Boise,UIC_2024,4,2
+ID,Bonner,UIC_2024,5,1
+ID,Bonneville,UIC_2024,4,2
+ID,Boundary,UIC_2024,9,0
+ID,Butte,UIC_2024,4,2
+ID,Camas,UIC_2024,7,1
+ID,Canyon,UIC_2024,4,2
+ID,Caribou,UIC_2024,6,0
+ID,Cassia,UIC_2024,5,1
+ID,Clark,UIC_2024,6,0
+ID,Clearwater,UIC_2024,6,0
+ID,Custer,UIC_2024,6,0
+ID,Elmore,UIC_2024,5,1
+ID,Franklin,UIC_2024,4,2
+ID,Fremont,UIC_2024,5,1
+ID,Gem,UIC_2024,4,2
+ID,Gooding,UIC_2024,6,0
+ID,Idaho,UIC_2024,6,0
+ID,Jefferson,UIC_2024,4,2
+ID,Jerome,UIC_2024,4,2
+ID,Kootenai,UIC_2024,4,2
+ID,Latah,UIC_2024,5,1
+ID,Lemhi,UIC_2024,9,0
+ID,Lewis,UIC_2024,6,0
+ID,Lincoln,UIC_2024,5,1
+ID,Madison,UIC_2024,5,1
+ID,Minidoka,UIC_2024,7,1
+ID,Nez Perce,UIC_2024,4,2
+ID,Oneida,UIC_2024,5,1
+ID,Owyhee,UIC_2024,4,2
+ID,Payette,UIC_2024,5,1
+ID,Power,UIC_2024,6,0
+ID,Shoshone,UIC_2024,6,0
+ID,Teton,UIC_2024,7,1
+ID,Twin Falls,UIC_2024,4,2
+ID,Valley,UIC_2024,9,0
+ID,Washington,UIC_2024,6,0
+IL,Adams,UIC_2024,7,1
+IL,Alexander,UIC_2024,4,2
+IL,Bond,UIC_2024,1,2
+IL,Boone,UIC_2024,4,2
+IL,Brown,UIC_2024,9,0
+IL,Bureau,UIC_2024,7,1
+IL,Calhoun,UIC_2024,1,2
+IL,Carroll,UIC_2024,9,0
+IL,Cass,UIC_2024,6,0
+IL,Champaign,UIC_2024,4,2
+IL,Christian,UIC_2024,5,1
+IL,Clark,UIC_2024,6,0
+IL,Clay,UIC_2024,9,0
+IL,Clinton,UIC_2024,1,2
+IL,Coles,UIC_2024,7,1
+IL,Cook,UIC_2024,1,2
+IL,Crawford,UIC_2024,6,0
+IL,Cumberland,UIC_2024,7,1
+IL,DeKalb,UIC_2024,1,2
+IL,De Witt,UIC_2024,6,0
+IL,Douglas,UIC_2024,6,0
+IL,DuPage,UIC_2024,1,2
+IL,Edgar,UIC_2024,6,0
+IL,Edwards,UIC_2024,9,0
+IL,Effingham,UIC_2024,7,1
+IL,Fayette,UIC_2024,3,1
+IL,Ford,UIC_2024,4,2
+IL,Franklin,UIC_2024,8,0
+IL,Fulton,UIC_2024,5,1
+IL,Gallatin,UIC_2024,6,0
+IL,Greene,UIC_2024,3,1
+IL,Grundy,UIC_2024,1,2
+IL,Hamilton,UIC_2024,9,0
+IL,Hancock,UIC_2024,9,0
+IL,Hardin,UIC_2024,9,0
+IL,Henderson,UIC_2024,7,1
+IL,Henry,UIC_2024,4,2
+IL,Iroquois,UIC_2024,3,1
+IL,Jackson,UIC_2024,7,1
+IL,Jasper,UIC_2024,9,0
+IL,Jefferson,UIC_2024,7,1
+IL,Jersey,UIC_2024,1,2
+IL,Jo Daviess,UIC_2024,6,0
+IL,Johnson,UIC_2024,6,0
+IL,Kane,UIC_2024,1,2
+IL,Kankakee,UIC_2024,4,2
+IL,Kendall,UIC_2024,1,2
+IL,Knox,UIC_2024,5,1
+IL,Lake,UIC_2024,1,2
+IL,La Salle,UIC_2024,2,1
+IL,Lawrence,UIC_2024,9,0
+IL,Lee,UIC_2024,2,1
+IL,Livingston,UIC_2024,2,1
+IL,Logan,UIC_2024,5,1
+IL,McDonough,UIC_2024,7,1
+IL,McHenry,UIC_2024,1,2
+IL,McLean,UIC_2024,4,2
+IL,Macon,UIC_2024,4,2
+IL,Macoupin,UIC_2024,1,2
+IL,Madison,UIC_2024,1,2
+IL,Marion,UIC_2024,7,1
+IL,Marshall,UIC_2024,4,2
+IL,Mason,UIC_2024,6,0
+IL,Massac,UIC_2024,4,2
+IL,Menard,UIC_2024,4,2
+IL,Mercer,UIC_2024,4,2
+IL,Monroe,UIC_2024,1,2
+IL,Montgomery,UIC_2024,3,1
+IL,Morgan,UIC_2024,5,1
+IL,Moultrie,UIC_2024,6,0
+IL,Ogle,UIC_2024,2,1
+IL,Peoria,UIC_2024,4,2
+IL,Perry,UIC_2024,8,0
+IL,Piatt,UIC_2024,4,2
+IL,Pike,UIC_2024,9,0
+IL,Pope,UIC_2024,6,0
+IL,Pulaski,UIC_2024,6,0
+IL,Putnam,UIC_2024,5,1
+IL,Randolph,UIC_2024,3,1
+IL,Richland,UIC_2024,8,0
+IL,Rock Island,UIC_2024,4,2
+IL,St. Clair,UIC_2024,1,2
+IL,Saline,UIC_2024,8,0
+IL,Sangamon,UIC_2024,4,2
+IL,Schuyler,UIC_2024,9,0
+IL,Scott,UIC_2024,7,1
+IL,Shelby,UIC_2024,6,0
+IL,Stark,UIC_2024,4,2
+IL,Stephenson,UIC_2024,5,1
+IL,Tazewell,UIC_2024,4,2
+IL,Union,UIC_2024,6,0
+IL,Vermilion,UIC_2024,5,1
+IL,Wabash,UIC_2024,8,0
+IL,Warren,UIC_2024,6,0
+IL,Washington,UIC_2024,3,1
+IL,Wayne,UIC_2024,9,0
+IL,White,UIC_2024,6,0
+IL,Whiteside,UIC_2024,5,1
+IL,Will,UIC_2024,1,2
+IL,Williamson,UIC_2024,7,1
+IL,Winnebago,UIC_2024,4,2
+IL,Woodford,UIC_2024,4,2
+IN,Adams,UIC_2024,5,1
+IN,Allen,UIC_2024,4,2
+IN,Bartholomew,UIC_2024,4,2
+IN,Benton,UIC_2024,4,2
+IN,Blackford,UIC_2024,6,0
+IN,Boone,UIC_2024,1,2
+IN,Brown,UIC_2024,1,2
+IN,Carroll,UIC_2024,4,2
+IN,Cass,UIC_2024,5,1
+IN,Clark,UIC_2024,1,2
+IN,Clay,UIC_2024,4,2
+IN,Clinton,UIC_2024,2,1
+IN,Crawford,UIC_2024,3,1
+IN,Daviess,UIC_2024,7,1
+IN,Dearborn,UIC_2024,1,2
+IN,Decatur,UIC_2024,2,1
+IN,DeKalb,UIC_2024,5,1
+IN,Delaware,UIC_2024,4,2
+IN,Dubois,UIC_2024,7,1
+IN,Elkhart,UIC_2024,4,2
+IN,Fayette,UIC_2024,2,1
+IN,Floyd,UIC_2024,1,2
+IN,Fountain,UIC_2024,6,0
+IN,Franklin,UIC_2024,1,2
+IN,Fulton,UIC_2024,8,0
+IN,Gibson,UIC_2024,6,0
+IN,Grant,UIC_2024,5,1
+IN,Greene,UIC_2024,6,0
+IN,Hamilton,UIC_2024,1,2
+IN,Hancock,UIC_2024,1,2
+IN,Harrison,UIC_2024,1,2
+IN,Hendricks,UIC_2024,1,2
+IN,Henry,UIC_2024,2,1
+IN,Howard,UIC_2024,4,2
+IN,Huntington,UIC_2024,5,1
+IN,Jackson,UIC_2024,5,1
+IN,Jasper,UIC_2024,1,2
+IN,Jay,UIC_2024,6,0
+IN,Jefferson,UIC_2024,2,1
+IN,Jennings,UIC_2024,6,0
+IN,Johnson,UIC_2024,1,2
+IN,Knox,UIC_2024,7,1
+IN,Kosciusko,UIC_2024,5,1
+IN,LaGrange,UIC_2024,6,0
+IN,Lake,UIC_2024,1,2
+IN,LaPorte,UIC_2024,4,2
+IN,Lawrence,UIC_2024,5,1
+IN,Madison,UIC_2024,1,2
+IN,Marion,UIC_2024,1,2
+IN,Marshall,UIC_2024,5,1
+IN,Martin,UIC_2024,9,0
+IN,Miami,UIC_2024,5,1
+IN,Monroe,UIC_2024,4,2
+IN,Montgomery,UIC_2024,2,1
+IN,Morgan,UIC_2024,1,2
+IN,Newton,UIC_2024,1,2
+IN,Noble,UIC_2024,5,1
+IN,Ohio,UIC_2024,1,2
+IN,Orange,UIC_2024,3,1
+IN,Owen,UIC_2024,4,2
+IN,Parke,UIC_2024,6,0
+IN,Perry,UIC_2024,8,0
+IN,Pike,UIC_2024,6,0
+IN,Porter,UIC_2024,1,2
+IN,Posey,UIC_2024,4,2
+IN,Pulaski,UIC_2024,3,1
+IN,Putnam,UIC_2024,2,1
+IN,Randolph,UIC_2024,6,0
+IN,Ripley,UIC_2024,3,1
+IN,Rush,UIC_2024,3,1
+IN,St. Joseph,UIC_2024,4,2
+IN,Scott,UIC_2024,3,1
+IN,Shelby,UIC_2024,1,2
+IN,Spencer,UIC_2024,6,0
+IN,Starke,UIC_2024,3,1
+IN,Steuben,UIC_2024,7,1
+IN,Sullivan,UIC_2024,4,2
+IN,Switzerland,UIC_2024,3,1
+IN,Tippecanoe,UIC_2024,4,2
+IN,Tipton,UIC_2024,1,2
+IN,Union,UIC_2024,3,1
+IN,Vanderburgh,UIC_2024,4,2
+IN,Vermillion,UIC_2024,4,2
+IN,Vigo,UIC_2024,4,2
+IN,Wabash,UIC_2024,5,1
+IN,Warren,UIC_2024,4,2
+IN,Warrick,UIC_2024,4,2
+IN,Washington,UIC_2024,1,2
+IN,Wayne,UIC_2024,7,1
+IN,Wells,UIC_2024,4,2
+IN,White,UIC_2024,5,1
+IN,Whitley,UIC_2024,4,2
+IA,Adair,UIC_2024,6,0
+IA,Adams,UIC_2024,9,0
+IA,Allamakee,UIC_2024,6,0
+IA,Appanoose,UIC_2024,8,0
+IA,Audubon,UIC_2024,9,0
+IA,Benton,UIC_2024,4,2
+IA,Black Hawk,UIC_2024,4,2
+IA,Boone,UIC_2024,4,2
+IA,Bremer,UIC_2024,4,2
+IA,Buchanan,UIC_2024,6,0
+IA,Buena Vista,UIC_2024,7,1
+IA,Butler,UIC_2024,6,0
+IA,Calhoun,UIC_2024,9,0
+IA,Carroll,UIC_2024,7,1
+IA,Cass,UIC_2024,6,0
+IA,Cedar,UIC_2024,6,0
+IA,Cerro Gordo,UIC_2024,7,1
+IA,Cherokee,UIC_2024,8,0
+IA,Chickasaw,UIC_2024,6,0
+IA,Clarke,UIC_2024,6,0
+IA,Clay,UIC_2024,7,1
+IA,Clayton,UIC_2024,6,0
+IA,Clinton,UIC_2024,5,1
+IA,Crawford,UIC_2024,8,0
+IA,Dallas,UIC_2024,4,2
+IA,Davis,UIC_2024,9,0
+IA,Decatur,UIC_2024,9,0
+IA,Delaware,UIC_2024,6,0
+IA,Des Moines,UIC_2024,7,1
+IA,Dickinson,UIC_2024,7,1
+IA,Dubuque,UIC_2024,4,2
+IA,Emmet,UIC_2024,8,0
+IA,Fayette,UIC_2024,6,0
+IA,Floyd,UIC_2024,8,0
+IA,Franklin,UIC_2024,9,0
+IA,Fremont,UIC_2024,6,0
+IA,Greene,UIC_2024,6,0
+IA,Grundy,UIC_2024,4,2
+IA,Guthrie,UIC_2024,4,2
+IA,Hamilton,UIC_2024,6,0
+IA,Hancock,UIC_2024,9,0
+IA,Hardin,UIC_2024,6,0
+IA,Harrison,UIC_2024,4,2
+IA,Henry,UIC_2024,6,0
+IA,Howard,UIC_2024,6,0
+IA,Humboldt,UIC_2024,9,0
+IA,Ida,UIC_2024,6,0
+IA,Iowa,UIC_2024,6,0
+IA,Jackson,UIC_2024,6,0
+IA,Jasper,UIC_2024,4,2
+IA,Jefferson,UIC_2024,8,0
+IA,Johnson,UIC_2024,4,2
+IA,Jones,UIC_2024,4,2
+IA,Keokuk,UIC_2024,6,0
+IA,Kossuth,UIC_2024,8,0
+IA,Lee,UIC_2024,7,1
+IA,Linn,UIC_2024,4,2
+IA,Louisa,UIC_2024,6,0
+IA,Lucas,UIC_2024,6,0
+IA,Lyon,UIC_2024,6,0
+IA,Madison,UIC_2024,4,2
+IA,Mahaska,UIC_2024,7,1
+IA,Marion,UIC_2024,5,1
+IA,Marshall,UIC_2024,5,1
+IA,Mills,UIC_2024,4,2
+IA,Mitchell,UIC_2024,9,0
+IA,Monona,UIC_2024,6,0
+IA,Monroe,UIC_2024,9,0
+IA,Montgomery,UIC_2024,6,0
+IA,Muscatine,UIC_2024,5,1
+IA,O'Brien,UIC_2024,8,0
+IA,Osceola,UIC_2024,9,0
+IA,Page,UIC_2024,6,0
+IA,Palo Alto,UIC_2024,9,0
+IA,Plymouth,UIC_2024,5,1
+IA,Pocahontas,UIC_2024,9,0
+IA,Polk,UIC_2024,4,2
+IA,Pottawattamie,UIC_2024,4,2
+IA,Poweshiek,UIC_2024,6,0
+IA,Ringgold,UIC_2024,9,0
+IA,Sac,UIC_2024,9,0
+IA,Scott,UIC_2024,4,2
+IA,Shelby,UIC_2024,6,0
+IA,Sioux,UIC_2024,6,0
+IA,Story,UIC_2024,4,2
+IA,Tama,UIC_2024,6,0
+IA,Taylor,UIC_2024,9,0
+IA,Union,UIC_2024,6,0
+IA,Van Buren,UIC_2024,9,0
+IA,Wapello,UIC_2024,7,1
+IA,Warren,UIC_2024,4,2
+IA,Washington,UIC_2024,4,2
+IA,Wayne,UIC_2024,9,0
+IA,Webster,UIC_2024,7,1
+IA,Winnebago,UIC_2024,9,0
+IA,Winneshiek,UIC_2024,8,0
+IA,Woodbury,UIC_2024,4,2
+IA,Worth,UIC_2024,7,1
+IA,Wright,UIC_2024,9,0
+KS,Allen,UIC_2024,8,0
+KS,Anderson,UIC_2024,3,1
+KS,Atchison,UIC_2024,2,1
+KS,Barber,UIC_2024,9,0
+KS,Barton,UIC_2024,7,1
+KS,Bourbon,UIC_2024,3,1
+KS,Brown,UIC_2024,6,0
+KS,Butler,UIC_2024,4,2
+KS,Chase,UIC_2024,5,1
+KS,Chautauqua,UIC_2024,9,0
+KS,Cherokee,UIC_2024,4,2
+KS,Cheyenne,UIC_2024,9,0
+KS,Clark,UIC_2024,9,0
+KS,Clay,UIC_2024,6,0
+KS,Cloud,UIC_2024,8,0
+KS,Coffey,UIC_2024,6,0
+KS,Comanche,UIC_2024,9,0
+KS,Cowley,UIC_2024,5,1
+KS,Crawford,UIC_2024,5,1
+KS,Decatur,UIC_2024,9,0
+KS,Dickinson,UIC_2024,6,0
+KS,Doniphan,UIC_2024,4,2
+KS,Douglas,UIC_2024,4,2
+KS,Edwards,UIC_2024,9,0
+KS,Elk,UIC_2024,6,0
+KS,Ellis,UIC_2024,7,1
+KS,Ellsworth,UIC_2024,9,0
+KS,Finney,UIC_2024,7,1
+KS,Ford,UIC_2024,7,1
+KS,Franklin,UIC_2024,2,1
+KS,Geary,UIC_2024,4,2
+KS,Gove,UIC_2024,9,0
+KS,Graham,UIC_2024,9,0
+KS,Grant,UIC_2024,8,0
+KS,Gray,UIC_2024,9,0
+KS,Greeley,UIC_2024,9,0
+KS,Greenwood,UIC_2024,6,0
+KS,Hamilton,UIC_2024,9,0
+KS,Harper,UIC_2024,6,0
+KS,Harvey,UIC_2024,4,2
+KS,Haskell,UIC_2024,9,0
+KS,Hodgeman,UIC_2024,9,0
+KS,Jackson,UIC_2024,4,2
+KS,Jefferson,UIC_2024,4,2
+KS,Jewell,UIC_2024,9,0
+KS,Johnson,UIC_2024,1,2
+KS,Kearny,UIC_2024,9,0
+KS,Kingman,UIC_2024,6,0
+KS,Kiowa,UIC_2024,9,0
+KS,Labette,UIC_2024,8,0
+KS,Lane,UIC_2024,9,0
+KS,Leavenworth,UIC_2024,1,2
+KS,Lincoln,UIC_2024,9,0
+KS,Linn,UIC_2024,1,2
+KS,Logan,UIC_2024,9,0
+KS,Lyon,UIC_2024,5,1
+KS,McPherson,UIC_2024,7,1
+KS,Marion,UIC_2024,6,0
+KS,Marshall,UIC_2024,6,0
+KS,Meade,UIC_2024,9,0
+KS,Miami,UIC_2024,1,2
+KS,Mitchell,UIC_2024,9,0
+KS,Montgomery,UIC_2024,8,0
+KS,Morris,UIC_2024,6,0
+KS,Morton,UIC_2024,9,0
+KS,Nemaha,UIC_2024,9,0
+KS,Neosho,UIC_2024,8,0
+KS,Ness,UIC_2024,9,0
+KS,Norton,UIC_2024,9,0
+KS,Osage,UIC_2024,4,2
+KS,Osborne,UIC_2024,9,0
+KS,Ottawa,UIC_2024,7,1
+KS,Pawnee,UIC_2024,9,0
+KS,Phillips,UIC_2024,9,0
+KS,Pottawatomie,UIC_2024,4,2
+KS,Pratt,UIC_2024,8,0
+KS,Rawlins,UIC_2024,9,0
+KS,Reno,UIC_2024,5,1
+KS,Republic,UIC_2024,9,0
+KS,Rice,UIC_2024,9,0
+KS,Riley,UIC_2024,4,2
+KS,Rooks,UIC_2024,9,0
+KS,Rush,UIC_2024,9,0
+KS,Russell,UIC_2024,9,0
+KS,Saline,UIC_2024,7,1
+KS,Scott,UIC_2024,9,0
+KS,Sedgwick,UIC_2024,4,2
+KS,Seward,UIC_2024,7,1
+KS,Shawnee,UIC_2024,4,2
+KS,Sheridan,UIC_2024,9,0
+KS,Sherman,UIC_2024,9,0
+KS,Smith,UIC_2024,9,0
+KS,Stafford,UIC_2024,9,0
+KS,Stanton,UIC_2024,9,0
+KS,Stevens,UIC_2024,9,0
+KS,Sumner,UIC_2024,4,2
+KS,Thomas,UIC_2024,8,0
+KS,Trego,UIC_2024,9,0
+KS,Wabaunsee,UIC_2024,4,2
+KS,Wallace,UIC_2024,9,0
+KS,Washington,UIC_2024,9,0
+KS,Wichita,UIC_2024,9,0
+KS,Wilson,UIC_2024,9,0
+KS,Woodson,UIC_2024,9,0
+KS,Wyandotte,UIC_2024,1,2
+KY,Adair,UIC_2024,9,0
+KY,Allen,UIC_2024,4,2
+KY,Anderson,UIC_2024,2,1
+KY,Ballard,UIC_2024,4,2
+KY,Barren,UIC_2024,5,1
+KY,Bath,UIC_2024,5,1
+KY,Bell,UIC_2024,7,1
+KY,Boone,UIC_2024,1,2
+KY,Bourbon,UIC_2024,4,2
+KY,Boyd,UIC_2024,4,2
+KY,Boyle,UIC_2024,7,1
+KY,Bracken,UIC_2024,1,2
+KY,Breathitt,UIC_2024,9,0
+KY,Breckinridge,UIC_2024,3,1
+KY,Bullitt,UIC_2024,1,2
+KY,Butler,UIC_2024,4,2
+KY,Caldwell,UIC_2024,8,0
+KY,Calloway,UIC_2024,7,1
+KY,Campbell,UIC_2024,1,2
+KY,Carlisle,UIC_2024,4,2
+KY,Carroll,UIC_2024,3,1
+KY,Carter,UIC_2024,4,2
+KY,Casey,UIC_2024,9,0
+KY,Christian,UIC_2024,4,2
+KY,Clark,UIC_2024,4,2
+KY,Clay,UIC_2024,7,1
+KY,Clinton,UIC_2024,9,0
+KY,Crittenden,UIC_2024,6,0
+KY,Cumberland,UIC_2024,9,0
+KY,Daviess,UIC_2024,4,2
+KY,Edmonson,UIC_2024,4,2
+KY,Elliott,UIC_2024,6,0
+KY,Estill,UIC_2024,5,1
+KY,Fayette,UIC_2024,4,2
+KY,Fleming,UIC_2024,9,0
+KY,Floyd,UIC_2024,7,1
+KY,Franklin,UIC_2024,2,1
+KY,Fulton,UIC_2024,9,0
+KY,Gallatin,UIC_2024,1,2
+KY,Garrard,UIC_2024,6,0
+KY,Grant,UIC_2024,1,2
+KY,Graves,UIC_2024,5,1
+KY,Grayson,UIC_2024,6,0
+KY,Green,UIC_2024,5,1
+KY,Greenup,UIC_2024,4,2
+KY,Hancock,UIC_2024,6,0
+KY,Hardin,UIC_2024,4,2
+KY,Harlan,UIC_2024,9,0
+KY,Harrison,UIC_2024,3,1
+KY,Hart,UIC_2024,6,0
+KY,Henderson,UIC_2024,5,1
+KY,Henry,UIC_2024,1,2
+KY,Hickman,UIC_2024,6,0
+KY,Hopkins,UIC_2024,7,1
+KY,Jackson,UIC_2024,9,0
+KY,Jefferson,UIC_2024,1,2
+KY,Jessamine,UIC_2024,4,2
+KY,Johnson,UIC_2024,9,0
+KY,Kenton,UIC_2024,1,2
+KY,Knott,UIC_2024,9,0
+KY,Knox,UIC_2024,7,1
+KY,Larue,UIC_2024,4,2
+KY,Laurel,UIC_2024,7,1
+KY,Lawrence,UIC_2024,4,2
+KY,Lee,UIC_2024,9,0
+KY,Leslie,UIC_2024,9,0
+KY,Letcher,UIC_2024,9,0
+KY,Lewis,UIC_2024,6,0
+KY,Lincoln,UIC_2024,7,1
+KY,Livingston,UIC_2024,4,2
+KY,Logan,UIC_2024,3,1
+KY,Lyon,UIC_2024,6,0
+KY,McCracken,UIC_2024,4,2
+KY,McCreary,UIC_2024,9,0
+KY,McLean,UIC_2024,4,2
+KY,Madison,UIC_2024,5,1
+KY,Magoffin,UIC_2024,9,0
+KY,Marion,UIC_2024,3,1
+KY,Marshall,UIC_2024,6,0
+KY,Martin,UIC_2024,6,0
+KY,Mason,UIC_2024,3,1
+KY,Meade,UIC_2024,1,2
+KY,Menifee,UIC_2024,7,1
+KY,Mercer,UIC_2024,6,0
+KY,Metcalfe,UIC_2024,7,1
+KY,Monroe,UIC_2024,6,0
+KY,Montgomery,UIC_2024,5,1
+KY,Morgan,UIC_2024,9,0
+KY,Muhlenberg,UIC_2024,6,0
+KY,Nelson,UIC_2024,1,2
+KY,Nicholas,UIC_2024,6,0
+KY,Ohio,UIC_2024,6,0
+KY,Oldham,UIC_2024,1,2
+KY,Owen,UIC_2024,3,1
+KY,Owsley,UIC_2024,9,0
+KY,Pendleton,UIC_2024,1,2
+KY,Perry,UIC_2024,8,0
+KY,Pike,UIC_2024,7,1
+KY,Powell,UIC_2024,6,0
+KY,Pulaski,UIC_2024,7,1
+KY,Robertson,UIC_2024,3,1
+KY,Rockcastle,UIC_2024,7,1
+KY,Rowan,UIC_2024,6,0
+KY,Russell,UIC_2024,9,0
+KY,Scott,UIC_2024,4,2
+KY,Shelby,UIC_2024,1,2
+KY,Simpson,UIC_2024,2,1
+KY,Spencer,UIC_2024,1,2
+KY,Taylor,UIC_2024,7,1
+KY,Todd,UIC_2024,6,0
+KY,Trigg,UIC_2024,4,2
+KY,Trimble,UIC_2024,3,1
+KY,Union,UIC_2024,6,0
+KY,Warren,UIC_2024,4,2
+KY,Washington,UIC_2024,3,1
+KY,Wayne,UIC_2024,8,0
+KY,Webster,UIC_2024,7,1
+KY,Whitley,UIC_2024,7,1
+KY,Wolfe,UIC_2024,9,0
+KY,Woodford,UIC_2024,4,2
+LA,Acadia Parish,UIC_2024,4,2
+LA,Allen Parish,UIC_2024,6,0
+LA,Ascension Parish,UIC_2024,4,2
+LA,Assumption Parish,UIC_2024,4,2
+LA,Avoyelles Parish,UIC_2024,6,0
+LA,Beauregard Parish,UIC_2024,5,1
+LA,Bienville Parish,UIC_2024,6,0
+LA,Bossier Parish,UIC_2024,4,2
+LA,Caddo Parish,UIC_2024,4,2
+LA,Calcasieu Parish,UIC_2024,4,2
+LA,Caldwell Parish,UIC_2024,6,0
+LA,Cameron Parish,UIC_2024,4,2
+LA,Catahoula Parish,UIC_2024,9,0
+LA,Claiborne Parish,UIC_2024,9,0
+LA,Concordia Parish,UIC_2024,5,1
+LA,De Soto Parish,UIC_2024,4,2
+LA,East Baton Rouge Parish,UIC_2024,4,2
+LA,East Carroll Parish,UIC_2024,6,0
+LA,East Feliciana Parish,UIC_2024,4,2
+LA,Evangeline Parish,UIC_2024,6,0
+LA,Franklin Parish,UIC_2024,6,0
+LA,Grant Parish,UIC_2024,4,2
+LA,Iberia Parish,UIC_2024,5,1
+LA,Iberville Parish,UIC_2024,4,2
+LA,Jackson Parish,UIC_2024,6,0
+LA,Jefferson Parish,UIC_2024,1,2
+LA,Jefferson Davis Parish,UIC_2024,4,2
+LA,Lafayette Parish,UIC_2024,4,2
+LA,Lafourche Parish,UIC_2024,4,2
+LA,La Salle Parish,UIC_2024,6,0
+LA,Lincoln Parish,UIC_2024,5,1
+LA,Livingston Parish,UIC_2024,4,2
+LA,Madison Parish,UIC_2024,6,0
+LA,Morehouse Parish,UIC_2024,4,2
+LA,Natchitoches Parish,UIC_2024,5,1
+LA,Orleans Parish,UIC_2024,1,2
+LA,Ouachita Parish,UIC_2024,4,2
+LA,Plaquemines Parish,UIC_2024,1,2
+LA,Pointe Coupee Parish,UIC_2024,4,2
+LA,Rapides Parish,UIC_2024,4,2
+LA,Red River Parish,UIC_2024,6,0
+LA,Richland Parish,UIC_2024,4,2
+LA,Sabine Parish,UIC_2024,6,0
+LA,St. Bernard Parish,UIC_2024,1,2
+LA,St. Charles Parish,UIC_2024,1,2
+LA,St. Helena Parish,UIC_2024,4,2
+LA,St. James Parish,UIC_2024,1,2
+LA,St. John the Baptist Parish,UIC_2024,1,2
+LA,St. Landry Parish,UIC_2024,5,1
+LA,St. Martin Parish,UIC_2024,4,2
+LA,St. Mary Parish,UIC_2024,5,1
+LA,St. Tammany Parish,UIC_2024,4,2
+LA,Tangipahoa Parish,UIC_2024,4,2
+LA,Tensas Parish,UIC_2024,9,0
+LA,Terrebonne Parish,UIC_2024,4,2
+LA,Union Parish,UIC_2024,4,2
+LA,Vermilion Parish,UIC_2024,4,2
+LA,Vernon Parish,UIC_2024,6,0
+LA,Washington Parish,UIC_2024,5,1
+LA,Webster Parish,UIC_2024,5,1
+LA,West Baton Rouge Parish,UIC_2024,4,2
+LA,West Carroll Parish,UIC_2024,6,0
+LA,West Feliciana Parish,UIC_2024,4,2
+LA,Winn Parish,UIC_2024,6,0
+ME,Androscoggin,UIC_2024,4,2
+ME,Aroostook,UIC_2024,8,0
+ME,Cumberland,UIC_2024,4,2
+ME,Franklin,UIC_2024,6,0
+ME,Hancock,UIC_2024,6,0
+ME,Kennebec,UIC_2024,5,1
+ME,Knox,UIC_2024,8,0
+ME,Lincoln,UIC_2024,6,0
+ME,Oxford,UIC_2024,6,0
+ME,Penobscot,UIC_2024,4,2
+ME,Piscataquis,UIC_2024,6,0
+ME,Sagadahoc,UIC_2024,4,2
+ME,Somerset,UIC_2024,6,0
+ME,Waldo,UIC_2024,6,0
+ME,Washington,UIC_2024,9,0
+ME,York,UIC_2024,4,2
+MD,Allegany,UIC_2024,5,1
+MD,Anne Arundel,UIC_2024,1,2
+MD,Baltimore,UIC_2024,1,2
+MD,Calvert,UIC_2024,4,2
+MD,Caroline,UIC_2024,3,1
+MD,Carroll,UIC_2024,1,2
+MD,Cecil,UIC_2024,1,2
+MD,Charles,UIC_2024,1,2
+MD,Dorchester,UIC_2024,5,1
+MD,Frederick,UIC_2024,1,2
+MD,Garrett,UIC_2024,6,0
+MD,Harford,UIC_2024,1,2
+MD,Howard,UIC_2024,1,2
+MD,Kent,UIC_2024,3,1
+MD,Montgomery,UIC_2024,1,2
+MD,Prince George's,UIC_2024,1,2
+MD,Queen Anne's,UIC_2024,1,2
+MD,St. Mary's,UIC_2024,4,2
+MD,Somerset,UIC_2024,4,2
+MD,Talbot,UIC_2024,2,1
+MD,Washington,UIC_2024,4,2
+MD,Wicomico,UIC_2024,4,2
+MD,Worcester,UIC_2024,5,1
+MD,Baltimore city,UIC_2024,1,2
+MA,Barnstable,UIC_2024,4,2
+MA,Berkshire,UIC_2024,4,2
+MA,Bristol,UIC_2024,1,2
+MA,Dukes,UIC_2024,7,1
+MA,Essex,UIC_2024,1,2
+MA,Franklin,UIC_2024,5,1
+MA,Hampden,UIC_2024,4,2
+MA,Hampshire,UIC_2024,4,2
+MA,Middlesex,UIC_2024,1,2
+MA,Nantucket,UIC_2024,7,1
+MA,Norfolk,UIC_2024,1,2
+MA,Plymouth,UIC_2024,1,2
+MA,Suffolk,UIC_2024,1,2
+MA,Worcester,UIC_2024,4,2
+MI,Alcona,UIC_2024,9,0
+MI,Alger,UIC_2024,9,0
+MI,Allegan,UIC_2024,2,1
+MI,Alpena,UIC_2024,7,1
+MI,Antrim,UIC_2024,6,0
+MI,Arenac,UIC_2024,6,0
+MI,Baraga,UIC_2024,9,0
+MI,Barry,UIC_2024,1,2
+MI,Bay,UIC_2024,4,2
+MI,Benzie,UIC_2024,4,2
+MI,Berrien,UIC_2024,4,2
+MI,Branch,UIC_2024,5,1
+MI,Calhoun,UIC_2024,4,2
+MI,Cass,UIC_2024,4,2
+MI,Charlevoix,UIC_2024,9,0
+MI,Cheboygan,UIC_2024,9,0
+MI,Chippewa,UIC_2024,7,1
+MI,Clare,UIC_2024,6,0
+MI,Clinton,UIC_2024,4,2
+MI,Crawford,UIC_2024,9,0
+MI,Delta,UIC_2024,7,1
+MI,Dickinson,UIC_2024,7,1
+MI,Eaton,UIC_2024,4,2
+MI,Emmet,UIC_2024,7,1
+MI,Genesee,UIC_2024,4,2
+MI,Gladwin,UIC_2024,6,0
+MI,Gogebic,UIC_2024,8,0
+MI,Grand Traverse,UIC_2024,4,2
+MI,Gratiot,UIC_2024,5,1
+MI,Hillsdale,UIC_2024,5,1
+MI,Houghton,UIC_2024,7,1
+MI,Huron,UIC_2024,9,0
+MI,Ingham,UIC_2024,4,2
+MI,Ionia,UIC_2024,1,2
+MI,Iosco,UIC_2024,9,0
+MI,Iron,UIC_2024,9,0
+MI,Isabella,UIC_2024,5,1
+MI,Jackson,UIC_2024,4,2
+MI,Kalamazoo,UIC_2024,4,2
+MI,Kalkaska,UIC_2024,4,2
+MI,Kent,UIC_2024,1,2
+MI,Keweenaw,UIC_2024,7,1
+MI,Lake,UIC_2024,9,0
+MI,Lapeer,UIC_2024,1,2
+MI,Leelanau,UIC_2024,4,2
+MI,Lenawee,UIC_2024,5,1
+MI,Livingston,UIC_2024,1,2
+MI,Luce,UIC_2024,9,0
+MI,Mackinac,UIC_2024,9,0
+MI,Macomb,UIC_2024,1,2
+MI,Manistee,UIC_2024,6,0
+MI,Marquette,UIC_2024,7,1
+MI,Mason,UIC_2024,7,1
+MI,Mecosta,UIC_2024,2,1
+MI,Menominee,UIC_2024,7,1
+MI,Midland,UIC_2024,4,2
+MI,Missaukee,UIC_2024,5,1
+MI,Monroe,UIC_2024,4,2
+MI,Montcalm,UIC_2024,1,2
+MI,Montmorency,UIC_2024,9,0
+MI,Muskegon,UIC_2024,4,2
+MI,Newaygo,UIC_2024,3,1
+MI,Oakland,UIC_2024,1,2
+MI,Oceana,UIC_2024,6,0
+MI,Ogemaw,UIC_2024,9,0
+MI,Ontonagon,UIC_2024,9,0
+MI,Osceola,UIC_2024,9,0
+MI,Oscoda,UIC_2024,9,0
+MI,Otsego,UIC_2024,9,0
+MI,Ottawa,UIC_2024,1,2
+MI,Presque Isle,UIC_2024,9,0
+MI,Roscommon,UIC_2024,8,0
+MI,Saginaw,UIC_2024,4,2
+MI,St. Clair,UIC_2024,1,2
+MI,St. Joseph,UIC_2024,5,1
+MI,Sanilac,UIC_2024,3,1
+MI,Schoolcraft,UIC_2024,9,0
+MI,Shiawassee,UIC_2024,2,1
+MI,Tuscola,UIC_2024,3,1
+MI,Van Buren,UIC_2024,6,0
+MI,Washtenaw,UIC_2024,4,2
+MI,Wayne,UIC_2024,1,2
+MI,Wexford,UIC_2024,5,1
+MN,Aitkin,UIC_2024,3,1
+MN,Anoka,UIC_2024,1,2
+MN,Becker,UIC_2024,5,1
+MN,Beltrami,UIC_2024,7,1
+MN,Benton,UIC_2024,4,2
+MN,Big Stone,UIC_2024,9,0
+MN,Blue Earth,UIC_2024,4,2
+MN,Brown,UIC_2024,5,1
+MN,Carlton,UIC_2024,4,2
+MN,Carver,UIC_2024,1,2
+MN,Cass,UIC_2024,7,1
+MN,Chippewa,UIC_2024,8,0
+MN,Chisago,UIC_2024,1,2
+MN,Clay,UIC_2024,4,2
+MN,Clearwater,UIC_2024,6,0
+MN,Cook,UIC_2024,9,0
+MN,Cottonwood,UIC_2024,9,0
+MN,Crow Wing,UIC_2024,2,1
+MN,Dakota,UIC_2024,1,2
+MN,Dodge,UIC_2024,4,2
+MN,Douglas,UIC_2024,5,1
+MN,Faribault,UIC_2024,6,0
+MN,Fillmore,UIC_2024,4,2
+MN,Freeborn,UIC_2024,7,1
+MN,Goodhue,UIC_2024,2,1
+MN,Grant,UIC_2024,9,0
+MN,Hennepin,UIC_2024,1,2
+MN,Houston,UIC_2024,4,2
+MN,Hubbard,UIC_2024,9,0
+MN,Isanti,UIC_2024,1,2
+MN,Itasca,UIC_2024,5,1
+MN,Jackson,UIC_2024,9,0
+MN,Kanabec,UIC_2024,3,1
+MN,Kandiyohi,UIC_2024,5,1
+MN,Kittson,UIC_2024,9,0
+MN,Koochiching,UIC_2024,8,0
+MN,Lac qui Parle,UIC_2024,9,0
+MN,Lake,UIC_2024,6,0
+MN,Lake of the Woods,UIC_2024,9,0
+MN,Le Sueur,UIC_2024,1,2
+MN,Lincoln,UIC_2024,9,0
+MN,Lyon,UIC_2024,7,1
+MN,McLeod,UIC_2024,2,1
+MN,Mahnomen,UIC_2024,6,0
+MN,Marshall,UIC_2024,6,0
+MN,Martin,UIC_2024,5,1
+MN,Meeker,UIC_2024,3,1
+MN,Mille Lacs,UIC_2024,1,2
+MN,Morrison,UIC_2024,3,1
+MN,Mower,UIC_2024,5,1
+MN,Murray,UIC_2024,9,0
+MN,Nicollet,UIC_2024,4,2
+MN,Nobles,UIC_2024,7,1
+MN,Norman,UIC_2024,6,0
+MN,Olmsted,UIC_2024,4,2
+MN,Otter Tail,UIC_2024,5,1
+MN,Pennington,UIC_2024,6,0
+MN,Pine,UIC_2024,3,1
+MN,Pipestone,UIC_2024,6,0
+MN,Polk,UIC_2024,4,2
+MN,Pope,UIC_2024,6,0
+MN,Ramsey,UIC_2024,1,2
+MN,Red Lake,UIC_2024,6,0
+MN,Redwood,UIC_2024,8,0
+MN,Renville,UIC_2024,9,0
+MN,Rice,UIC_2024,2,1
+MN,Rock,UIC_2024,4,2
+MN,Roseau,UIC_2024,9,0
+MN,St. Louis,UIC_2024,4,2
+MN,Scott,UIC_2024,1,2
+MN,Sherburne,UIC_2024,1,2
+MN,Sibley,UIC_2024,3,1
+MN,Stearns,UIC_2024,4,2
+MN,Steele,UIC_2024,7,1
+MN,Stevens,UIC_2024,8,0
+MN,Swift,UIC_2024,9,0
+MN,Todd,UIC_2024,6,0
+MN,Traverse,UIC_2024,9,0
+MN,Wabasha,UIC_2024,4,2
+MN,Wadena,UIC_2024,9,0
+MN,Waseca,UIC_2024,3,1
+MN,Washington,UIC_2024,1,2
+MN,Watonwan,UIC_2024,6,0
+MN,Wilkin,UIC_2024,5,1
+MN,Winona,UIC_2024,5,1
+MN,Wright,UIC_2024,1,2
+MN,Yellow Medicine,UIC_2024,9,0
+MS,Adams,UIC_2024,7,1
+MS,Alcorn,UIC_2024,7,1
+MS,Amite,UIC_2024,6,0
+MS,Attala,UIC_2024,6,0
+MS,Benton,UIC_2024,1,2
+MS,Bolivar,UIC_2024,7,1
+MS,Calhoun,UIC_2024,9,0
+MS,Carroll,UIC_2024,5,1
+MS,Chickasaw,UIC_2024,9,0
+MS,Choctaw,UIC_2024,9,0
+MS,Claiborne,UIC_2024,6,0
+MS,Clarke,UIC_2024,7,1
+MS,Clay,UIC_2024,8,0
+MS,Coahoma,UIC_2024,2,1
+MS,Copiah,UIC_2024,4,2
+MS,Covington,UIC_2024,6,0
+MS,DeSoto,UIC_2024,1,2
+MS,Forrest,UIC_2024,4,2
+MS,Franklin,UIC_2024,9,0
+MS,George,UIC_2024,6,0
+MS,Greene,UIC_2024,6,0
+MS,Grenada,UIC_2024,7,1
+MS,Hancock,UIC_2024,4,2
+MS,Harrison,UIC_2024,4,2
+MS,Hinds,UIC_2024,4,2
+MS,Holmes,UIC_2024,4,2
+MS,Humphreys,UIC_2024,6,0
+MS,Issaquena,UIC_2024,9,0
+MS,Itawamba,UIC_2024,7,1
+MS,Jackson,UIC_2024,4,2
+MS,Jasper,UIC_2024,5,1
+MS,Jefferson,UIC_2024,7,1
+MS,Jefferson Davis,UIC_2024,6,0
+MS,Jones,UIC_2024,5,1
+MS,Kemper,UIC_2024,9,0
+MS,Lafayette,UIC_2024,2,1
+MS,Lamar,UIC_2024,4,2
+MS,Lauderdale,UIC_2024,7,1
+MS,Lawrence,UIC_2024,6,0
+MS,Leake,UIC_2024,6,0
+MS,Lee,UIC_2024,7,1
+MS,Leflore,UIC_2024,5,1
+MS,Lincoln,UIC_2024,5,1
+MS,Lowndes,UIC_2024,7,1
+MS,Madison,UIC_2024,4,2
+MS,Marion,UIC_2024,6,0
+MS,Marshall,UIC_2024,1,2
+MS,Monroe,UIC_2024,8,0
+MS,Montgomery,UIC_2024,7,1
+MS,Neshoba,UIC_2024,8,0
+MS,Newton,UIC_2024,6,0
+MS,Noxubee,UIC_2024,7,1
+MS,Oktibbeha,UIC_2024,7,1
+MS,Panola,UIC_2024,3,1
+MS,Pearl River,UIC_2024,5,1
+MS,Perry,UIC_2024,4,2
+MS,Pike,UIC_2024,5,1
+MS,Pontotoc,UIC_2024,8,0
+MS,Prentiss,UIC_2024,7,1
+MS,Quitman,UIC_2024,3,1
+MS,Rankin,UIC_2024,4,2
+MS,Scott,UIC_2024,4,2
+MS,Sharkey,UIC_2024,6,0
+MS,Simpson,UIC_2024,4,2
+MS,Smith,UIC_2024,6,0
+MS,Stone,UIC_2024,4,2
+MS,Sunflower,UIC_2024,8,0
+MS,Tallahatchie,UIC_2024,9,0
+MS,Tate,UIC_2024,1,2
+MS,Tippah,UIC_2024,3,1
+MS,Tishomingo,UIC_2024,6,0
+MS,Tunica,UIC_2024,1,2
+MS,Union,UIC_2024,8,0
+MS,Walthall,UIC_2024,7,1
+MS,Warren,UIC_2024,5,1
+MS,Washington,UIC_2024,7,1
+MS,Wayne,UIC_2024,9,0
+MS,Webster,UIC_2024,7,1
+MS,Wilkinson,UIC_2024,6,0
+MS,Winston,UIC_2024,8,0
+MS,Yalobusha,UIC_2024,7,1
+MS,Yazoo,UIC_2024,4,2
+MO,Adair,UIC_2024,7,1
+MO,Andrew,UIC_2024,4,2
+MO,Atchison,UIC_2024,9,0
+MO,Audrain,UIC_2024,5,1
+MO,Barry,UIC_2024,6,0
+MO,Barton,UIC_2024,6,0
+MO,Bates,UIC_2024,1,2
+MO,Benton,UIC_2024,9,0
+MO,Bollinger,UIC_2024,4,2
+MO,Boone,UIC_2024,4,2
+MO,Buchanan,UIC_2024,4,2
+MO,Butler,UIC_2024,7,1
+MO,Caldwell,UIC_2024,1,2
+MO,Callaway,UIC_2024,4,2
+MO,Camden,UIC_2024,9,0
+MO,Cape Girardeau,UIC_2024,4,2
+MO,Carroll,UIC_2024,3,1
+MO,Carter,UIC_2024,9,0
+MO,Cass,UIC_2024,1,2
+MO,Cedar,UIC_2024,6,0
+MO,Chariton,UIC_2024,6,0
+MO,Christian,UIC_2024,4,2
+MO,Clark,UIC_2024,9,0
+MO,Clay,UIC_2024,1,2
+MO,Clinton,UIC_2024,1,2
+MO,Cole,UIC_2024,4,2
+MO,Cooper,UIC_2024,4,2
+MO,Crawford,UIC_2024,3,1
+MO,Dade,UIC_2024,6,0
+MO,Dallas,UIC_2024,4,2
+MO,Daviess,UIC_2024,3,1
+MO,DeKalb,UIC_2024,4,2
+MO,Dent,UIC_2024,9,0
+MO,Douglas,UIC_2024,6,0
+MO,Dunklin,UIC_2024,7,1
+MO,Franklin,UIC_2024,1,2
+MO,Gasconade,UIC_2024,3,1
+MO,Gentry,UIC_2024,6,0
+MO,Greene,UIC_2024,4,2
+MO,Grundy,UIC_2024,8,0
+MO,Harrison,UIC_2024,9,0
+MO,Henry,UIC_2024,3,1
+MO,Hickory,UIC_2024,6,0
+MO,Holt,UIC_2024,6,0
+MO,Howard,UIC_2024,4,2
+MO,Howell,UIC_2024,7,1
+MO,Iron,UIC_2024,9,0
+MO,Jackson,UIC_2024,1,2
+MO,Jasper,UIC_2024,4,2
+MO,Jefferson,UIC_2024,1,2
+MO,Johnson,UIC_2024,2,1
+MO,Knox,UIC_2024,9,0
+MO,Laclede,UIC_2024,5,1
+MO,Lafayette,UIC_2024,1,2
+MO,Lawrence,UIC_2024,6,0
+MO,Lewis,UIC_2024,7,1
+MO,Lincoln,UIC_2024,1,2
+MO,Linn,UIC_2024,9,0
+MO,Livingston,UIC_2024,8,0
+MO,McDonald,UIC_2024,6,0
+MO,Macon,UIC_2024,8,0
+MO,Madison,UIC_2024,9,0
+MO,Maries,UIC_2024,6,0
+MO,Marion,UIC_2024,7,1
+MO,Mercer,UIC_2024,9,0
+MO,Miller,UIC_2024,6,0
+MO,Mississippi,UIC_2024,5,1
+MO,Moniteau,UIC_2024,4,2
+MO,Monroe,UIC_2024,9,0
+MO,Montgomery,UIC_2024,3,1
+MO,Morgan,UIC_2024,6,0
+MO,New Madrid,UIC_2024,8,0
+MO,Newton,UIC_2024,4,2
+MO,Nodaway,UIC_2024,5,1
+MO,Oregon,UIC_2024,9,0
+MO,Osage,UIC_2024,4,2
+MO,Ozark,UIC_2024,9,0
+MO,Pemiscot,UIC_2024,8,0
+MO,Perry,UIC_2024,6,0
+MO,Pettis,UIC_2024,7,1
+MO,Phelps,UIC_2024,7,1
+MO,Pike,UIC_2024,3,1
+MO,Platte,UIC_2024,1,2
+MO,Polk,UIC_2024,4,2
+MO,Pulaski,UIC_2024,7,1
+MO,Putnam,UIC_2024,9,0
+MO,Ralls,UIC_2024,7,1
+MO,Randolph,UIC_2024,5,1
+MO,Ray,UIC_2024,1,2
+MO,Reynolds,UIC_2024,9,0
+MO,Ripley,UIC_2024,9,0
+MO,St. Charles,UIC_2024,1,2
+MO,St. Clair,UIC_2024,3,1
+MO,Ste. Genevieve,UIC_2024,3,1
+MO,St. Francois,UIC_2024,2,1
+MO,St. Louis,UIC_2024,1,2
+MO,Saline,UIC_2024,7,1
+MO,Schuyler,UIC_2024,7,1
+MO,Scotland,UIC_2024,9,0
+MO,Scott,UIC_2024,5,1
+MO,Shannon,UIC_2024,9,0
+MO,Shelby,UIC_2024,9,0
+MO,Stoddard,UIC_2024,6,0
+MO,Stone,UIC_2024,6,0
+MO,Sullivan,UIC_2024,9,0
+MO,Taney,UIC_2024,5,1
+MO,Texas,UIC_2024,9,0
+MO,Vernon,UIC_2024,3,1
+MO,Warren,UIC_2024,1,2
+MO,Washington,UIC_2024,3,1
+MO,Wayne,UIC_2024,9,0
+MO,Webster,UIC_2024,4,2
+MO,Worth,UIC_2024,9,0
+MO,Wright,UIC_2024,6,0
+MO,St. Louis city,UIC_2024,1,2
+MT,Beaverhead,UIC_2024,9,0
+MT,Big Horn,UIC_2024,6,0
+MT,Blaine,UIC_2024,9,0
+MT,Broadwater,UIC_2024,4,2
+MT,Carbon,UIC_2024,4,2
+MT,Carter,UIC_2024,9,0
+MT,Cascade,UIC_2024,4,2
+MT,Chouteau,UIC_2024,6,0
+MT,Custer,UIC_2024,8,0
+MT,Daniels,UIC_2024,9,0
+MT,Dawson,UIC_2024,9,0
+MT,Deer Lodge,UIC_2024,8,0
+MT,Fallon,UIC_2024,9,0
+MT,Fergus,UIC_2024,8,0
+MT,Flathead,UIC_2024,7,1
+MT,Gallatin,UIC_2024,4,2
+MT,Garfield,UIC_2024,9,0
+MT,Glacier,UIC_2024,9,0
+MT,Golden Valley,UIC_2024,6,0
+MT,Granite,UIC_2024,6,0
+MT,Hill,UIC_2024,8,0
+MT,Jefferson,UIC_2024,4,2
+MT,Judith Basin,UIC_2024,6,0
+MT,Lake,UIC_2024,6,0
+MT,Lewis and Clark,UIC_2024,4,2
+MT,Liberty,UIC_2024,9,0
+MT,Lincoln,UIC_2024,9,0
+MT,McCone,UIC_2024,9,0
+MT,Madison,UIC_2024,6,0
+MT,Meagher,UIC_2024,6,0
+MT,Mineral,UIC_2024,4,2
+MT,Missoula,UIC_2024,4,2
+MT,Musselshell,UIC_2024,6,0
+MT,Park,UIC_2024,6,0
+MT,Petroleum,UIC_2024,9,0
+MT,Phillips,UIC_2024,9,0
+MT,Pondera,UIC_2024,9,0
+MT,Powder River,UIC_2024,9,0
+MT,Powell,UIC_2024,6,0
+MT,Prairie,UIC_2024,9,0
+MT,Ravalli,UIC_2024,6,0
+MT,Richland,UIC_2024,8,0
+MT,Roosevelt,UIC_2024,9,0
+MT,Rosebud,UIC_2024,6,0
+MT,Sanders,UIC_2024,6,0
+MT,Sheridan,UIC_2024,9,0
+MT,Silver Bow,UIC_2024,7,1
+MT,Stillwater,UIC_2024,4,2
+MT,Sweet Grass,UIC_2024,6,0
+MT,Teton,UIC_2024,6,0
+MT,Toole,UIC_2024,9,0
+MT,Treasure,UIC_2024,6,0
+MT,Valley,UIC_2024,9,0
+MT,Wheatland,UIC_2024,9,0
+MT,Wibaux,UIC_2024,9,0
+MT,Yellowstone,UIC_2024,4,2
+NE,Adams,UIC_2024,5,1
+NE,Antelope,UIC_2024,9,0
+NE,Arthur,UIC_2024,9,0
+NE,Banner,UIC_2024,5,1
+NE,Blaine,UIC_2024,9,0
+NE,Boone,UIC_2024,9,0
+NE,Box Butte,UIC_2024,8,0
+NE,Boyd,UIC_2024,9,0
+NE,Brown,UIC_2024,9,0
+NE,Buffalo,UIC_2024,5,1
+NE,Burt,UIC_2024,6,0
+NE,Butler,UIC_2024,6,0
+NE,Cass,UIC_2024,4,2
+NE,Cedar,UIC_2024,9,0
+NE,Chase,UIC_2024,9,0
+NE,Cherry,UIC_2024,9,0
+NE,Cheyenne,UIC_2024,8,0
+NE,Clay,UIC_2024,7,1
+NE,Colfax,UIC_2024,7,1
+NE,Cuming,UIC_2024,9,0
+NE,Custer,UIC_2024,9,0
+NE,Dakota,UIC_2024,4,2
+NE,Dawes,UIC_2024,8,0
+NE,Dawson,UIC_2024,7,1
+NE,Deuel,UIC_2024,9,0
+NE,Dixon,UIC_2024,6,0
+NE,Dodge,UIC_2024,5,1
+NE,Douglas,UIC_2024,4,2
+NE,Dundy,UIC_2024,9,0
+NE,Fillmore,UIC_2024,6,0
+NE,Franklin,UIC_2024,9,0
+NE,Frontier,UIC_2024,9,0
+NE,Furnas,UIC_2024,9,0
+NE,Gage,UIC_2024,5,1
+NE,Garden,UIC_2024,9,0
+NE,Garfield,UIC_2024,9,0
+NE,Gosper,UIC_2024,7,1
+NE,Grant,UIC_2024,9,0
+NE,Greeley,UIC_2024,6,0
+NE,Hall,UIC_2024,4,2
+NE,Hamilton,UIC_2024,6,0
+NE,Harlan,UIC_2024,9,0
+NE,Hayes,UIC_2024,9,0
+NE,Hitchcock,UIC_2024,9,0
+NE,Holt,UIC_2024,9,0
+NE,Hooker,UIC_2024,9,0
+NE,Howard,UIC_2024,4,2
+NE,Jefferson,UIC_2024,9,0
+NE,Johnson,UIC_2024,6,0
+NE,Kearney,UIC_2024,7,1
+NE,Keith,UIC_2024,9,0
+NE,Keya Paha,UIC_2024,9,0
+NE,Kimball,UIC_2024,6,0
+NE,Knox,UIC_2024,9,0
+NE,Lancaster,UIC_2024,4,2
+NE,Lincoln,UIC_2024,7,1
+NE,Logan,UIC_2024,7,1
+NE,Loup,UIC_2024,9,0
+NE,McPherson,UIC_2024,9,0
+NE,Madison,UIC_2024,7,1
+NE,Merrick,UIC_2024,4,2
+NE,Morrill,UIC_2024,9,0
+NE,Nance,UIC_2024,6,0
+NE,Nemaha,UIC_2024,9,0
+NE,Nuckolls,UIC_2024,9,0
+NE,Otoe,UIC_2024,6,0
+NE,Pawnee,UIC_2024,9,0
+NE,Perkins,UIC_2024,9,0
+NE,Phelps,UIC_2024,8,0
+NE,Pierce,UIC_2024,7,1
+NE,Platte,UIC_2024,7,1
+NE,Polk,UIC_2024,6,0
+NE,Red Willow,UIC_2024,8,0
+NE,Richardson,UIC_2024,9,0
+NE,Rock,UIC_2024,9,0
+NE,Saline,UIC_2024,6,0
+NE,Sarpy,UIC_2024,4,2
+NE,Saunders,UIC_2024,4,2
+NE,Scotts Bluff,UIC_2024,7,1
+NE,Seward,UIC_2024,4,2
+NE,Sheridan,UIC_2024,9,0
+NE,Sherman,UIC_2024,6,0
+NE,Sioux,UIC_2024,9,0
+NE,Stanton,UIC_2024,7,1
+NE,Thayer,UIC_2024,9,0
+NE,Thomas,UIC_2024,9,0
+NE,Thurston,UIC_2024,6,0
+NE,Valley,UIC_2024,9,0
+NE,Washington,UIC_2024,4,2
+NE,Wayne,UIC_2024,8,0
+NE,Webster,UIC_2024,7,1
+NE,Wheeler,UIC_2024,9,0
+NE,York,UIC_2024,6,0
+NV,Churchill,UIC_2024,5,1
+NV,Clark,UIC_2024,1,2
+NV,Douglas,UIC_2024,2,1
+NV,Elko,UIC_2024,7,1
+NV,Esmeralda,UIC_2024,9,0
+NV,Eureka,UIC_2024,7,1
+NV,Humboldt,UIC_2024,7,1
+NV,Lander,UIC_2024,9,0
+NV,Lincoln,UIC_2024,3,1
+NV,Lyon,UIC_2024,4,2
+NV,Mineral,UIC_2024,6,0
+NV,Nye,UIC_2024,2,1
+NV,Pershing,UIC_2024,6,0
+NV,Storey,UIC_2024,4,2
+NV,Washoe,UIC_2024,4,2
+NV,White Pine,UIC_2024,9,0
+NV,Carson City,UIC_2024,4,2
+NH,Belknap,UIC_2024,2,1
+NH,Carroll,UIC_2024,3,1
+NH,Cheshire,UIC_2024,5,1
+NH,Coos,UIC_2024,8,0
+NH,Grafton,UIC_2024,7,1
+NH,Hillsborough,UIC_2024,4,2
+NH,Merrimack,UIC_2024,2,1
+NH,Rockingham,UIC_2024,1,2
+NH,Strafford,UIC_2024,1,2
+NH,Sullivan,UIC_2024,7,1
+NJ,Atlantic,UIC_2024,4,2
+NJ,Bergen,UIC_2024,1,2
+NJ,Burlington,UIC_2024,1,2
+NJ,Camden,UIC_2024,1,2
+NJ,Cape May,UIC_2024,4,2
+NJ,Cumberland,UIC_2024,4,2
+NJ,Essex,UIC_2024,1,2
+NJ,Gloucester,UIC_2024,1,2
+NJ,Hudson,UIC_2024,1,2
+NJ,Hunterdon,UIC_2024,1,2
+NJ,Mercer,UIC_2024,4,2
+NJ,Middlesex,UIC_2024,1,2
+NJ,Monmouth,UIC_2024,1,2
+NJ,Morris,UIC_2024,1,2
+NJ,Ocean,UIC_2024,1,2
+NJ,Passaic,UIC_2024,1,2
+NJ,Salem,UIC_2024,1,2
+NJ,Somerset,UIC_2024,1,2
+NJ,Sussex,UIC_2024,1,2
+NJ,Union,UIC_2024,1,2
+NJ,Warren,UIC_2024,4,2
+NM,Bernalillo,UIC_2024,4,2
+NM,Catron,UIC_2024,9,0
+NM,Chaves,UIC_2024,7,1
+NM,Cibola,UIC_2024,6,0
+NM,Colfax,UIC_2024,8,0
+NM,Curry,UIC_2024,7,1
+NM,De Baca,UIC_2024,9,0
+NM,Dona Ana,UIC_2024,4,2
+NM,Eddy,UIC_2024,7,1
+NM,Grant,UIC_2024,7,1
+NM,Guadalupe,UIC_2024,9,0
+NM,Harding,UIC_2024,9,0
+NM,Hidalgo,UIC_2024,9,0
+NM,Lea,UIC_2024,7,1
+NM,Lincoln,UIC_2024,7,1
+NM,Los Alamos,UIC_2024,5,1
+NM,Luna,UIC_2024,5,1
+NM,McKinley,UIC_2024,7,1
+NM,Mora,UIC_2024,5,1
+NM,Otero,UIC_2024,5,1
+NM,Quay,UIC_2024,8,0
+NM,Rio Arriba,UIC_2024,5,1
+NM,Roosevelt,UIC_2024,7,1
+NM,Sandoval,UIC_2024,4,2
+NM,San Juan,UIC_2024,4,2
+NM,San Miguel,UIC_2024,5,1
+NM,Santa Fe,UIC_2024,4,2
+NM,Sierra,UIC_2024,6,0
+NM,Socorro,UIC_2024,6,0
+NM,Taos,UIC_2024,7,1
+NM,Torrance,UIC_2024,4,2
+NM,Union,UIC_2024,9,0
+NM,Valencia,UIC_2024,4,2
+NY,Albany,UIC_2024,4,2
+NY,Allegany,UIC_2024,9,0
+NY,Bronx,UIC_2024,1,2
+NY,Broome,UIC_2024,4,2
+NY,Cattaraugus,UIC_2024,2,1
+NY,Cayuga,UIC_2024,5,1
+NY,Chautauqua,UIC_2024,2,1
+NY,Chemung,UIC_2024,4,2
+NY,Chenango,UIC_2024,6,0
+NY,Clinton,UIC_2024,5,1
+NY,Columbia,UIC_2024,5,1
+NY,Cortland,UIC_2024,5,1
+NY,Delaware,UIC_2024,6,0
+NY,Dutchess,UIC_2024,4,2
+NY,Erie,UIC_2024,1,2
+NY,Essex,UIC_2024,6,0
+NY,Franklin,UIC_2024,8,0
+NY,Fulton,UIC_2024,5,1
+NY,Genesee,UIC_2024,2,1
+NY,Greene,UIC_2024,6,0
+NY,Hamilton,UIC_2024,6,0
+NY,Herkimer,UIC_2024,4,2
+NY,Jefferson,UIC_2024,4,2
+NY,Kings,UIC_2024,1,2
+NY,Lewis,UIC_2024,6,0
+NY,Livingston,UIC_2024,1,2
+NY,Madison,UIC_2024,4,2
+NY,Monroe,UIC_2024,1,2
+NY,Montgomery,UIC_2024,5,1
+NY,Nassau,UIC_2024,1,2
+NY,New York,UIC_2024,1,2
+NY,Niagara,UIC_2024,1,2
+NY,Oneida,UIC_2024,4,2
+NY,Onondaga,UIC_2024,4,2
+NY,Ontario,UIC_2024,1,2
+NY,Orange,UIC_2024,4,2
+NY,Orleans,UIC_2024,1,2
+NY,Oswego,UIC_2024,4,2
+NY,Otsego,UIC_2024,7,1
+NY,Putnam,UIC_2024,1,2
+NY,Queens,UIC_2024,1,2
+NY,Rensselaer,UIC_2024,4,2
+NY,Richmond,UIC_2024,1,2
+NY,Rockland,UIC_2024,1,2
+NY,St. Lawrence,UIC_2024,5,1
+NY,Saratoga,UIC_2024,4,2
+NY,Schenectady,UIC_2024,4,2
+NY,Schoharie,UIC_2024,4,2
+NY,Schuyler,UIC_2024,6,0
+NY,Seneca,UIC_2024,2,1
+NY,Steuben,UIC_2024,2,1
+NY,Suffolk,UIC_2024,1,2
+NY,Sullivan,UIC_2024,5,1
+NY,Tioga,UIC_2024,4,2
+NY,Tompkins,UIC_2024,4,2
+NY,Ulster,UIC_2024,4,2
+NY,Warren,UIC_2024,4,2
+NY,Washington,UIC_2024,4,2
+NY,Wayne,UIC_2024,1,2
+NY,Westchester,UIC_2024,1,2
+NY,Wyoming,UIC_2024,3,1
+NY,Yates,UIC_2024,3,1
+NC,Alamance,UIC_2024,4,2
+NC,Alexander,UIC_2024,4,2
+NC,Alleghany,UIC_2024,9,0
+NC,Anson,UIC_2024,1,2
+NC,Ashe,UIC_2024,9,0
+NC,Avery,UIC_2024,9,0
+NC,Beaufort,UIC_2024,5,1
+NC,Bertie,UIC_2024,9,0
+NC,Bladen,UIC_2024,6,0
+NC,Brunswick,UIC_2024,4,2
+NC,Buncombe,UIC_2024,4,2
+NC,Burke,UIC_2024,4,2
+NC,Cabarrus,UIC_2024,1,2
+NC,Caldwell,UIC_2024,4,2
+NC,Camden,UIC_2024,1,2
+NC,Carteret,UIC_2024,5,1
+NC,Caswell,UIC_2024,6,0
+NC,Catawba,UIC_2024,4,2
+NC,Chatham,UIC_2024,4,2
+NC,Cherokee,UIC_2024,9,0
+NC,Chowan,UIC_2024,3,1
+NC,Clay,UIC_2024,9,0
+NC,Cleveland,UIC_2024,2,1
+NC,Columbus,UIC_2024,6,0
+NC,Craven,UIC_2024,5,1
+NC,Cumberland,UIC_2024,4,2
+NC,Currituck,UIC_2024,1,2
+NC,Dare,UIC_2024,2,1
+NC,Davidson,UIC_2024,4,2
+NC,Davie,UIC_2024,4,2
+NC,Duplin,UIC_2024,6,0
+NC,Durham,UIC_2024,4,2
+NC,Edgecombe,UIC_2024,4,2
+NC,Forsyth,UIC_2024,4,2
+NC,Franklin,UIC_2024,1,2
+NC,Gaston,UIC_2024,1,2
+NC,Gates,UIC_2024,1,2
+NC,Graham,UIC_2024,9,0
+NC,Granville,UIC_2024,3,1
+NC,Greene,UIC_2024,6,0
+NC,Guilford,UIC_2024,4,2
+NC,Halifax,UIC_2024,5,1
+NC,Harnett,UIC_2024,2,1
+NC,Haywood,UIC_2024,5,1
+NC,Henderson,UIC_2024,4,2
+NC,Hertford,UIC_2024,3,1
+NC,Hoke,UIC_2024,4,2
+NC,Hyde,UIC_2024,9,0
+NC,Iredell,UIC_2024,1,2
+NC,Jackson,UIC_2024,8,0
+NC,Johnston,UIC_2024,1,2
+NC,Jones,UIC_2024,5,1
+NC,Lee,UIC_2024,5,1
+NC,Lenoir,UIC_2024,5,1
+NC,Lincoln,UIC_2024,1,2
+NC,McDowell,UIC_2024,5,1
+NC,Macon,UIC_2024,9,0
+NC,Madison,UIC_2024,4,2
+NC,Martin,UIC_2024,6,0
+NC,Mecklenburg,UIC_2024,1,2
+NC,Mitchell,UIC_2024,6,0
+NC,Montgomery,UIC_2024,6,0
+NC,Moore,UIC_2024,4,2
+NC,Nash,UIC_2024,4,2
+NC,New Hanover,UIC_2024,4,2
+NC,Northampton,UIC_2024,7,1
+NC,Onslow,UIC_2024,4,2
+NC,Orange,UIC_2024,4,2
+NC,Pamlico,UIC_2024,7,1
+NC,Pasquotank,UIC_2024,2,1
+NC,Pender,UIC_2024,4,2
+NC,Perquimans,UIC_2024,3,1
+NC,Person,UIC_2024,4,2
+NC,Pitt,UIC_2024,4,2
+NC,Polk,UIC_2024,6,0
+NC,Randolph,UIC_2024,4,2
+NC,Richmond,UIC_2024,2,1
+NC,Robeson,UIC_2024,5,1
+NC,Rockingham,UIC_2024,4,2
+NC,Rowan,UIC_2024,1,2
+NC,Rutherford,UIC_2024,5,1
+NC,Sampson,UIC_2024,3,1
+NC,Scotland,UIC_2024,5,1
+NC,Stanly,UIC_2024,2,1
+NC,Stokes,UIC_2024,4,2
+NC,Surry,UIC_2024,5,1
+NC,Swain,UIC_2024,9,0
+NC,Transylvania,UIC_2024,5,1
+NC,Tyrrell,UIC_2024,9,0
+NC,Union,UIC_2024,1,2
+NC,Vance,UIC_2024,2,1
+NC,Wake,UIC_2024,1,2
+NC,Warren,UIC_2024,3,1
+NC,Washington,UIC_2024,9,0
+NC,Watauga,UIC_2024,7,1
+NC,Wayne,UIC_2024,4,2
+NC,Wilkes,UIC_2024,2,1
+NC,Wilson,UIC_2024,2,1
+NC,Yadkin,UIC_2024,4,2
+NC,Yancey,UIC_2024,6,0
+ND,Adams,UIC_2024,9,0
+ND,Barnes,UIC_2024,6,0
+ND,Benson,UIC_2024,9,0
+ND,Billings,UIC_2024,7,1
+ND,Bottineau,UIC_2024,6,0
+ND,Bowman,UIC_2024,9,0
+ND,Burke,UIC_2024,6,0
+ND,Burleigh,UIC_2024,4,2
+ND,Cass,UIC_2024,4,2
+ND,Cavalier,UIC_2024,9,0
+ND,Dickey,UIC_2024,9,0
+ND,Divide,UIC_2024,9,0
+ND,Dunn,UIC_2024,7,1
+ND,Eddy,UIC_2024,9,0
+ND,Emmons,UIC_2024,6,0
+ND,Foster,UIC_2024,9,0
+ND,Golden Valley,UIC_2024,9,0
+ND,Grand Forks,UIC_2024,4,2
+ND,Grant,UIC_2024,6,0
+ND,Griggs,UIC_2024,9,0
+ND,Hettinger,UIC_2024,9,0
+ND,Kidder,UIC_2024,6,0
+ND,LaMoure,UIC_2024,9,0
+ND,Logan,UIC_2024,9,0
+ND,McHenry,UIC_2024,4,2
+ND,McIntosh,UIC_2024,9,0
+ND,McKenzie,UIC_2024,8,0
+ND,McLean,UIC_2024,6,0
+ND,Mercer,UIC_2024,6,0
+ND,Morton,UIC_2024,4,2
+ND,Mountrail,UIC_2024,6,0
+ND,Nelson,UIC_2024,6,0
+ND,Oliver,UIC_2024,4,2
+ND,Pembina,UIC_2024,9,0
+ND,Pierce,UIC_2024,9,0
+ND,Ramsey,UIC_2024,8,0
+ND,Ransom,UIC_2024,6,0
+ND,Renville,UIC_2024,4,2
+ND,Richland,UIC_2024,5,1
+ND,Rolette,UIC_2024,9,0
+ND,Sargent,UIC_2024,9,0
+ND,Sheridan,UIC_2024,6,0
+ND,Sioux,UIC_2024,9,0
+ND,Slope,UIC_2024,9,0
+ND,Stark,UIC_2024,7,1
+ND,Steele,UIC_2024,6,0
+ND,Stutsman,UIC_2024,7,1
+ND,Towner,UIC_2024,9,0
+ND,Traill,UIC_2024,6,0
+ND,Walsh,UIC_2024,6,0
+ND,Ward,UIC_2024,4,2
+ND,Wells,UIC_2024,9,0
+ND,Williams,UIC_2024,7,1
+OH,Adams,UIC_2024,3,1
+OH,Allen,UIC_2024,4,2
+OH,Ashland,UIC_2024,2,1
+OH,Ashtabula,UIC_2024,1,2
+OH,Athens,UIC_2024,2,1
+OH,Auglaize,UIC_2024,5,1
+OH,Belmont,UIC_2024,4,2
+OH,Brown,UIC_2024,1,2
+OH,Butler,UIC_2024,1,2
+OH,Carroll,UIC_2024,4,2
+OH,Champaign,UIC_2024,2,1
+OH,Clark,UIC_2024,4,2
+OH,Clermont,UIC_2024,1,2
+OH,Clinton,UIC_2024,2,1
+OH,Columbiana,UIC_2024,2,1
+OH,Coshocton,UIC_2024,7,1
+OH,Crawford,UIC_2024,2,1
+OH,Cuyahoga,UIC_2024,1,2
+OH,Darke,UIC_2024,5,1
+OH,Defiance,UIC_2024,5,1
+OH,Delaware,UIC_2024,1,2
+OH,Erie,UIC_2024,4,2
+OH,Fairfield,UIC_2024,1,2
+OH,Fayette,UIC_2024,2,1
+OH,Franklin,UIC_2024,1,2
+OH,Fulton,UIC_2024,4,2
+OH,Gallia,UIC_2024,5,1
+OH,Geauga,UIC_2024,1,2
+OH,Greene,UIC_2024,4,2
+OH,Guernsey,UIC_2024,5,1
+OH,Hamilton,UIC_2024,1,2
+OH,Hancock,UIC_2024,5,1
+OH,Hardin,UIC_2024,6,0
+OH,Harrison,UIC_2024,6,0
+OH,Henry,UIC_2024,6,0
+OH,Highland,UIC_2024,3,1
+OH,Hocking,UIC_2024,1,2
+OH,Holmes,UIC_2024,9,0
+OH,Huron,UIC_2024,2,1
+OH,Jackson,UIC_2024,8,0
+OH,Jefferson,UIC_2024,4,2
+OH,Knox,UIC_2024,2,1
+OH,Lake,UIC_2024,1,2
+OH,Lawrence,UIC_2024,4,2
+OH,Licking,UIC_2024,1,2
+OH,Logan,UIC_2024,2,1
+OH,Lorain,UIC_2024,1,2
+OH,Lucas,UIC_2024,4,2
+OH,Madison,UIC_2024,1,2
+OH,Mahoning,UIC_2024,4,2
+OH,Marion,UIC_2024,2,1
+OH,Medina,UIC_2024,1,2
+OH,Meigs,UIC_2024,6,0
+OH,Mercer,UIC_2024,7,1
+OH,Miami,UIC_2024,4,2
+OH,Monroe,UIC_2024,6,0
+OH,Montgomery,UIC_2024,4,2
+OH,Morgan,UIC_2024,3,1
+OH,Morrow,UIC_2024,1,2
+OH,Muskingum,UIC_2024,2,1
+OH,Noble,UIC_2024,9,0
+OH,Ottawa,UIC_2024,4,2
+OH,Paulding,UIC_2024,6,0
+OH,Perry,UIC_2024,1,2
+OH,Pickaway,UIC_2024,1,2
+OH,Pike,UIC_2024,9,0
+OH,Portage,UIC_2024,4,2
+OH,Preble,UIC_2024,3,1
+OH,Putnam,UIC_2024,6,0
+OH,Richland,UIC_2024,4,2
+OH,Ross,UIC_2024,2,1
+OH,Sandusky,UIC_2024,5,1
+OH,Scioto,UIC_2024,5,1
+OH,Seneca,UIC_2024,5,1
+OH,Shelby,UIC_2024,5,1
+OH,Stark,UIC_2024,4,2
+OH,Summit,UIC_2024,4,2
+OH,Trumbull,UIC_2024,4,2
+OH,Tuscarawas,UIC_2024,5,1
+OH,Union,UIC_2024,1,2
+OH,Van Wert,UIC_2024,5,1
+OH,Vinton,UIC_2024,3,1
+OH,Warren,UIC_2024,1,2
+OH,Washington,UIC_2024,5,1
+OH,Wayne,UIC_2024,2,1
+OH,Williams,UIC_2024,8,0
+OH,Wood,UIC_2024,4,2
+OH,Wyandot,UIC_2024,8,0
+OK,Adair,UIC_2024,6,0
+OK,Alfalfa,UIC_2024,6,0
+OK,Atoka,UIC_2024,9,0
+OK,Beaver,UIC_2024,9,0
+OK,Beckham,UIC_2024,7,1
+OK,Blaine,UIC_2024,3,1
+OK,Bryan,UIC_2024,5,1
+OK,Caddo,UIC_2024,3,1
+OK,Canadian,UIC_2024,1,2
+OK,Carter,UIC_2024,7,1
+OK,Cherokee,UIC_2024,2,1
+OK,Choctaw,UIC_2024,8,0
+OK,Cimarron,UIC_2024,9,0
+OK,Cleveland,UIC_2024,1,2
+OK,Coal,UIC_2024,9,0
+OK,Comanche,UIC_2024,4,2
+OK,Cotton,UIC_2024,4,2
+OK,Craig,UIC_2024,3,1
+OK,Creek,UIC_2024,1,2
+OK,Custer,UIC_2024,7,1
+OK,Delaware,UIC_2024,6,0
+OK,Dewey,UIC_2024,9,0
+OK,Ellis,UIC_2024,9,0
+OK,Garfield,UIC_2024,4,2
+OK,Garvin,UIC_2024,3,1
+OK,Grady,UIC_2024,1,2
+OK,Grant,UIC_2024,6,0
+OK,Greer,UIC_2024,9,0
+OK,Harmon,UIC_2024,9,0
+OK,Harper,UIC_2024,9,0
+OK,Haskell,UIC_2024,6,0
+OK,Hughes,UIC_2024,8,0
+OK,Jackson,UIC_2024,7,1
+OK,Jefferson,UIC_2024,6,0
+OK,Johnston,UIC_2024,9,0
+OK,Kay,UIC_2024,2,1
+OK,Kingfisher,UIC_2024,3,1
+OK,Kiowa,UIC_2024,6,0
+OK,Latimer,UIC_2024,9,0
+OK,Le Flore,UIC_2024,6,0
+OK,Lincoln,UIC_2024,1,2
+OK,Logan,UIC_2024,1,2
+OK,Love,UIC_2024,9,0
+OK,McClain,UIC_2024,1,2
+OK,McCurtain,UIC_2024,8,0
+OK,McIntosh,UIC_2024,3,1
+OK,Major,UIC_2024,6,0
+OK,Marshall,UIC_2024,9,0
+OK,Mayes,UIC_2024,3,1
+OK,Murray,UIC_2024,8,0
+OK,Muskogee,UIC_2024,2,1
+OK,Noble,UIC_2024,3,1
+OK,Nowata,UIC_2024,3,1
+OK,Okfuskee,UIC_2024,3,1
+OK,Oklahoma,UIC_2024,1,2
+OK,Okmulgee,UIC_2024,1,2
+OK,Osage,UIC_2024,1,2
+OK,Ottawa,UIC_2024,5,1
+OK,Pawnee,UIC_2024,1,2
+OK,Payne,UIC_2024,2,1
+OK,Pittsburg,UIC_2024,7,1
+OK,Pontotoc,UIC_2024,7,1
+OK,Pottawatomie,UIC_2024,2,1
+OK,Pushmataha,UIC_2024,9,0
+OK,Roger Mills,UIC_2024,9,0
+OK,Rogers,UIC_2024,1,2
+OK,Seminole,UIC_2024,8,0
+OK,Sequoyah,UIC_2024,4,2
+OK,Stephens,UIC_2024,2,1
+OK,Texas,UIC_2024,7,1
+OK,Tillman,UIC_2024,6,0
+OK,Tulsa,UIC_2024,1,2
+OK,Wagoner,UIC_2024,1,2
+OK,Washington,UIC_2024,2,1
+OK,Washita,UIC_2024,7,1
+OK,Woods,UIC_2024,8,0
+OK,Woodward,UIC_2024,7,1
+OR,Baker,UIC_2024,7,1
+OR,Benton,UIC_2024,4,2
+OR,Clackamas,UIC_2024,1,2
+OR,Clatsop,UIC_2024,2,1
+OR,Columbia,UIC_2024,1,2
+OR,Coos,UIC_2024,7,1
+OR,Crook,UIC_2024,4,2
+OR,Curry,UIC_2024,7,1
+OR,Deschutes,UIC_2024,4,2
+OR,Douglas,UIC_2024,5,1
+OR,Gilliam,UIC_2024,9,0
+OR,Grant,UIC_2024,9,0
+OR,Harney,UIC_2024,9,0
+OR,Hood River,UIC_2024,2,1
+OR,Jackson,UIC_2024,4,2
+OR,Jefferson,UIC_2024,4,2
+OR,Josephine,UIC_2024,4,2
+OR,Klamath,UIC_2024,7,1
+OR,Lake,UIC_2024,9,0
+OR,Lane,UIC_2024,4,2
+OR,Lincoln,UIC_2024,7,1
+OR,Linn,UIC_2024,4,2
+OR,Malheur,UIC_2024,5,1
+OR,Marion,UIC_2024,4,2
+OR,Morrow,UIC_2024,5,1
+OR,Multnomah,UIC_2024,1,2
+OR,Polk,UIC_2024,4,2
+OR,Sherman,UIC_2024,9,0
+OR,Tillamook,UIC_2024,8,0
+OR,Umatilla,UIC_2024,5,1
+OR,Union,UIC_2024,7,1
+OR,Wallowa,UIC_2024,9,0
+OR,Wasco,UIC_2024,7,1
+OR,Washington,UIC_2024,1,2
+OR,Wheeler,UIC_2024,9,0
+OR,Yamhill,UIC_2024,1,2
+PA,Adams,UIC_2024,4,2
+PA,Allegheny,UIC_2024,1,2
+PA,Armstrong,UIC_2024,1,2
+PA,Beaver,UIC_2024,1,2
+PA,Bedford,UIC_2024,6,0
+PA,Berks,UIC_2024,4,2
+PA,Blair,UIC_2024,4,2
+PA,Bradford,UIC_2024,5,1
+PA,Bucks,UIC_2024,1,2
+PA,Butler,UIC_2024,1,2
+PA,Cambria,UIC_2024,4,2
+PA,Cameron,UIC_2024,9,0
+PA,Carbon,UIC_2024,4,2
+PA,Centre,UIC_2024,4,2
+PA,Chester,UIC_2024,1,2
+PA,Clarion,UIC_2024,3,1
+PA,Clearfield,UIC_2024,5,1
+PA,Clinton,UIC_2024,5,1
+PA,Columbia,UIC_2024,5,1
+PA,Crawford,UIC_2024,5,1
+PA,Cumberland,UIC_2024,4,2
+PA,Dauphin,UIC_2024,4,2
+PA,Delaware,UIC_2024,1,2
+PA,Elk,UIC_2024,7,1
+PA,Erie,UIC_2024,4,2
+PA,Fayette,UIC_2024,1,2
+PA,Forest,UIC_2024,9,0
+PA,Franklin,UIC_2024,4,2
+PA,Fulton,UIC_2024,6,0
+PA,Greene,UIC_2024,3,1
+PA,Huntingdon,UIC_2024,5,1
+PA,Indiana,UIC_2024,2,1
+PA,Jefferson,UIC_2024,8,0
+PA,Juniata,UIC_2024,6,0
+PA,Lackawanna,UIC_2024,4,2
+PA,Lancaster,UIC_2024,4,2
+PA,Lawrence,UIC_2024,1,2
+PA,Lebanon,UIC_2024,4,2
+PA,Lehigh,UIC_2024,4,2
+PA,Luzerne,UIC_2024,4,2
+PA,Lycoming,UIC_2024,4,2
+PA,McKean,UIC_2024,7,1
+PA,Mercer,UIC_2024,2,1
+PA,Mifflin,UIC_2024,5,1
+PA,Monroe,UIC_2024,2,1
+PA,Montgomery,UIC_2024,1,2
+PA,Montour,UIC_2024,5,1
+PA,Northampton,UIC_2024,4,2
+PA,Northumberland,UIC_2024,5,1
+PA,Perry,UIC_2024,4,2
+PA,Philadelphia,UIC_2024,1,2
+PA,Pike,UIC_2024,2,1
+PA,Potter,UIC_2024,9,0
+PA,Schuylkill,UIC_2024,5,1
+PA,Snyder,UIC_2024,7,1
+PA,Somerset,UIC_2024,2,1
+PA,Sullivan,UIC_2024,6,0
+PA,Susquehanna,UIC_2024,6,0
+PA,Tioga,UIC_2024,6,0
+PA,Union,UIC_2024,5,1
+PA,Venango,UIC_2024,2,1
+PA,Warren,UIC_2024,5,1
+PA,Washington,UIC_2024,1,2
+PA,Wayne,UIC_2024,6,0
+PA,Westmoreland,UIC_2024,1,2
+PA,Wyoming,UIC_2024,4,2
+PA,York,UIC_2024,4,2
+RI,Bristol,UIC_2024,1,2
+RI,Kent,UIC_2024,1,2
+RI,Newport,UIC_2024,1,2
+RI,Providence,UIC_2024,1,2
+RI,Washington,UIC_2024,1,2
+SC,Abbeville,UIC_2024,5,1
+SC,Aiken,UIC_2024,4,2
+SC,Allendale,UIC_2024,6,0
+SC,Anderson,UIC_2024,4,2
+SC,Bamberg,UIC_2024,9,0
+SC,Barnwell,UIC_2024,6,0
+SC,Beaufort,UIC_2024,4,2
+SC,Berkeley,UIC_2024,4,2
+SC,Calhoun,UIC_2024,4,2
+SC,Charleston,UIC_2024,4,2
+SC,Cherokee,UIC_2024,5,1
+SC,Chester,UIC_2024,1,2
+SC,Chesterfield,UIC_2024,3,1
+SC,Clarendon,UIC_2024,6,0
+SC,Colleton,UIC_2024,6,0
+SC,Darlington,UIC_2024,4,2
+SC,Dillon,UIC_2024,6,0
+SC,Dorchester,UIC_2024,4,2
+SC,Edgefield,UIC_2024,4,2
+SC,Fairfield,UIC_2024,4,2
+SC,Florence,UIC_2024,4,2
+SC,Georgetown,UIC_2024,5,1
+SC,Greenville,UIC_2024,4,2
+SC,Greenwood,UIC_2024,5,1
+SC,Hampton,UIC_2024,6,0
+SC,Horry,UIC_2024,4,2
+SC,Jasper,UIC_2024,4,2
+SC,Kershaw,UIC_2024,4,2
+SC,Lancaster,UIC_2024,1,2
+SC,Laurens,UIC_2024,4,2
+SC,Lee,UIC_2024,6,0
+SC,Lexington,UIC_2024,4,2
+SC,McCormick,UIC_2024,6,0
+SC,Marion,UIC_2024,6,0
+SC,Marlboro,UIC_2024,6,0
+SC,Newberry,UIC_2024,5,1
+SC,Oconee,UIC_2024,5,1
+SC,Orangeburg,UIC_2024,5,1
+SC,Pickens,UIC_2024,4,2
+SC,Richland,UIC_2024,4,2
+SC,Saluda,UIC_2024,4,2
+SC,Spartanburg,UIC_2024,4,2
+SC,Sumter,UIC_2024,4,2
+SC,Union,UIC_2024,4,2
+SC,Williamsburg,UIC_2024,6,0
+SC,York,UIC_2024,1,2
+SD,Aurora,UIC_2024,9,0
+SD,Beadle,UIC_2024,7,1
+SD,Bennett,UIC_2024,9,0
+SD,Bon Homme,UIC_2024,9,0
+SD,Brookings,UIC_2024,7,1
+SD,Brown,UIC_2024,7,1
+SD,Brule,UIC_2024,9,0
+SD,Buffalo,UIC_2024,9,0
+SD,Butte,UIC_2024,8,0
+SD,Campbell,UIC_2024,9,0
+SD,Charles Mix,UIC_2024,9,0
+SD,Clark,UIC_2024,9,0
+SD,Clay,UIC_2024,5,1
+SD,Codington,UIC_2024,7,1
+SD,Corson,UIC_2024,9,0
+SD,Custer,UIC_2024,4,2
+SD,Davison,UIC_2024,7,1
+SD,Day,UIC_2024,9,0
+SD,Deuel,UIC_2024,9,0
+SD,Dewey,UIC_2024,9,0
+SD,Douglas,UIC_2024,9,0
+SD,Edmunds,UIC_2024,7,1
+SD,Fall River,UIC_2024,9,0
+SD,Faulk,UIC_2024,9,0
+SD,Grant,UIC_2024,9,0
+SD,Gregory,UIC_2024,9,0
+SD,Haakon,UIC_2024,9,0
+SD,Hamlin,UIC_2024,9,0
+SD,Hand,UIC_2024,9,0
+SD,Hanson,UIC_2024,5,1
+SD,Harding,UIC_2024,9,0
+SD,Hughes,UIC_2024,7,1
+SD,Hutchinson,UIC_2024,6,0
+SD,Hyde,UIC_2024,9,0
+SD,Jackson,UIC_2024,9,0
+SD,Jerauld,UIC_2024,9,0
+SD,Jones,UIC_2024,9,0
+SD,Kingsbury,UIC_2024,9,0
+SD,Lake,UIC_2024,6,0
+SD,Lawrence,UIC_2024,5,1
+SD,Lincoln,UIC_2024,4,2
+SD,Lyman,UIC_2024,9,0
+SD,McCook,UIC_2024,4,2
+SD,McPherson,UIC_2024,9,0
+SD,Marshall,UIC_2024,9,0
+SD,Meade,UIC_2024,4,2
+SD,Mellette,UIC_2024,9,0
+SD,Miner,UIC_2024,6,0
+SD,Minnehaha,UIC_2024,4,2
+SD,Moody,UIC_2024,6,0
+SD,Oglala Lakota,UIC_2024,9,0
+SD,Pennington,UIC_2024,4,2
+SD,Perkins,UIC_2024,9,0
+SD,Potter,UIC_2024,9,0
+SD,Roberts,UIC_2024,9,0
+SD,Sanborn,UIC_2024,7,1
+SD,Spink,UIC_2024,9,0
+SD,Stanley,UIC_2024,7,1
+SD,Sully,UIC_2024,9,0
+SD,Todd,UIC_2024,9,0
+SD,Tripp,UIC_2024,9,0
+SD,Turner,UIC_2024,4,2
+SD,Union,UIC_2024,4,2
+SD,Walworth,UIC_2024,9,0
+SD,Yankton,UIC_2024,7,1
+SD,Ziebach,UIC_2024,9,0
+TN,Anderson,UIC_2024,4,2
+TN,Bedford,UIC_2024,2,1
+TN,Benton,UIC_2024,9,0
+TN,Bledsoe,UIC_2024,6,0
+TN,Blount,UIC_2024,4,2
+TN,Bradley,UIC_2024,4,2
+TN,Campbell,UIC_2024,4,2
+TN,Cannon,UIC_2024,1,2
+TN,Carroll,UIC_2024,6,0
+TN,Carter,UIC_2024,4,2
+TN,Cheatham,UIC_2024,1,2
+TN,Chester,UIC_2024,4,2
+TN,Claiborne,UIC_2024,6,0
+TN,Clay,UIC_2024,3,1
+TN,Cocke,UIC_2024,5,1
+TN,Coffee,UIC_2024,2,1
+TN,Crockett,UIC_2024,4,2
+TN,Cumberland,UIC_2024,5,1
+TN,Davidson,UIC_2024,1,2
+TN,Decatur,UIC_2024,9,0
+TN,DeKalb,UIC_2024,3,1
+TN,Dickson,UIC_2024,1,2
+TN,Dyer,UIC_2024,5,1
+TN,Fayette,UIC_2024,1,2
+TN,Fentress,UIC_2024,6,0
+TN,Franklin,UIC_2024,7,1
+TN,Gibson,UIC_2024,4,2
+TN,Giles,UIC_2024,3,1
+TN,Grainger,UIC_2024,4,2
+TN,Greene,UIC_2024,5,1
+TN,Grundy,UIC_2024,6,0
+TN,Hamblen,UIC_2024,4,2
+TN,Hamilton,UIC_2024,4,2
+TN,Hancock,UIC_2024,6,0
+TN,Hardeman,UIC_2024,3,1
+TN,Hardin,UIC_2024,6,0
+TN,Hawkins,UIC_2024,4,2
+TN,Haywood,UIC_2024,3,1
+TN,Henderson,UIC_2024,6,0
+TN,Henry,UIC_2024,7,1
+TN,Hickman,UIC_2024,1,2
+TN,Houston,UIC_2024,3,1
+TN,Humphreys,UIC_2024,3,1
+TN,Jackson,UIC_2024,2,1
+TN,Jefferson,UIC_2024,4,2
+TN,Johnson,UIC_2024,6,0
+TN,Knox,UIC_2024,4,2
+TN,Lake,UIC_2024,9,0
+TN,Lauderdale,UIC_2024,3,1
+TN,Lawrence,UIC_2024,2,1
+TN,Lewis,UIC_2024,3,1
+TN,Lincoln,UIC_2024,5,1
+TN,Loudon,UIC_2024,4,2
+TN,McMinn,UIC_2024,5,1
+TN,McNairy,UIC_2024,6,0
+TN,Macon,UIC_2024,1,2
+TN,Madison,UIC_2024,4,2
+TN,Marion,UIC_2024,4,2
+TN,Marshall,UIC_2024,2,1
+TN,Maury,UIC_2024,1,2
+TN,Meigs,UIC_2024,5,1
+TN,Monroe,UIC_2024,6,0
+TN,Montgomery,UIC_2024,4,2
+TN,Moore,UIC_2024,7,1
+TN,Morgan,UIC_2024,4,2
+TN,Obion,UIC_2024,7,1
+TN,Overton,UIC_2024,7,1
+TN,Perry,UIC_2024,9,0
+TN,Pickett,UIC_2024,9,0
+TN,Polk,UIC_2024,4,2
+TN,Putnam,UIC_2024,2,1
+TN,Rhea,UIC_2024,6,0
+TN,Roane,UIC_2024,4,2
+TN,Robertson,UIC_2024,1,2
+TN,Rutherford,UIC_2024,1,2
+TN,Scott,UIC_2024,6,0
+TN,Sequatchie,UIC_2024,4,2
+TN,Sevier,UIC_2024,5,1
+TN,Shelby,UIC_2024,1,2
+TN,Smith,UIC_2024,1,2
+TN,Stewart,UIC_2024,4,2
+TN,Sullivan,UIC_2024,4,2
+TN,Sumner,UIC_2024,1,2
+TN,Tipton,UIC_2024,1,2
+TN,Trousdale,UIC_2024,1,2
+TN,Unicoi,UIC_2024,4,2
+TN,Union,UIC_2024,4,2
+TN,Van Buren,UIC_2024,9,0
+TN,Warren,UIC_2024,2,1
+TN,Washington,UIC_2024,4,2
+TN,Wayne,UIC_2024,6,0
+TN,Weakley,UIC_2024,5,1
+TN,White,UIC_2024,7,1
+TN,Williamson,UIC_2024,1,2
+TN,Wilson,UIC_2024,1,2
+TX,Anderson,UIC_2024,7,1
+TX,Andrews,UIC_2024,5,1
+TX,Angelina,UIC_2024,7,1
+TX,Aransas,UIC_2024,4,2
+TX,Archer,UIC_2024,4,2
+TX,Armstrong,UIC_2024,4,2
+TX,Atascosa,UIC_2024,1,2
+TX,Austin,UIC_2024,1,2
+TX,Bailey,UIC_2024,6,0
+TX,Bandera,UIC_2024,1,2
+TX,Bastrop,UIC_2024,1,2
+TX,Baylor,UIC_2024,9,0
+TX,Bee,UIC_2024,5,1
+TX,Bell,UIC_2024,4,2
+TX,Bexar,UIC_2024,1,2
+TX,Blanco,UIC_2024,3,1
+TX,Borden,UIC_2024,9,0
+TX,Bosque,UIC_2024,4,2
+TX,Bowie,UIC_2024,4,2
+TX,Brazoria,UIC_2024,1,2
+TX,Brazos,UIC_2024,4,2
+TX,Brewster,UIC_2024,8,0
+TX,Briscoe,UIC_2024,6,0
+TX,Brooks,UIC_2024,7,1
+TX,Brown,UIC_2024,7,1
+TX,Burleson,UIC_2024,4,2
+TX,Burnet,UIC_2024,3,1
+TX,Caldwell,UIC_2024,1,2
+TX,Calhoun,UIC_2024,5,1
+TX,Callahan,UIC_2024,4,2
+TX,Cameron,UIC_2024,4,2
+TX,Camp,UIC_2024,5,1
+TX,Carson,UIC_2024,4,2
+TX,Cass,UIC_2024,6,0
+TX,Castro,UIC_2024,9,0
+TX,Chambers,UIC_2024,1,2
+TX,Cherokee,UIC_2024,5,1
+TX,Childress,UIC_2024,8,0
+TX,Clay,UIC_2024,4,2
+TX,Cochran,UIC_2024,4,2
+TX,Coke,UIC_2024,6,0
+TX,Coleman,UIC_2024,6,0
+TX,Collin,UIC_2024,1,2
+TX,Collingsworth,UIC_2024,9,0
+TX,Colorado,UIC_2024,3,1
+TX,Comal,UIC_2024,1,2
+TX,Comanche,UIC_2024,9,0
+TX,Concho,UIC_2024,6,0
+TX,Cooke,UIC_2024,2,1
+TX,Coryell,UIC_2024,4,2
+TX,Cottle,UIC_2024,9,0
+TX,Crane,UIC_2024,6,0
+TX,Crockett,UIC_2024,6,0
+TX,Crosby,UIC_2024,4,2
+TX,Culberson,UIC_2024,9,0
+TX,Dallam,UIC_2024,8,0
+TX,Dallas,UIC_2024,1,2
+TX,Dawson,UIC_2024,6,0
+TX,Deaf Smith,UIC_2024,5,1
+TX,Delta,UIC_2024,3,1
+TX,Denton,UIC_2024,1,2
+TX,DeWitt,UIC_2024,6,0
+TX,Dickens,UIC_2024,6,0
+TX,Dimmit,UIC_2024,9,0
+TX,Donley,UIC_2024,6,0
+TX,Duval,UIC_2024,9,0
+TX,Eastland,UIC_2024,6,0
+TX,Ector,UIC_2024,4,2
+TX,Edwards,UIC_2024,9,0
+TX,Ellis,UIC_2024,1,2
+TX,El Paso,UIC_2024,4,2
+TX,Erath,UIC_2024,7,1
+TX,Falls,UIC_2024,4,2
+TX,Fannin,UIC_2024,2,1
+TX,Fayette,UIC_2024,3,1
+TX,Fisher,UIC_2024,6,0
+TX,Floyd,UIC_2024,5,1
+TX,Foard,UIC_2024,9,0
+TX,Fort Bend,UIC_2024,1,2
+TX,Franklin,UIC_2024,9,0
+TX,Freestone,UIC_2024,9,0
+TX,Frio,UIC_2024,3,1
+TX,Gaines,UIC_2024,6,0
+TX,Galveston,UIC_2024,1,2
+TX,Garza,UIC_2024,4,2
+TX,Gillespie,UIC_2024,7,1
+TX,Glasscock,UIC_2024,6,0
+TX,Goliad,UIC_2024,4,2
+TX,Gonzales,UIC_2024,3,1
+TX,Gray,UIC_2024,5,1
+TX,Grayson,UIC_2024,4,2
+TX,Gregg,UIC_2024,4,2
+TX,Grimes,UIC_2024,3,1
+TX,Guadalupe,UIC_2024,1,2
+TX,Hale,UIC_2024,5,1
+TX,Hall,UIC_2024,9,0
+TX,Hamilton,UIC_2024,6,0
+TX,Hansford,UIC_2024,9,0
+TX,Hardeman,UIC_2024,9,0
+TX,Hardin,UIC_2024,4,2
+TX,Harris,UIC_2024,1,2
+TX,Harrison,UIC_2024,4,2
+TX,Hartley,UIC_2024,8,0
+TX,Haskell,UIC_2024,6,0
+TX,Hays,UIC_2024,1,2
+TX,Hemphill,UIC_2024,9,0
+TX,Henderson,UIC_2024,2,1
+TX,Hidalgo,UIC_2024,4,2
+TX,Hill,UIC_2024,3,1
+TX,Hockley,UIC_2024,4,2
+TX,Hood,UIC_2024,2,1
+TX,Hopkins,UIC_2024,2,1
+TX,Houston,UIC_2024,8,0
+TX,Howard,UIC_2024,5,1
+TX,Hudspeth,UIC_2024,4,2
+TX,Hunt,UIC_2024,1,2
+TX,Hutchinson,UIC_2024,5,1
+TX,Irion,UIC_2024,4,2
+TX,Jack,UIC_2024,3,1
+TX,Jackson,UIC_2024,6,0
+TX,Jasper,UIC_2024,6,0
+TX,Jeff Davis,UIC_2024,9,0
+TX,Jefferson,UIC_2024,4,2
+TX,Jim Hogg,UIC_2024,6,0
+TX,Jim Wells,UIC_2024,5,1
+TX,Johnson,UIC_2024,1,2
+TX,Jones,UIC_2024,4,2
+TX,Karnes,UIC_2024,3,1
+TX,Kaufman,UIC_2024,1,2
+TX,Kendall,UIC_2024,1,2
+TX,Kenedy,UIC_2024,9,0
+TX,Kent,UIC_2024,9,0
+TX,Kerr,UIC_2024,2,1
+TX,Kimble,UIC_2024,9,0
+TX,King,UIC_2024,9,0
+TX,Kinney,UIC_2024,9,0
+TX,Kleberg,UIC_2024,5,1
+TX,Knox,UIC_2024,9,0
+TX,Lamar,UIC_2024,7,1
+TX,Lamb,UIC_2024,6,0
+TX,Lampasas,UIC_2024,4,2
+TX,La Salle,UIC_2024,6,0
+TX,Lavaca,UIC_2024,6,0
+TX,Lee,UIC_2024,3,1
+TX,Leon,UIC_2024,6,0
+TX,Liberty,UIC_2024,1,2
+TX,Limestone,UIC_2024,6,0
+TX,Lipscomb,UIC_2024,9,0
+TX,Live Oak,UIC_2024,6,0
+TX,Llano,UIC_2024,8,0
+TX,Loving,UIC_2024,9,0
+TX,Lubbock,UIC_2024,4,2
+TX,Lynn,UIC_2024,4,2
+TX,McCulloch,UIC_2024,8,0
+TX,McLennan,UIC_2024,4,2
+TX,McMullen,UIC_2024,3,1
+TX,Madison,UIC_2024,6,0
+TX,Marion,UIC_2024,6,0
+TX,Martin,UIC_2024,4,2
+TX,Mason,UIC_2024,9,0
+TX,Matagorda,UIC_2024,2,1
+TX,Maverick,UIC_2024,4,2
+TX,Medina,UIC_2024,1,2
+TX,Menard,UIC_2024,9,0
+TX,Midland,UIC_2024,4,2
+TX,Milam,UIC_2024,3,1
+TX,Mills,UIC_2024,9,0
+TX,Mitchell,UIC_2024,9,0
+TX,Montague,UIC_2024,3,1
+TX,Montgomery,UIC_2024,1,2
+TX,Moore,UIC_2024,7,1
+TX,Morris,UIC_2024,5,1
+TX,Motley,UIC_2024,6,0
+TX,Nacogdoches,UIC_2024,7,1
+TX,Navarro,UIC_2024,2,1
+TX,Newton,UIC_2024,6,0
+TX,Nolan,UIC_2024,5,1
+TX,Nueces,UIC_2024,4,2
+TX,Ochiltree,UIC_2024,8,0
+TX,Oldham,UIC_2024,4,2
+TX,Orange,UIC_2024,4,2
+TX,Palo Pinto,UIC_2024,2,1
+TX,Panola,UIC_2024,6,0
+TX,Parker,UIC_2024,1,2
+TX,Parmer,UIC_2024,9,0
+TX,Pecos,UIC_2024,8,0
+TX,Polk,UIC_2024,3,1
+TX,Potter,UIC_2024,4,2
+TX,Presidio,UIC_2024,9,0
+TX,Rains,UIC_2024,3,1
+TX,Randall,UIC_2024,4,2
+TX,Reagan,UIC_2024,6,0
+TX,Real,UIC_2024,9,0
+TX,Red River,UIC_2024,5,1
+TX,Reeves,UIC_2024,7,1
+TX,Refugio,UIC_2024,6,0
+TX,Roberts,UIC_2024,7,1
+TX,Robertson,UIC_2024,4,2
+TX,Rockwall,UIC_2024,1,2
+TX,Runnels,UIC_2024,6,0
+TX,Rusk,UIC_2024,4,2
+TX,Sabine,UIC_2024,9,0
+TX,San Augustine,UIC_2024,9,0
+TX,San Jacinto,UIC_2024,1,2
+TX,San Patricio,UIC_2024,4,2
+TX,San Saba,UIC_2024,9,0
+TX,Schleicher,UIC_2024,6,0
+TX,Scurry,UIC_2024,7,1
+TX,Shackelford,UIC_2024,6,0
+TX,Shelby,UIC_2024,8,0
+TX,Sherman,UIC_2024,9,0
+TX,Smith,UIC_2024,4,2
+TX,Somervell,UIC_2024,3,1
+TX,Starr,UIC_2024,5,1
+TX,Stephens,UIC_2024,8,0
+TX,Sterling,UIC_2024,6,0
+TX,Stonewall,UIC_2024,9,0
+TX,Sutton,UIC_2024,9,0
+TX,Swisher,UIC_2024,6,0
+TX,Tarrant,UIC_2024,1,2
+TX,Taylor,UIC_2024,4,2
+TX,Terrell,UIC_2024,9,0
+TX,Terry,UIC_2024,6,0
+TX,Throckmorton,UIC_2024,9,0
+TX,Titus,UIC_2024,7,1
+TX,Tom Green,UIC_2024,4,2
+TX,Travis,UIC_2024,1,2
+TX,Trinity,UIC_2024,3,1
+TX,Tyler,UIC_2024,6,0
+TX,Upshur,UIC_2024,4,2
+TX,Upton,UIC_2024,6,0
+TX,Uvalde,UIC_2024,2,1
+TX,Val Verde,UIC_2024,7,1
+TX,Van Zandt,UIC_2024,3,1
+TX,Victoria,UIC_2024,4,2
+TX,Walker,UIC_2024,2,1
+TX,Waller,UIC_2024,1,2
+TX,Ward,UIC_2024,6,0
+TX,Washington,UIC_2024,2,1
+TX,Webb,UIC_2024,4,2
+TX,Wharton,UIC_2024,2,1
+TX,Wheeler,UIC_2024,9,0
+TX,Wichita,UIC_2024,4,2
+TX,Wilbarger,UIC_2024,5,1
+TX,Willacy,UIC_2024,5,1
+TX,Williamson,UIC_2024,1,2
+TX,Wilson,UIC_2024,1,2
+TX,Winkler,UIC_2024,6,0
+TX,Wise,UIC_2024,1,2
+TX,Wood,UIC_2024,6,0
+TX,Yoakum,UIC_2024,9,0
+TX,Young,UIC_2024,8,0
+TX,Zapata,UIC_2024,5,1
+TX,Zavala,UIC_2024,8,0
+UT,Beaver,UIC_2024,9,0
+UT,Box Elder,UIC_2024,2,1
+UT,Cache,UIC_2024,4,2
+UT,Carbon,UIC_2024,7,1
+UT,Daggett,UIC_2024,9,0
+UT,Davis,UIC_2024,4,2
+UT,Duchesne,UIC_2024,8,0
+UT,Emery,UIC_2024,9,0
+UT,Garfield,UIC_2024,9,0
+UT,Grand,UIC_2024,8,0
+UT,Iron,UIC_2024,5,1
+UT,Juab,UIC_2024,4,2
+UT,Kane,UIC_2024,6,0
+UT,Millard,UIC_2024,9,0
+UT,Morgan,UIC_2024,4,2
+UT,Piute,UIC_2024,9,0
+UT,Rich,UIC_2024,5,1
+UT,Salt Lake,UIC_2024,1,2
+UT,San Juan,UIC_2024,9,0
+UT,Sanpete,UIC_2024,6,0
+UT,Sevier,UIC_2024,8,0
+UT,Summit,UIC_2024,2,1
+UT,Tooele,UIC_2024,1,2
+UT,Uintah,UIC_2024,7,1
+UT,Utah,UIC_2024,4,2
+UT,Wasatch,UIC_2024,2,1
+UT,Washington,UIC_2024,4,2
+UT,Wayne,UIC_2024,9,0
+UT,Weber,UIC_2024,4,2
+VT,Addison,UIC_2024,6,0
+VT,Bennington,UIC_2024,5,1
+VT,Caledonia,UIC_2024,8,0
+VT,Chittenden,UIC_2024,4,2
+VT,Essex,UIC_2024,9,0
+VT,Franklin,UIC_2024,4,2
+VT,Grand Isle,UIC_2024,4,2
+VT,Lamoille,UIC_2024,6,0
+VT,Orange,UIC_2024,7,1
+VT,Orleans,UIC_2024,9,0
+VT,Rutland,UIC_2024,7,1
+VT,Washington,UIC_2024,5,1
+VT,Windham,UIC_2024,7,1
+VT,Windsor,UIC_2024,7,1
+VA,Accomack,UIC_2024,9,0
+VA,Albemarle,UIC_2024,4,2
+VA,Alleghany,UIC_2024,6,0
+VA,Amelia,UIC_2024,1,2
+VA,Amherst,UIC_2024,4,2
+VA,Appomattox,UIC_2024,4,2
+VA,Arlington,UIC_2024,1,2
+VA,Augusta,UIC_2024,4,2
+VA,Bath,UIC_2024,9,0
+VA,Bedford,UIC_2024,4,2
+VA,Bland,UIC_2024,6,0
+VA,Botetourt,UIC_2024,4,2
+VA,Brunswick,UIC_2024,3,1
+VA,Buchanan,UIC_2024,9,0
+VA,Buckingham,UIC_2024,6,0
+VA,Campbell,UIC_2024,4,2
+VA,Caroline,UIC_2024,3,1
+VA,Carroll,UIC_2024,6,0
+VA,Charles City,UIC_2024,1,2
+VA,Charlotte,UIC_2024,6,0
+VA,Chesterfield,UIC_2024,1,2
+VA,Clarke,UIC_2024,1,2
+VA,Craig,UIC_2024,4,2
+VA,Culpeper,UIC_2024,1,2
+VA,Cumberland,UIC_2024,3,1
+VA,Dickenson,UIC_2024,9,0
+VA,Dinwiddie,UIC_2024,1,2
+VA,Essex,UIC_2024,3,1
+VA,Fairfax,UIC_2024,1,2
+VA,Fauquier,UIC_2024,1,2
+VA,Floyd,UIC_2024,4,2
+VA,Fluvanna,UIC_2024,4,2
+VA,Franklin,UIC_2024,4,2
+VA,Frederick,UIC_2024,4,2
+VA,Giles,UIC_2024,4,2
+VA,Gloucester,UIC_2024,1,2
+VA,Goochland,UIC_2024,1,2
+VA,Grayson,UIC_2024,9,0
+VA,Greene,UIC_2024,4,2
+VA,Greensville,UIC_2024,3,1
+VA,Halifax,UIC_2024,6,0
+VA,Hanover,UIC_2024,1,2
+VA,Henrico,UIC_2024,1,2
+VA,Henry,UIC_2024,5,1
+VA,Highland,UIC_2024,6,0
+VA,Isle of Wight,UIC_2024,1,2
+VA,James City,UIC_2024,1,2
+VA,King and Queen,UIC_2024,1,2
+VA,King George,UIC_2024,3,1
+VA,King William,UIC_2024,1,2
+VA,Lancaster,UIC_2024,9,0
+VA,Lee,UIC_2024,6,0
+VA,Loudoun,UIC_2024,1,2
+VA,Louisa,UIC_2024,3,1
+VA,Lunenburg,UIC_2024,9,0
+VA,Madison,UIC_2024,3,1
+VA,Mathews,UIC_2024,1,2
+VA,Mecklenburg,UIC_2024,9,0
+VA,Middlesex,UIC_2024,3,1
+VA,Montgomery,UIC_2024,4,2
+VA,Nelson,UIC_2024,4,2
+VA,New Kent,UIC_2024,1,2
+VA,Northampton,UIC_2024,3,1
+VA,Northumberland,UIC_2024,9,0
+VA,Nottoway,UIC_2024,3,1
+VA,Orange,UIC_2024,2,1
+VA,Page,UIC_2024,3,1
+VA,Patrick,UIC_2024,6,0
+VA,Pittsylvania,UIC_2024,5,1
+VA,Powhatan,UIC_2024,1,2
+VA,Prince Edward,UIC_2024,3,1
+VA,Prince George,UIC_2024,1,2
+VA,Prince William,UIC_2024,1,2
+VA,Pulaski,UIC_2024,4,2
+VA,Rappahannock,UIC_2024,1,2
+VA,Richmond,UIC_2024,9,0
+VA,Roanoke,UIC_2024,4,2
+VA,Rockbridge,UIC_2024,6,0
+VA,Rockingham,UIC_2024,4,2
+VA,Russell,UIC_2024,6,0
+VA,Scott,UIC_2024,4,2
+VA,Shenandoah,UIC_2024,3,1
+VA,Smyth,UIC_2024,8,0
+VA,Southampton,UIC_2024,3,1
+VA,Spotsylvania,UIC_2024,1,2
+VA,Stafford,UIC_2024,1,2
+VA,Surry,UIC_2024,1,2
+VA,Sussex,UIC_2024,1,2
+VA,Tazewell,UIC_2024,7,1
+VA,Warren,UIC_2024,1,2
+VA,Washington,UIC_2024,4,2
+VA,Westmoreland,UIC_2024,3,1
+VA,Wise,UIC_2024,8,0
+VA,Wythe,UIC_2024,6,0
+VA,York,UIC_2024,1,2
+VA,Alexandria city,UIC_2024,1,2
+VA,Bristol city,UIC_2024,4,2
+VA,Buena Vista city,UIC_2024,6,0
+VA,Charlottesville city,UIC_2024,4,2
+VA,Chesapeake city,UIC_2024,1,2
+VA,Colonial Heights city,UIC_2024,1,2
+VA,Covington city,UIC_2024,6,0
+VA,Danville city,UIC_2024,5,1
+VA,Emporia city,UIC_2024,3,1
+VA,Fairfax city,UIC_2024,1,2
+VA,Falls Church city,UIC_2024,1,2
+VA,Franklin city,UIC_2024,3,1
+VA,Fredericksburg city,UIC_2024,1,2
+VA,Galax city,UIC_2024,6,0
+VA,Hampton city,UIC_2024,1,2
+VA,Harrisonburg city,UIC_2024,4,2
+VA,Hopewell city,UIC_2024,1,2
+VA,Lexington city,UIC_2024,6,0
+VA,Lynchburg city,UIC_2024,4,2
+VA,Manassas city,UIC_2024,1,2
+VA,Manassas Park city,UIC_2024,1,2
+VA,Martinsville city,UIC_2024,5,1
+VA,Newport News city,UIC_2024,1,2
+VA,Norfolk city,UIC_2024,1,2
+VA,Norton city,UIC_2024,8,0
+VA,Petersburg city,UIC_2024,1,2
+VA,Poquoson city,UIC_2024,1,2
+VA,Portsmouth city,UIC_2024,1,2
+VA,Radford city,UIC_2024,4,2
+VA,Richmond city,UIC_2024,1,2
+VA,Roanoke city,UIC_2024,4,2
+VA,Salem city,UIC_2024,4,2
+VA,Staunton city,UIC_2024,4,2
+VA,Suffolk city,UIC_2024,1,2
+VA,Virginia Beach city,UIC_2024,1,2
+VA,Waynesboro city,UIC_2024,4,2
+VA,Williamsburg city,UIC_2024,1,2
+VA,Winchester city,UIC_2024,4,2
+WA,Adams,UIC_2024,5,1
+WA,Asotin,UIC_2024,4,2
+WA,Benton,UIC_2024,4,2
+WA,Chelan,UIC_2024,4,2
+WA,Clallam,UIC_2024,7,1
+WA,Clark,UIC_2024,1,2
+WA,Columbia,UIC_2024,6,0
+WA,Cowlitz,UIC_2024,4,2
+WA,Douglas,UIC_2024,4,2
+WA,Ferry,UIC_2024,6,0
+WA,Franklin,UIC_2024,4,2
+WA,Garfield,UIC_2024,6,0
+WA,Grant,UIC_2024,7,1
+WA,Grays Harbor,UIC_2024,5,1
+WA,Island,UIC_2024,2,1
+WA,Jefferson,UIC_2024,5,1
+WA,King,UIC_2024,1,2
+WA,Kitsap,UIC_2024,4,2
+WA,Kittitas,UIC_2024,2,1
+WA,Klickitat,UIC_2024,9,0
+WA,Lewis,UIC_2024,2,1
+WA,Lincoln,UIC_2024,6,0
+WA,Mason,UIC_2024,2,1
+WA,Okanogan,UIC_2024,6,0
+WA,Pacific,UIC_2024,9,0
+WA,Pend Oreille,UIC_2024,6,0
+WA,Pierce,UIC_2024,1,2
+WA,San Juan,UIC_2024,9,0
+WA,Skagit,UIC_2024,4,2
+WA,Skamania,UIC_2024,1,2
+WA,Snohomish,UIC_2024,1,2
+WA,Spokane,UIC_2024,4,2
+WA,Stevens,UIC_2024,4,2
+WA,Thurston,UIC_2024,4,2
+WA,Wahkiakum,UIC_2024,3,1
+WA,Walla Walla,UIC_2024,4,2
+WA,Whatcom,UIC_2024,4,2
+WA,Whitman,UIC_2024,5,1
+WA,Yakima,UIC_2024,4,2
+WV,Barbour,UIC_2024,9,0
+WV,Berkeley,UIC_2024,4,2
+WV,Boone,UIC_2024,4,2
+WV,Braxton,UIC_2024,6,0
+WV,Brooke,UIC_2024,4,2
+WV,Cabell,UIC_2024,4,2
+WV,Calhoun,UIC_2024,6,0
+WV,Clay,UIC_2024,4,2
+WV,Doddridge,UIC_2024,7,1
+WV,Fayette,UIC_2024,4,2
+WV,Gilmer,UIC_2024,9,0
+WV,Grant,UIC_2024,9,0
+WV,Greenbrier,UIC_2024,6,0
+WV,Hampshire,UIC_2024,4,2
+WV,Hancock,UIC_2024,4,2
+WV,Hardy,UIC_2024,6,0
+WV,Harrison,UIC_2024,7,1
+WV,Jackson,UIC_2024,6,0
+WV,Jefferson,UIC_2024,1,2
+WV,Kanawha,UIC_2024,4,2
+WV,Lewis,UIC_2024,9,0
+WV,Lincoln,UIC_2024,6,0
+WV,Logan,UIC_2024,6,0
+WV,McDowell,UIC_2024,9,0
+WV,Marion,UIC_2024,5,1
+WV,Marshall,UIC_2024,4,2
+WV,Mason,UIC_2024,6,0
+WV,Mercer,UIC_2024,5,1
+WV,Mineral,UIC_2024,7,1
+WV,Mingo,UIC_2024,6,0
+WV,Monongalia,UIC_2024,4,2
+WV,Monroe,UIC_2024,6,0
+WV,Morgan,UIC_2024,4,2
+WV,Nicholas,UIC_2024,6,0
+WV,Ohio,UIC_2024,4,2
+WV,Pendleton,UIC_2024,6,0
+WV,Pleasants,UIC_2024,6,0
+WV,Pocahontas,UIC_2024,9,0
+WV,Preston,UIC_2024,4,2
+WV,Putnam,UIC_2024,4,2
+WV,Raleigh,UIC_2024,4,2
+WV,Randolph,UIC_2024,7,1
+WV,Ritchie,UIC_2024,6,0
+WV,Roane,UIC_2024,6,0
+WV,Summers,UIC_2024,6,0
+WV,Taylor,UIC_2024,5,1
+WV,Tucker,UIC_2024,9,0
+WV,Tyler,UIC_2024,9,0
+WV,Upshur,UIC_2024,8,0
+WV,Wayne,UIC_2024,4,2
+WV,Webster,UIC_2024,9,0
+WV,Wetzel,UIC_2024,8,0
+WV,Wirt,UIC_2024,4,2
+WV,Wood,UIC_2024,4,2
+WV,Wyoming,UIC_2024,6,0
+WI,Adams,UIC_2024,6,0
+WI,Ashland,UIC_2024,8,0
+WI,Barron,UIC_2024,5,1
+WI,Bayfield,UIC_2024,6,0
+WI,Brown,UIC_2024,4,2
+WI,Buffalo,UIC_2024,6,0
+WI,Burnett,UIC_2024,3,1
+WI,Calumet,UIC_2024,4,2
+WI,Chippewa,UIC_2024,4,2
+WI,Clark,UIC_2024,6,0
+WI,Columbia,UIC_2024,4,2
+WI,Crawford,UIC_2024,6,0
+WI,Dane,UIC_2024,4,2
+WI,Dodge,UIC_2024,2,1
+WI,Door,UIC_2024,6,0
+WI,Douglas,UIC_2024,4,2
+WI,Dunn,UIC_2024,2,1
+WI,Eau Claire,UIC_2024,4,2
+WI,Florence,UIC_2024,7,1
+WI,Fond du Lac,UIC_2024,4,2
+WI,Forest,UIC_2024,9,0
+WI,Grant,UIC_2024,5,1
+WI,Green,UIC_2024,4,2
+WI,Green Lake,UIC_2024,6,0
+WI,Iowa,UIC_2024,4,2
+WI,Iron,UIC_2024,9,0
+WI,Jackson,UIC_2024,6,0
+WI,Jefferson,UIC_2024,2,1
+WI,Juneau,UIC_2024,6,0
+WI,Kenosha,UIC_2024,4,2
+WI,Kewaunee,UIC_2024,4,2
+WI,La Crosse,UIC_2024,4,2
+WI,Lafayette,UIC_2024,6,0
+WI,Langlade,UIC_2024,6,0
+WI,Lincoln,UIC_2024,6,0
+WI,Manitowoc,UIC_2024,5,1
+WI,Marathon,UIC_2024,4,2
+WI,Marinette,UIC_2024,5,1
+WI,Marquette,UIC_2024,6,0
+WI,Menominee,UIC_2024,7,1
+WI,Milwaukee,UIC_2024,1,2
+WI,Monroe,UIC_2024,5,1
+WI,Oconto,UIC_2024,4,2
+WI,Oneida,UIC_2024,8,0
+WI,Outagamie,UIC_2024,4,2
+WI,Ozaukee,UIC_2024,1,2
+WI,Pepin,UIC_2024,3,1
+WI,Pierce,UIC_2024,1,2
+WI,Polk,UIC_2024,3,1
+WI,Portage,UIC_2024,5,1
+WI,Price,UIC_2024,9,0
+WI,Racine,UIC_2024,4,2
+WI,Richland,UIC_2024,6,0
+WI,Rock,UIC_2024,4,2
+WI,Rusk,UIC_2024,6,0
+WI,St. Croix,UIC_2024,1,2
+WI,Sauk,UIC_2024,5,1
+WI,Sawyer,UIC_2024,9,0
+WI,Shawano,UIC_2024,5,1
+WI,Sheboygan,UIC_2024,4,2
+WI,Taylor,UIC_2024,6,0
+WI,Trempealeau,UIC_2024,6,0
+WI,Vernon,UIC_2024,4,2
+WI,Vilas,UIC_2024,9,0
+WI,Walworth,UIC_2024,2,1
+WI,Washburn,UIC_2024,6,0
+WI,Washington,UIC_2024,1,2
+WI,Waukesha,UIC_2024,1,2
+WI,Waupaca,UIC_2024,6,0
+WI,Waushara,UIC_2024,6,0
+WI,Winnebago,UIC_2024,4,2
+WI,Wood,UIC_2024,5,1
+WY,Albany,UIC_2024,5,1
+WY,Big Horn,UIC_2024,9,0
+WY,Campbell,UIC_2024,7,1
+WY,Carbon,UIC_2024,8,0
+WY,Converse,UIC_2024,6,0
+WY,Crook,UIC_2024,9,0
+WY,Fremont,UIC_2024,7,1
+WY,Goshen,UIC_2024,8,0
+WY,Hot Springs,UIC_2024,9,0
+WY,Johnson,UIC_2024,9,0
+WY,Laramie,UIC_2024,4,2
+WY,Lincoln,UIC_2024,9,0
+WY,Natrona,UIC_2024,4,2
+WY,Niobrara,UIC_2024,9,0
+WY,Park,UIC_2024,7,1
+WY,Platte,UIC_2024,6,0
+WY,Sheridan,UIC_2024,7,1
+WY,Sublette,UIC_2024,9,0
+WY,Sweetwater,UIC_2024,7,1
+WY,Teton,UIC_2024,7,1
+WY,Uinta,UIC_2024,7,1
+WY,Washakie,UIC_2024,9,0
+WY,Weston,UIC_2024,9,0
+AS,Eastern District,UIC_2024,8,0
+AS,Manu'a District,UIC_2024,9,0
+AS,Western District,UIC_2024,8,0
+GU,Guam,UIC_2024,8,0
+MP,Northern Islands Municipality,UIC_2024,9,0
+MP,Rota Municipality,UIC_2024,9,0
+MP,Saipan Municipality,UIC_2024,9,0
+MP,Tinian Municipality,UIC_2024,9,0
+PR,Adjuntas Municipio,UIC_2024,6,0
+PR,Aguada Municipio,UIC_2024,4,2
+PR,Aguadilla Municipio,UIC_2024,4,2
+PR,Aguas Buenas Municipio,UIC_2024,1,2
+PR,Aibonito Municipio,UIC_2024,1,2
+PR,Anasco Municipio,UIC_2024,4,2
+PR,Arecibo Municipio,UIC_2024,4,2
+PR,Arroyo Municipio,UIC_2024,4,2
+PR,Barceloneta Municipio,UIC_2024,1,2
+PR,Barranquitas Municipio,UIC_2024,1,2
+PR,Bayamon Municipio,UIC_2024,1,2
+PR,Cabo Rojo Municipio,UIC_2024,4,2
+PR,Caguas Municipio,UIC_2024,1,2
+PR,Camuy Municipio,UIC_2024,4,2
+PR,Canovanas Municipio,UIC_2024,1,2
+PR,Carolina Municipio,UIC_2024,1,2
+PR,Catano Municipio,UIC_2024,1,2
+PR,Cayey Municipio,UIC_2024,1,2
+PR,Ceiba Municipio,UIC_2024,1,2
+PR,Ciales Municipio,UIC_2024,1,2
+PR,Cidra Municipio,UIC_2024,1,2
+PR,Coamo Municipio,UIC_2024,2,1
+PR,Comerio Municipio,UIC_2024,1,2
+PR,Corozal Municipio,UIC_2024,1,2
+PR,Culebra Municipio,UIC_2024,9,0
+PR,Dorado Municipio,UIC_2024,1,2
+PR,Fajardo Municipio,UIC_2024,1,2
+PR,Florida Municipio,UIC_2024,1,2
+PR,Guanica Municipio,UIC_2024,6,0
+PR,Guayama Municipio,UIC_2024,4,2
+PR,Guayanilla Municipio,UIC_2024,4,2
+PR,Guaynabo Municipio,UIC_2024,1,2
+PR,Gurabo Municipio,UIC_2024,1,2
+PR,Hatillo Municipio,UIC_2024,4,2
+PR,Hormigueros Municipio,UIC_2024,4,2
+PR,Humacao Municipio,UIC_2024,1,2
+PR,Isabela Municipio,UIC_2024,4,2
+PR,Jayuya Municipio,UIC_2024,3,1
+PR,Juana Diaz Municipio,UIC_2024,4,2
+PR,Juncos Municipio,UIC_2024,1,2
+PR,Lajas Municipio,UIC_2024,4,2
+PR,Lares Municipio,UIC_2024,5,1
+PR,Las Marias Municipio,UIC_2024,6,0
+PR,Las Piedras Municipio,UIC_2024,1,2
+PR,Loiza Municipio,UIC_2024,1,2
+PR,Luquillo Municipio,UIC_2024,1,2
+PR,Manati Municipio,UIC_2024,1,2
+PR,Maricao Municipio,UIC_2024,6,0
+PR,Maunabo Municipio,UIC_2024,1,2
+PR,Mayaguez Municipio,UIC_2024,4,2
+PR,Moca Municipio,UIC_2024,4,2
+PR,Morovis Municipio,UIC_2024,1,2
+PR,Naguabo Municipio,UIC_2024,1,2
+PR,Naranjito Municipio,UIC_2024,1,2
+PR,Orocovis Municipio,UIC_2024,1,2
+PR,Patillas Municipio,UIC_2024,4,2
+PR,Penuelas Municipio,UIC_2024,4,2
+PR,Ponce Municipio,UIC_2024,4,2
+PR,Quebradillas Municipio,UIC_2024,4,2
+PR,Rincon Municipio,UIC_2024,4,2
+PR,Rio Grande Municipio,UIC_2024,1,2
+PR,Sabana Grande Municipio,UIC_2024,4,2
+PR,Salinas Municipio,UIC_2024,2,1
+PR,San German Municipio,UIC_2024,4,2
+PR,San Juan Municipio,UIC_2024,1,2
+PR,San Lorenzo Municipio,UIC_2024,1,2
+PR,San Sebastian Municipio,UIC_2024,4,2
+PR,Santa Isabel Municipio,UIC_2024,5,1
+PR,Toa Alta Municipio,UIC_2024,1,2
+PR,Toa Baja Municipio,UIC_2024,1,2
+PR,Trujillo Alto Municipio,UIC_2024,1,2
+PR,Utuado Municipio,UIC_2024,2,1
+PR,Vega Alta Municipio,UIC_2024,1,2
+PR,Vega Baja Municipio,UIC_2024,1,2
+PR,Vieques Municipio,UIC_2024,3,1
+PR,Villalba Municipio,UIC_2024,4,2
+PR,Yabucoa Municipio,UIC_2024,1,2
+PR,Yauco Municipio,UIC_2024,4,2
+VI,St. Croix Island,UIC_2024,9,0
+VI,St. John Island,UIC_2024,9,0
+VI,St. Thomas Island,UIC_2024,8,0
+CT,Hartford,UIC_2024,1,2
+CT,Litchfield,UIC_2024,2,1
+CT,Middlesex,UIC_2024,1,2
+CT,New London,UIC_2024,4,2
+IL,LaSalle,UIC_2024,2,1
+MO,St Louis,UIC_2024,1,2
+VA,Alexandria City,UIC_2024,1,2
+VA,Hampton City,UIC_2024,1,2
+VA,Norfolk City,UIC_2024,1,2

@@ -1,0 +1,30 @@
+{
+  "title": "Code for: When theory meets prediction: feature design and interpretive limits in a synthetic credit card fraud benchmark",
+  "upload_type": "software",
+  "license": "MIT",
+  "creators": [
+    {
+      "name": "Manning, Matthew"
+    },
+    {
+      "name": "Jin, Shutong"
+    },
+    {
+      "name": "Akartuna, Eray Arda"
+    },
+    {
+      "name": "Yeung, Felix Sin Wai"
+    },
+    {
+      "name": "Wong, Gabriel T. W."
+    }
+  ],
+  "description": "Notebooks, analysis scripts, encoding tables, reference data and result tables behind every table and figure of the paper. Transaction data are not included; they are public on Kaggle (Credit Card Transactions Fraud Detection Dataset).",
+  "keywords": [
+    "credit card fraud",
+    "criminological theory",
+    "feature engineering",
+    "explainable machine learning",
+    "synthetic data"
+  ]
+}

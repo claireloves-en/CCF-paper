@@ -1,0 +1,495 @@
+job,job_1,job_2,job_3,job_4
+Academic librarian,1,2,2,2
+"Accountant, chartered",2,2,3,3
+"Accountant, chartered certified",2,2,3,3
+"Accountant, chartered public finance",2,2,3,3
+Accounting technician,2,2,3,3
+Acupuncturist,3,2,4,1
+Administrator,3,1,2,3
+"Administrator, arts",3,2,3,4
+"Administrator, charities/voluntary organisations",1,2,3,2
+"Administrator, education",2,2,4,3
+"Administrator, local government",3,1,3,1
+Advertising account executive,1,2,3,3
+Advertising account planner,1,2,3,3
+Advertising copywriter,0,1,1,1
+Advice worker,1,1,1,0
+Aeronautical engineer,3,2,3,4
+Agricultural consultant,0,1,1,2
+Aid worker,0,1,1,0
+Air broker,3,1,2,2
+Air cabin crew,3,1,1,4
+Air traffic controller,3,1,2,2
+Airline pilot,3,2,3,2
+Ambulance person,2,2,2,4
+Amenity horticulturist,0,0,0,0
+Analytical chemist,2,2,3,3
+Animal nutritionist,0,1,1,1
+Animal technologist,2,2,4,4
+Animator,2,2,3,4
+Applications developer,3,2,3,4
+Arboriculturist,1,2,3,2
+Archaeologist,1,2,4,3
+Architect,2,2,3,4
+Architectural technologist,2,2,4,4
+Archivist,1,2,4,4
+Armed forces logistics/support/administrative officer,3,2,3,4
+Armed forces technical officer,1,2,2,3
+Armed forces training and education officer,1,2,3,2
+Art gallery manager,1,2,4,1
+Art therapist,1,2,4,1
+Artist,0,2,2,1
+Arts development officer,3,2,3,4
+Associate Professor,0,2,4,3
+Audiological scientist,2,2,4,4
+Barista,0,0,0,0
+Barrister,3,2,4,2
+Barrister's clerk,3,2,4,2
+"Biochemist, clinical",3,2,4,4
+Biomedical engineer,3,2,3,4
+Biomedical scientist,3,2,3,4
+Bookseller,2,2,3,3
+Broadcast engineer,0,1,2,4
+Broadcast journalist,1,1,2,4
+Broadcast presenter,0,1,2,4
+Building control surveyor,1,1,2,4
+Building services engineer,2,2,4,4
+Building surveyor,1,1,2,3
+"Buyer, industrial",3,1,3,2
+"Buyer, retail",0,1,1,1
+Cabin crew,2,1,2,2
+Call centre manager,3,1,3,1
+Camera operator,0,1,2,4
+Careers adviser,0,1,3,3
+Careers information officer,0,2,3,4
+Cartographer,2,2,3,4
+Catering manager,1,1,1,1
+Ceramics designer,0,1,2,1
+Charity fundraiser,1,2,3,2
+Charity officer,1,2,3,2
+Chartered accountant,2,2,3,3
+Chartered legal executive (England and Wales),3,2,4,2
+Chartered loss adjuster,2,2,3,3
+Chartered public finance accountant,2,2,3,1
+Chemical engineer,3,2,3,4
+"Chemist, analytical",2,2,3,3
+Chief Executive Officer,3,2,4,4
+Chief Financial Officer,3,2,3,3
+Chief Marketing Officer,3,2,3,3
+Chief Operating Officer,3,2,4,4
+Chief Strategy Officer,3,1,3,1
+Chief Technology Officer,2,2,3,4
+Chief of Staff,3,2,4,4
+Child psychotherapist,0,1,1,0
+Chiropodist,2,2,4,3
+Civil Service administrator,3,1,2,3
+Civil Service fast streamer,1,1,1,1
+"Civil engineer, contracting",2,2,3,3
+Claims inspector/assessor,1,2,3,3
+Clinical biochemist,3,2,4,4
+Clinical cytogeneticist,3,2,3,2
+Clinical psychologist,2,2,4,2
+Clinical research associate,1,2,3,2
+Clothing/textile technologist,1,1,2,1
+Colour technologist,2,2,3,2
+Commercial horticulturist,1,2,3,4
+Commercial/residential surveyor,1,2,3,4
+Commissioning editor,1,2,3,2
+Communications engineer,0,1,2,4
+Community arts worker,0,2,3,2
+Community development worker,0,2,3,3
+Community education officer,3,2,4,3
+Community pharmacist,3,2,4,2
+Company secretary,0,2,2,3
+Comptroller,0,1,3,1
+"Conservation officer, historic buildings",1,2,3,3
+"Conservator, furniture",0,1,1,0
+"Conservator, museum/gallery",1,2,3,1
+Contracting civil engineer,2,2,3,3
+Contractor,1,1,1,1
+Control and instrumentation engineer,0,2,3,3
+Copy,1,1,1,0
+"Copywriter, advertising",1,2,3,3
+Corporate investment banker,3,2,3,3
+Counselling psychologist,2,2,4,2
+Counsellor,1,1,1,0
+Curator,1,2,4,3
+Cytogeneticist,0,2,3,2
+Dance movement psychotherapist,0,1,2,0
+Dancer,0,1,2,0
+Data scientist,3,2,3,4
+Database administrator,3,2,3,4
+Dealer,0,1,1,0
+"Designer, ceramics/pottery",0,1,2,1
+"Designer, exhibition/display",1,2,4,4
+"Designer, furniture",1,2,3,4
+"Designer, industrial/product",2,2,3,4
+"Designer, interior/spatial",1,2,3,4
+"Designer, jewellery",0,2,2,3
+"Designer, multimedia",3,2,3,4
+"Designer, television/film set",2,1,2,2
+"Designer, textile",1,1,2,1
+"Development worker, community",0,2,3,2
+"Development worker, international aid",0,1,1,0
+Diagnostic radiographer,1,2,4,4
+Dispensing optician,0,1,2,2
+"Doctor, general practice",0,1,1,2
+"Doctor, hospital",0,2,4,2
+Drilling engineer,3,2,3,3
+Early years teacher,1,2,4,2
+Ecologist,2,2,3,2
+Economist,3,2,4,4
+"Editor, commissioning",2,2,3,2
+"Editor, film/video",2,2,3,4
+"Editor, magazine features",1,2,3,2
+Education administrator,2,2,4,3
+"Education officer, community",2,2,4,3
+"Education officer, museum",1,2,3,1
+Educational psychologist,2,2,4,2
+Electrical engineer,3,2,3,4
+Electronics engineer,3,1,1,0
+"Embryologist, clinical",2,1,2,2
+Emergency planning/management officer,2,2,3,4
+Energy engineer,2,1,2,3
+Energy manager,2,1,2,3
+"Engineer, aeronautical",3,2,3,4
+"Engineer, agricultural",3,2,3,4
+"Engineer, automotive",0,2,3,4
+"Engineer, biomedical",3,2,3,4
+"Engineer, broadcasting (operations)",0,1,2,4
+"Engineer, building services",1,1,1,0
+"Engineer, civil (consulting)",2,2,3,3
+"Engineer, civil (contracting)",2,2,3,3
+"Engineer, communications",3,2,3,4
+"Engineer, control and instrumentation",0,2,3,3
+"Engineer, drilling",0,1,1,0
+"Engineer, electronics",3,1,1,0
+"Engineer, land",1,2,3,4
+"Engineer, maintenance",0,1,2,1
+"Engineer, manufacturing",3,2,3,4
+"Engineer, materials",3,2,3,4
+"Engineer, mining",0,2,3,3
+"Engineer, petroleum",3,2,3,3
+"Engineer, production",3,2,3,4
+"Engineer, site",3,2,3,4
+"Engineer, structural",3,2,3,4
+"Engineer, technical sales",3,2,3,3
+Engineering geologist,1,2,3,4
+English as a foreign language teacher,2,2,4,3
+English as a second language teacher,1,2,3,1
+Environmental consultant,2,2,3,4
+Environmental education officer,2,2,3,3
+Environmental health practitioner,2,2,3,4
+Environmental manager,2,2,3,4
+Equality and diversity officer,0,2,3,2
+Equities trader,2,1,2,4
+Estate manager/land agent,1,2,3,3
+Event organiser,1,2,3,2
+Exercise physiologist,0,2,3,1
+Exhibition designer,1,2,4,4
+"Exhibitions officer, museum/gallery",1,2,3,1
+Facilities manager,3,1,2,3
+Farm manager,2,0,3,2
+Field seismologist,2,2,3,4
+Field trials officer,2,2,4,4
+Film/video editor,2,2,3,4
+Financial adviser,2,2,3,3
+Financial trader,2,2,3,3
+Fine artist,3,2,3,4
+Firefighter,1,1,2,2
+Fisheries officer,1,2,3,2
+Fitness centre manager,2,2,3,2
+Forensic psychologist,1,1,2,3
+Forest/woodland manager,1,2,3,2
+Freight forwarder,0,2,1,3
+Furniture conservator/restorer,0,1,1,0
+Furniture designer,0,1,1,0
+Further education lecturer,0,2,4,3
+Futures trader,2,2,3,3
+Gaffer,0,1,1,0
+Garment/textile technologist,0,0,0,0
+General practice doctor,0,1,1,2
+"Geneticist, molecular",2,2,4,3
+Geochemist,2,2,3,4
+"Geologist, engineering",3,2,3,4
+"Geologist, wellsite",3,2,3,3
+Geophysicist/field seismologist,2,2,3,4
+Geoscientist,2,2,3,4
+Glass blower/designer,0,0,1,1
+Health and safety adviser,1,1,3,3
+Health physicist,0,1,3,3
+Health promotion specialist,1,1,3,3
+Health service manager,3,2,3,4
+Health visitor,1,1,3,3
+Herbalist,3,2,4,2
+Heritage manager,1,2,4,2
+Herpetologist,2,2,4,4
+Higher education careers adviser,1,2,4,2
+Historic buildings inspector/conservation officer,1,2,2,4
+Homeopath,0,1,1,0
+Horticultural consultant,0,1,1,2
+Horticultural therapist,0,0,0,0
+"Horticulturist, commercial",2,2,3,4
+Hospital doctor,0,2,4,2
+Hospital pharmacist,0,1,1,1
+Hotel manager,0,1,1,1
+Human resources officer,3,2,3,1
+Hydrogeologist,2,2,4,4
+Hydrographic surveyor,2,2,4,4
+Hydrologist,2,2,4,4
+IT consultant,1,2,3,3
+IT trainer,1,2,4,3
+Illustrator,1,2,3,4
+Immigration officer,0,1,2,2
+Immunologist,2,2,4,3
+Industrial buyer,3,1,3,2
+Industrial/product designer,2,2,3,4
+Information officer,3,2,3,1
+Information systems manager,3,2,3,4
+Insurance broker,1,2,3,1
+Insurance claims handler,2,2,3,1
+Insurance risk surveyor,2,2,3,1
+Insurance underwriter,2,2,3,1
+Intelligence analyst,3,2,3,4
+Interior and spatial designer,1,2,3,4
+Interpreter,1,2,3,1
+Investment analyst,2,2,3,2
+"Investment banker, corporate",3,2,3,3
+"Investment banker, operational",2,2,3,3
+Jewellery designer,0,1,2,1
+"Journalist, newspaper",1,2,3,2
+Land,1,1,1,0
+Land/geomatics surveyor,2,2,3,4
+Landscape architect,2,2,3,4
+Lawyer,3,2,4,2
+Learning disability nurse,0,2,4,3
+Learning mentor,1,2,2,3
+"Lecturer, further education",0,2,4,3
+"Lecturer, higher education",3,2,4,3
+Legal secretary,0,1,2,3
+Leisure centre manager,3,1,2,3
+Lexicographer,1,2,3,2
+"Librarian, academic",0,2,2,2
+"Librarian, public",1,2,4,4
+Licensed conveyancer,2,2,3,3
+Local government officer,0,1,1,2
+Location manager,3,2,3,2
+Logistics and distribution manager,3,2,3,3
+"Loss adjuster, chartered",2,2,3,3
+Magazine features editor,1,2,3,2
+Magazine journalist,1,2,3,2
+Maintenance engineer,0,1,2,1
+Make,1,1,1,0
+Management consultant,3,2,3,3
+Manufacturing engineer,2,2,3,4
+Manufacturing systems engineer,3,2,3,4
+Market researcher,2,2,3,4
+Marketing executive,3,2,3,3
+Materials engineer,3,2,3,4
+Mechanical engineer,2,2,3,4
+Media buyer,1,2,3,4
+Media planner,1,2,3,4
+Medical physicist,3,2,3,1
+Medical sales representative,3,2,3,4
+Medical secretary,0,1,2,3
+Medical technical officer,0,1,2,3
+Mental health nurse,0,2,4,2
+"Merchandiser, retail",0,1,1,1
+Metallurgist,0,1,1,0
+Minerals surveyor,0,2,3,4
+Mining engineer,3,2,3,3
+Mudlogger,0,0,0,0
+Multimedia programmer,2,2,3,4
+Museum education officer,1,2,3,1
+Museum/gallery conservator,0,2,3,1
+Museum/gallery exhibitions officer,1,2,3,1
+Music therapist,1,2,3,2
+Music tutor,1,2,3,2
+Musician,2,2,3,0
+Nature conservation officer,1,2,3,3
+Naval architect,3,1,3,3
+Network engineer,2,2,3,4
+Neurosurgeon,2,2,4,4
+"Nurse, children's",3,2,4,2
+"Nurse, mental health",3,2,3,2
+Nutritional therapist,1,2,4,3
+Occupational hygienist,0,1,2,3
+Occupational psychologist,2,2,4,1
+Occupational therapist,2,2,4,1
+Oceanographer,2,1,2,2
+Oncologist,3,2,4,2
+Operational researcher,2,2,4,4
+Operations geologist,1,2,3,3
+"Optician, dispensing",0,1,2,2
+Optometrist,3,2,4,3
+Orthoptist,3,2,4,1
+Osteopath,2,2,4,3
+Outdoor activities/education manager,0,0,0,0
+Paediatric nurse,3,2,4,3
+Paramedic,0,2,2,2
+Patent attorney,3,2,4,2
+Pathologist,2,2,4,4
+Pension scheme manager,3,2,3,2
+Pensions consultant,3,2,3,2
+Personnel officer,3,2,3,1
+Petroleum engineer,3,2,3,3
+"Pharmacist, community",3,2,4,2
+"Pharmacist, hospital",3,2,4,2
+Pharmacologist,3,2,4,2
+"Physicist, medical",3,2,4,4
+Physiological scientist,0,1,2,4
+Physiotherapist,3,2,4,2
+Phytotherapist,0,1,2,2
+"Pilot, airline",3,1,2,2
+Planning and development surveyor,1,2,3,4
+Plant breeder/geneticist,1,2,4,4
+Podiatrist,3,2,4,3
+Police officer,1,1,2,1
+Politician's assistant,0,1,2,2
+"Presenter, broadcasting",0,1,2,4
+Press photographer,0,1,2,4
+Press sub,1,2,3,2
+Primary school teacher,1,2,3,4
+Prison officer,0,1,1,3
+Private music teacher,2,2,3,2
+Probation officer,1,2,3,1
+"Producer, radio",1,2,3,4
+"Producer, television/film/video",2,2,3,3
+Product designer,0,2,2,1
+Product manager,3,2,3,3
+Product/process development scientist,3,1,3,4
+"Production assistant, radio",1,2,3,4
+"Production assistant, television",2,1,2,2
+Production engineer,0,2,3,4
+Production manager,1,2,3,3
+Professor Emeritus,0,2,4,3
+"Programme researcher, broadcasting/film/video",0,2,3,4
+"Programmer, applications",2,2,3,4
+"Programmer, multimedia",2,2,3,4
+Psychiatric nurse,0,2,4,3
+Psychiatrist,3,2,4,2
+"Psychologist, clinical",2,2,4,2
+"Psychologist, counselling",2,2,4,2
+"Psychologist, forensic",1,1,2,3
+"Psychologist, sport and exercise",0,2,4,2
+Psychotherapist,0,1,1,1
+"Psychotherapist, child",0,1,1,1
+Public affairs consultant,1,2,3,2
+Public house manager,1,2,3,4
+Public librarian,1,2,4,4
+Public relations account executive,1,2,3,2
+Public relations officer,1,2,3,2
+Purchasing manager,3,2,3,3
+Quantity surveyor,1,2,3,4
+Quarry manager,1,2,3,3
+Race relations officer,0,2,3,3
+Radio broadcast assistant,1,2,3,4
+Radio producer,1,2,3,4
+"Radiographer, diagnostic",1,2,4,4
+"Radiographer, therapeutic",1,2,4,4
+Records manager,3,2,3,3
+Regulatory affairs officer,2,2,3,2
+"Research officer, political party",3,2,4,3
+"Research officer, trade union",1,1,2,3
+Research scientist (life sciences),2,2,4,4
+Research scientist (maths),3,2,4,3
+Research scientist (medical),3,2,3,1
+Research scientist (physical sciences),2,2,3,4
+"Restaurant manager, fast food",0,0,0,0
+Retail banker,0,1,1,1
+Retail buyer,0,1,1,1
+Retail manager,0,1,1,1
+Retail merchandiser,0,1,1,1
+Risk analyst,3,2,3,2
+Rural practice surveyor,3,2,3,4
+Sales executive,3,2,3,3
+"Sales professional, IT",3,2,3,3
+Sales promotion account executive,3,2,3,3
+Science writer,3,2,4,4
+Scientific laboratory technician,1,2,3,4
+"Scientist, audiological",2,2,4,4
+"Scientist, biomedical",3,2,3,4
+"Scientist, clinical (histocompatibility and immunogenetics)",1,2,4,4
+"Scientist, marine",2,1,3,3
+"Scientist, physiological",0,1,2,4
+"Scientist, research (maths)",2,2,4,3
+"Scientist, research (medical)",3,2,3,1
+"Scientist, research (physical sciences)",2,2,3,4
+Secondary school teacher,1,2,3,4
+Secretary/administrator,0,1,2,3
+Seismic interpreter,1,1,1,0
+Senior tax professional/tax inspector,1,2,2,1
+Set designer,1,2,4,4
+Ship broker,1,1,2,4
+Site engineer,3,2,3,4
+"Social research officer, government",0,2,3,3
+Social researcher,0,2,3,3
+Soil scientist,1,2,4,4
+Solicitor,3,2,4,2
+"Solicitor, Scotland",3,2,3,4
+Special educational needs teacher,1,2,2,4
+Special effects artist,2,2,3,4
+Sport and exercise psychologist,0,2,3,1
+Sports administrator,1,2,4,2
+Sports development officer,1,2,3,2
+Stage manager,0,1,2,1
+Statistician,3,2,4,4
+Structural engineer,3,2,3,4
+Sub,1,1,1,0
+Surgeon,0,1,2,1
+"Surveyor, hydrographic",2,2,4,4
+"Surveyor, land/geomatics",2,2,3,4
+"Surveyor, minerals",0,0,0,0
+"Surveyor, mining",0,0,0,0
+"Surveyor, rural practice",3,2,3,4
+Systems analyst,3,1,2,4
+Systems developer,0,2,3,4
+TEFL teacher,0,2,2,3
+Tax adviser,0,1,2,3
+Tax inspector,0,1,2,3
+"Teacher, English as a foreign language",2,2,4,3
+"Teacher, adult education",2,2,4,2
+"Teacher, early years/pre",3,2,4,2
+"Teacher, primary school",1,2,3,4
+"Teacher, secondary school",1,2,3,4
+"Teacher, special educational needs",1,2,2,4
+Teaching laboratory technician,1,2,4,3
+Technical brewer,2,1,2,1
+Telecommunications researcher,0,1,2,4
+Television camera operator,1,1,2,2
+Television floor manager,0,1,1,0
+Television production assistant,2,1,2,4
+Television/film/video producer,2,1,2,2
+Textile designer,1,1,2,1
+Theatre director,0,1,2,1
+Theatre manager,0,1,2,1
+Theme park manager,0,2,3,2
+"Therapist, art",2,2,4,1
+"Therapist, drama",2,2,4,2
+"Therapist, horticultural",2,2,4,1
+"Therapist, music",1,2,3,2
+"Therapist, occupational",2,2,4,1
+"Therapist, sports",0,2,3,1
+Tour manager,0,1,2,0
+Tourism officer,0,1,2,3
+Tourist information centre manager,0,1,2,3
+Town planner,2,2,4,3
+Toxicologist,2,2,4,4
+Trade mark attorney,2,2,4,2
+Trading standards officer,1,2,3,2
+Training and development officer,1,2,3,2
+Transport planner,2,2,3,4
+Travel agency manager,0,1,2,3
+Tree surgeon,0,1,2,2
+Veterinary surgeon,0,1,2,2
+Video editor,2,2,3,4
+Visual merchandiser,0,1,1,1
+Volunteer coordinator,1,2,3,2
+Warden/ranger,0,1,1,1
+Warehouse manager,0,2,3,3
+Waste management officer,0,1,1,2
+Water engineer,1,2,3,3
+Water quality scientist,2,2,3,4
+Web designer,2,2,2,4
+Wellsite geologist,3,2,3,3
+Writer,2,2,3,3
